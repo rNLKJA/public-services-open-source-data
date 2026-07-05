@@ -1,0 +1,155 @@
+SOURCE: https://data.sa.gov.au/data/dataset/f8647df4-617b-439c-8de2-6aadfc84826a/resource/81efbc84-34a3-486a-bfe3-632803571a37/download/expiationnoticeopendatadictionary.txt
+PUBLISHER: South Australia Police (SAPOL), via data.sa.gov.au
+LICENCE: Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0)
+RETRIEVED: 6 July 2026
+MIRRORED VERBATIM BELOW.
+
+---
+
+Expiation Notice Branch Offence Data
+
+The Expiation Notice Branch Offence Data Reports provide details of offences raised by the South Australia Police for expiation.  The reports list all offences raised as well as information on detections that were not accepted (rejected) as an offence.
+
+Each line in the report represents an offence and not an expiation notice.  An expiation notice may be reissued (possibly multiple times) and may contain multiple offences.
+
+The Camera Offence Report contains an Event ID and Notice Revision field which allows the ability for the offences to be linked to a related event or expiation notice.  These fields are not available in the Manual Notice Offence Report.
+
+Please note: The report format was updated from the 2022/2023 financial year onwards. For earlier reports, refer to the Legacy Report Data Dictionary.
+
+Camera Offence Report
+This report represents offences issued from fixed and mobile cameras.
+Camera Offence Report Fields
+	* Event ID: A unique identifier for an incident
+	* Notice Revision: The revision number of the notice.  A notice may get a revision due to various administrative processes such as a driver nomination or a withdrawal and reissue
+	* Notice Type Desc:
+		o EXPIATION NOTICE: A payable expiation notice
+		o CAUTION: Notice issued as a formal caution with no payment required
+	* Notice Status: The current status of the notice, determined by the combined status of the offences. For the status of individual offences see Offence Status
+		o CAUTION: The notice is a formal caution with no payment required
+		o ENFORCED: The notice was forwarded to the Fines Enforcement and Recovery Unit, due to no action being taken within the required timeframe
+		o EXPIATED: The notice was paid in full
+		o FINALISED: The notice has been finalised
+		o ISSUED: The notice has yet to be finalised
+		o MULTIPLE OFFENCE STATUSES: The multiple offences on the notice have different offence statuses.
+		o PAYMENT ARRANGEMENT: An alternative payment arrangement was entered into with the Fines Enforcement and Recovery Unit
+		o SUSPENDED: The notice is temporarily on hold while a review or other administrative process is underway
+		o WITHDRAWN: The offences on the notice have been withdrawn and payment is no longer required. (See Withdrawn Reason for reason)
+		o WITHDRAWN REISSUED - The notice was withdrawn and a replacement notice has been issued
+	* Offence Status: The status of the offence committed from the incident (may be different from the overall notice status)
+	* Withdrawn Reason: The reason a notice was withdrawn
+	* Incident Start Date: The date of the incident
+	* Time 24 Hour – Incident Start: The time of the incident
+	* Expiation Offence Code: The code used to classify the offence committed
+	* Expiation Offence Description: A description of the offence associated to the offence code
+	* Issue Date: The issue date of the notice
+	* Camera Category: Categorical breakdown of the type of safety camera the offence was detected by
+	* Location Code: The location code of the camera
+	* Location Description: The road where the camera offence is located
+	* Location Suburb: The suburb where the camera offence is located
+	* District/Service Area: The Police District or Local Service Area responsible for policing the location of the incident
+	* Vehicle Description: Year, Colour, Make, Model of vehicle involved in the offence.
+	* Licence State: The state of issue of the notice holder's licence
+	* Registration State: The state of registration for the detected vehicle
+	* Vehicle Speed: The speed in km/hr of the vehicle
+	* Expiation Zone Speed Limit: The speed limit at the incident location
+	* Offence Penalty Amount: The legislated penalty amount of the offence at the time of the incident
+	* Victim Of Crime Levy Amount: The Victim of Crime levy amount at the time of the incident
+	* Corporate Fee Amount: The Corporate Fee amount at the time of the incident if committed by a Corporately registered vehicle
+	* Offence Total: The total of the offence penalty, Victim of Crime levy and, Corporate Fee amounts for the offence
+
+Manual Notice Offence Report
+This report lists the offences that were issued directly by a South Australia Police officer.
+Manual Notice Offence Report Fields
+	* Notice Type Desc:
+		o EXPIATION NOTICE: A payable expiation notice
+		o CAUTION: Notice issued as a formal caution with no payment required
+	* Notice Status:  The current status of the notice, determined by the combined status of the offences. For the status of individual offences see Offence Status
+		o CAUTION: The notice is a formal caution with no payment required.
+		o ENFORCED: The notice was forwarded to the Fines Enforcement and Recovery Unit, usually due to no action being taken within the required timeframe
+		o EXPIATED: The notice was paid in full
+		o FINALISED: The notice has been finalised
+		o ISSUED: The notice has yet to be finalised
+		o MULTIPLE OFFENCE STATUSES: The multiple offences on the notice have different offence statuses
+		o PAYMENT ARRANGEMENT: An alternative payment arrangement was entered into with the Fines Enforcement and Recovery Unit
+		o SUSPENDED: The notice is temporarily on hold while a review or other administrative process is underway
+		o WITHDRAWN: The offences on the notice have been withdrawn and payment is no longer required. (See Withdrawn Reason for reason)
+		o WITHDRAWN REISSUED - The notice was withdrawn and a replacement notice has been issued
+	* Offence Status: The status of the offence from the incident (may be different from the overall notice status)
+	* Withdrawn Reason: The reason a notice was withdrawn
+	* Incident Start Date: The date of the incident
+	* Time 24 Hour – Incident Start: The time of the incident
+	* Expiation Offence Code: The code used to identify the offence committed
+	* Expiation Offence Description: The description of the offence associated to the offence code
+	* Issue Date: The issue date of the notice
+	* District/Service Area: The Police Local Service Area of the incident responsible for policing the location of the incident
+	* Vehicle Description: Year, Colour, Make, Model of vehicle involved in the offence.
+	* Licence State: The state of issue of the notice holder's licence
+	* Registration State: The state of registration for the detected vehicle
+	* Vehicle Speed: The speed in km/hr of the vehicle
+	* Expiation Zone Speed Limit: The speed limit at the incident location
+	* Blood Alcohol Content: The Blood Alcohol Content of the subject. Will be '0' if no test was conducted.
+	* Offence Penalty Amount: The legislated penalty amount of the offence at the time of the incident
+	* Victim Of Crime Levy Amount: The Victim of Crime levy amount at the time of the incident
+	* Corporate Fee Amount: The Corporate Fee amount at the time of the incident if committed by a Corporate registered vehicle
+	* Offence Total: The total of the offence penalty, Victim of Crime levy and, Corporate Fee amounts for the offence
+
+Camera Not Accepted Report
+This report lists camera incidents that did not result in an offence being issued.
+
+Camera Not Accept Report Fields
+	* Incident Date and Time: The date and time of the incident
+	* Not Accept Code: The code representing why an offence was not issued
+	* Not Accept Description: The reason an offence was not issued
+	* Created Date: The date of the incident
+	* Location Code: The location code of the camera
+	* Location Description: The camera location
+	* Expiation Vehicle Description – Expiation Vehicle: Description of the detected vehicle
+	* Vehicle Speed: The speed in km/hr of the vehicle
+	* Expiation Zone Speed Limit: The speed limit at the incident location
+	* Camera Category: Categorical breakdown of the type of safety camera the offence was caught on
+
+Legacy Report (Data before 2022/2023)
+This dataset contains camera, manual and rejected (not accepted).
+NOTE: Due to the nature of the legacy Expiation Notice System some statuses refer to "COURTS" (Courts Administration Authority) however these processes are now managed by the Fines Enforcement And Recovery Unit (FERU)
+	* Notice Status Desc:  The current status of the notice, determined by the combined status of the offences.  For the status of individual offences see Offence Status
+		o COURTS ENFORCEMENTS: The notice was forwarded to the Fines Enforcement and Recovery Unit, usually due to no action being taken within the required timeframe
+		o COURTS RELIEF STATUS: An alternative payment arrangement was entered into with the Fines Enforcement and Recovery Unit
+		o EXPIATED: The notice was paid in full
+		o ISSUED OR CAUTIONED: Notice has yet to finalised (unless it was issued as a caution)
+		o MULTIPLE OFFENCES – PROCESSED: The multiple offences on the notice have different finalised offence statuses
+		o WITHDRAWN: The offences on the notice have been withdrawn and payment is no longer required (See Withdrawn Reason Desc for reason)
+		o SUSPENDED FOR ENQUIRY: The notice is temporarily on hold while a review or other administrative process is underway
+		o INVALID: At time of the report these notices are under assessment.
+		o MULTIPLE OFFENCE – OPEN: The multiple offences on the notice have different offence statuses where one or more offences on the notice are still outstanding.
+	* Driver Licence State Desc – Expiation Subject:  The state of issue of the notice holder's licence
+	* Reg State Desc – Expiation Vehicle: The state of registration for the detected vehicle
+	* Expiation Vehicle Description – Expiation Vehicle: Description of the detected vehicle
+	* Local Service Area Desc: The Police Local Service Area responsible for policing the location of the incident
+	* Incident Start Date: The date of the incident
+	* Time 24 Hour – Incident Start: The time of the incident rounded to the nearest half hour
+	* Issue Date: The issue date of the notice
+	* Expiation Offence Code: The code used to classify the offence committed
+	* Expiation Offence Long Description: The description of the offence associated to the offence code
+	* Offence Penalty Amount: The legislated penalty amount of the offence at the time of the incident
+	* Offence Levy Amount: The Victim of Crime levy amount at the time of the incident
+	* Corporate Fee Amount: The Corporate Fee amount at the time of the incident if committed by a Corporate registered vehicle
+	* Offence Status: The status of the offence
+		o F – COURTS ENFORCEMENT
+		o H – COURTS RELIEF
+		o E – EXPIATED
+		o I – ISSUED OR CAUTIONED
+		o L, D, W, A, S, K, U, J, V, N, G, T,  – WITHDRAWN (See Withdrawn Reason Desc for reason)
+	* Penalty Written On Notice Amount: The total of all offences, levies and fees on the notice
+	* Vehicle Speed: The speed in km/hr of the vehicle
+	* Expiation Zone Speed Limit: The speed limit at the incident location
+	* Blood Alcohol Content – Exp: The Blood Alcohol Content of the subject.  Will be 0 if no test was conducted
+	* Photo Rejection Reason Code: The code representing why a detection image was rejected (no notice issued)
+	* Photo Rejection Reason Desc: The reason why a detection image was rejected (no notice issued)
+	* Withdrawn Reason Desc: The reason a notice was withdrawn
+	* Notice Type Desc:
+		o EXPIATION NOTICE: A payable expiation notice
+		o CAUTION: Notice issued as a formal caution with no payment required
+	* Enforcement Warning Notice Amount: The fee if an enforcement warning notice was issued
+	* Fixed Camera Locn Code: The location code of the fixed camera
+	* Location Code - Mobile Speed Camera: The location code of the Mobile Speed Camera
+	* Offence Status Description: The status of the offence (may be different from the overall notice status)

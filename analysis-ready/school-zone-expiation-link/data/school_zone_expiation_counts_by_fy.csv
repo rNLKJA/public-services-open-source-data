@@ -1,0 +1,4 @@
+financial_year,report,filter_field,filter_value,offence_count,is_partial_year,data_current_to,source_resource_id,source_url,retrieved_date
+2023-24,Manual Notice Offence Report,Expiation Zone Speed Limit,25,747,FALSE,2024-06-30,e15bd191-311e-4298-b1b0-e29b545d4de0,https://data.sa.gov.au/data/dataset/expiation-notice-system-data,2026-07-06
+2024-25,Manual Notice Offence Report,Expiation Zone Speed Limit,25,828,FALSE,2025-06-30,3c1a3cbf-ed40-45f4-8be0-be6376e1fd3a,https://data.sa.gov.au/data/dataset/expiation-notice-system-data,2026-07-06
+2025-26,Manual Notice Offence Report,Expiation Zone Speed Limit,25,787,TRUE,2026-05-20,81c3fbcd-908c-49e9-8e77-ec26595d045d,https://data.sa.gov.au/data/dataset/expiation-notice-system-data,2026-07-06
