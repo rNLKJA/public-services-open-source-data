@@ -14,6 +14,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/sa-private-rental-report/`** — SA Housing Trust quarterly private market rent: median weekly rent and bond counts by suburb, postcode, region and LGA.
 - **`datasets/sa-courts-at-a-glance/`** — SA Courts Administration Authority statewide court-level workload and staffing statistics: lodgements, finalisations, clearance rates across all SA courts.
 - **`datasets/sa-education-workforce/`** — SA Department for Education workforce composition: headcount, FTE, classification, age/gender and Aboriginal/Torres Strait Islander employee breakdowns, 2014-2025.
+- **`datasets/sa-mfs-fire-service-incidents/`** — SA Metropolitan Fire Service incident log: date, responding brigade and incident type/classification for every MFS-attended incident, 2018-2023.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 

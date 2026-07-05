@@ -12,6 +12,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 ## Explicitly excluded (not CC BY, not redistributed here)
 
 - **ACARA "My School" school location/profile data** — non-commercial, no-redistribution terms under the [My School Terms of Use](https://myschool.edu.au/terms-of-use). See `datasets/sa-school-locations/README.md`.
+- **SA Country Fire Service (CFS) / SAFECOM incident data** (Brigade Incidents, Fire Cause by Incident Group, Regional Incident Summary, Current Incidents feed) — licensed Creative Commons Attribution-NonCommercial-NoDerivs 4.0 (CC BY-NC-ND), which this repository's redistribution doesn't meet (non-commercial-only, no derivatives). See `datasets/sa-mfs-fire-service-incidents/README.md`.
 
 ## Repository code and documentation
 
