@@ -11,6 +11,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/sa-expiation-notices/`** — SA Police expiation (infringement) notice offence data, covering both camera and manually issued notices.
 - **`datasets/sa-police-oversight-gap/`** — a documented finding on what SA police oversight/use-of-force reporting is, and isn't, publicly available.
 - **`datasets/sa-health-ed-performance/`** — SA Health public hospital Emergency Department performance: median wait times and 4-hour length-of-stay proportions.
+- **`datasets/sa-private-rental-report/`** — SA Housing Trust quarterly private market rent: median weekly rent and bond counts by suburb, postcode, region and LGA.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 
