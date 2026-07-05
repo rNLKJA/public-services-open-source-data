@@ -1,0 +1,8 @@
+Field,Description
+Employment category,Act or award employee is employed under
+Role,Main role of the employee
+fin_year,Financial Year of the count. Taken within the last two weeks of the financial year
+Headcount,employee count
+Full-time equivalent,"Sum of the full-time equivalent for all employees who were actively employed or on paid leave as at the last pay day in June.
+Full-time equivalent is the number of hours worked per week divided by the standard hours per week."
+Gender,Gender of the employee
