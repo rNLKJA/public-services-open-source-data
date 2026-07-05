@@ -14,7 +14,7 @@ Working memory for the hourly dataset-discovery task. There's no dedicated "code
 
 Pick the domain nearest the top that isn't struck through each run. Strike through (`- [x]`) once checked, whether or not it produced a new dataset. Add more domains here as they come up.
 
-- [ ] Health (SA Health open data: hospital performance, wait times, public health statistics)
+- [x] Health (SA Health open data: hospital performance, wait times, public health statistics)
 - [ ] Housing (SA Housing Authority: public housing stock, waitlists, homelessness services)
 - [ ] Public transport (Adelaide Metro: routes, timetables, patronage, GTFS feed)
 - [ ] Emergency services (SES, CFS, MFS: incident statistics, response times)
@@ -30,4 +30,5 @@ Pick the domain nearest the top that isn't struck through each run. Strike throu
 
 Newest entry first.
 
+- 2026-07-06 (hourly run): checked **Health**. Found two genuinely open, currently-published SA Health datasets on data.sa.gov.au — Emergency Department median waiting times, and 4-hour-or-less length of stay — both CC BY 4.0, confirmed via each page's `DCTERMS.License` metadata (not assumed). Added `datasets/sa-health-ed-performance/` with both CSVs mirrored in `raw/` (data.sa.gov.au was directly reachable from this sandbox this run, unlike the earlier-documented block for `sa-expiation-notices`/`sa-school-locations` — network policy or routing may have changed, or the block may be path/domain-specific; noted in that dataset's README rather than assumed to still apply everywhere). Both source series stop at FY2017-18 (last metadata update 2018-09-04) despite an "annually" tag — documented as a known limitation rather than hidden. Elective Surgery Data and the Specialist Outpatient Waiting Time Report were noted as candidates for a future pass but not pursued this run (budget: kept to 2 datasets).
 - 2026-07-06 (initial build, not an hourly run): established the five items above. See git log for detail. Hourly discovery task created same day, runs on the hour, local time.
