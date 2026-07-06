@@ -29,6 +29,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/au-small-scale-renewable-installations/`** — Clean Energy Regulator's postcode-level rooftop solar, solar water heater, wind, hydro and battery installation counts and rated capacity, monthly since 2001 (batteries since mid-2025), nationally with a dedicated South Australia breakdown.
 - **`datasets/au-work-health-safety-jurisdictional-comparison/`** — Safe Work Australia's cross-jurisdiction WHS and workers' compensation scheme comparison: serious-claim rates, fatalities, inspections, notices, prosecutions, premiums, funding ratios and disputes by state/territory, with South Australia broken out in every table.
 - **`datasets/sa-heritage-places/`** — statewide register of every State Heritage Place, Local Heritage Place and Representative Building in South Australia: address, LGA, protection tier, listing criteria and point location for 24,479 heritage-listed places.
+- **`datasets/sa-mineral-tenements/`** — Department for Energy and Mining's live mineral tenure register: every current Exploration Licence, Mining Lease, Retention Lease, Mineral Claim, Miscellaneous Purposes Licence and Private Mine statewide, plus pending applications and released exploration areas.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 

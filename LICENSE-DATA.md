@@ -20,6 +20,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **Department of Primary Industries and Regions (PIRSA) data** (Primary Industries Scorecard): "Contains data from the Department of Primary Industries and Regions, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **Clean Energy Regulator data** (Small-scale Renewable Energy Scheme postcode data): "Licensed from the Clean Energy Regulator, Commonwealth of Australia under a [CC BY 4.0](http://creativecommons.org/licenses/by/4.0) licence." — per the CER's own copyright page wording. See `datasets/au-small-scale-renewable-installations/README.md`.
 - **Safe Work Australia data** (Jurisdictional Comparison detailed data file): "Contains data from Safe Work Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." See `datasets/au-work-health-safety-jurisdictional-comparison/README.md`.
+- **Department for Energy and Mining data** (Mineral Tenements register): "Contains data from the Department for Energy and Mining, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." See `datasets/sa-mineral-tenements/README.md`.
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
