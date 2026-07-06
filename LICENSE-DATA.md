@@ -21,6 +21,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **Clean Energy Regulator data** (Small-scale Renewable Energy Scheme postcode data): "Licensed from the Clean Energy Regulator, Commonwealth of Australia under a [CC BY 4.0](http://creativecommons.org/licenses/by/4.0) licence." — per the CER's own copyright page wording. See `datasets/au-small-scale-renewable-installations/README.md`.
 - **Safe Work Australia data** (Jurisdictional Comparison detailed data file): "Contains data from Safe Work Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." See `datasets/au-work-health-safety-jurisdictional-comparison/README.md`.
 - **Department for Energy and Mining data** (Mineral Tenements register): "Contains data from the Department for Energy and Mining, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." See `datasets/sa-mineral-tenements/README.md`.
+- **Australian Electoral Commission data** (Federal Election Results, 2025): "Contains data from the Australian Electoral Commission, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." — per the AEC's own site-wide copyright statement; the data.gov.au CKAN record for this dataset separately states CC BY 3.0 AU. See `datasets/au-federal-election-results/README.md` for the discrepancy.
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 

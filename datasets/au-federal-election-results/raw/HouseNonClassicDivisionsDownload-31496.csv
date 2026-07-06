@@ -1,0 +1,37 @@
+2025 Federal Election House Non Classic Divisions [Event:31496 Phase:FinalResults Generated:2025-06-16T10:39:09 Cycle:194a421d-c559-4a18-a78a-90c7cf2acb4e Created:2025-06-16T10:36:42 Environment:PROD Site:CANBERRA Server:Internal Version:10.11.386.0]
+StateAb,DivisionId,DivisionNm,Updated,PartyAb1,PartyNm1,CandidateId1,Surname1,GivenNm1,Elected1,HistoricElected1,PartyAb2,PartyNm2,CandidateId2,Surname2,GivenNm2,Elected2,HistoricElected2
+ACT,101,Canberra,"Tue, 03 Jun 2025 4:32:18 PM AEST",GRN,Australian Greens,41390,MUDFORD,Isabel,N,N,ALP,Australian Labor Party,40677,PAYNE,Alicia,Y,Y
+NSW,108,Bradfield,"Wed, 04 Jun 2025 2:50:40 PM AEST",LP,Liberal,41464,KAPTERIAN,Gisele,N,N,IND,Independent,36047,BOELE,Nicolette,Y,N
+NSW,109,Calare,"Tue, 27 May 2025 2:58:42 PM AEST",IND,Independent,36348,GEE,Andrew,Y,Y,NP,The Nationals,42037,FARRAWAY,Sam,N,N
+NSW,113,Cowper,"Sat, 31 May 2025 8:51:26 AM AEST",NP,The Nationals,41937,CONAGHAN,Pat,Y,Y,IND,Independent,36245,HEISE,Caz,N,N
+NSW,118,Farrer,"Mon, 26 May 2025 6:21:55 PM AEST",LP,Liberal,41463,LEY,Sussan,Y,Y,IND,Independent,40627,MILTHORPE,Michelle,N,N
+NSW,119,Fowler,"Tue, 27 May 2025 9:59:16 AM AEST",IND,Independent,36240,LE,Dai,Y,Y,ALP,Labor,41357,LE,Tu,N,N
+NSW,121,Grayndler,"Fri, 23 May 2025 5:09:58 PM AEST",GRN,The Greens,41565,THOMAS,Hannah,N,N,ALP,Labor,41373,ALBANESE,Anthony,Y,Y
+NSW,126,Hunter,"Sat, 24 May 2025 4:08:06 PM AEST",ON,Pauline Hanson's One Nation,41965,BONDS,Stuart,N,N,ALP,Labor,41407,REPACHOLI,Dan,Y,Y
+NSW,132,Mackellar,"Tue, 27 May 2025 1:43:51 PM AEST",LP,Liberal,41830,BROWN,James,N,N,IND,Independent,37450,SCAMPS,Sophie,Y,Y
+NSW,136,Newcastle,"Wed, 28 May 2025 2:02:54 PM AEST",GRN,The Greens,41620,McCABE,Charlotte,N,N,ALP,Labor,41422,CLAYDON,Sharon,Y,Y
+NSW,149,Sydney,"Mon, 26 May 2025 8:52:03 AM AEST",ALP,Labor,41342,PLIBERSEK,Tanya,Y,Y,GRN,The Greens,41638,VELEZ,Luc,N,N
+NSW,151,Warringah,"Tue, 27 May 2025 4:36:18 PM AEST",IND,Independent,32467,STEGGALL,Zali,Y,Y,LP,Liberal,41500,ROGERS,Jaimee,N,N
+NSW,152,Wentworth,"Fri, 23 May 2025 4:46:24 PM AEST",LP,Liberal,41497,KNOX,Ro,N,N,IND,Independent,37451,SPENDER,Allegra,Y,Y
+QLD,163,Griffith,"Mon, 26 May 2025 5:37:23 PM AEST",GRN,The Greens,41238,CHANDLER-MATHER,Max,N,Y,ALP,Australian Labor Party,40739,COFFEY,Renee,Y,N
+QLD,164,Groom,"Thu, 29 May 2025 9:13:33 AM AEST",IND,Independent,36178,HOLT,Suzie,N,N,LNP,LNP,41173,HAMILTON,Garth,Y,Y
+QLD,167,Kennedy,"Wed, 28 May 2025 12:12:45 PM AEST",LNP,LNP,41184,SWAINE,Annette,N,N,KAP,Katter's Australian Party (KAP),40650,KATTER,Bob,Y,Y
+QLD,170,Maranoa,"Mon, 26 May 2025 2:40:47 PM AEST",LNP,LNP,41162,LITTLEPROUD,David,Y,Y,ON,Pauline Hanson's One Nation,41037,DUNCAN,Sharon,N,N
+QLD,177,Ryan,"Thu, 29 May 2025 10:41:55 AM AEST",GRN,The Greens,41285,WATSON-BROWN,Elizabeth,Y,Y,LNP,LNP,41192,FORREST,Maggie,N,N
+SA,188,Mayo,"Fri, 06 Jun 2025 12:18:18 PM AEST",XEN,Centre Alliance,40653,SHARKIE,Rebekha,Y,Y,ALP,Australian Labor Party,41186,BELL,Marisa,N,N
+TAS,195,Franklin,"Thu, 22 May 2025 3:38:47 PM AEST",IND,Independent,40655,GEORGE,Peter,N,N,ALP,Australian Labor Party,41533,COLLINS,Julie,Y,Y
+VIC,203,Calwell,"Tue, 27 May 2025 2:49:33 PM AEST",IND,Independent,40630,MOORE,Carly,N,N,ALP,Australian Labor Party,40860,ABDO,Basem,Y,N
+VIC,211,Flinders,"Fri, 23 May 2025 5:49:07 PM AEST",IND,Independent,40838,SMITH,Ben,N,N,LP,Liberal,40748,McKENZIE,Zoe,Y,Y
+VIC,214,Goldstein,"Sat, 31 May 2025 12:55:02 PM AEST",IND,Independent,36074,DANIEL,Zoe,N,Y,LP,Liberal,40747,WILSON,Tim,Y,N
+VIC,218,Indi,"Wed, 04 Jun 2025 1:54:45 PM AEST",IND,Independent,32086,HAINES,Helen,Y,Y,LP,Liberal,40750,TRENERY,James,N,N
+VIC,221,Kooyong,"Thu, 29 May 2025 12:57:58 PM AEST",LP,Liberal,40763,HAMER,Amelia,N,N,IND,Independent,36081,RYAN,Monique,Y,Y
+VIC,228,Melbourne,"Wed, 28 May 2025 12:14:02 PM AEST",ALP,Australian Labor Party,40817,WITTY,Sarah,Y,N,GVIC,The Greens,41119,BANDT,Adam,N,Y
+VIC,233,Wannon,"Tue, 27 May 2025 11:28:40 AM AEST",IND,Independent,33601,DYSON,Alex,N,N,LP,Liberal,40770,TEHAN,Dan,Y,Y
+VIC,234,Wills,"Wed, 28 May 2025 10:46:16 AM AEST",ALP,Australian Labor Party,40810,KHALIL,Peter,Y,Y,GVIC,The Greens,41108,RATNAM,Samantha,N,N
+WA,238,Curtin,"Wed, 28 May 2025 2:39:47 PM AEST",LP,Liberal,41244,WHITE,Tom,N,N,IND,Independent,36589,CHANEY,Kate,Y,Y
+WA,240,Fremantle,"Wed, 04 Jun 2025 9:48:24 AM AEST",IND,Independent,42074,HULETT,Kate,N,N,ALP,Australian Labor Party,41377,WILSON,Josh,Y,Y
+NSW,251,Watson,"Thu, 29 May 2025 2:28:33 PM AEST",ALP,Labor,41331,BURKE,Tony,Y,Y,IND,Independent,40898,BASYOUNY,Ziad,N,N
+ACT,318,Bean,"Thu, 22 May 2025 10:08:35 AM AEST",IND,Independent,41682,PRICE,Jessie,N,N,ALP,Australian Labor Party,40676,SMITH,David,Y,Y
+TAS,319,Clark,"Wed, 28 May 2025 10:43:57 AM AEST",IND,Independent,33553,WILKIE,Andrew,Y,Y,ALP,Australian Labor Party,41524,HECK,Heidi,N,N
+VIC,320,Cooper,"Tue, 10 Jun 2025 10:49:32 AM AEST",ALP,Australian Labor Party,40856,KEARNEY,Ged,Y,Y,GVIC,The Greens,41089,BURNETT,Tara,N,N
+VIC,321,Fraser,"Tue, 27 May 2025 4:43:27 PM AEST",GVIC,The Greens,41133,TRUONG,Huong,N,N,ALP,Australian Labor Party,40859,MULINO,Daniel,Y,Y

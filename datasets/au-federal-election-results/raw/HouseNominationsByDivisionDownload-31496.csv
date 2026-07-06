@@ -1,0 +1,152 @@
+2025 Federal Election House Nominations by Division [Event:31496 Phase:FinalResults Generated:2025-06-16T10:39:09 Cycle:194a421d-c559-4a18-a78a-90c7cf2acb4e Created:2025-06-16T10:36:42 Environment:PROD Site:CANBERRA Server:Internal Version:10.11.386.0]
+TransactionId,DivisionId,StateAb,DivisionNm,DivisionAb,Enrolment,Demographic,Nominations
+31496,179,SA,Adelaide,ADEL,131436,Inner Metropolitan,7
+31496,197,VIC,Aston,ASTO,122459,Outer Metropolitan,9
+31496,198,VIC,Ballarat,BALL,116238,Provincial,7
+31496,103,NSW,Banks,BANK,119323,Inner Metropolitan,8
+31496,180,SA,Barker,BARK,127045,Rural,10
+31496,104,NSW,Barton,BART,120761,Inner Metropolitan,6
+31496,192,TAS,Bass,BASS,80378,Provincial,7
+31496,318,ACT,Bean,BEAN,113876,Inner Metropolitan,4
+31496,200,VIC,Bendigo,BEND,120088,Provincial,10
+31496,105,NSW,Bennelong,BENN,125953,Inner Metropolitan,8
+31496,106,NSW,Berowra,BERO,130869,Outer Metropolitan,8
+31496,304,QLD,Blair,BLAI,142006,Provincial,10
+31496,107,NSW,Blaxland,BLAX,116715,Inner Metropolitan,7
+31496,310,QLD,Bonner,BONN,113498,Outer Metropolitan,8
+31496,182,SA,Boothby,BOOT,129524,Outer Metropolitan,6
+31496,155,QLD,Bowman,BOWM,122940,Outer Metropolitan,7
+31496,193,TAS,Braddon,BRAD,84244,Rural,6
+31496,108,NSW,Bradfield,BRFD,126860,Inner Metropolitan,8
+31496,235,WA,Brand,BRAN,112457,Outer Metropolitan,5
+31496,156,QLD,Brisbane,BRIS,127512,Inner Metropolitan,8
+31496,201,VIC,Bruce,BRUC,127622,Outer Metropolitan,8
+31496,329,WA,Bullwinkel,BULL,121364,Outer Metropolitan,7
+31496,317,WA,Burt,BURT,119997,Outer Metropolitan,7
+31496,109,NSW,Calare,CALA,124664,Rural,10
+31496,203,VIC,Calwell,CALW,115542,Outer Metropolitan,13
+31496,101,ACT,Canberra,CANB,102942,Inner Metropolitan,6
+31496,236,WA,Canning,CANN,119262,Outer Metropolitan,6
+31496,157,QLD,Capricornia,CAPR,115141,Provincial,6
+31496,204,VIC,Casey,CASE,122351,Rural,8
+31496,111,NSW,Chifley,CHIF,116648,Outer Metropolitan,8
+31496,205,VIC,Chisholm,CHIS,122733,Inner Metropolitan,7
+31496,319,TAS,Clark,CLAR,74304,Inner Metropolitan,5
+31496,112,NSW,Cook,COOK,118855,Inner Metropolitan,6
+31496,320,VIC,Cooper,COOP,119909,Inner Metropolitan,6
+31496,328,VIC,Corangamite,CORA,114123,Provincial,8
+31496,208,VIC,Corio,CORI,122756,Provincial,6
+31496,237,WA,Cowan,COWA,116491,Inner Metropolitan,8
+31496,113,NSW,Cowper,COWP,131639,Provincial,11
+31496,114,NSW,Cunningham,CUNN,132139,Provincial,6
+31496,238,WA,Curtin,CURT,117244,Inner Metropolitan,6
+31496,158,QLD,Dawson,DAWS,117202,Rural,7
+31496,209,VIC,Deakin,DEAK,126675,Outer Metropolitan,8
+31496,252,QLD,Dickson,DICK,119375,Outer Metropolitan,9
+31496,115,NSW,Dobell,DOBE,122541,Provincial,8
+31496,210,VIC,Dunkley,DUNK,124350,Outer Metropolitan,8
+31496,312,WA,Durack,DURA,119942,Rural,9
+31496,117,NSW,Eden-Monaro,EMON,121376,Rural,8
+31496,159,QLD,Fadden,FADD,135733,Outer Metropolitan,9
+31496,160,QLD,Fairfax,FAIR,130658,Rural,8
+31496,118,NSW,Farrer,FARR,123752,Rural,9
+31496,102,ACT,Fenner,FENN,105428,Inner Metropolitan,4
+31496,161,QLD,Fisher,FISH,139064,Rural,8
+31496,211,VIC,Flinders,FLIN,127540,Rural,7
+31496,311,QLD,Flynn,FLYN,117901,Rural,9
+31496,162,QLD,Forde,FORD,134005,Outer Metropolitan,8
+31496,239,WA,Forrest,FORR,117485,Rural,8
+31496,119,NSW,Fowler,FOWL,119951,Outer Metropolitan,7
+31496,195,TAS,Franklin,FRAN,83693,Outer Metropolitan,6
+31496,321,VIC,Fraser,FRAS,124191,Inner Metropolitan,6
+31496,240,WA,Fremantle,FREM,118331,Inner Metropolitan,7
+31496,212,VIC,Gellibrand,GELL,118962,Inner Metropolitan,5
+31496,120,NSW,Gilmore,GILM,128995,Rural,8
+31496,213,VIC,Gippsland,GIPP,118075,Rural,5
+31496,214,VIC,Goldstein,GOLD,126139,Inner Metropolitan,7
+31496,309,VIC,Gorton,GORT,129230,Outer Metropolitan,7
+31496,121,NSW,Grayndler,GRAY,125552,Inner Metropolitan,6
+31496,122,NSW,Greenway,GREE,118906,Outer Metropolitan,7
+31496,183,SA,Grey,GREY,128707,Rural,8
+31496,163,QLD,Griffith,GRIF,123916,Inner Metropolitan,7
+31496,164,QLD,Groom,GROO,119008,Provincial,8
+31496,305,WA,Hasluck,HASL,113257,Outer Metropolitan,7
+31496,326,VIC,Hawke,HAWK,118785,Provincial,7
+31496,165,QLD,Herbert,HERB,121280,Provincial,8
+31496,185,SA,Hindmarsh,HIND,131379,Inner Metropolitan,9
+31496,166,QLD,Hinkler,HINK,127702,Provincial,7
+31496,216,VIC,Holt,HOLT,112953,Outer Metropolitan,6
+31496,217,VIC,Hotham,HOTH,118993,Inner Metropolitan,6
+31496,124,NSW,Hughes,HUGH,114887,Outer Metropolitan,8
+31496,125,NSW,Hume,HUME,117449,Outer Metropolitan,8
+31496,126,NSW,Hunter,HUNT,132184,Rural,9
+31496,218,VIC,Indi,INDI,120774,Rural,9
+31496,219,VIC,Isaacs,ISAA,120753,Outer Metropolitan,5
+31496,220,VIC,Jagajaga,JAGA,121269,Outer Metropolitan,7
+31496,167,QLD,Kennedy,KENN,123696,Rural,8
+31496,127,NSW,Kingsford Smith,KSMI,117399,Inner Metropolitan,5
+31496,186,SA,Kingston,KING,127919,Outer Metropolitan,7
+31496,221,VIC,Kooyong,KOOY,124480,Inner Metropolitan,7
+31496,223,VIC,La Trobe,LTRO,115425,Provincial,6
+31496,222,VIC,Lalor,LALO,114496,Outer Metropolitan,7
+31496,168,QLD,Leichhardt,LEIC,122757,Rural,10
+31496,169,QLD,Lilley,LILL,118593,Inner Metropolitan,6
+31496,128,NSW,Lindsay,LIND,121306,Outer Metropolitan,10
+31496,306,NT,Lingiari,LING,76817,Rural,6
+31496,302,QLD,Longman,LONG,142744,Provincial,6
+31496,130,NSW,Lyne,LYNE,129584,Rural,10
+31496,196,TAS,Lyons,LYON,88977,Rural,8
+31496,131,NSW,Macarthur,MACA,115008,Outer Metropolitan,7
+31496,132,NSW,Mackellar,MACK,129339,Outer Metropolitan,9
+31496,322,VIC,Macnamara,MACN,114579,Inner Metropolitan,6
+31496,133,NSW,Macquarie,MACQ,121939,Provincial,6
+31496,187,SA,Makin,MAKI,123639,Outer Metropolitan,8
+31496,224,VIC,Mallee,MALL,121604,Rural,8
+31496,170,QLD,Maranoa,MARA,115520,Rural,8
+31496,225,VIC,Maribyrnong,MARI,123249,Inner Metropolitan,4
+31496,188,SA,Mayo,MAYO,137818,Rural,7
+31496,226,VIC,McEwen,MCEW,117921,Rural,9
+31496,315,NSW,McMahon,MCMA,120536,Outer Metropolitan,5
+31496,171,QLD,McPherson,MCPH,121545,Provincial,12
+31496,228,VIC,Melbourne,MELB,113369,Inner Metropolitan,7
+31496,229,VIC,Menzies,MENZ,120989,Outer Metropolitan,8
+31496,134,NSW,Mitchell,MITC,122997,Outer Metropolitan,5
+31496,323,VIC,Monash,MONA,116463,Rural,9
+31496,172,QLD,Moncrieff,MONC,125713,Provincial,9
+31496,242,WA,Moore,MOOR,121758,Outer Metropolitan,8
+31496,173,QLD,Moreton,MORE,109260,Inner Metropolitan,8
+31496,135,NSW,New England,NENG,131238,Rural,7
+31496,136,NSW,Newcastle,NEWC,126226,Provincial,8
+31496,324,VIC,Nicholls,NICH,121390,Rural,7
+31496,243,WA,O'Connor,OCON,122006,Rural,8
+31496,174,QLD,Oxley,OXLE,122449,Outer Metropolitan,7
+31496,138,NSW,Page,PAGE,129373,Rural,11
+31496,139,NSW,Parkes,PARK,130841,Rural,10
+31496,140,NSW,Parramatta,PARR,117501,Inner Metropolitan,8
+31496,249,NSW,Paterson,PATE,127926,Provincial,10
+31496,244,WA,Pearce,PEAR,115275,Outer Metropolitan,6
+31496,245,WA,Perth,PERT,114458,Inner Metropolitan,4
+31496,175,QLD,Petrie,PETR,134359,Outer Metropolitan,6
+31496,176,QLD,Rankin,RANK,114950,Outer Metropolitan,8
+31496,144,NSW,Reid,REID,117810,Inner Metropolitan,7
+31496,145,NSW,Richmond,RICH,126814,Rural,10
+31496,250,NSW,Riverina,RIVE,128537,Rural,13
+31496,146,NSW,Robertson,ROBE,114922,Provincial,7
+31496,177,QLD,Ryan,RYAN,114860,Outer Metropolitan,8
+31496,232,VIC,Scullin,SCUL,114926,Outer Metropolitan,8
+31496,148,NSW,Shortland,SHOR,122971,Provincial,7
+31496,307,NT,Solomon,SOLO,78702,Inner Metropolitan,7
+31496,325,SA,Spence,SPEN,138898,Outer Metropolitan,8
+31496,190,SA,Sturt,STUR,130300,Inner Metropolitan,7
+31496,247,WA,Swan,SWAN,116105,Inner Metropolitan,6
+31496,149,NSW,Sydney,SYDN,127445,Inner Metropolitan,5
+31496,248,WA,Tangney,TANG,122584,Inner Metropolitan,6
+31496,233,VIC,Wannon,WANN,121788,Rural,9
+31496,151,NSW,Warringah,WARR,130761,Inner Metropolitan,8
+31496,251,NSW,Watson,WATS,116432,Inner Metropolitan,9
+31496,152,NSW,Wentworth,WENT,127463,Inner Metropolitan,6
+31496,153,NSW,Werriwa,WERR,117790,Outer Metropolitan,9
+31496,150,NSW,Whitlam,WHIT,130093,Provincial,10
+31496,178,QLD,Wide Bay,WBAY,123153,Rural,7
+31496,234,VIC,Wills,WILL,125264,Inner Metropolitan,8
+31496,316,QLD,Wright,WRIG,140286,Rural,8
