@@ -26,6 +26,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/sa-epa-air-quality-monitoring/`** — EPA's ambient air quality monitoring network across metropolitan Adelaide and regional industrial towns: hourly pollutant (PM10/PM2.5, O3, NOx, SO2, CO, Pb) and meteorology readings across 16 monitoring stations.
 - **`datasets/au-prisoners-in-australia/`** — ABS's national prisoner census by state/territory: prisoner counts, demographics, offence type, sentence length and legal status, with a dedicated South Australia breakdown, 30 June 2025.
 - **`datasets/sa-primary-industries-scorecard/`** — PIRSA's statewide primary production statistics: volume, price and value for 91 commodities across dairy, field crops, forestry, horticulture, livestock, seafood and wine, 2016-17 to 2020-21.
+- **`datasets/au-small-scale-renewable-installations/`** — Clean Energy Regulator's postcode-level rooftop solar, solar water heater, wind, hydro and battery installation counts and rated capacity, monthly since 2001 (batteries since mid-2025), nationally with a dedicated South Australia breakdown.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 
