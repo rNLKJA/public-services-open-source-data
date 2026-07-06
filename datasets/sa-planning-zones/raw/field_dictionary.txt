@@ -1,0 +1,35 @@
+SA Planning and Design Code Zones — field dictionary
+Derived directly from the GeoJSON properties of PDCodeZones_GDA2020.geojson
+(inside the source zip), since the CKAN-linked human-readable metadata page
+(location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=2545) returns only a
+bare "Metadata Link:" stub with no field descriptions. Field purposes below
+are inferred from field names and standard Planning, Development and
+Infrastructure Act 2016 terminology where not self-evident — flagged accordingly.
+
+Field name        Type     Likely meaning
+----------------  -------  ---------------------------------------------------
+id                string   Zone record identifier (e.g. "Z3903")
+name              string   Zone name (e.g. "Master Planned Neighbourhood", "Rural Living")
+description       string   Free-text description — empty/null on every record sampled
+value             string   Zone short code (e.g. "MPN", "RuL") — 65 distinct codes statewide
+legalstartdate    date     Date the zone became legally operative under the P&D Code
+legalenddate      date     Date the zone ceased to be legally operative — null on all
+                           current records (i.e. only in-force zones are published)
+systemstartdate   date     Date the record was created in the source system
+systemenddate     date     Date the record was superseded in the source system — null
+                           on all current records
+status            integer  Record status flag — value 0 (active) on every record sampled;
+                           no other value observed, meaning is not separately published
+shape_Length      number   Polygon perimeter (GIS-calculated, decimal degrees)
+shape_Area        number   Polygon area (GIS-calculated, decimal degrees)
+
+No field contains a landowner name, applicant name, street address, or any other
+individual-identifying value — records are pure spatial zoning classification
+(zone boundary polygon + zone name/code + effective dates).
+
+Snapshot at retrieval (GDA2020 layer, 6 July 2026): 5,391 zone polygon features,
+65 distinct zone codes, statewide. The archive bundles two identical copies of
+the same records in different coordinate reference systems (GDA94 and GDA2020) —
+same field list and feature count in both. legalstartdate values observed range
+from 19 March 2021 (Planning and Design Code commencement) through 14 May 2026,
+confirming the zone layer is actively maintained, not a static one-off extract.
