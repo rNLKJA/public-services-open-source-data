@@ -13,6 +13,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **Australian Library and Information Association (ALIA) / National and State Libraries Australasia (NSLA) data** (Australian Public Libraries Statistical Report, South Australia figures supplied by Public Library Services SA): licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0), confirmed directly on the report's cover page. See `datasets/sa-public-library-statistics/README.md`.
 - **SA Water data** (drinking water quality performance): "Contains data from SA Water, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **SA Health data** (Retirement Villages Register): "Contains data from SA Health, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
+- **South Australian Skills Commission data** (Training Contract commencements, completions, in-training): "Contains data from the South Australian Skills Commission, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
