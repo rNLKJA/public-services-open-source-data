@@ -10,6 +10,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **data.sa.gov.au generally**: © Government of South Australia, licensed under CC BY 4.0.
 - **Adelaide Metro / Department for Infrastructure and Transport data** (GTFS transit feed): "Adelaide Metro - Department of Planning Transport and Infrastructure, South Australia", licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0).
 - **Department for Housing and Urban Development data** (Land Division Applications): licensed under [CC BY 3.0 AU](http://creativecommons.org/licenses/by/3.0/au/) per the licence file bundled with the data itself (the CKAN portal record's `license_id` field claims CC BY 4.0 — see `datasets/sa-land-division-applications/README.md` for the discrepancy).
+- **Australian Library and Information Association (ALIA) / National and State Libraries Australasia (NSLA) data** (Australian Public Libraries Statistical Report, South Australia figures supplied by Public Library Services SA): licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0), confirmed directly on the report's cover page. See `datasets/sa-public-library-statistics/README.md`.
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
