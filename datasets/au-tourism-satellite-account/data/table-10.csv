@@ -1,0 +1,505 @@
+section,category,subcategory,unit,financial_year,state,measure,value
+,Consumption(a),,$ million – basic prices,2016-17,NSW,,32772.5352
+,Consumption(a),,$ million – basic prices,2016-17,Vic,,25404.5684
+,Consumption(a),,$ million – basic prices,2016-17,Qld,,24922.5547
+,Consumption(a),,$ million – basic prices,2016-17,SA,,6651.3623
+,Consumption(a),,$ million – basic prices,2016-17,WA,,12493.8877
+,Consumption(a),,$ million – basic prices,2016-17,Tas,,3349.1941
+,Consumption(a),,$ million – basic prices,2016-17,NT,,2540.8918
+,Consumption(a),,$ million – basic prices,2016-17,ACT,,2258.0112
+,Consumption(a),,$ million – basic prices,2016-17,Total,,110393.0054
+,Consumption(a),,$ million – basic prices,2017-18,NSW,,37157.4414
+,Consumption(a),,$ million – basic prices,2017-18,Vic,,27488.4336
+,Consumption(a),,$ million – basic prices,2017-18,Qld,,27825.334
+,Consumption(a),,$ million – basic prices,2017-18,SA,,7096.731
+,Consumption(a),,$ million – basic prices,2017-18,WA,,11194.9941
+,Consumption(a),,$ million – basic prices,2017-18,Tas,,3437.269
+,Consumption(a),,$ million – basic prices,2017-18,NT,,2310.8008
+,Consumption(a),,$ million – basic prices,2017-18,ACT,,2645.0024
+,Consumption(a),,$ million – basic prices,2017-18,Total,,119156.0063
+,Consumption(a),,$ million – basic prices,2018-19,NSW,,40317.3828
+,Consumption(a),,$ million – basic prices,2018-19,Vic,,31404.7891
+,Consumption(a),,$ million – basic prices,2018-19,Qld,,30296.2715
+,Consumption(a),,$ million – basic prices,2018-19,SA,,8006.5688
+,Consumption(a),,$ million – basic prices,2018-19,WA,,13389.0342
+,Consumption(a),,$ million – basic prices,2018-19,Tas,,4003.0674
+,Consumption(a),,$ million – basic prices,2018-19,NT,,2668.3135
+,Consumption(a),,$ million – basic prices,2018-19,ACT,,2701.5771
+,Consumption(a),,$ million – basic prices,2018-19,Total,,132787.0044
+,Consumption(a),,$ million – basic prices,2019-20,NSW,,32176.0293
+,Consumption(a),,$ million – basic prices,2019-20,Vic,,25205.3867
+,Consumption(a),,$ million – basic prices,2019-20,Qld,,24606.1836
+,Consumption(a),,$ million – basic prices,2019-20,SA,,6823.4092
+,Consumption(a),,$ million – basic prices,2019-20,WA,,11590.3613
+,Consumption(a),,$ million – basic prices,2019-20,Tas,,3323.1584
+,Consumption(a),,$ million – basic prices,2019-20,NT,,1955.5645
+,Consumption(a),,$ million – basic prices,2019-20,ACT,,1985.9109
+,Consumption(a),,$ million – basic prices,2019-20,Total,,107666.0039
+,Consumption(a),,$ million – basic prices,2020-21,NSW,,22801.1211
+,Consumption(a),,$ million – basic prices,2020-21,Vic,,12249.0332
+,Consumption(a),,$ million – basic prices,2020-21,Qld,,18534.1895
+,Consumption(a),,$ million – basic prices,2020-21,SA,,5582.6357
+,Consumption(a),,$ million – basic prices,2020-21,WA,,8325.29
+,Consumption(a),,$ million – basic prices,2020-21,Tas,,2534.0767
+,Consumption(a),,$ million – basic prices,2020-21,NT,,1457.1083
+,Consumption(a),,$ million – basic prices,2020-21,ACT,,1348.5475
+,Consumption(a),,$ million – basic prices,2020-21,Total,,72832.00200000001
+,Consumption(a),,$ million – basic prices,2021-22,NSW,,22846.582
+,Consumption(a),,$ million – basic prices,2021-22,Vic,,18258.4551
+,Consumption(a),,$ million – basic prices,2021-22,Qld,,22887.4512
+,Consumption(a),,$ million – basic prices,2021-22,SA,,5706.0122
+,Consumption(a),,$ million – basic prices,2021-22,WA,,9819.1436
+,Consumption(a),,$ million – basic prices,2021-22,Tas,,3016.3501
+,Consumption(a),,$ million – basic prices,2021-22,NT,,1907.4309
+,Consumption(a),,$ million – basic prices,2021-22,ACT,,1571.5802
+,Consumption(a),,$ million – basic prices,2021-22,Total,,86013.00529999999
+,Consumption(a),,$ million – basic prices,2022-23,NSW,,44569.6953
+,Consumption(a),,$ million – basic prices,2022-23,Vic,,33737.8008
+,Consumption(a),,$ million – basic prices,2022-23,Qld,,37332.3516
+,Consumption(a),,$ million – basic prices,2022-23,SA,,9523.0869
+,Consumption(a),,$ million – basic prices,2022-23,WA,,15828.9072
+,Consumption(a),,$ million – basic prices,2022-23,Tas,,4221.5459
+,Consumption(a),,$ million – basic prices,2022-23,NT,,2896.4314
+,Consumption(a),,$ million – basic prices,2022-23,ACT,,3168.188
+,Consumption(a),,$ million – basic prices,2022-23,Total,,151278.00709999996
+,Consumption(a),,$ million – basic prices,2023-24,NSW,,49740.1563
+,Consumption(a),,$ million – basic prices,2023-24,Vic,,37689.6797
+,Consumption(a),,$ million – basic prices,2023-24,Qld,,39153.3711
+,Consumption(a),,$ million – basic prices,2023-24,SA,,9665.6553
+,Consumption(a),,$ million – basic prices,2023-24,WA,,16936.1836
+,Consumption(a),,$ million – basic prices,2023-24,Tas,,4830.5659
+,Consumption(a),,$ million – basic prices,2023-24,NT,,3090.3384
+,Consumption(a),,$ million – basic prices,2023-24,ACT,,3364.0474
+,Consumption(a),,$ million – basic prices,2023-24,Total,,164469.9977
+,Total output,,$ million – basic prices,2016-17,NSW,,60241.5117
+,Total output,,$ million – basic prices,2016-17,Vic,,46849.5
+,Total output,,$ million – basic prices,2016-17,Qld,,46121.2969
+,Total output,,$ million – basic prices,2016-17,SA,,11998.8984
+,Total output,,$ million – basic prices,2016-17,WA,,22550.6855
+,Total output,,$ million – basic prices,2016-17,Tas,,6198.7842
+,Total output,,$ million – basic prices,2016-17,NT,,4589.4307
+,Total output,,$ million – basic prices,2016-17,ACT,,4129.8735
+,Total output,,$ million – basic prices,2016-17,Total,,202679.981
+,Total output,,$ million – basic prices,2017-18,NSW,,68277.0547
+,Total output,,$ million – basic prices,2017-18,Vic,,50546.9844
+,Total output,,$ million – basic prices,2017-18,Qld,,51343.9023
+,Total output,,$ million – basic prices,2017-18,SA,,12813.8164
+,Total output,,$ million – basic prices,2017-18,WA,,20217.3203
+,Total output,,$ million – basic prices,2017-18,Tas,,6271.6978
+,Total output,,$ million – basic prices,2017-18,NT,,4140.9438
+,Total output,,$ million – basic prices,2017-18,ACT,,4730.647
+,Total output,,$ million – basic prices,2017-18,Total,,218342.3667
+,Total output,,$ million – basic prices,2018-19,NSW,,74152.3828
+,Total output,,$ million – basic prices,2018-19,Vic,,57657.5
+,Total output,,$ million – basic prices,2018-19,Qld,,55877.3203
+,Total output,,$ million – basic prices,2018-19,SA,,14364.7646
+,Total output,,$ million – basic prices,2018-19,WA,,24062.8223
+,Total output,,$ million – basic prices,2018-19,Tas,,7329.0142
+,Total output,,$ million – basic prices,2018-19,NT,,4738.6479
+,Total output,,$ million – basic prices,2018-19,ACT,,4821.5259
+,Total output,,$ million – basic prices,2018-19,Total,,243003.978
+,Total output,,$ million – basic prices,2019-20,NSW,,58884.0156
+,Total output,,$ million – basic prices,2019-20,Vic,,46123.5547
+,Total output,,$ million – basic prices,2019-20,Qld,,45518.5195
+,Total output,,$ million – basic prices,2019-20,SA,,12288.5625
+,Total output,,$ million – basic prices,2019-20,WA,,20848.6328
+,Total output,,$ million – basic prices,2019-20,Tas,,6033.0762
+,Total output,,$ million – basic prices,2019-20,NT,,3501.75
+,Total output,,$ million – basic prices,2019-20,ACT,,3575.5408
+,Total output,,$ million – basic prices,2019-20,Total,,196773.6521
+,Total output,,$ million – basic prices,2020-21,NSW,,42054.4141
+,Total output,,$ million – basic prices,2020-21,Vic,,22186.7051
+,Total output,,$ million – basic prices,2020-21,Qld,,34730.4727
+,Total output,,$ million – basic prices,2020-21,SA,,10172.4072
+,Total output,,$ million – basic prices,2020-21,WA,,15152.9014
+,Total output,,$ million – basic prices,2020-21,Tas,,4745.2524
+,Total output,,$ million – basic prices,2020-21,NT,,2701.8459
+,Total output,,$ million – basic prices,2020-21,ACT,,2464.0632
+,Total output,,$ million – basic prices,2020-21,Total,,134208.062
+,Total output,,$ million – basic prices,2021-22,NSW,,41329.0508
+,Total output,,$ million – basic prices,2021-22,Vic,,33516.9883
+,Total output,,$ million – basic prices,2021-22,Qld,,42635.3359
+,Total output,,$ million – basic prices,2021-22,SA,,10271.3115
+,Total output,,$ million – basic prices,2021-22,WA,,18092.0176
+,Total output,,$ million – basic prices,2021-22,Tas,,5602.3477
+,Total output,,$ million – basic prices,2021-22,NT,,3501.7188
+,Total output,,$ million – basic prices,2021-22,ACT,,2873.1208
+,Total output,,$ million – basic prices,2021-22,Total,,157821.8914
+,Total output,,$ million – basic prices,2022-23,NSW,,81724.2578
+,Total output,,$ million – basic prices,2022-23,Vic,,62307.0391
+,Total output,,$ million – basic prices,2022-23,Qld,,69358.5547
+,Total output,,$ million – basic prices,2022-23,SA,,17167.2715
+,Total output,,$ million – basic prices,2022-23,WA,,28479.9688
+,Total output,,$ million – basic prices,2022-23,Tas,,7671.4136
+,Total output,,$ million – basic prices,2022-23,NT,,5277.3823
+,Total output,,$ million – basic prices,2022-23,ACT,,5734.3169
+,Total output,,$ million – basic prices,2022-23,Total,,277720.2046
+,Total output,,$ million – basic prices,2023-24,NSW,,91130.25
+,Total output,,$ million – basic prices,2023-24,Vic,,69182.0703
+,Total output,,$ million – basic prices,2023-24,Qld,,72423.8281
+,Total output,,$ million – basic prices,2023-24,SA,,17341.5977
+,Total output,,$ million – basic prices,2023-24,WA,,30601.5801
+,Total output,,$ million – basic prices,2023-24,Tas,,8862.5352
+,Total output,,$ million – basic prices,2023-24,NT,,5565.5464
+,Total output,,$ million – basic prices,2023-24,ACT,,6087.9805
+,Total output,,$ million – basic prices,2023-24,Total,,301195.3882
+,Tourism output multiplier,,$ million – basic prices,2016-17,NSW,,1.84
+,Tourism output multiplier,,$ million – basic prices,2016-17,Vic,,1.84
+,Tourism output multiplier,,$ million – basic prices,2016-17,Qld,,1.85
+,Tourism output multiplier,,$ million – basic prices,2016-17,SA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2016-17,WA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2016-17,Tas,,1.85
+,Tourism output multiplier,,$ million – basic prices,2016-17,NT,,1.81
+,Tourism output multiplier,,$ million – basic prices,2016-17,ACT,,1.83
+,Tourism output multiplier,,$ million – basic prices,2016-17,Total,,1.84
+,Tourism output multiplier,,$ million – basic prices,2017-18,NSW,,1.84
+,Tourism output multiplier,,$ million – basic prices,2017-18,Vic,,1.84
+,Tourism output multiplier,,$ million – basic prices,2017-18,Qld,,1.85
+,Tourism output multiplier,,$ million – basic prices,2017-18,SA,,1.81
+,Tourism output multiplier,,$ million – basic prices,2017-18,WA,,1.81
+,Tourism output multiplier,,$ million – basic prices,2017-18,Tas,,1.82
+,Tourism output multiplier,,$ million – basic prices,2017-18,NT,,1.79
+,Tourism output multiplier,,$ million – basic prices,2017-18,ACT,,1.79
+,Tourism output multiplier,,$ million – basic prices,2017-18,Total,,1.83
+,Tourism output multiplier,,$ million – basic prices,2018-19,NSW,,1.84
+,Tourism output multiplier,,$ million – basic prices,2018-19,Vic,,1.84
+,Tourism output multiplier,,$ million – basic prices,2018-19,Qld,,1.84
+,Tourism output multiplier,,$ million – basic prices,2018-19,SA,,1.79
+,Tourism output multiplier,,$ million – basic prices,2018-19,WA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2018-19,Tas,,1.83
+,Tourism output multiplier,,$ million – basic prices,2018-19,NT,,1.78
+,Tourism output multiplier,,$ million – basic prices,2018-19,ACT,,1.78
+,Tourism output multiplier,,$ million – basic prices,2018-19,Total,,1.83
+,Tourism output multiplier,,$ million – basic prices,2019-20,NSW,,1.83
+,Tourism output multiplier,,$ million – basic prices,2019-20,Vic,,1.83
+,Tourism output multiplier,,$ million – basic prices,2019-20,Qld,,1.85
+,Tourism output multiplier,,$ million – basic prices,2019-20,SA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2019-20,WA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2019-20,Tas,,1.82
+,Tourism output multiplier,,$ million – basic prices,2019-20,NT,,1.79
+,Tourism output multiplier,,$ million – basic prices,2019-20,ACT,,1.8
+,Tourism output multiplier,,$ million – basic prices,2019-20,Total,,1.83
+,Tourism output multiplier,,$ million – basic prices,2020-21,NSW,,1.84
+,Tourism output multiplier,,$ million – basic prices,2020-21,Vic,,1.81
+,Tourism output multiplier,,$ million – basic prices,2020-21,Qld,,1.87
+,Tourism output multiplier,,$ million – basic prices,2020-21,SA,,1.82
+,Tourism output multiplier,,$ million – basic prices,2020-21,WA,,1.82
+,Tourism output multiplier,,$ million – basic prices,2020-21,Tas,,1.87
+,Tourism output multiplier,,$ million – basic prices,2020-21,NT,,1.85
+,Tourism output multiplier,,$ million – basic prices,2020-21,ACT,,1.83
+,Tourism output multiplier,,$ million – basic prices,2020-21,Total,,1.84
+,Tourism output multiplier,,$ million – basic prices,2021-22,NSW,,1.81
+,Tourism output multiplier,,$ million – basic prices,2021-22,Vic,,1.84
+,Tourism output multiplier,,$ million – basic prices,2021-22,Qld,,1.86
+,Tourism output multiplier,,$ million – basic prices,2021-22,SA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2021-22,WA,,1.84
+,Tourism output multiplier,,$ million – basic prices,2021-22,Tas,,1.86
+,Tourism output multiplier,,$ million – basic prices,2021-22,NT,,1.84
+,Tourism output multiplier,,$ million – basic prices,2021-22,ACT,,1.83
+,Tourism output multiplier,,$ million – basic prices,2021-22,Total,,1.83
+,Tourism output multiplier,,$ million – basic prices,2022-23,NSW,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,Vic,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,Qld,,1.9
+,Tourism output multiplier,,$ million – basic prices,2022-23,SA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,WA,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,Tas,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,NT,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,ACT,,1.8
+,Tourism output multiplier,,$ million – basic prices,2022-23,Total,,1.8
+,Tourism output multiplier,,$ million – basic prices,2023-24,NSW,,1.83
+,Tourism output multiplier,,$ million – basic prices,2023-24,Vic,,1.84
+,Tourism output multiplier,,$ million – basic prices,2023-24,Qld,,1.85
+,Tourism output multiplier,,$ million – basic prices,2023-24,SA,,1.79
+,Tourism output multiplier,,$ million – basic prices,2023-24,WA,,1.81
+,Tourism output multiplier,,$ million – basic prices,2023-24,Tas,,1.83
+,Tourism output multiplier,,$ million – basic prices,2023-24,NT,,1.8
+,Tourism output multiplier,,$ million – basic prices,2023-24,ACT,,1.81
+,Tourism output multiplier,,$ million – basic prices,2023-24,Total,,1.83
+,Total gross value added,,$ million – basic prices,2016-17,NSW,,27346.4375
+,Total gross value added,,$ million – basic prices,2016-17,Vic,,21111.1797
+,Total gross value added,,$ million – basic prices,2016-17,Qld,,20549.1328
+,Total gross value added,,$ million – basic prices,2016-17,SA,,5470.8652
+,Total gross value added,,$ million – basic prices,2016-17,WA,,10256.2773
+,Total gross value added,,$ million – basic prices,2016-17,Tas,,2749.3267
+,Total gross value added,,$ million – basic prices,2016-17,NT,,2029.2207
+,Total gross value added,,$ million – basic prices,2016-17,ACT,,1854.8997
+,Total gross value added,,$ million – basic prices,2016-17,Total,,91367.3396
+,Total gross value added,,$ million – basic prices,2017-18,NSW,,30813.832
+,Total gross value added,,$ million – basic prices,2017-18,Vic,,22633.3105
+,Total gross value added,,$ million – basic prices,2017-18,Qld,,22846.7148
+,Total gross value added,,$ million – basic prices,2017-18,SA,,5788.5571
+,Total gross value added,,$ million – basic prices,2017-18,WA,,9105.1572
+,Total gross value added,,$ million – basic prices,2017-18,Tas,,2776.7178
+,Total gross value added,,$ million – basic prices,2017-18,NT,,1833.556
+,Total gross value added,,$ million – basic prices,2017-18,ACT,,2162.3577
+,Total gross value added,,$ million – basic prices,2017-18,Total,,97960.2032
+,Total gross value added,,$ million – basic prices,2018-19,NSW,,33224.6484
+,Total gross value added,,$ million – basic prices,2018-19,Vic,,25822.0977
+,Total gross value added,,$ million – basic prices,2018-19,Qld,,24748.0391
+,Total gross value added,,$ million – basic prices,2018-19,SA,,6472.5
+,Total gross value added,,$ million – basic prices,2018-19,WA,,10778.5449
+,Total gross value added,,$ million – basic prices,2018-19,Tas,,3227.3433
+,Total gross value added,,$ million – basic prices,2018-19,NT,,2100.4417
+,Total gross value added,,$ million – basic prices,2018-19,ACT,,2174.3933
+,Total gross value added,,$ million – basic prices,2018-19,Total,,108548.0083
+,Total gross value added,,$ million – basic prices,2019-20,NSW,,26521.1289
+,Total gross value added,,$ million – basic prices,2019-20,Vic,,20664.9922
+,Total gross value added,,$ million – basic prices,2019-20,Qld,,20138.3125
+,Total gross value added,,$ million – basic prices,2019-20,SA,,5545.96
+,Total gross value added,,$ million – basic prices,2019-20,WA,,9381.7734
+,Total gross value added,,$ million – basic prices,2019-20,Tas,,2678.4121
+,Total gross value added,,$ million – basic prices,2019-20,NT,,1540.0442
+,Total gross value added,,$ million – basic prices,2019-20,ACT,,1607.7012
+,Total gross value added,,$ million – basic prices,2019-20,Total,,88078.3245
+,Total gross value added,,$ million – basic prices,2020-21,NSW,,18549.2129
+,Total gross value added,,$ million – basic prices,2020-21,Vic,,9813.8027
+,Total gross value added,,$ million – basic prices,2020-21,Qld,,14922.1699
+,Total gross value added,,$ million – basic prices,2020-21,SA,,4497.1172
+,Total gross value added,,$ million – basic prices,2020-21,WA,,6598.5938
+,Total gross value added,,$ million – basic prices,2020-21,Tas,,2043.4287
+,Total gross value added,,$ million – basic prices,2020-21,NT,,1135.7678
+,Total gross value added,,$ million – basic prices,2020-21,ACT,,1068.0289
+,Total gross value added,,$ million – basic prices,2020-21,Total,,58628.1219
+,Total gross value added,,$ million – basic prices,2021-22,NSW,,18385.0625
+,Total gross value added,,$ million – basic prices,2021-22,Vic,,14638.2813
+,Total gross value added,,$ million – basic prices,2021-22,Qld,,18401.2129
+,Total gross value added,,$ million – basic prices,2021-22,SA,,4536.6431
+,Total gross value added,,$ million – basic prices,2021-22,WA,,7792.1553
+,Total gross value added,,$ million – basic prices,2021-22,Tas,,2408.5422
+,Total gross value added,,$ million – basic prices,2021-22,NT,,1488.522
+,Total gross value added,,$ million – basic prices,2021-22,ACT,,1257.0731
+,Total gross value added,,$ million – basic prices,2021-22,Total,,68907.4923
+,Total gross value added,,$ million – basic prices,2022-23,NSW,,37181.5938
+,Total gross value added,,$ million – basic prices,2022-23,Vic,,27905.5898
+,Total gross value added,,$ million – basic prices,2022-23,Qld,,30979.7363
+,Total gross value added,,$ million – basic prices,2022-23,SA,,7789.4258
+,Total gross value added,,$ million – basic prices,2022-23,WA,,12903.2217
+,Total gross value added,,$ million – basic prices,2022-23,Tas,,3452.7581
+,Total gross value added,,$ million – basic prices,2022-23,NT,,2347.9326
+,Total gross value added,,$ million – basic prices,2022-23,ACT,,2612.5925
+,Total gross value added,,$ million – basic prices,2022-23,Total,,125172.8506
+,Total gross value added,,$ million – basic prices,2023-24,NSW,,41680.2422
+,Total gross value added,,$ million – basic prices,2023-24,Vic,,31327.3633
+,Total gross value added,,$ million – basic prices,2023-24,Qld,,32478.1445
+,Total gross value added,,$ million – basic prices,2023-24,SA,,7896.9375
+,Total gross value added,,$ million – basic prices,2023-24,WA,,13834.4063
+,Total gross value added,,$ million – basic prices,2023-24,Tas,,3967.6162
+,Total gross value added,,$ million – basic prices,2023-24,NT,,2510.7
+,Total gross value added,,$ million – basic prices,2023-24,ACT,,2766.5801
+,Total gross value added,,$ million – basic prices,2023-24,Total,,136461.99
+,Net Taxes on products,,$ million – basic prices,2016-17,NSW,,3900.0261
+,Net Taxes on products,,$ million – basic prices,2016-17,Vic,,2770.692
+,Net Taxes on products,,$ million – basic prices,2016-17,Qld,,2908.8442
+,Net Taxes on products,,$ million – basic prices,2016-17,SA,,1029.0719
+,Net Taxes on products,,$ million – basic prices,2016-17,WA,,1377.9116
+,Net Taxes on products,,$ million – basic prices,2016-17,Tas,,360.9466
+,Net Taxes on products,,$ million – basic prices,2016-17,NT,,403.18899999999996
+,Net Taxes on products,,$ million – basic prices,2016-17,ACT,,280.3234
+,Net Taxes on products,,$ million – basic prices,2016-17,Total,,13031.0049
+,Net Taxes on products,,$ million – basic prices,2017-18,NSW,,4447.498
+,Net Taxes on products,,$ million – basic prices,2017-18,Vic,,2997.4741999999997
+,Net Taxes on products,,$ million – basic prices,2017-18,Qld,,3246.1003
+,Net Taxes on products,,$ million – basic prices,2017-18,SA,,1103.7555
+,Net Taxes on products,,$ million – basic prices,2017-18,WA,,1262.8579
+,Net Taxes on products,,$ million – basic prices,2017-18,Tas,,373.1848
+,Net Taxes on products,,$ million – basic prices,2017-18,NT,,364.307
+,Net Taxes on products,,$ million – basic prices,2017-18,ACT,,321.262
+,Net Taxes on products,,$ million – basic prices,2017-18,Total,,14116.4398
+,Net Taxes on products,,$ million – basic prices,2018-19,NSW,,4974.4268
+,Net Taxes on products,,$ million – basic prices,2018-19,Vic,,3515.1922999999997
+,Net Taxes on products,,$ million – basic prices,2018-19,Qld,,3607.0460999999996
+,Net Taxes on products,,$ million – basic prices,2018-19,SA,,1294.7101
+,Net Taxes on products,,$ million – basic prices,2018-19,WA,,1539.5277
+,Net Taxes on products,,$ million – basic prices,2018-19,Tas,,461.9354
+,Net Taxes on products,,$ million – basic prices,2018-19,NT,,441.6482
+,Net Taxes on products,,$ million – basic prices,2018-19,ACT,,330.63710000000003
+,Net Taxes on products,,$ million – basic prices,2018-19,Total,,16165.1236
+,Net Taxes on products,,$ million – basic prices,2019-20,NSW,,4011.4948999999997
+,Net Taxes on products,,$ million – basic prices,2019-20,Vic,,2816.869
+,Net Taxes on products,,$ million – basic prices,2019-20,Qld,,2915.2961
+,Net Taxes on products,,$ million – basic prices,2019-20,SA,,1099.4965
+,Net Taxes on products,,$ million – basic prices,2019-20,WA,,1347.9387000000002
+,Net Taxes on products,,$ million – basic prices,2019-20,Tas,,366.86479999999995
+,Net Taxes on products,,$ million – basic prices,2019-20,NT,,328.4517
+,Net Taxes on products,,$ million – basic prices,2019-20,ACT,,249.8798
+,Net Taxes on products,,$ million – basic prices,2019-20,Total,,13136.2916
+,Net Taxes on products,,$ million – basic prices,2020-21,NSW,,3090.6144999999997
+,Net Taxes on products,,$ million – basic prices,2020-21,Vic,,1533.9663
+,Net Taxes on products,,$ million – basic prices,2020-21,Qld,,2424.0113
+,Net Taxes on products,,$ million – basic prices,2020-21,SA,,874.4376
+,Net Taxes on products,,$ million – basic prices,2020-21,WA,,1035.9877000000001
+,Net Taxes on products,,$ million – basic prices,2020-21,Tas,,304.5083
+,Net Taxes on products,,$ million – basic prices,2020-21,NT,,222.4761
+,Net Taxes on products,,$ million – basic prices,2020-21,ACT,,184.4305
+,Net Taxes on products,,$ million – basic prices,2020-21,Total,,9670.4324
+,Net Taxes on products,,$ million – basic prices,2021-22,NSW,,2857.9652
+,Net Taxes on products,,$ million – basic prices,2021-22,Vic,,2190.5681
+,Net Taxes on products,,$ million – basic prices,2021-22,Qld,,2933.0498
+,Net Taxes on products,,$ million – basic prices,2021-22,SA,,863.4214999999999
+,Net Taxes on products,,$ million – basic prices,2021-22,WA,,1220.8466
+,Net Taxes on products,,$ million – basic prices,2021-22,Tas,,355.4752
+,Net Taxes on products,,$ million – basic prices,2021-22,NT,,294.4806
+,Net Taxes on products,,$ million – basic prices,2021-22,ACT,,199.5035
+,Net Taxes on products,,$ million – basic prices,2021-22,Total,,10915.3105
+,Net Taxes on products,,$ million – basic prices,2022-23,NSW,,5593.0166
+,Net Taxes on products,,$ million – basic prices,2022-23,Vic,,4025.4136
+,Net Taxes on products,,$ million – basic prices,2022-23,Qld,,4672.8786
+,Net Taxes on products,,$ million – basic prices,2022-23,SA,,1513.5548
+,Net Taxes on products,,$ million – basic prices,2022-23,WA,,1882.8667
+,Net Taxes on products,,$ million – basic prices,2022-23,Tas,,485.5097
+,Net Taxes on products,,$ million – basic prices,2022-23,NT,,474.9054
+,Net Taxes on products,,$ million – basic prices,2022-23,ACT,,411.6458
+,Net Taxes on products,,$ million – basic prices,2022-23,Total,,19059.7912
+,Net Taxes on products,,$ million – basic prices,2023-24,NSW,,6523.4848999999995
+,Net Taxes on products,,$ million – basic prices,2023-24,Vic,,4627.3184
+,Net Taxes on products,,$ million – basic prices,2023-24,Qld,,5151.116
+,Net Taxes on products,,$ million – basic prices,2023-24,SA,,1583.5939
+,Net Taxes on products,,$ million – basic prices,2023-24,WA,,2091.2237999999998
+,Net Taxes on products,,$ million – basic prices,2023-24,Tas,,577.559
+,Net Taxes on products,,$ million – basic prices,2023-24,NT,,511.5533
+,Net Taxes on products,,$ million – basic prices,2023-24,ACT,,437.15319999999997
+,Net Taxes on products,,$ million – basic prices,2023-24,Total,,21503.0026
+,Total gross state product,,$ million – basic prices,2016-17,NSW,,31246.4629
+,Total gross state product,,$ million – basic prices,2016-17,Vic,,23881.873
+,Total gross state product,,$ million – basic prices,2016-17,Qld,,23457.9785
+,Total gross state product,,$ million – basic prices,2016-17,SA,,6499.937
+,Total gross state product,,$ million – basic prices,2016-17,WA,,11634.1885
+,Total gross state product,,$ million – basic prices,2016-17,Tas,,3110.2732
+,Total gross state product,,$ million – basic prices,2016-17,NT,,2432.4097
+,Total gross state product,,$ million – basic prices,2016-17,ACT,,2135.2231
+,Total gross state product,,$ million – basic prices,2016-17,Total,,104398.3459
+,Total gross state product,,$ million – basic prices,2017-18,NSW,,35261.332
+,Total gross state product,,$ million – basic prices,2017-18,Vic,,25630.7832
+,Total gross state product,,$ million – basic prices,2017-18,Qld,,26092.8164
+,Total gross state product,,$ million – basic prices,2017-18,SA,,6892.3125
+,Total gross state product,,$ million – basic prices,2017-18,WA,,10368.0156
+,Total gross state product,,$ million – basic prices,2017-18,Tas,,3149.9026
+,Total gross state product,,$ million – basic prices,2017-18,NT,,2197.863
+,Total gross state product,,$ million – basic prices,2017-18,ACT,,2483.6196
+,Total gross state product,,$ million – basic prices,2017-18,Total,,112076.645
+,Total gross state product,,$ million – basic prices,2018-19,NSW,,38199.0742
+,Total gross state product,,$ million – basic prices,2018-19,Vic,,29337.291
+,Total gross state product,,$ million – basic prices,2018-19,Qld,,28355.0859
+,Total gross state product,,$ million – basic prices,2018-19,SA,,7767.2104
+,Total gross state product,,$ million – basic prices,2018-19,WA,,12318.0732
+,Total gross state product,,$ million – basic prices,2018-19,Tas,,3689.2786
+,Total gross state product,,$ million – basic prices,2018-19,NT,,2542.0898
+,Total gross state product,,$ million – basic prices,2018-19,ACT,,2505.0303
+,Total gross state product,,$ million – basic prices,2018-19,Total,,124713.1335
+,Total gross state product,,$ million – basic prices,2019-20,NSW,,30532.625
+,Total gross state product,,$ million – basic prices,2019-20,Vic,,23481.8613
+,Total gross state product,,$ million – basic prices,2019-20,Qld,,23053.6094
+,Total gross state product,,$ million – basic prices,2019-20,SA,,6645.4565
+,Total gross state product,,$ million – basic prices,2019-20,WA,,10729.7119
+,Total gross state product,,$ million – basic prices,2019-20,Tas,,3045.2769
+,Total gross state product,,$ million – basic prices,2019-20,NT,,1868.4958
+,Total gross state product,,$ million – basic prices,2019-20,ACT,,1857.5809
+,Total gross state product,,$ million – basic prices,2019-20,Total,,101214.6178
+,Total gross state product,,$ million – basic prices,2020-21,NSW,,21639.8281
+,Total gross state product,,$ million – basic prices,2020-21,Vic,,11347.7695
+,Total gross state product,,$ million – basic prices,2020-21,Qld,,17346.1816
+,Total gross state product,,$ million – basic prices,2020-21,SA,,5371.5552
+,Total gross state product,,$ million – basic prices,2020-21,WA,,7634.5815
+,Total gross state product,,$ million – basic prices,2020-21,Tas,,2347.937
+,Total gross state product,,$ million – basic prices,2020-21,NT,,1358.2439
+,Total gross state product,,$ million – basic prices,2020-21,ACT,,1252.4594
+,Total gross state product,,$ million – basic prices,2020-21,Total,,68298.5563
+,Total gross state product,,$ million – basic prices,2021-22,NSW,,21243.0273
+,Total gross state product,,$ million – basic prices,2021-22,Vic,,16828.8496
+,Total gross state product,,$ million – basic prices,2021-22,Qld,,21334.2617
+,Total gross state product,,$ million – basic prices,2021-22,SA,,5400.0645
+,Total gross state product,,$ million – basic prices,2021-22,WA,,9013.002
+,Total gross state product,,$ million – basic prices,2021-22,Tas,,2764.0176
+,Total gross state product,,$ million – basic prices,2021-22,NT,,1783.0026
+,Total gross state product,,$ million – basic prices,2021-22,ACT,,1456.5767
+,Total gross state product,,$ million – basic prices,2021-22,Total,,79822.8019
+,Total gross state product,,$ million – basic prices,2022-23,NSW,,42774.6094
+,Total gross state product,,$ million – basic prices,2022-23,Vic,,31931.0039
+,Total gross state product,,$ million – basic prices,2022-23,Qld,,35652.6172
+,Total gross state product,,$ million – basic prices,2022-23,SA,,9302.9805
+,Total gross state product,,$ million – basic prices,2022-23,WA,,14786.0879
+,Total gross state product,,$ million – basic prices,2022-23,Tas,,3938.2676
+,Total gross state product,,$ million – basic prices,2022-23,NT,,2822.8379
+,Total gross state product,,$ million – basic prices,2022-23,ACT,,3024.2385
+,Total gross state product,,$ million – basic prices,2022-23,Total,,144232.6428
+,Total gross state product,,$ million – basic prices,2023-24,NSW,,48203.7266
+,Total gross state product,,$ million – basic prices,2023-24,Vic,,35954.6797
+,Total gross state product,,$ million – basic prices,2023-24,Qld,,37629.2617
+,Total gross state product,,$ million – basic prices,2023-24,SA,,9480.5313
+,Total gross state product,,$ million – basic prices,2023-24,WA,,15925.6299
+,Total gross state product,,$ million – basic prices,2023-24,Tas,,4545.1753
+,Total gross state product,,$ million – basic prices,2023-24,NT,,3022.2534
+,Total gross state product,,$ million – basic prices,2023-24,ACT,,3203.7334
+,Total gross state product,,$ million – basic prices,2023-24,Total,,157964.9912
+,Total filled jobs,,'000,2016-17,NSW,,245.6725
+,Total filled jobs,,'000,2016-17,Vic,,221.4059
+,Total filled jobs,,'000,2016-17,Qld,,198.1281
+,Total filled jobs,,'000,2016-17,SA,,56.5575
+,Total filled jobs,,'000,2016-17,WA,,99.7505
+,Total filled jobs,,'000,2016-17,Tas,,39.2949
+,Total filled jobs,,'000,2016-17,NT,,15.5838
+,Total filled jobs,,'000,2016-17,ACT,,16.8823
+,Total filled jobs,,'000,2016-17,Total,,893.2755
+,Total filled jobs,,'000,2017-18,NSW,,277.1772
+,Total filled jobs,,'000,2017-18,Vic,,239.6565
+,Total filled jobs,,'000,2017-18,Qld,,219.6721
+,Total filled jobs,,'000,2017-18,SA,,59.3643
+,Total filled jobs,,'000,2017-18,WA,,89.4501
+,Total filled jobs,,'000,2017-18,Tas,,39.4788
+,Total filled jobs,,'000,2017-18,NT,,14.0261
+,Total filled jobs,,'000,2017-18,ACT,,18.7606
+,Total filled jobs,,'000,2017-18,Total,,957.5857
+,Total filled jobs,,'000,2018-19,NSW,,293.5693
+,Total filled jobs,,'000,2018-19,Vic,,261.4893
+,Total filled jobs,,'000,2018-19,Qld,,232.4726
+,Total filled jobs,,'000,2018-19,SA,,64.1058
+,Total filled jobs,,'000,2018-19,WA,,102.4915
+,Total filled jobs,,'000,2018-19,Tas,,45.0848
+,Total filled jobs,,'000,2018-19,NT,,15.6087
+,Total filled jobs,,'000,2018-19,ACT,,18.7007
+,Total filled jobs,,'000,2018-19,Total,,1033.5227000000002
+,Total filled jobs,,'000,2019-20,NSW,,241.7857
+,Total filled jobs,,'000,2019-20,Vic,,220.1461
+,Total filled jobs,,'000,2019-20,Qld,,197.6427
+,Total filled jobs,,'000,2019-20,SA,,57.7334
+,Total filled jobs,,'000,2019-20,WA,,92.5492
+,Total filled jobs,,'000,2019-20,Tas,,37.452
+,Total filled jobs,,'000,2019-20,NT,,12.1176
+,Total filled jobs,,'000,2019-20,ACT,,14.6353
+,Total filled jobs,,'000,2019-20,Total,,874.062
+,Total filled jobs,,'000,2020-21,NSW,,178.2957
+,Total filled jobs,,'000,2020-21,Vic,,109.0992
+,Total filled jobs,,'000,2020-21,Qld,,156.771
+,Total filled jobs,,'000,2020-21,SA,,51.2076
+,Total filled jobs,,'000,2020-21,WA,,72.9478
+,Total filled jobs,,'000,2020-21,Tas,,32.0391
+,Total filled jobs,,'000,2020-21,NT,,9.5636
+,Total filled jobs,,'000,2020-21,ACT,,10.539
+,Total filled jobs,,'000,2020-21,Total,,620.4629999999999
+,Total filled jobs,,'000,2021-22,NSW,,163.9048
+,Total filled jobs,,'000,2021-22,Vic,,156.7572
+,Total filled jobs,,'000,2021-22,Qld,,182.7332
+,Total filled jobs,,'000,2021-22,SA,,48.0678
+,Total filled jobs,,'000,2021-22,WA,,80.5681
+,Total filled jobs,,'000,2021-22,Tas,,35.5757
+,Total filled jobs,,'000,2021-22,NT,,11.7394
+,Total filled jobs,,'000,2021-22,ACT,,11.2137
+,Total filled jobs,,'000,2021-22,Total,,690.5599000000001
+,Total filled jobs,,'000,2022-23,NSW,,299.9641
+,Total filled jobs,,'000,2022-23,Vic,,266.4879
+,Total filled jobs,,'000,2022-23,Qld,,269.6686
+,Total filled jobs,,'000,2022-23,SA,,72.5589
+,Total filled jobs,,'000,2022-23,WA,,114.4348
+,Total filled jobs,,'000,2022-23,Tas,,44.4615
+,Total filled jobs,,'000,2022-23,NT,,16.2872
+,Total filled jobs,,'000,2022-23,ACT,,21.1317
+,Total filled jobs,,'000,2022-23,Total,,1104.9947
+,Total filled jobs,,'000,2023-24,NSW,,328.2298
+,Total filled jobs,,'000,2023-24,Vic,,288.7722
+,Total filled jobs,,'000,2023-24,Qld,,276.8248
+,Total filled jobs,,'000,2023-24,SA,,71.4866
+,Total filled jobs,,'000,2023-24,WA,,120.1273
+,Total filled jobs,,'000,2023-24,Tas,,50.7788
+,Total filled jobs,,'000,2023-24,NT,,16.9571
+,Total filled jobs,,'000,2023-24,ACT,,22.1986
+,Total filled jobs,,'000,2023-24,Total,,1175.3752

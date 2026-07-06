@@ -1,0 +1,181 @@
+section,category,subcategory,unit,financial_year,state,measure,value
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,NSW,,1.8
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,Vic,,2.4
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,Qld,,2.8
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,SA,,4.9
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,WA,,1.7
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,Tas,,8.1
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,NT,,3.6
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,ACT,,0
+SHARE OF STATE TOTAL,Gross value added,"Agriculture, forestry and fishing",%,2023-24,Total,,2.4
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,NSW,,3.3
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,Vic,,0.9
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,Qld,,12.9
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,SA,,4
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,WA,,45.1
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,Tas,,3.8
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,NT,,25.8
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,ACT,,0.1
+SHARE OF STATE TOTAL,Gross value added,Mining,%,2023-24,Total,,12.2
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,NSW,,6
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,Vic,,7
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,Qld,,6.1
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,SA,,6.1
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,WA,,4.6
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,Tas,,5.3
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,NT,,2.5
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,ACT,,1.4
+SHARE OF STATE TOTAL,Gross value added,Manufacturing,%,2023-24,Total,,5.9
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,NSW,,7.6
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,Vic,,8.3
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,Qld,,7.9
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,SA,,8.2
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,WA,,5.8
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,Tas,,8
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,NT,,6.7
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,ACT,,6.6
+SHARE OF STATE TOTAL,Gross value added,Construction,%,2023-24,Total,,7.5
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,NSW,,10.3
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,Vic,,9.6
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,Qld,,5.3
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,SA,,7.3
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,WA,,3.3
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,Tas,,5.4
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,NT,,2.4
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,ACT,,2.9
+SHARE OF STATE TOTAL,Gross value added,Financial and insurance services,%,2023-24,Total,,7.5
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,NSW,,9.5
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,Vic,,9.4
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,Qld,,6.6
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,SA,,5.9
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,WA,,4.7
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,Tas,,3.5
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,NT,,3
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,ACT,,11.1
+SHARE OF STATE TOTAL,Gross value added,"Professional, scientific and technical services",%,2023-24,Total,,7.8
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,NSW,,5.2
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,Vic,,5.6
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,Qld,,5
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,SA,,6.1
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,WA,,2.7
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,Tas,,6.4
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,NT,,5.2
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,ACT,,5.7
+SHARE OF STATE TOTAL,Gross value added,Education & training,%,2023-24,Total,,4.9
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,NSW,,7.8
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,Vic,,9.7
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,Qld,,9.3
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,SA,,12.1
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,WA,,5.2
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,Tas,,15.6
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,NT,,9.1
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,ACT,,9.3
+SHARE OF STATE TOTAL,Gross value added,Health care & social assistance,%,2023-24,Total,,8.5
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,NSW,,2.6502201211637604
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,Vic,,2.7003793567136154
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,Qld,,3.275716810272712
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,SA,,2.731172931133107
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,WA,,1.500913319027442
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,Tas,,4.797039355312841
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,NT,,3.8454163633486314
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,ACT,,2.5331770105390397
+SHARE OF STATE TOTAL,Gross value added,Tourism – direct,%,2023-24,Total,,2.629938109711554
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,NSW,,5.47025007087135
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,Vic,,5.564827490039133
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,Qld,,6.792317320562155
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,SA,,5.717984968176848
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,WA,,3.144812212442489
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,Tas,,10.05452522743975
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,NT,,7.946510523817059
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,ACT,,5.22528632946776
+SHARE OF STATE TOTAL,Gross value added,Tourism – total,%,2023-24,Total,,5.447414811035824
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,NSW,,2.2
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,Vic,,2.6
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,Qld,,3.7
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,SA,,4.9
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,WA,,3.5
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,Tas,,9.5
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,NT,,3.9
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,ACT,,0.3
+SHARE OF STATE TOTAL,Filled jobs,"Agriculture, forestry and fishing",%,2023-24,Total,,3.1
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,NSW,,0.7
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,Vic,,0.3
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,Qld,,1.8
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,SA,,1.3
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,WA,,6.2
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,Tas,,1
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,NT,,1.6
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,ACT,,0.1
+SHARE OF STATE TOTAL,Filled jobs,Mining,%,2023-24,Total,,1.4
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,NSW,,5.4
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,Vic,,6.5
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,Qld,,5.7
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,SA,,7
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,WA,,5.4
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,Tas,,6.4
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,NT,,2.3
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,ACT,,1.9
+SHARE OF STATE TOTAL,Filled jobs,Manufacturing,%,2023-24,Total,,5.8
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,NSW,,8.4
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,Vic,,7.5
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,Qld,,8
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,SA,,6.4
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,WA,,7.8
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,Tas,,7.2
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,NT,,8.4
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,ACT,,6.4
+SHARE OF STATE TOTAL,Filled jobs,Construction,%,2023-24,Total,,7.8
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,NSW,,4.5
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,Vic,,3.5
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,Qld,,2.4
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,SA,,2.8
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,WA,,2.2
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,Tas,,2.3
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,NT,,1.1
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,ACT,,1.5
+SHARE OF STATE TOTAL,Filled jobs,Financial and insurance services,%,2023-24,Total,,3.3
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,NSW,,8.9
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,Vic,,8.2
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,Qld,,7
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,SA,,6.3
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,WA,,7.4
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,Tas,,4.6
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,NT,,4.8
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,ACT,,11.4
+SHARE OF STATE TOTAL,Filled jobs,"Professional, scientific and technical services",%,2023-24,Total,,7.9
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,NSW,,8.4
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,Vic,,7.9
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,Qld,,7.8
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,SA,,8.8
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,WA,,8.7
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,Tas,,10.3
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,NT,,8.2
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,ACT,,6.9
+SHARE OF STATE TOTAL,Filled jobs,Education & training,%,2023-24,Total,,8.2
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,NSW,,15.2
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,Vic,,14.9
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,Qld,,16.2
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,SA,,16.7
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,WA,,14.4
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,Tas,,16
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,NT,,21.4
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,ACT,,10.2
+SHARE OF STATE TOTAL,Filled jobs,Health care & social assistance,%,2023-24,Total,,15.3
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,NSW,,3.9387190456228245
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,Vic,,4.490582126931769
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,Qld,,4.97070295073609
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,SA,,4.074906330353863
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,WA,,4.371571589627959
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,Tas,,7.00727524417442
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,NT,,5.133612363168061
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,ACT,,4.168289860233242
+SHARE OF STATE TOTAL,Filled jobs,Tourism – direct,%,2023-24,Total,,4.425323859791148
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,NSW,,6.631139484729258
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,Vic,,7.0557009345794395
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,Qld,,8.821133133643489
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,SA,,7.002483163952491
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,WA,,7.222986847049981
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,Tas,,15.620641390448355
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,NT,,10.918931101094655
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,ACT,,7.904780557286566
+SHARE OF STATE TOTAL,Filled jobs,Tourism – total,%,2023-24,Total,,7.521931911448725
