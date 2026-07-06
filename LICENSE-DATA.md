@@ -8,6 +8,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **SA Department for Education data** (school locations): "Contains data from the SA Department for Education, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **Australian Bureau of Statistics data** (ASGS, SEIFA): "Contains data from the Australian Bureau of Statistics, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **data.sa.gov.au generally**: © Government of South Australia, licensed under CC BY 4.0.
+- **Adelaide Metro / Department for Infrastructure and Transport data** (GTFS transit feed): "Adelaide Metro - Department of Planning Transport and Infrastructure, South Australia", licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0).
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
