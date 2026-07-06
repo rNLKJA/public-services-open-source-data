@@ -16,6 +16,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **South Australian Skills Commission data** (Training Contract commencements, completions, in-training): "Contains data from the South Australian Skills Commission, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **Department for Infrastructure and Transport data** (Road Crash Data): "Contains data from the Department for Infrastructure and Transport, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **Environment Protection Authority (EPA) data** (Air Quality Monitoring, station locations and network data): "Contains data from the Environment Protection Authority, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
+- **Australian Bureau of Statistics data** (Prisoners in Australia, 2025): "Contains data from the Australian Bureau of Statistics, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 

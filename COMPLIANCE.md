@@ -24,8 +24,8 @@ The one dataset here with row-level (not pre-aggregated) records is `sa-expiatio
 ## FAIR principles checklist
 
 - **Findable** — every dataset folder has a README naming the exact source dataset, its publisher, and a stable landing-page URL; source datasets carry their own CKAN dataset IDs.
-- **Accessible** — all sources are open, unauthenticated HTTP(S); most also expose a machine-readable API (CKAN `datastore_search` / `datastore_search_sql`) documented in `scripts/`, not just a file download.
-- **Interoperable** — data kept in standard formats (CSV, GeoJSON, JSON) with documented field dictionaries; suburb and LGA names are the join keys back to ABS ASGS geography.
+- **Accessible** — all sources are open, unauthenticated HTTP(S); most also expose a machine-readable API (CKAN `datastore_search` / `datastore_search_sql`) documented in `scripts/`, not just a file download. Each dataset folder also carries a `data/` subfolder with a ready-to-use file, so accessing the data doesn't require unzipping, format-converting, or joining source files by hand.
+- **Interoperable** — data kept in standard formats (CSV, GeoJSON, JSON) with documented field dictionaries; suburb and LGA names are the join keys back to ABS ASGS geography. Where a source splits one dataset across multiple files, the `data/` version merges them into a single tidy table.
 - **Reusable** — CC BY 4.0 licensing with clear attribution, retrieval dates stamped on every mirrored file, and known limitations (schema changes, coverage gaps) documented rather than silently absorbed.
 
 ## Known gaps (documented, not hidden)
