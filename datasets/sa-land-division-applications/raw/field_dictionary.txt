@@ -1,0 +1,48 @@
+SA Land Division Applications — field dictionary
+Derived directly from the shapefile's own DBF header (LandDivisionApplications_GDA94.dbf),
+since the CKAN-linked metadata page (lms.dit.sa.gov.au / location.sa.gov.au/LMS/Reports/ReportMetadata.aspx)
+is hosted on an internal-only SA government network host and did not respond from this
+sandbox (DNS resolves to private 10.x addresses; connection timed out). Field purposes below
+are inferred from field names and standard SA land-division terminology (Development Act 1993 /
+Planning, Development and Infrastructure Act 2016) where not self-evident — flagged accordingly.
+
+Field name   Type  Length  Likely meaning
+-----------  ----  ------  ---------------------------------------------------------------
+edalaid      N     10      EDALA (Electronic Development Assessment and Land Application) record ID
+stageno      N     9       Stage number (land divisions may be lodged/approved in stages)
+purpose      C     5       Purpose code (short code, values not separately published)
+lotno        N     9       Lot number (proposed/created allotment)
+pieceno      N     9       Piece number (cadastral piece reference)
+created      D     8       Record created date (system date, not application date)
+modified     D     8       Record last modified date (system date)
+devno        C     50      Development application number
+appstatus    C     50      Application status (e.g. Lodged / Approved / Refused / Withdrawn / Deposited / Lapsed)
+apptyp       C     50      Application type
+lodged       D     8       Date application lodged
+appdevtyp    C     16      Application development type
+appclstyp    C     9       Application class type
+apvldecnd    D     8       Approval decision date
+decnrsltyp   C     50      Decision result type
+coalodged    D     8       Certificate of Approval to Divide — lodged date
+coacrtissd   D     8       Certificate of Approval — certificate issued date
+coawdd       D     8       Certificate of Approval — withdrawn date
+depd         D     8       Deposited date (plan deposited with the Lands Titles Office)
+depplanno    C     6       Deposited plan number
+coalapd      D     8       Certificate of Approval — lapsed date
+stagedtyp    C     20      Stage type
+stagestatu   C     50      Stage status
+decnoverd    D     8       Decision override date
+decnoverrs   C     50      Decision override reason
+appwdd       D     8       Application withdrawn date
+applapd      D     8       Application lapsed date
+propstatus   C     20      Proposal status
+shape_Leng   N     24      Polygon perimeter length (GIS-calculated, decimal degrees)
+shape_Area   N     24      Polygon area (GIS-calculated, decimal degrees)
+
+No field contains an applicant name, land-owner name, street address, or any other
+individual-identifying value — records are keyed by development/application number,
+lot/piece/deposited-plan cadastral references, dates and status codes only.
+
+Record count at retrieval (GDA94 layer, 6 July 2026): 559,615 land division application records.
+The archive bundles two identical copies of the same records in different coordinate reference
+systems (GDA94 and GDA2020) — same field list and record count in both.
