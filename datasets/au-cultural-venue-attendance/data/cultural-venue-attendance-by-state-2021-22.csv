@@ -1,0 +1,433 @@
+state,venue_or_event_type,measure,value
+NSW,Libraries or archives,estimate_000,1206.8
+Vic.,Libraries or archives,estimate_000,953.3
+Qld,Libraries or archives,estimate_000,941.3
+SA,Libraries or archives,estimate_000,358.9
+WA,Libraries or archives,estimate_000,494.9
+Tas.,Libraries or archives,estimate_000,106.4
+NT,Libraries or archives,estimate_000,32.1
+ACT,Libraries or archives,estimate_000,66.8
+Australia,Libraries or archives,estimate_000,4155.9
+NSW,Art galleries,estimate_000,1061.8
+Vic.,Art galleries,estimate_000,985
+Qld,Art galleries,estimate_000,783.4
+SA,Art galleries,estimate_000,267.2
+WA,Art galleries,estimate_000,371
+Tas.,Art galleries,estimate_000,105
+NT,Art galleries,estimate_000,34.7
+ACT,Art galleries,estimate_000,108.7
+Australia,Art galleries,estimate_000,3720.6
+NSW,Museums,estimate_000,939.1
+Vic.,Museums,estimate_000,709.5
+Qld,Museums,estimate_000,745.1
+SA,Museums,estimate_000,277.4
+WA,Museums,estimate_000,582
+Tas.,Museums,estimate_000,111.9
+NT,Museums,estimate_000,45.2
+ACT,Museums,estimate_000,104.1
+Australia,Museums,estimate_000,3506.3
+NSW,Cinemas,estimate_000,2830
+Vic.,Cinemas,estimate_000,2219
+Qld,Cinemas,estimate_000,1828.3
+SA,Cinemas,estimate_000,651.3
+WA,Cinemas,estimate_000,1009.1
+Tas.,Cinemas,estimate_000,192.5
+NT,Cinemas,estimate_000,66.8
+ACT,Cinemas,estimate_000,159.4
+Australia,Cinemas,estimate_000,8954.2
+NSW,Live music concerts or performances,estimate_000,1002
+Vic.,Live music concerts or performances,estimate_000,844.5
+Qld,Live music concerts or performances,estimate_000,761.8
+SA,Live music concerts or performances,estimate_000,277.9
+WA,Live music concerts or performances,estimate_000,478.4
+Tas.,Live music concerts or performances,estimate_000,109.5
+NT,Live music concerts or performances,estimate_000,39.3
+ACT,Live music concerts or performances,estimate_000,59
+Australia,Live music concerts or performances,estimate_000,3578.7
+NSW,Musicals or operas,estimate_000,501.1
+Vic.,Musicals or operas,estimate_000,298.4
+Qld,Musicals or operas,estimate_000,300.4
+SA,Musicals or operas,estimate_000,80.8
+WA,Musicals or operas,estimate_000,179
+Tas.,Musicals or operas,estimate_000,27
+NT,Musicals or operas,estimate_000,6.1
+ACT,Musicals or operas,estimate_000,32.4
+Australia,Musicals or operas,estimate_000,1427
+NSW,Theatre performances,estimate_000,495.2
+Vic.,Theatre performances,estimate_000,361.5
+Qld,Theatre performances,estimate_000,345
+SA,Theatre performances,estimate_000,125
+WA,Theatre performances,estimate_000,203.3
+Tas.,Theatre performances,estimate_000,47.4
+NT,Theatre performances,estimate_000,11.1
+ACT,Theatre performances,estimate_000,37.7
+Australia,Theatre performances,estimate_000,1624
+NSW,Dance performances,estimate_000,281.5
+Vic.,Dance performances,estimate_000,187.8
+Qld,Dance performances,estimate_000,256.5
+SA,Dance performances,estimate_000,96.9
+WA,Dance performances,estimate_000,168.1
+Tas.,Dance performances,estimate_000,25
+NT,Dance performances,estimate_000,13.7
+ACT,Dance performances,estimate_000,22.4
+Australia,Dance performances,estimate_000,1045.9
+NSW,Other performing arts,estimate_000,414.7
+Vic.,Other performing arts,estimate_000,396.4
+Qld,Other performing arts,estimate_000,344.9
+SA,Other performing arts,estimate_000,228.4
+WA,Other performing arts,estimate_000,261.8
+Tas.,Other performing arts,estimate_000,42.8
+NT,Other performing arts,estimate_000,22.9
+ACT,Other performing arts,estimate_000,36
+Australia,Other performing arts,estimate_000,1747.7
+NSW,Total attending at least one performing arts event,estimate_000,1731.1
+Vic.,Total attending at least one performing arts event,estimate_000,1391.7
+Qld,Total attending at least one performing arts event,estimate_000,1287.3
+SA,Total attending at least one performing arts event,estimate_000,494.6
+WA,Total attending at least one performing arts event,estimate_000,778
+Tas.,Total attending at least one performing arts event,estimate_000,164.9
+NT,Total attending at least one performing arts event,estimate_000,57
+ACT,Total attending at least one performing arts event,estimate_000,122.9
+Australia,Total attending at least one performing arts event,estimate_000,6023.2
+NSW,Total attending at least one venue or event,estimate_000,3977.8
+Vic.,Total attending at least one venue or event,estimate_000,3198.6
+Qld,Total attending at least one venue or event,estimate_000,2680.3
+SA,Total attending at least one venue or event,estimate_000,986.4
+WA,Total attending at least one venue or event,estimate_000,1494
+Tas.,Total attending at least one venue or event,estimate_000,315.7
+NT,Total attending at least one venue or event,estimate_000,101
+ACT,Total attending at least one venue or event,estimate_000,250.6
+Australia,Total attending at least one venue or event,estimate_000,13005.5
+NSW,Total population aged 15 years and over,estimate_000,6430.8
+Vic.,Total population aged 15 years and over,estimate_000,5253.7
+Qld,Total population aged 15 years and over,estimate_000,4135.7
+SA,Total population aged 15 years and over,estimate_000,1454.1
+WA,Total population aged 15 years and over,estimate_000,2154.7
+Tas.,Total population aged 15 years and over,estimate_000,464.1
+NT,Total population aged 15 years and over,estimate_000,146.7
+ACT,Total population aged 15 years and over,estimate_000,350
+Australia,Total population aged 15 years and over,estimate_000,20390
+NSW,Libraries or archives,attendance_rate_pct,18.8
+Vic.,Libraries or archives,attendance_rate_pct,18.1
+Qld,Libraries or archives,attendance_rate_pct,22.8
+SA,Libraries or archives,attendance_rate_pct,24.7
+WA,Libraries or archives,attendance_rate_pct,23
+Tas.,Libraries or archives,attendance_rate_pct,22.9
+NT,Libraries or archives,attendance_rate_pct,21.9
+ACT,Libraries or archives,attendance_rate_pct,19.1
+Australia,Libraries or archives,attendance_rate_pct,20.4
+NSW,Art galleries,attendance_rate_pct,16.5
+Vic.,Art galleries,attendance_rate_pct,18.7
+Qld,Art galleries,attendance_rate_pct,18.9
+SA,Art galleries,attendance_rate_pct,18.4
+WA,Art galleries,attendance_rate_pct,17.2
+Tas.,Art galleries,attendance_rate_pct,22.6
+NT,Art galleries,attendance_rate_pct,23.7
+ACT,Art galleries,attendance_rate_pct,31.1
+Australia,Art galleries,attendance_rate_pct,18.2
+NSW,Museums,attendance_rate_pct,14.6
+Vic.,Museums,attendance_rate_pct,13.5
+Qld,Museums,attendance_rate_pct,18
+SA,Museums,attendance_rate_pct,19.1
+WA,Museums,attendance_rate_pct,27
+Tas.,Museums,attendance_rate_pct,24.1
+NT,Museums,attendance_rate_pct,30.8
+ACT,Museums,attendance_rate_pct,29.7
+Australia,Museums,attendance_rate_pct,17.2
+NSW,Cinemas,attendance_rate_pct,44
+Vic.,Cinemas,attendance_rate_pct,42.2
+Qld,Cinemas,attendance_rate_pct,44.2
+SA,Cinemas,attendance_rate_pct,44.8
+WA,Cinemas,attendance_rate_pct,46.8
+Tas.,Cinemas,attendance_rate_pct,41.5
+NT,Cinemas,attendance_rate_pct,45.5
+ACT,Cinemas,attendance_rate_pct,45.5
+Australia,Cinemas,attendance_rate_pct,43.9
+NSW,Live music concerts or performances,attendance_rate_pct,15.6
+Vic.,Live music concerts or performances,attendance_rate_pct,16.1
+Qld,Live music concerts or performances,attendance_rate_pct,18.4
+SA,Live music concerts or performances,attendance_rate_pct,19.1
+WA,Live music concerts or performances,attendance_rate_pct,22.2
+Tas.,Live music concerts or performances,attendance_rate_pct,23.6
+NT,Live music concerts or performances,attendance_rate_pct,26.8
+ACT,Live music concerts or performances,attendance_rate_pct,16.9
+Australia,Live music concerts or performances,attendance_rate_pct,17.6
+NSW,Musicals or operas,attendance_rate_pct,7.8
+Vic.,Musicals or operas,attendance_rate_pct,5.7
+Qld,Musicals or operas,attendance_rate_pct,7.3
+SA,Musicals or operas,attendance_rate_pct,5.6
+WA,Musicals or operas,attendance_rate_pct,8.3
+Tas.,Musicals or operas,attendance_rate_pct,5.8
+NT,Musicals or operas,attendance_rate_pct,4.2
+ACT,Musicals or operas,attendance_rate_pct,9.3
+Australia,Musicals or operas,attendance_rate_pct,7
+NSW,Theatre performances,attendance_rate_pct,7.7
+Vic.,Theatre performances,attendance_rate_pct,6.9
+Qld,Theatre performances,attendance_rate_pct,8.3
+SA,Theatre performances,attendance_rate_pct,8.6
+WA,Theatre performances,attendance_rate_pct,9.4
+Tas.,Theatre performances,attendance_rate_pct,10.2
+NT,Theatre performances,attendance_rate_pct,7.6
+ACT,Theatre performances,attendance_rate_pct,10.8
+Australia,Theatre performances,attendance_rate_pct,8
+NSW,Dance performances,attendance_rate_pct,4.4
+Vic.,Dance performances,attendance_rate_pct,3.6
+Qld,Dance performances,attendance_rate_pct,6.2
+SA,Dance performances,attendance_rate_pct,6.7
+WA,Dance performances,attendance_rate_pct,7.8
+Tas.,Dance performances,attendance_rate_pct,5.4
+NT,Dance performances,attendance_rate_pct,9.3
+ACT,Dance performances,attendance_rate_pct,6.4
+Australia,Dance performances,attendance_rate_pct,5.1
+NSW,Other performing arts,attendance_rate_pct,6.4
+Vic.,Other performing arts,attendance_rate_pct,7.5
+Qld,Other performing arts,attendance_rate_pct,8.3
+SA,Other performing arts,attendance_rate_pct,15.7
+WA,Other performing arts,attendance_rate_pct,12.2
+Tas.,Other performing arts,attendance_rate_pct,9.2
+NT,Other performing arts,attendance_rate_pct,15.6
+ACT,Other performing arts,attendance_rate_pct,10.3
+Australia,Other performing arts,attendance_rate_pct,8.6
+NSW,Total attending at least one performing arts event,attendance_rate_pct,26.9
+Vic.,Total attending at least one performing arts event,attendance_rate_pct,26.5
+Qld,Total attending at least one performing arts event,attendance_rate_pct,31.1
+SA,Total attending at least one performing arts event,attendance_rate_pct,34
+WA,Total attending at least one performing arts event,attendance_rate_pct,36.1
+Tas.,Total attending at least one performing arts event,attendance_rate_pct,35.5
+NT,Total attending at least one performing arts event,attendance_rate_pct,38.9
+ACT,Total attending at least one performing arts event,attendance_rate_pct,35.1
+Australia,Total attending at least one performing arts event,attendance_rate_pct,29.5
+NSW,Total attending at least one venue or event,attendance_rate_pct,61.9
+Vic.,Total attending at least one venue or event,attendance_rate_pct,60.9
+Qld,Total attending at least one venue or event,attendance_rate_pct,64.8
+SA,Total attending at least one venue or event,attendance_rate_pct,67.8
+WA,Total attending at least one venue or event,attendance_rate_pct,69.3
+Tas.,Total attending at least one venue or event,attendance_rate_pct,68
+NT,Total attending at least one venue or event,attendance_rate_pct,68.8
+ACT,Total attending at least one venue or event,attendance_rate_pct,71.6
+Australia,Total attending at least one venue or event,attendance_rate_pct,63.8
+NSW,Total population aged 15 years and over,attendance_rate_pct,100
+Vic.,Total population aged 15 years and over,attendance_rate_pct,100
+Qld,Total population aged 15 years and over,attendance_rate_pct,100
+SA,Total population aged 15 years and over,attendance_rate_pct,100
+WA,Total population aged 15 years and over,attendance_rate_pct,100
+Tas.,Total population aged 15 years and over,attendance_rate_pct,100
+NT,Total population aged 15 years and over,attendance_rate_pct,100
+ACT,Total population aged 15 years and over,attendance_rate_pct,100
+Australia,Total population aged 15 years and over,attendance_rate_pct,100
+NSW,Libraries or archives,rse_pct,3.2
+Vic.,Libraries or archives,rse_pct,3.8
+Qld,Libraries or archives,rse_pct,2.5
+SA,Libraries or archives,rse_pct,4.1
+WA,Libraries or archives,rse_pct,3.8
+Tas.,Libraries or archives,rse_pct,4.2
+NT,Libraries or archives,rse_pct,9.6
+ACT,Libraries or archives,rse_pct,9
+Australia,Libraries or archives,rse_pct,1.6
+NSW,Art galleries,rse_pct,3.4
+Vic.,Art galleries,rse_pct,4.3
+Qld,Art galleries,rse_pct,4.4
+SA,Art galleries,rse_pct,4.9
+WA,Art galleries,rse_pct,5.7
+Tas.,Art galleries,rse_pct,4.7
+NT,Art galleries,rse_pct,7.1
+ACT,Art galleries,rse_pct,6.4
+Australia,Art galleries,rse_pct,2
+NSW,Museums,rse_pct,3.1
+Vic.,Museums,rse_pct,4.4
+Qld,Museums,rse_pct,3.9
+SA,Museums,rse_pct,4.3
+WA,Museums,rse_pct,3.6
+Tas.,Museums,rse_pct,4.7
+NT,Museums,rse_pct,6
+ACT,Museums,rse_pct,5.7
+Australia,Museums,rse_pct,1.6
+NSW,Cinemas,rse_pct,1.5
+Vic.,Cinemas,rse_pct,1.8
+Qld,Cinemas,rse_pct,2.4
+SA,Cinemas,rse_pct,1.9
+WA,Cinemas,rse_pct,2.7
+Tas.,Cinemas,rse_pct,2.6
+NT,Cinemas,rse_pct,5
+ACT,Cinemas,rse_pct,5.3
+Australia,Cinemas,rse_pct,0.8
+NSW,Live music concerts or performances,rse_pct,3.8
+Vic.,Live music concerts or performances,rse_pct,4.6
+Qld,Live music concerts or performances,rse_pct,4.3
+SA,Live music concerts or performances,rse_pct,5.1
+WA,Live music concerts or performances,rse_pct,4.7
+Tas.,Live music concerts or performances,rse_pct,3.8
+NT,Live music concerts or performances,rse_pct,8.6
+ACT,Live music concerts or performances,rse_pct,11.1
+Australia,Live music concerts or performances,rse_pct,1.9
+NSW,Musicals or operas,rse_pct,5.3
+Vic.,Musicals or operas,rse_pct,5.8
+Qld,Musicals or operas,rse_pct,7
+SA,Musicals or operas,rse_pct,9.7
+WA,Musicals or operas,rse_pct,7.7
+Tas.,Musicals or operas,rse_pct,10.2
+NT,Musicals or operas,rse_pct,20.1
+ACT,Musicals or operas,rse_pct,11.6
+Australia,Musicals or operas,rse_pct,2.1
+NSW,Theatre performances,rse_pct,5.3
+Vic.,Theatre performances,rse_pct,6.8
+Qld,Theatre performances,rse_pct,6.9
+SA,Theatre performances,rse_pct,6.6
+WA,Theatre performances,rse_pct,7.4
+Tas.,Theatre performances,rse_pct,7.8
+NT,Theatre performances,rse_pct,16
+ACT,Theatre performances,rse_pct,16.7
+Australia,Theatre performances,rse_pct,2.6
+NSW,Dance performances,rse_pct,8.1
+Vic.,Dance performances,rse_pct,10.4
+Qld,Dance performances,rse_pct,6.9
+SA,Dance performances,rse_pct,7.4
+WA,Dance performances,rse_pct,7.8
+Tas.,Dance performances,rse_pct,10
+NT,Dance performances,rse_pct,13.1
+ACT,Dance performances,rse_pct,16.2
+Australia,Dance performances,rse_pct,3.5
+NSW,Other performing arts,rse_pct,5.7
+Vic.,Other performing arts,rse_pct,8.2
+Qld,Other performing arts,rse_pct,7.1
+SA,Other performing arts,rse_pct,6.6
+WA,Other performing arts,rse_pct,6.8
+Tas.,Other performing arts,rse_pct,6.6
+NT,Other performing arts,rse_pct,9.2
+ACT,Other performing arts,rse_pct,13.2
+Australia,Other performing arts,rse_pct,3.1
+NSW,Total attending at least one performing arts event,rse_pct,2.4
+Vic.,Total attending at least one performing arts event,rse_pct,3.5
+Qld,Total attending at least one performing arts event,rse_pct,2.9
+SA,Total attending at least one performing arts event,rse_pct,3.2
+WA,Total attending at least one performing arts event,rse_pct,3.1
+Tas.,Total attending at least one performing arts event,rse_pct,3
+NT,Total attending at least one performing arts event,rse_pct,5.4
+ACT,Total attending at least one performing arts event,rse_pct,6.8
+Australia,Total attending at least one performing arts event,rse_pct,1.2
+NSW,Total attending at least one venue or event,rse_pct,1.2
+Vic.,Total attending at least one venue or event,rse_pct,1.3
+Qld,Total attending at least one venue or event,rse_pct,1.6
+SA,Total attending at least one venue or event,rse_pct,1.4
+WA,Total attending at least one venue or event,rse_pct,1.4
+Tas.,Total attending at least one venue or event,rse_pct,2
+NT,Total attending at least one venue or event,rse_pct,2.9
+ACT,Total attending at least one venue or event,rse_pct,2.9
+Australia,Total attending at least one venue or event,rse_pct,0.6
+NSW,Total population aged 15 years and over,rse_pct,0
+Vic.,Total population aged 15 years and over,rse_pct,0
+Qld,Total population aged 15 years and over,rse_pct,0.1
+SA,Total population aged 15 years and over,rse_pct,0.1
+WA,Total population aged 15 years and over,rse_pct,0.1
+Tas.,Total population aged 15 years and over,rse_pct,0.1
+NT,Total population aged 15 years and over,rse_pct,0.2
+ACT,Total population aged 15 years and over,rse_pct,0.2
+Australia,Total population aged 15 years and over,rse_pct,0
+NSW,Libraries or archives,margin_of_error_pct_points,1.2
+Vic.,Libraries or archives,margin_of_error_pct_points,1.3
+Qld,Libraries or archives,margin_of_error_pct_points,1.1
+SA,Libraries or archives,margin_of_error_pct_points,2
+WA,Libraries or archives,margin_of_error_pct_points,1.7
+Tas.,Libraries or archives,margin_of_error_pct_points,1.9
+NT,Libraries or archives,margin_of_error_pct_points,4.1
+ACT,Libraries or archives,margin_of_error_pct_points,3.4
+Australia,Libraries or archives,margin_of_error_pct_points,0.6
+NSW,Art galleries,margin_of_error_pct_points,1.1
+Vic.,Art galleries,margin_of_error_pct_points,1.6
+Qld,Art galleries,margin_of_error_pct_points,1.6
+SA,Art galleries,margin_of_error_pct_points,1.8
+WA,Art galleries,margin_of_error_pct_points,1.9
+Tas.,Art galleries,margin_of_error_pct_points,2.1
+NT,Art galleries,margin_of_error_pct_points,3.3
+ACT,Art galleries,margin_of_error_pct_points,3.9
+Australia,Art galleries,margin_of_error_pct_points,0.7
+NSW,Museums,margin_of_error_pct_points,0.9
+Vic.,Museums,margin_of_error_pct_points,1.2
+Qld,Museums,margin_of_error_pct_points,1.4
+SA,Museums,margin_of_error_pct_points,1.6
+WA,Museums,margin_of_error_pct_points,1.9
+Tas.,Museums,margin_of_error_pct_points,2.2
+NT,Museums,margin_of_error_pct_points,3.6
+ACT,Museums,margin_of_error_pct_points,3.3
+Australia,Museums,margin_of_error_pct_points,0.5
+NSW,Cinemas,margin_of_error_pct_points,1.3
+Vic.,Cinemas,margin_of_error_pct_points,1.5
+Qld,Cinemas,margin_of_error_pct_points,2.1
+SA,Cinemas,margin_of_error_pct_points,1.7
+WA,Cinemas,margin_of_error_pct_points,2.5
+Tas.,Cinemas,margin_of_error_pct_points,2.1
+NT,Cinemas,margin_of_error_pct_points,4.5
+ACT,Cinemas,margin_of_error_pct_points,4.7
+Australia,Cinemas,margin_of_error_pct_points,0.7
+NSW,Live music concerts or performances,margin_of_error_pct_points,1.2
+Vic.,Live music concerts or performances,margin_of_error_pct_points,1.5
+Qld,Live music concerts or performances,margin_of_error_pct_points,1.6
+SA,Live music concerts or performances,margin_of_error_pct_points,1.9
+WA,Live music concerts or performances,margin_of_error_pct_points,2
+Tas.,Live music concerts or performances,margin_of_error_pct_points,1.8
+NT,Live music concerts or performances,margin_of_error_pct_points,4.5
+ACT,Live music concerts or performances,margin_of_error_pct_points,3.7
+Australia,Live music concerts or performances,margin_of_error_pct_points,0.7
+NSW,Musicals or operas,margin_of_error_pct_points,0.8
+Vic.,Musicals or operas,margin_of_error_pct_points,0.6
+Qld,Musicals or operas,margin_of_error_pct_points,1
+SA,Musicals or operas,margin_of_error_pct_points,1.1
+WA,Musicals or operas,margin_of_error_pct_points,1.3
+Tas.,Musicals or operas,margin_of_error_pct_points,1.2
+NT,Musicals or operas,margin_of_error_pct_points,1.7
+ACT,Musicals or operas,margin_of_error_pct_points,2.1
+Australia,Musicals or operas,margin_of_error_pct_points,0.3
+NSW,Theatre performances,margin_of_error_pct_points,0.8
+Vic.,Theatre performances,margin_of_error_pct_points,0.9
+Qld,Theatre performances,margin_of_error_pct_points,1.1
+SA,Theatre performances,margin_of_error_pct_points,1.1
+WA,Theatre performances,margin_of_error_pct_points,1.4
+Tas.,Theatre performances,margin_of_error_pct_points,1.6
+NT,Theatre performances,margin_of_error_pct_points,2.4
+ACT,Theatre performances,margin_of_error_pct_points,3.5
+Australia,Theatre performances,margin_of_error_pct_points,0.4
+NSW,Dance performances,margin_of_error_pct_points,0.7
+Vic.,Dance performances,margin_of_error_pct_points,0.7
+Qld,Dance performances,margin_of_error_pct_points,0.8
+SA,Dance performances,margin_of_error_pct_points,1
+WA,Dance performances,margin_of_error_pct_points,1.2
+Tas.,Dance performances,margin_of_error_pct_points,1.1
+NT,Dance performances,margin_of_error_pct_points,2.4
+ACT,Dance performances,margin_of_error_pct_points,2
+Australia,Dance performances,margin_of_error_pct_points,0.3
+NSW,Other performing arts,margin_of_error_pct_points,0.7
+Vic.,Other performing arts,margin_of_error_pct_points,1.2
+Qld,Other performing arts,margin_of_error_pct_points,1.2
+SA,Other performing arts,margin_of_error_pct_points,2
+WA,Other performing arts,margin_of_error_pct_points,1.6
+Tas.,Other performing arts,margin_of_error_pct_points,1.2
+NT,Other performing arts,margin_of_error_pct_points,2.8
+ACT,Other performing arts,margin_of_error_pct_points,2.7
+Australia,Other performing arts,margin_of_error_pct_points,0.5
+NSW,Total attending at least one performing arts event,margin_of_error_pct_points,1.3
+Vic.,Total attending at least one performing arts event,margin_of_error_pct_points,1.8
+Qld,Total attending at least one performing arts event,margin_of_error_pct_points,1.8
+SA,Total attending at least one performing arts event,margin_of_error_pct_points,2.1
+WA,Total attending at least one performing arts event,margin_of_error_pct_points,2.2
+Tas.,Total attending at least one performing arts event,margin_of_error_pct_points,2.1
+NT,Total attending at least one performing arts event,margin_of_error_pct_points,4.1
+ACT,Total attending at least one performing arts event,margin_of_error_pct_points,4.7
+Australia,Total attending at least one performing arts event,margin_of_error_pct_points,0.7
+NSW,Total attending at least one venue or event,margin_of_error_pct_points,1.5
+Vic.,Total attending at least one venue or event,margin_of_error_pct_points,1.6
+Qld,Total attending at least one venue or event,margin_of_error_pct_points,2
+SA,Total attending at least one venue or event,margin_of_error_pct_points,1.9
+WA,Total attending at least one venue or event,margin_of_error_pct_points,1.9
+Tas.,Total attending at least one venue or event,margin_of_error_pct_points,2.7
+NT,Total attending at least one venue or event,margin_of_error_pct_points,3.9
+ACT,Total attending at least one venue or event,margin_of_error_pct_points,4.1
+Australia,Total attending at least one venue or event,margin_of_error_pct_points,0.8
+NSW,Total population aged 15 years and over,margin_of_error_pct_points,0
+Vic.,Total population aged 15 years and over,margin_of_error_pct_points,0
+Qld,Total population aged 15 years and over,margin_of_error_pct_points,0
+SA,Total population aged 15 years and over,margin_of_error_pct_points,0
+WA,Total population aged 15 years and over,margin_of_error_pct_points,0
+Tas.,Total population aged 15 years and over,margin_of_error_pct_points,0
+NT,Total population aged 15 years and over,margin_of_error_pct_points,0
+ACT,Total population aged 15 years and over,margin_of_error_pct_points,0
+Australia,Total population aged 15 years and over,margin_of_error_pct_points,0
