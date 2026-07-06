@@ -1,0 +1,385 @@
+category,unit,breakdown,value
+NSW > 2024-25,ratio,Notifications,2.82
+NSW > 2024-25,ratio,Commencing IFSS,4.67
+NSW > 2024-25,ratio,Finalised investigations,4.14
+NSW > 2024-25,ratio,Substantiations,4.47
+NSW > 2024-25,ratio,Care and protection orders,5.76
+NSW > 2024-25,ratio,Out-of-home care,5.98
+NSW > 2023-24,ratio,Notifications,2.87
+NSW > 2023-24,ratio,Commencing IFSS,4.65
+NSW > 2023-24,ratio,Finalised investigations,4.13
+NSW > 2023-24,ratio,Substantiations,4.47
+NSW > 2023-24,ratio,Care and protection orders,5.6
+NSW > 2023-24,ratio,Out-of-home care,5.8
+NSW > 2022-23,ratio,Notifications,2.89
+NSW > 2022-23,ratio,Commencing IFSS,4.81
+NSW > 2022-23,ratio,Finalised investigations,3.97
+NSW > 2022-23,ratio,Substantiations,4.27
+NSW > 2022-23,ratio,Care and protection orders,5.54
+NSW > 2022-23,ratio,Out-of-home care,5.77
+NSW > 2021-22,ratio,Notifications,2.92
+NSW > 2021-22,ratio,Commencing IFSS,4.83
+NSW > 2021-22,ratio,Finalised investigations,4.16
+NSW > 2021-22,ratio,Substantiations,4.34
+NSW > 2021-22,ratio,Care and protection orders,5.49
+NSW > 2021-22,ratio,Out-of-home care,5.67
+NSW > 2020-21,ratio,Notifications,2.74
+NSW > 2020-21,ratio,Commencing IFSS,4.33
+NSW > 2020-21,ratio,Finalised investigations,4.09
+NSW > 2020-21,ratio,Substantiations,4.28
+NSW > 2020-21,ratio,Care and protection orders,5.4
+NSW > 2020-21,ratio,Out-of-home care,5.6
+NSW > 2019-20,ratio,Notifications,2.8
+NSW > 2019-20,ratio,Commencing IFSS,4.17
+NSW > 2019-20,ratio,Finalised investigations,4.13
+NSW > 2019-20,ratio,Substantiations,4.38
+NSW > 2019-20,ratio,Care and protection orders,5.28
+NSW > 2019-20,ratio,Out-of-home care,5.43
+NSW > 2018-19,ratio,Notifications,2.65
+NSW > 2018-19,ratio,Commencing IFSS,4.22
+NSW > 2018-19,ratio,Finalised investigations,3.65
+NSW > 2018-19,ratio,Substantiations,3.77
+NSW > 2018-19,ratio,Care and protection orders,5.1
+NSW > 2018-19,ratio,Out-of-home care,5.26
+NSW > 2017-18,ratio,Notifications,2.64
+NSW > 2017-18,ratio,Commencing IFSS,4.24
+NSW > 2017-18,ratio,Finalised investigations,na
+NSW > 2017-18,ratio,Substantiations,na
+NSW > 2017-18,ratio,Care and protection orders,4.93
+NSW > 2017-18,ratio,Out-of-home care,5.12
+Vic > 2024-25,ratio,Notifications,4.18
+Vic > 2024-25,ratio,Commencing IFSS,12.36
+Vic > 2024-25,ratio,Finalised investigations,6.26
+Vic > 2024-25,ratio,Substantiations,7.13
+Vic > 2024-25,ratio,Care and protection orders,12.59
+Vic > 2024-25,ratio,Out-of-home care,15.01
+Vic > 2023-24,ratio,Notifications,4.14
+Vic > 2023-24,ratio,Commencing IFSS,12.09
+Vic > 2023-24,ratio,Finalised investigations,6.02
+Vic > 2023-24,ratio,Substantiations,7.04
+Vic > 2023-24,ratio,Care and protection orders,12.01
+Vic > 2023-24,ratio,Out-of-home care,14.38
+Vic > 2022-23,ratio,Notifications,3.9
+Vic > 2022-23,ratio,Commencing IFSS,10.32
+Vic > 2022-23,ratio,Finalised investigations,5.36
+Vic > 2022-23,ratio,Substantiations,6.53
+Vic > 2022-23,ratio,Care and protection orders,11.57
+Vic > 2022-23,ratio,Out-of-home care,13.46
+Vic > 2021-22,ratio,Notifications,4
+Vic > 2021-22,ratio,Commencing IFSS,10.9
+Vic > 2021-22,ratio,Finalised investigations,5.56
+Vic > 2021-22,ratio,Substantiations,6.11
+Vic > 2021-22,ratio,Care and protection orders,11.16
+Vic > 2021-22,ratio,Out-of-home care,13.05
+Vic > 2020-21,ratio,Notifications,3.88
+Vic > 2020-21,ratio,Commencing IFSS,4.97
+Vic > 2020-21,ratio,Finalised investigations,5.86
+Vic > 2020-21,ratio,Substantiations,6.3
+Vic > 2020-21,ratio,Care and protection orders,10.71
+Vic > 2020-21,ratio,Out-of-home care,12.99
+Vic > 2019-20,ratio,Notifications,3.86
+Vic > 2019-20,ratio,Commencing IFSS,6.22
+Vic > 2019-20,ratio,Finalised investigations,5.85
+Vic > 2019-20,ratio,Substantiations,6.6
+Vic > 2019-20,ratio,Care and protection orders,10.85
+Vic > 2019-20,ratio,Out-of-home care,12.66
+Vic > 2018-19,ratio,Notifications,3.65
+Vic > 2018-19,ratio,Commencing IFSS,5.05
+Vic > 2018-19,ratio,Finalised investigations,5.32
+Vic > 2018-19,ratio,Substantiations,5.72
+Vic > 2018-19,ratio,Care and protection orders,10.01
+Vic > 2018-19,ratio,Out-of-home care,12.1
+Vic > 2017-18,ratio,Notifications,3.53
+Vic > 2017-18,ratio,Commencing IFSS,4.05
+Vic > 2017-18,ratio,Finalised investigations,5.06
+Vic > 2017-18,ratio,Substantiations,5.49
+Vic > 2017-18,ratio,Care and protection orders,9.75
+Vic > 2017-18,ratio,Out-of-home care,11.71
+Qld > 2024-25,ratio,Notifications,na
+Qld > 2024-25,ratio,Commencing IFSS,5.26
+Qld > 2024-25,ratio,Finalised investigations,na
+Qld > 2024-25,ratio,Substantiations,na
+Qld > 2024-25,ratio,Care and protection orders,na
+Qld > 2024-25,ratio,Out-of-home care,na
+Qld > 2023-24,ratio,Notifications,3.28
+Qld > 2023-24,ratio,Commencing IFSS,5.18
+Qld > 2023-24,ratio,Finalised investigations,3.3
+Qld > 2023-24,ratio,Substantiations,3.87
+Qld > 2023-24,ratio,Care and protection orders,5.04
+Qld > 2023-24,ratio,Out-of-home care,5.22
+Qld > 2022-23,ratio,Notifications,3.44
+Qld > 2022-23,ratio,Commencing IFSS,5.19
+Qld > 2022-23,ratio,Finalised investigations,3.45
+Qld > 2022-23,ratio,Substantiations,3.94
+Qld > 2022-23,ratio,Care and protection orders,4.99
+Qld > 2022-23,ratio,Out-of-home care,5.13
+Qld > 2021-22,ratio,Notifications,3.44
+Qld > 2021-22,ratio,Commencing IFSS,5.15
+Qld > 2021-22,ratio,Finalised investigations,3.54
+Qld > 2021-22,ratio,Substantiations,3.92
+Qld > 2021-22,ratio,Care and protection orders,4.89
+Qld > 2021-22,ratio,Out-of-home care,5.02
+Qld > 2020-21,ratio,Notifications,3.5
+Qld > 2020-21,ratio,Commencing IFSS,4.91
+Qld > 2020-21,ratio,Finalised investigations,3.42
+Qld > 2020-21,ratio,Substantiations,3.62
+Qld > 2020-21,ratio,Care and protection orders,4.79
+Qld > 2020-21,ratio,Out-of-home care,4.9
+Qld > 2019-20,ratio,Notifications,3.65
+Qld > 2019-20,ratio,Commencing IFSS,4.9
+Qld > 2019-20,ratio,Finalised investigations,3.6
+Qld > 2019-20,ratio,Substantiations,4.01
+Qld > 2019-20,ratio,Care and protection orders,4.74
+Qld > 2019-20,ratio,Out-of-home care,4.8
+Qld > 2018-19,ratio,Notifications,3.74
+Qld > 2018-19,ratio,Commencing IFSS,na
+Qld > 2018-19,ratio,Finalised investigations,3.67
+Qld > 2018-19,ratio,Substantiations,4.18
+Qld > 2018-19,ratio,Care and protection orders,4.68
+Qld > 2018-19,ratio,Out-of-home care,4.79
+Qld > 2017-18,ratio,Notifications,3.6
+Qld > 2017-18,ratio,Commencing IFSS,4
+Qld > 2017-18,ratio,Finalised investigations,3.56
+Qld > 2017-18,ratio,Substantiations,4.05
+Qld > 2017-18,ratio,Care and protection orders,4.64
+Qld > 2017-18,ratio,Out-of-home care,4.6
+WA > 2024-25,ratio,Notifications,5.5
+WA > 2024-25,ratio,Commencing IFSS,8.97
+WA > 2024-25,ratio,Finalised investigations,5.83
+WA > 2024-25,ratio,Substantiations,6.47
+WA > 2024-25,ratio,Care and protection orders,8.1
+WA > 2024-25,ratio,Out-of-home care,8.24
+WA > 2023-24,ratio,Notifications,5.44
+WA > 2023-24,ratio,Commencing IFSS,9.53
+WA > 2023-24,ratio,Finalised investigations,5.61
+WA > 2023-24,ratio,Substantiations,6.47
+WA > 2023-24,ratio,Care and protection orders,8.05
+WA > 2023-24,ratio,Out-of-home care,8.18
+WA > 2022-23,ratio,Notifications,5.46
+WA > 2022-23,ratio,Commencing IFSS,9.25
+WA > 2022-23,ratio,Finalised investigations,5.43
+WA > 2022-23,ratio,Substantiations,6.46
+WA > 2022-23,ratio,Care and protection orders,7.91
+WA > 2022-23,ratio,Out-of-home care,8.16
+WA > 2021-22,ratio,Notifications,5.24
+WA > 2021-22,ratio,Commencing IFSS,8.74
+WA > 2021-22,ratio,Finalised investigations,5.08
+WA > 2021-22,ratio,Substantiations,6
+WA > 2021-22,ratio,Care and protection orders,7.76
+WA > 2021-22,ratio,Out-of-home care,7.94
+WA > 2020-21,ratio,Notifications,4.9
+WA > 2020-21,ratio,Commencing IFSS,8.1
+WA > 2020-21,ratio,Finalised investigations,4.89
+WA > 2020-21,ratio,Substantiations,5.76
+WA > 2020-21,ratio,Care and protection orders,7.73
+WA > 2020-21,ratio,Out-of-home care,7.85
+WA > 2019-20,ratio,Notifications,4.65
+WA > 2019-20,ratio,Commencing IFSS,6.97
+WA > 2019-20,ratio,Finalised investigations,4.96
+WA > 2019-20,ratio,Substantiations,5.93
+WA > 2019-20,ratio,Care and protection orders,7.49
+WA > 2019-20,ratio,Out-of-home care,7.67
+WA > 2018-19,ratio,Notifications,4.35
+WA > 2018-19,ratio,Commencing IFSS,6.93
+WA > 2018-19,ratio,Finalised investigations,5.23
+WA > 2018-19,ratio,Substantiations,6.03
+WA > 2018-19,ratio,Care and protection orders,7.32
+WA > 2018-19,ratio,Out-of-home care,7.4
+WA > 2017-18,ratio,Notifications,4.61
+WA > 2017-18,ratio,Commencing IFSS,4.39
+WA > 2017-18,ratio,Finalised investigations,5.58
+WA > 2017-18,ratio,Substantiations,6.07
+WA > 2017-18,ratio,Care and protection orders,7.28
+WA > 2017-18,ratio,Out-of-home care,7.43
+SA > 2024-25,ratio,Notifications,4.48
+SA > 2024-25,ratio,Commencing IFSS,8.33
+SA > 2024-25,ratio,Finalised investigations,4.72
+SA > 2024-25,ratio,Substantiations,6.25
+SA > 2024-25,ratio,Care and protection orders,6.8
+SA > 2024-25,ratio,Out-of-home care,7.16
+SA > 2023-24,ratio,Notifications,4.42
+SA > 2023-24,ratio,Commencing IFSS,8
+SA > 2023-24,ratio,Finalised investigations,4.75
+SA > 2023-24,ratio,Substantiations,5.72
+SA > 2023-24,ratio,Care and protection orders,6.67
+SA > 2023-24,ratio,Out-of-home care,6.95
+SA > 2022-23,ratio,Notifications,4.43
+SA > 2022-23,ratio,Commencing IFSS,6.53
+SA > 2022-23,ratio,Finalised investigations,5.2
+SA > 2022-23,ratio,Substantiations,6.3
+SA > 2022-23,ratio,Care and protection orders,6.7
+SA > 2022-23,ratio,Out-of-home care,6.96
+SA > 2021-22,ratio,Notifications,4.26
+SA > 2021-22,ratio,Commencing IFSS,6.61
+SA > 2021-22,ratio,Finalised investigations,5.73
+SA > 2021-22,ratio,Substantiations,6.65
+SA > 2021-22,ratio,Care and protection orders,6.66
+SA > 2021-22,ratio,Out-of-home care,6.95
+SA > 2020-21,ratio,Notifications,4.41
+SA > 2020-21,ratio,Commencing IFSS,6.57
+SA > 2020-21,ratio,Finalised investigations,5.69
+SA > 2020-21,ratio,Substantiations,6.47
+SA > 2020-21,ratio,Care and protection orders,6.56
+SA > 2020-21,ratio,Out-of-home care,6.78
+SA > 2019-20,ratio,Notifications,4.34
+SA > 2019-20,ratio,Commencing IFSS,5.51
+SA > 2019-20,ratio,Finalised investigations,6.08
+SA > 2019-20,ratio,Substantiations,6.41
+SA > 2019-20,ratio,Care and protection orders,6.41
+SA > 2019-20,ratio,Out-of-home care,6.69
+SA > 2018-19,ratio,Notifications,4.42
+SA > 2018-19,ratio,Commencing IFSS,7.88
+SA > 2018-19,ratio,Finalised investigations,6.56
+SA > 2018-19,ratio,Substantiations,6.69
+SA > 2018-19,ratio,Care and protection orders,6.18
+SA > 2018-19,ratio,Out-of-home care,6.45
+SA > 2017-18,ratio,Notifications,4.35
+SA > 2017-18,ratio,Commencing IFSS,7.64
+SA > 2017-18,ratio,Finalised investigations,6.05
+SA > 2017-18,ratio,Substantiations,5.74
+SA > 2017-18,ratio,Care and protection orders,5.96
+SA > 2017-18,ratio,Out-of-home care,6.07
+Tas > 2024-25,ratio,Notifications,2.28
+Tas > 2024-25,ratio,Commencing IFSS,na
+Tas > 2024-25,ratio,Finalised investigations,3.72
+Tas > 2024-25,ratio,Substantiations,3.93
+Tas > 2024-25,ratio,Care and protection orders,3.91
+Tas > 2024-25,ratio,Out-of-home care,3.93
+Tas > 2023-24,ratio,Notifications,2.27
+Tas > 2023-24,ratio,Commencing IFSS,na
+Tas > 2023-24,ratio,Finalised investigations,3.13
+Tas > 2023-24,ratio,Substantiations,3.3
+Tas > 2023-24,ratio,Care and protection orders,3.69
+Tas > 2023-24,ratio,Out-of-home care,3.68
+Tas > 2022-23,ratio,Notifications,2.05
+Tas > 2022-23,ratio,Commencing IFSS,na
+Tas > 2022-23,ratio,Finalised investigations,2.97
+Tas > 2022-23,ratio,Substantiations,3.13
+Tas > 2022-23,ratio,Care and protection orders,3.5
+Tas > 2022-23,ratio,Out-of-home care,3.56
+Tas > 2021-22,ratio,Notifications,1.93
+Tas > 2021-22,ratio,Commencing IFSS,na
+Tas > 2021-22,ratio,Finalised investigations,2.92
+Tas > 2021-22,ratio,Substantiations,3
+Tas > 2021-22,ratio,Care and protection orders,3.28
+Tas > 2021-22,ratio,Out-of-home care,3.36
+Tas > 2020-21,ratio,Notifications,1.99
+Tas > 2020-21,ratio,Commencing IFSS,na
+Tas > 2020-21,ratio,Finalised investigations,2.58
+Tas > 2020-21,ratio,Substantiations,2.84
+Tas > 2020-21,ratio,Care and protection orders,3.15
+Tas > 2020-21,ratio,Out-of-home care,3.3
+Tas > 2019-20,ratio,Notifications,1.43
+Tas > 2019-20,ratio,Commencing IFSS,na
+Tas > 2019-20,ratio,Finalised investigations,1.62
+Tas > 2019-20,ratio,Substantiations,1.59
+Tas > 2019-20,ratio,Care and protection orders,2.87
+Tas > 2019-20,ratio,Out-of-home care,3.08
+Tas > 2018-19,ratio,Notifications,0.98
+Tas > 2018-19,ratio,Commencing IFSS,na
+Tas > 2018-19,ratio,Finalised investigations,1.72
+Tas > 2018-19,ratio,Substantiations,1.84
+Tas > 2018-19,ratio,Care and protection orders,2.83
+Tas > 2018-19,ratio,Out-of-home care,3.02
+Tas > 2017-18,ratio,Notifications,0.85
+Tas > 2017-18,ratio,Commencing IFSS,na
+Tas > 2017-18,ratio,Finalised investigations,1.5
+Tas > 2017-18,ratio,Substantiations,1.64
+Tas > 2017-18,ratio,Care and protection orders,2.69
+Tas > 2017-18,ratio,Out-of-home care,2.69
+ACT > 2024-25,ratio,Notifications,4.27
+ACT > 2024-25,ratio,Commencing IFSS,10.91
+ACT > 2024-25,ratio,Finalised investigations,9.32
+ACT > 2024-25,ratio,Substantiations,10.61
+ACT > 2024-25,ratio,Care and protection orders,8.73
+ACT > 2024-25,ratio,Out-of-home care,8.6
+ACT > 2023-24,ratio,Notifications,3.97
+ACT > 2023-24,ratio,Commencing IFSS,8.07
+ACT > 2023-24,ratio,Finalised investigations,8.23
+ACT > 2023-24,ratio,Substantiations,10.98
+ACT > 2023-24,ratio,Care and protection orders,9.26
+ACT > 2023-24,ratio,Out-of-home care,8.99
+ACT > 2022-23,ratio,Notifications,3.77
+ACT > 2022-23,ratio,Commencing IFSS,12
+ACT > 2022-23,ratio,Finalised investigations,6.42
+ACT > 2022-23,ratio,Substantiations,6.67
+ACT > 2022-23,ratio,Care and protection orders,8.58
+ACT > 2022-23,ratio,Out-of-home care,7.83
+ACT > 2021-22,ratio,Notifications,3.61
+ACT > 2021-22,ratio,Commencing IFSS,13.03
+ACT > 2021-22,ratio,Finalised investigations,6.74
+ACT > 2021-22,ratio,Substantiations,8.18
+ACT > 2021-22,ratio,Care and protection orders,8.8
+ACT > 2021-22,ratio,Out-of-home care,9.06
+ACT > 2020-21,ratio,Notifications,3.66
+ACT > 2020-21,ratio,Commencing IFSS,12.12
+ACT > 2020-21,ratio,Finalised investigations,6.4
+ACT > 2020-21,ratio,Substantiations,8.4
+ACT > 2020-21,ratio,Care and protection orders,8.51
+ACT > 2020-21,ratio,Out-of-home care,8.41
+ACT > 2019-20,ratio,Notifications,3.39
+ACT > 2019-20,ratio,Commencing IFSS,11.28
+ACT > 2019-20,ratio,Finalised investigations,6.16
+ACT > 2019-20,ratio,Substantiations,4.18
+ACT > 2019-20,ratio,Care and protection orders,8.81
+ACT > 2019-20,ratio,Out-of-home care,8.59
+ACT > 2018-19,ratio,Notifications,3.33
+ACT > 2018-19,ratio,Commencing IFSS,7.76
+ACT > 2018-19,ratio,Finalised investigations,4.61
+ACT > 2018-19,ratio,Substantiations,6.28
+ACT > 2018-19,ratio,Care and protection orders,8.22
+ACT > 2018-19,ratio,Out-of-home care,7.83
+ACT > 2017-18,ratio,Notifications,3.26
+ACT > 2017-18,ratio,Commencing IFSS,7.25
+ACT > 2017-18,ratio,Finalised investigations,5.5
+ACT > 2017-18,ratio,Substantiations,5.54
+ACT > 2017-18,ratio,Care and protection orders,8.35
+ACT > 2017-18,ratio,Out-of-home care,8.55
+NT > 2024-25,ratio,Notifications,1.93
+NT > 2024-25,ratio,Commencing IFSS,2.1
+NT > 2024-25,ratio,Finalised investigations,2.13
+NT > 2024-25,ratio,Substantiations,2.18
+NT > 2024-25,ratio,Care and protection orders,2.27
+NT > 2024-25,ratio,Out-of-home care,2.26
+NT > 2023-24,ratio,Notifications,1.87
+NT > 2023-24,ratio,Commencing IFSS,1.68
+NT > 2023-24,ratio,Finalised investigations,2.02
+NT > 2023-24,ratio,Substantiations,2.11
+NT > 2023-24,ratio,Care and protection orders,2.16
+NT > 2023-24,ratio,Out-of-home care,2.16
+NT > 2022-23,ratio,Notifications,1.87
+NT > 2022-23,ratio,Commencing IFSS,na
+NT > 2022-23,ratio,Finalised investigations,2.02
+NT > 2022-23,ratio,Substantiations,2.05
+NT > 2022-23,ratio,Care and protection orders,2.16
+NT > 2022-23,ratio,Out-of-home care,2.17
+NT > 2021-22,ratio,Notifications,1.83
+NT > 2021-22,ratio,Commencing IFSS,na
+NT > 2021-22,ratio,Finalised investigations,1.99
+NT > 2021-22,ratio,Substantiations,2.04
+NT > 2021-22,ratio,Care and protection orders,2.17
+NT > 2021-22,ratio,Out-of-home care,2.2
+NT > 2020-21,ratio,Notifications,1.85
+NT > 2020-21,ratio,Commencing IFSS,2.04
+NT > 2020-21,ratio,Finalised investigations,2.01
+NT > 2020-21,ratio,Substantiations,2.11
+NT > 2020-21,ratio,Care and protection orders,2.16
+NT > 2020-21,ratio,Out-of-home care,2.18
+NT > 2019-20,ratio,Notifications,1.8
+NT > 2019-20,ratio,Commencing IFSS,2.08
+NT > 2019-20,ratio,Finalised investigations,1.93
+NT > 2019-20,ratio,Substantiations,2.03
+NT > 2019-20,ratio,Care and protection orders,2.12
+NT > 2019-20,ratio,Out-of-home care,2.12
+NT > 2018-19,ratio,Notifications,1.82
+NT > 2018-19,ratio,Commencing IFSS,1.83
+NT > 2018-19,ratio,Finalised investigations,1.93
+NT > 2018-19,ratio,Substantiations,2.04
+NT > 2018-19,ratio,Care and protection orders,2.12
+NT > 2018-19,ratio,Out-of-home care,2.13
+NT > 2017-18,ratio,Notifications,1.82
+NT > 2017-18,ratio,Commencing IFSS,1.85
+NT > 2017-18,ratio,Finalised investigations,1.85
+NT > 2017-18,ratio,Substantiations,2.04
+NT > 2017-18,ratio,Care and protection orders,2.11
+NT > 2017-18,ratio,Out-of-home care,2.12

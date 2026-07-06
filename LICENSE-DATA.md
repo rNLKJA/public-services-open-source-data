@@ -26,6 +26,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **Tourism Research Australia / Austrade data** (State Tourism Satellite Account, 2023-24): "Licensed from Tourism Research Australia, Commonwealth of Australia (Austrade), under a [CC BY 4.0](http://creativecommons.org/licenses/by/4.0) licence." — per Austrade's site-wide copyright disclaimer, which explicitly covers `tra.gov.au`; there is no separate per-dataset licence badge. See `datasets/au-tourism-satellite-account/README.md`.
 - **National Native Title Tribunal data** (Native Title Determinations; Indigenous Land Use Agreements): "NNTT, © Commonwealth of Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." — per the NNTT's own ArcGIS item licence statement and the dataset's DCAT metadata feed. See `datasets/au-native-title-determinations/README.md`.
 - **Australian Bureau of Statistics data** (Cultural and Creative Activities, 2021-22): "Contains data from the Australian Bureau of Statistics, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." See `datasets/au-cultural-venue-attendance/README.md`.
+- **Productivity Commission data** (Report on Government Services 2026, Child protection services): "Contains data from the Productivity Commission, © Commonwealth of Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)." See `datasets/au-child-protection-services/README.md`.
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
