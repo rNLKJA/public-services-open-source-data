@@ -14,6 +14,7 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **SA Water data** (drinking water quality performance): "Contains data from SA Water, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **SA Health data** (Retirement Villages Register): "Contains data from SA Health, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 - **South Australian Skills Commission data** (Training Contract commencements, completions, in-training): "Contains data from the South Australian Skills Commission, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
+- **Department for Infrastructure and Transport data** (Road Crash Data): "Contains data from the Department for Infrastructure and Transport, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
