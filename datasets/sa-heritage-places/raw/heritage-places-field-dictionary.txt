@@ -1,0 +1,55 @@
+SA Heritage Places -- field dictionary
+Source: Location SA Location Metadata System (LMS), dataset record p_no=1576
+https://www.location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=1576&pu=y
+Retrieved 7 July 2026. This metadata report is licensed under Creative Commons
+Attribution 3.0 Australia (CC BY 3.0 AU).
+
+Table: LANDADMIN.HERITAGE_*_VW (same schema for both the point and polygon layers;
+the polygon layer additionally carries shape_Area / shape_Length, GIS-calculated).
+
+HERITAGENR       Binary    Unique ID allocated by Oracle, also referred to as DPTI ID
+PARLOCATION      Character Concatenation of the address fields (UNITNR, STREETNR, STREETNAME, STREETTYPE, ADDRESS2 & SUBURB)
+UNITNR           Character Unit number as recorded in development plan/SA Heritage Register
+STREETNR         Character Street number as recorded in development plan/SHR
+STREETNAME       Character Street name as recorded in development plan/SHR
+STREETTYPE       Character Street type as recorded in development plan/SHR
+ADDRESS2         Character Any other additional address information recorded in Development Plans/SA Heritage Register
+SUBURB           Character Legal suburb (generated via ArcGIS + legal suburb boundary, or as recorded in the SA Heritage Register for State Heritage Places)
+DETAILS          Character Name/description of the heritage place/item being listed
+EXTENTOFLISTING  Character Extent of listing of the place/item (Local Heritage Places only), as recorded in the Development Plan
+HERITAGECLASS1   Character Level of protection: S = State Heritage Place, L = Local Heritage Place, C = Representative Buildings (formerly "Contributory Items" in Development Plans)
+HERITAGECLASS1DESC Character Description field for HERITAGECLASS1
+HERITAGECLASS2   Character Secondary class, if a place is protected twice (e.g. both State and Local)
+HERITAGECLASS2DESC Character Description field for HERITAGECLASS2
+LGADESC          Character Name of the Local Government Area
+SHRCODE          Number    SA Heritage Register's unique identifier code (also called Heritage Branch Id / "Doccode")
+SHRSTATUSCODE    Character Status of the State Heritage Place: REG = registered, PRO = provisionally registered, REM = removed
+SHRSTATUSDESC    Character Description field for SHRSTATUSCODE (not populated in this export -- decoded into the processed CSV's shrstatuscode_desc column instead, see README)
+SHRSTATUSDATE    Date      Date the last recorded SHRSTATUSCODE update occurred
+COUNCILREF       Character Council's own referencing system for the place/item, if applicable
+CODE             Number    LGA-wide unique code (related to IDCODE)
+IDCODE           Character Statewide unique code given to each heritage place/item
+AS2482           Number    Australian Standard (AS2482) land-use classification code
+AS2482DESC       Character Description field for AS2482
+LOCATIONACCURACY Character Mapping accuracy: H = high, L = low, U = unlocatable
+ACCURACYDESC     Character Description field for LOCATIONACCURACY
+SOURCEOFDATA     Character Who checked/verified locational accuracy. Per this dictionary: DPTI = Dept for Planning and Local Government, C = council, SHB = State Heritage Branch. NOTE: the actual exported data uses the code "DPLG", not "DPTI", for that same category -- an unresolved code/label mismatch in the source's own documentation, decoded as-is (see README).
+INTERIMDATE      Date      Date the Local Heritage Place / Representative Buildings Item came into interim effect
+INTERIMPARREF    Character DPTI docket associated with the interim effect
+AUTHORISATIONDATE Date     Date the Local Heritage Place / Representative Buildings Item was approved
+AUTHPARREF       Character DPTI docket associated with the approval
+POLYGONTYPE      Character How the place/item was captured: P = DCDB parcel level, B = Building footprint, D = Digitised, S = parcel split (2+ heritage items on one parcel)
+POLYGONTYPEDESC  Character Description field for POLYGONTYPE
+LOCALITY         Character SA Heritage Register field used in addition to Suburb, particularly for out-of-council areas with no suburb
+DEVPLANDESC      Character Name of the Development Plan the heritage place/item is currently located in
+SECTION23S       Character Section 23 criteria the Local Heritage Place fits (Local Heritage Places only)
+SECTION16S       Character Section 16 criteria the State Heritage Place fits (State Heritage Places only)
+PLANPARCELS      Character Certificate of title and plan/parcel references relating to the heritage place/item, as included in the Development Plan
+VALUATIONS       Character 2006 valuation/assessment numbers covered by the heritage place/item (property-level, not an owner identifier)
+SIGNIFICANCE     Character Statement of Heritage Significance (State Heritage Places only)
+
+LHPCLASSTYPE is present in the exported data (values seen: T, CS) but is not
+documented anywhere in this source metadata report -- left as the raw code,
+undecoded, rather than guessed. Likely relates to Local Heritage Place
+sub-classification (e.g. tree vs building) given the wider SA heritage
+scheme, but this is not confirmed by the publisher's own documentation.
