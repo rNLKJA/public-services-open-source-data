@@ -1,0 +1,456 @@
+sector,commodity,financial_year,volume,price_per_unit,value_aud
+Dairy,Dairy,2016-17,499163900,0.39,196021664
+Dairy,Dairy,2017-18,505000000,0.43,216645000
+Dairy,Dairy,2018-19,496322000,0.47,234263984
+Dairy,Dairy,2019-20,487921926,0.54,261526152
+Dairy,Dairy,2020-21,499421682,0.53,262695805
+Field Crops,Barley,2016-17,2774800,135.4,375707920
+Field Crops,Barley,2017-18,1640700,227.18,372728060
+Field Crops,Barley,2018-19,1725800,287.03,495348780
+Field Crops,Barley,2019-20,2091000,226.79,474225731
+Field Crops,Barley,2020-21,2560000,199.41,510494720
+Field Crops,Beans,2016-17,166530,175,29142750
+Field Crops,Beans,2017-18,101660,310,31514600
+Field Crops,Beans,2018-19,79730,870.45,69400979
+Field Crops,Beans,2019-20,156650,665,104172250
+Field Crops,Beans,2020-21,212700,320,68064000
+Field Crops,Canola,2016-17,372900,475,177127500
+Field Crops,Canola,2017-18,251400,495,124443000
+Field Crops,Canola,2018-19,278900,507,141402300
+Field Crops,Canola,2019-20,347400,555,192807000
+Field Crops,Canola,2020-21,461800,595,274771000
+Field Crops,Chick Peas,2016-17,34360,1085,37280600
+Field Crops,Chick Peas,2017-18,33580,931.75,31288165
+Field Crops,Chick Peas,2018-19,23870,649.1,15494017
+Field Crops,Chick Peas,2019-20,17000,685,11645000
+Field Crops,Chick Peas,2020-21,44050,500,22025000
+Field Crops,Hay,2016-17,1454300,170,247231000
+Field Crops,Hay,2017-18,948600,125,118575000
+Field Crops,Hay,2018-19,1297000,335.29,434876471
+Field Crops,Hay,2019-20,1258900,235,295841500
+Field Crops,Hay,2020-21,1195000,235,280825000
+Field Crops,Industrial Hemp,2016-17,0,0,0
+Field Crops,Industrial Hemp,2017-18,0,0,0
+Field Crops,Industrial Hemp,2018-19,0,0,0
+Field Crops,Industrial Hemp,2019-20,0,0,0
+Field Crops,Industrial Hemp,2020-21,0,0,0
+Field Crops,Lentils,2016-17,447680.00000000006,613,274427840.00000006
+Field Crops,Lentils,2017-18,260200,402.75,104795550
+Field Crops,Lentils,2018-19,177870,516.13,91803154
+Field Crops,Lentils,2019-20,220400,700.63,154417750
+Field Crops,Lentils,2020-21,345950,621.25,214921438
+Field Crops,Lupins,2016-17,134800,165,22242000
+Field Crops,Lupins,2017-18,53400,177.94,9501927
+Field Crops,Lupins,2018-19,59950,213.7,12811303
+Field Crops,Lupins,2019-20,53800,335,18023000
+Field Crops,Lupins,2020-21,75650,275,20803750
+Field Crops,Oats,2016-17,258700.00000000003,192.99999999999997,49929100
+Field Crops,Oats,2017-18,149300,205,30606500
+Field Crops,Oats,2018-19,121500,251.27,30529548
+Field Crops,Oats,2019-20,120450,272.5,32822625
+Field Crops,Oats,2020-21,173700,223,38735100
+Field Crops,Opium Poppies,2016-17,0,0,0
+Field Crops,Opium Poppies,2017-18,0,0,0
+Field Crops,Opium Poppies,2018-19,0,0,0
+Field Crops,Opium Poppies,2019-20,0,0,0
+Field Crops,Opium Poppies,2020-21,0,0,0
+Field Crops,Other Feed Crops,2016-17,92930,143.11,13298900
+Field Crops,Other Feed Crops,2017-18,50500,200,10100000
+Field Crops,Other Feed Crops,2018-19,39280,272.96,10721800
+Field Crops,Other Feed Crops,2019-20,51670,331.18,17112200
+Field Crops,Other Feed Crops,2020-21,98500,211.9,20872500
+Field Crops,Peas,2016-17,176100,292,51421200
+Field Crops,Peas,2017-18,113750,255,29006250
+Field Crops,Peas,2018-19,53620,472.93,25358239
+Field Crops,Peas,2019-20,70100,431.5,30248150
+Field Crops,Peas,2020-21,113700,338,38430600
+Field Crops,Ryecorn,2016-17,15700,185,2904500
+Field Crops,Ryecorn,2017-18,5100,220,1122000
+Field Crops,Ryecorn,2018-19,3150,210,661500
+Field Crops,Ryecorn,2019-20,4250,235,998750
+Field Crops,Ryecorn,2020-21,11100,235,2608500
+Field Crops,Seeds,2016-17,25094,3406.88,85492134
+Field Crops,Seeds,2017-18,38128,1876.95,71564187
+Field Crops,Seeds,2018-19,23995,2785.92,66848059
+Field Crops,Seeds,2019-20,42480,1752.52,74447177
+Field Crops,Seeds,2020-21,43397,2084.73,90471233
+Field Crops,Wheat,2016-17,6670200,181.73,1212169500
+Field Crops,Wheat,2017-18,4112500,233.82,961567970
+Field Crops,Wheat,2018-19,3231220,325.1,1050465000
+Field Crops,Wheat,2019-20,3334060,300.89,1003183950
+Field Crops,Wheat,2020-21,5037870,266.8,1344093870
+Forestry,Hardwoods,2016-17,1022817,80.45,82283854
+Forestry,Hardwoods,2017-18,1089334,80.8,88019521
+Forestry,Hardwoods,2018-19,1192887,87.75,104675971
+Forestry,Hardwoods,2019-20,NO DATA,NO DATA,NO DATA
+Forestry,Hardwoods,2020-21,NO DATA,NO DATA,NO DATA
+Forestry,Softwoods,2016-17,3373846,84.63,285511904
+Forestry,Softwoods,2017-18,3058748,80.32,245681150
+Forestry,Softwoods,2018-19,3052438,87.23,266259473
+Forestry,Softwoods,2019-20,NO DATA,NO DATA,NO DATA
+Forestry,Softwoods,2020-21,NO DATA,NO DATA,NO DATA
+Horticulture,Almonds,2016-17,17097000,7.5,128227500
+Horticulture,Almonds,2017-18,15979000,6.75,107858250
+Horticulture,Almonds,2018-19,19292000,7,135044000
+Horticulture,Almonds,2019-20,25136120,8.71,218935605
+Horticulture,Almonds,2020-21,21098618,7.1,149800188
+Horticulture,Apples,2016-17,29966175,0.95,28429847
+Horticulture,Apples,2017-18,40140793,0.88,35323898
+Horticulture,Apples,2018-19,31724894,0.63,19897305
+Horticulture,Apples,2019-20,29669576,0.82,24329052
+Horticulture,Apples,2020-21,31153055,0.92,28660811
+Horticulture,Apricots,2016-17,310104,3.22,1000019
+Horticulture,Apricots,2017-18,833162,2.44,2032915
+Horticulture,Apricots,2018-19,1313730,1.92,2528105
+Horticulture,Apricots,2019-20,1113364,2.02,2248995
+Horticulture,Apricots,2020-21,857290,1.55,1328800
+Horticulture,Avocados,2016-17,1105000,5.5,6077500
+Horticulture,Avocados,2017-18,1215000,7.05,8565750
+Horticulture,Avocados,2018-19,828000,5.19,4297320
+Horticulture,Avocados,2019-20,2448000,5.14,12582720
+Horticulture,Avocados,2020-21,1338000,6.82,9125160
+Horticulture,Beans (French & Runner),2016-17,50000,3.5,175000
+Horticulture,Beans (French & Runner),2017-18,50000,3,150000
+Horticulture,Beans (French & Runner),2018-19,20000,3,60000
+Horticulture,Beans (French & Runner),2019-20,10000,3,30000
+Horticulture,Beans (French & Runner),2020-21,10000,2.5,25000
+Horticulture,Beetroot,2016-17,720000,1.67,1200000
+Horticulture,Beetroot,2017-18,720000,1.67,1200000
+Horticulture,Beetroot,2018-19,NO DATA,NO DATA,NO DATA
+Horticulture,Beetroot,2019-20,NO DATA,NO DATA,NO DATA
+Horticulture,Beetroot,2020-21,NO DATA,NO DATA,NO DATA
+Horticulture,Broccoli,2016-17,5320000,1.8,9576000
+Horticulture,Broccoli,2017-18,3500000,1.3,4550000
+Horticulture,Broccoli,2018-19,3500000,1.5,5250000
+Horticulture,Broccoli,2019-20,3500000,1.75,6125000
+Horticulture,Broccoli,2020-21,6100000,1.75,10675000
+Horticulture,Brussel Sprouts,2016-17,NO DATA,NO DATA,NO DATA
+Horticulture,Brussel Sprouts,2017-18,NO DATA,NO DATA,NO DATA
+Horticulture,Brussel Sprouts,2018-19,NO DATA,NO DATA,NO DATA
+Horticulture,Brussel Sprouts,2019-20,NO DATA,NO DATA,NO DATA
+Horticulture,Brussel Sprouts,2020-21,NO DATA,NO DATA,NO DATA
+Horticulture,Cabbage,2016-17,6520500,0.6,3912300
+Horticulture,Cabbage,2017-18,6520500,0.5,3260250
+Horticulture,Cabbage,2018-19,6520500,0.5,3260250
+Horticulture,Cabbage,2019-20,6520500,0.57,3716684.9999999995
+Horticulture,Cabbage,2020-21,6520500,0.6,3912300
+Horticulture,Capsicum (incl. Chillies),2016-17,21200000,2,42400000
+Horticulture,Capsicum (incl. Chillies),2017-18,22000000,2.8,61599999.99999999
+Horticulture,Capsicum (incl. Chillies),2018-19,32031304,2.5,80078260
+Horticulture,Capsicum (incl. Chillies),2019-20,32031304,2.8,89687651
+Horticulture,Capsicum (incl. Chillies),2020-21,32000000,3.2,102400000
+Horticulture,Carrots,2016-17,59200000,0.25,14800000
+Horticulture,Carrots,2017-18,59200000,0.25,14800000
+Horticulture,Carrots,2018-19,59200000,0.25,14800000
+Horticulture,Carrots,2019-20,65000000,0.25,16250000
+Horticulture,Carrots,2020-21,65000000,0.25,16250000
+Horticulture,Cauliflower,2016-17,6500000,1.2,7800000
+Horticulture,Cauliflower,2017-18,6500000,1,6500000
+Horticulture,Cauliflower,2018-19,6500000,1.33,8666667
+Horticulture,Cauliflower,2019-20,6500000,1.5,9750000
+Horticulture,Cauliflower,2020-21,6500000,1.5,9750000
+Horticulture,Celery,2016-17,1000000,0.8,800000
+Horticulture,Celery,2017-18,540000,0.8,432000
+Horticulture,Celery,2018-19,300000,0.6,180000
+Horticulture,Celery,2019-20,300000,0.6,180000
+Horticulture,Celery,2020-21,350000,0.6,210000
+Horticulture,Cherries,2016-17,625000,11,6875000
+Horticulture,Cherries,2017-18,2800000,8,22400000
+Horticulture,Cherries,2018-19,1400000,8.5,11900000
+Horticulture,Cherries,2019-20,2200000,9,19800000
+Horticulture,Cherries,2020-21,2700000,9.86,26622000
+Horticulture,Chestnuts,2016-17,8000,7,56000
+Horticulture,Chestnuts,2017-18,10000,8.5,85000
+Horticulture,Chestnuts,2018-19,10000,8.5,85000
+Horticulture,Chestnuts,2019-20,10000,8.5,85000
+Horticulture,Chestnuts,2020-21,10000,8.5,85000
+Horticulture,Citrus,2016-17,166997310,0.62,102955318
+Horticulture,Citrus,2017-18,186511120,0.59,110041561
+Horticulture,Citrus,2018-19,188916000,0.72,136019867
+Horticulture,Citrus,2019-20,187219400,0.69,129181385.99999999
+Horticulture,Citrus,2020-21,168931000,0.76,128387560
+Horticulture,Cucumbers,2016-17,30000000,1.5,45000000
+Horticulture,Cucumbers,2017-18,31000000,2,62000000
+Horticulture,Cucumbers,2018-19,32695315,2,65390630
+Horticulture,Cucumbers,2019-20,32695315,2,65390630
+Horticulture,Cucumbers,2020-21,28000000,2.6,72800000
+Horticulture,Hazelnuts,2016-17,6800,8,54400
+Horticulture,Hazelnuts,2017-18,6800,8,54400
+Horticulture,Hazelnuts,2018-19,6800,8,54400
+Horticulture,Hazelnuts,2019-20,6800,8,54400
+Horticulture,Hazelnuts,2020-21,6800,8,54400
+Horticulture,Lettuce,2016-17,15390000,1.67,25650000
+Horticulture,Lettuce,2017-18,15390000,1.67,25650000
+Horticulture,Lettuce,2018-19,16159500,1.67,26932500
+Horticulture,Lettuce,2019-20,13000000,1.9,24700000
+Horticulture,Lettuce,2020-21,14850000,1.1,16335000
+Horticulture,Melons,2016-17,5250000,0.57,2968849.9999999995
+Horticulture,Melons,2017-18,2500000,0.68,1700000.0000000002
+Horticulture,Melons,2018-19,2500000,0.68,1696429.0000000002
+Horticulture,Melons,2019-20,2500000,0.6,1500000
+Horticulture,Melons,2020-21,3270000,0.66,2158200
+Horticulture,Mushrooms,2016-17,8955137,5.48,49063710
+Horticulture,Mushrooms,2017-18,9014000,5.57,50207980
+Horticulture,Mushrooms,2018-19,9490725,5.4,51259666
+Horticulture,Mushrooms,2019-20,14329093,3.47,49721953
+Horticulture,Mushrooms,2020-21,16326000,6.43,104976180
+Horticulture,Nectarines,2016-17,2381030,3.05,7253719
+Horticulture,Nectarines,2017-18,3240826,2.68,8685414
+Horticulture,Nectarines,2018-19,3079093,2.91,8962534
+Horticulture,Nectarines,2019-20,2868688,2.93,8405256
+Horticulture,Nectarines,2020-21,2008082,2.26,4538265
+Horticulture,Olives for Oil,2016-17,15862000,0.88,13958560
+Horticulture,Olives for Oil,2017-18,5292000,0.88,4656960
+Horticulture,Olives for Oil,2018-19,7798840,0.9,6984770
+Horticulture,Olives for Oil,2019-20,1528310,0.93,1421328
+Horticulture,Olives for Oil,2020-21,8882720,0.99,8793893
+Horticulture,Onions,2016-17,90000000,0.35,31499999.999999996
+Horticulture,Onions,2017-18,90000000,0.35,31499999.999999996
+Horticulture,Onions,2018-19,90000000,0.35,31499999.999999996
+Horticulture,Onions,2019-20,97000000,0.35,33950000
+Horticulture,Onions,2020-21,140000000,0.35,49000000
+Horticulture,Other Berries,2016-17,8700,17,147900
+Horticulture,Other Berries,2017-18,8700,17,147900
+Horticulture,Other Berries,2018-19,8700,17,147900
+Horticulture,Other Berries,2019-20,8700,17,147900
+Horticulture,Other Berries,2020-21,8700,17,147900
+Horticulture,Other Grapes,2016-17,4088400,1.45,5917330
+Horticulture,Other Grapes,2017-18,4087400,1.64,6703336
+Horticulture,Other Grapes,2018-19,4085400,2.02,8272829.999999999
+Horticulture,Other Grapes,2019-20,4504000,1.86,8377440
+Horticulture,Other Grapes,2020-21,4504000,1.86,8377440
+Horticulture,Other Vegetables,2016-17,,,43276900
+Horticulture,Other Vegetables,2017-18,,,41724580
+Horticulture,Other Vegetables,2018-19,,,56801880
+Horticulture,Other Vegetables,2019-20,,,58487700
+Horticulture,Other Vegetables,2020-21,,,58178860
+Horticulture,Parsnips,2016-17,916667,1.8999999999999997,1741667
+Horticulture,Parsnips,2017-18,950000,1.7,1615000
+Horticulture,Parsnips,2018-19,1000000,1.8,1800000
+Horticulture,Parsnips,2019-20,1166667,1.9,2216667
+Horticulture,Parsnips,2020-21,1200000,2.75,3300000
+Horticulture,Peaches,2016-17,2665303,2.92,7772114
+Horticulture,Peaches,2017-18,3051902,2.65,8087540
+Horticulture,Peaches,2018-19,2824716,2.94,8296951
+Horticulture,Peaches,2019-20,2307902,2.97,6854469
+Horticulture,Peaches,2020-21,1777084,2.29,4069522
+Horticulture,Pears,2016-17,4605513,1.1,5052994
+Horticulture,Pears,2017-18,6150438,0.88,5412385
+Horticulture,Pears,2018-19,4185000,1.1,4603500
+Horticulture,Pears,2019-20,5145656,1.1,5660222
+Horticulture,Pears,2020-21,5402939,1.17,6321439
+Horticulture,Plums/Prunes,2016-17,30278,4.22,127773
+Horticulture,Plums/Prunes,2017-18,38000,2.95,112100
+Horticulture,Plums/Prunes,2018-19,35000,3.8,133000
+Horticulture,Plums/Prunes,2019-20,35000,4.9,171500
+Horticulture,Plums/Prunes,2020-21,24500,3.43,84035
+Horticulture,Potatoes,2016-17,380000000,0.38,145000000
+Horticulture,Potatoes,2017-18,380000000,0.38,145000000
+Horticulture,Potatoes,2018-19,490000000,0.38,185000000
+Horticulture,Potatoes,2019-20,520000000,0.39,202800000
+Horticulture,Potatoes,2020-21,520000000,0.4,208000000
+Horticulture,Pumpkin,2016-17,2000000,0.35,700000
+Horticulture,Pumpkin,2017-18,2000000,0.3,600000
+Horticulture,Pumpkin,2018-19,2000000,0.3,600000
+Horticulture,Pumpkin,2019-20,2000000,0.3,600000
+Horticulture,Pumpkin,2020-21,2000000,0.35,700000
+Horticulture,Spinach,2016-17,250000,4,1000000
+Horticulture,Spinach,2017-18,250000,4,1000000
+Horticulture,Spinach,2018-19,NO DATA,NO DATA,NO DATA
+Horticulture,Spinach,2019-20,NO DATA,NO DATA,NO DATA
+Horticulture,Spinach,2020-21,NO DATA,NO DATA,NO DATA
+Horticulture,Spring Onions,2016-17,500000,4.67,2333333
+Horticulture,Spring Onions,2017-18,500000,4.67,2333333
+Horticulture,Spring Onions,2018-19,NO DATA,NO DATA,NO DATA
+Horticulture,Spring Onions,2019-20,NO DATA,NO DATA,NO DATA
+Horticulture,Spring Onions,2020-21,NO DATA,NO DATA,NO DATA
+Horticulture,Strawberries,2016-17,6000000,7,42000000
+Horticulture,Strawberries,2017-18,6500000,7,45500000
+Horticulture,Strawberries,2018-19,6500000,7,45500000
+Horticulture,Strawberries,2019-20,7000000,7.6,53200000
+Horticulture,Strawberries,2020-21,7000000,7.6,53200000
+Horticulture,Sweet Corn,2016-17,650000,1.1,715000
+Horticulture,Sweet Corn,2017-18,840000,0.65,546000
+Horticulture,Sweet Corn,2018-19,840000,0.6,504000
+Horticulture,Sweet Corn,2019-20,840000,0.6,504000
+Horticulture,Sweet Corn,2020-21,850000,1.4,1190000
+Horticulture,Table Olives,2016-17,300000,8,2400000
+Horticulture,Table Olives,2017-18,300000,8,2400000
+Horticulture,Table Olives,2018-19,159160,8,1273280
+Horticulture,Table Olives,2019-20,31190,1.04,32402
+Horticulture,Table Olives,2020-21,181280,0.99,179467
+Horticulture,Tomatoes,2016-17,60000000,3,180000000
+Horticulture,Tomatoes,2017-18,60000000,2.5,150000000
+Horticulture,Tomatoes,2018-19,73638260,2,147276520
+Horticulture,Tomatoes,2019-20,73638260,2,147276520
+Horticulture,Tomatoes,2020-21,74000000,2.4,177600000
+Horticulture,"Zucchini, Marrows, Squash",2016-17,800000,2.2,1760000.0000000002
+Horticulture,"Zucchini, Marrows, Squash",2017-18,800000,1.75,1400000
+Horticulture,"Zucchini, Marrows, Squash",2018-19,840000,1.75,1470000
+Horticulture,"Zucchini, Marrows, Squash",2019-20,840000,1.75,1470000
+Horticulture,"Zucchini, Marrows, Squash",2020-21,960000,1.65,1584000
+Livestock,Beef Cattle,2016-17,431115,1438.25,620053225
+Livestock,Beef Cattle,2017-18,440899,1458.94,643244855
+Livestock,Beef Cattle,2018-19,406170,1429.16,580483601
+Livestock,Beef Cattle,2019-20,403755,1642.65,663228609
+Livestock,Beef Cattle,2020-21,365090,2168.06,791536963
+Livestock,Chicken Meat,2016-17,125000000,2.58,322000000
+Livestock,Chicken Meat,2017-18,133394038,2.58,343623042
+Livestock,Chicken Meat,2018-19,126975000,2.58,327087600
+Livestock,Chicken Meat,2019-20,125865168,2.58,324228673
+Livestock,Chicken Meat,2020-21,130705000,2.58,336696080
+Livestock,Deer,2016-17,7335,97.2,712962
+Livestock,Deer,2017-18,6968,97.2,677314
+Livestock,Deer,2018-19,6620,97.2,643448
+Livestock,Deer,2019-20,6289,97.2,611276
+Livestock,Deer,2020-21,5974,97.21,580712
+Livestock,Eggs,2016-17,21805954,1.2,26167145
+Livestock,Eggs,2017-18,21799997,1.2,26159996
+Livestock,Eggs,2018-19,20916199,1.2,25099439
+Livestock,Eggs,2019-20,21197153,1.2,25436584
+Livestock,Eggs,2020-21,22025657,1.2,26430788
+Livestock,Goats,2016-17,409287,91.33,37382042
+Livestock,Goats,2017-18,309481,77.04,23842464
+Livestock,Goats,2018-19,240768,90.13,21699925
+Livestock,Goats,2019-20,178974,127.94,22897841
+Livestock,Goats,2020-21,92494,138.94,12851573
+Livestock,Honey,2016-17,3266945,2.59,8464358
+Livestock,Honey,2017-18,3740000,2.99,11186000
+Livestock,Honey,2018-19,3312672,2.8999999999999995,9606749
+Livestock,Honey,2019-20,4267285,2.9,12375127
+Livestock,Honey,2020-21,4443615,2.9,12886484
+Livestock,Kangaroo,2016-17,101041,32.1,3243416
+Livestock,Kangaroo,2017-18,106692,32.1,3424813
+Livestock,Kangaroo,2018-19,100082,32.1,3212632
+Livestock,Kangaroo,2019-20,110009,32.1,3531289
+Livestock,Kangaroo,2020-21,92439,32.1,2967292
+Livestock,Lamb,2016-17,2695343,152.76,411744875
+Livestock,Lamb,2017-18,2720094,151.12,411065693
+Livestock,Lamb,2018-19,3068044,176.98,542975997
+Livestock,Lamb,2019-20,2293420,203.36,466395755
+Livestock,Lamb,2020-21,2102957,189.55,398614233
+Livestock,Pigmeats,2016-17,809705,260.15,210642791
+Livestock,Pigmeats,2017-18,873269,201.4,175880643
+Livestock,Pigmeats,2018-19,852588,224.99,191819609
+Livestock,Pigmeats,2019-20,848765.1600000001,293.048785158712,248729599.02303985
+Livestock,Pigmeats,2020-21,880799,274.62,241886996
+Livestock,Sheep,2016-17,2215825,121.03,268189283
+Livestock,Sheep,2017-18,2401027,102.87,247005471
+Livestock,Sheep,2018-19,2239909,107.15,240001599
+Livestock,Sheep,2019-20,2021385,137.67,278274072
+Livestock,Sheep,2020-21,1853515,145.55,269781255
+Livestock,Wool,2016-17,58176650,9.21,536001828
+Livestock,Wool,2017-18,59481833,9.56,568825040
+Livestock,Wool,2018-19,54287403,13,705790670
+Livestock,Wool,2019-20,50000000,9.37,468648633
+Livestock,Wool,2020-21,51600000,6.94,357900000
+Seafood,Abalone,2016-17,742254,37.13,27556849
+Seafood,Abalone,2017-18,699062,38.91,27197602
+Seafood,Abalone,2018-19,658063,43.36,28532033
+Seafood,Abalone,2019-20,508141,42.62,21658512
+Seafood,Abalone,2020-21,492740,37.22,18337941
+Seafood,Australian Herring,2016-17,82915,4.06,336889
+Seafood,Australian Herring,2017-18,85479,3.6,307350
+Seafood,Australian Herring,2018-19,96625,3.19,308574
+Seafood,Australian Herring,2019-20,88387,3.67,324767
+Seafood,Australian Herring,2020-21,109894,3.84,422061
+Seafood,Australian Salmon,2016-17,275000,1.68,462000
+Seafood,Australian Salmon,2017-18,275000,1.68,462825
+Seafood,Australian Salmon,2018-19,NO DATA,NO DATA,NO DATA
+Seafood,Australian Salmon,2019-20,NO DATA,NO DATA,NO DATA
+Seafood,Australian Salmon,2020-21,NO DATA,NO DATA,NO DATA
+Seafood,Blue Crabs,2016-17,674411,8.16,5504217
+Seafood,Blue Crabs,2017-18,634299,8.52,5405835
+Seafood,Blue Crabs,2018-19,663595,9.06,6011203
+Seafood,Blue Crabs,2019-20,671350,8.82,5921028
+Seafood,Blue Crabs,2020-21,665345,8.15,5425547
+Seafood,Garfish,2016-17,185525,9.55,1771825
+Seafood,Garfish,2017-18,174450,9.78,1705268
+Seafood,Garfish,2018-19,192137,9.37,1800749
+Seafood,Garfish,2019-20,168245,9.87,1660580
+Seafood,Garfish,2020-21,181757,12.06,2191666
+Seafood,Inland Finfish,2016-17,1387320,3.52,4889442
+Seafood,Inland Finfish,2017-18,1387320,3.51,4870000
+Seafood,Inland Finfish,2018-19,1305156,5.24,6840425
+Seafood,Inland Finfish,2019-20,1204270,6.08,7325101
+Seafood,Inland Finfish,2020-21,233000,13.3,3100000
+Seafood,Lobster,2016-17,1557746,77.02,119979964
+Seafood,Lobster,2017-18,1556000,80,124480000
+Seafood,Lobster,2018-19,1539433,88.51,136252105
+Seafood,Lobster,2019-20,1427321,85.35,121823626
+Seafood,Lobster,2020-21,1525565,54.37,82941913
+Seafood,Ocean Jackets,2016-17,78000,2.5,195000
+Seafood,Ocean Jackets,2017-18,78000,2.13,165750
+Seafood,Ocean Jackets,2018-19,NO DATA,NO DATA,NO DATA
+Seafood,Ocean Jackets,2019-20,NO DATA,NO DATA,NO DATA
+Seafood,Ocean Jackets,2020-21,151864,3.56,540066
+Seafood,Other Marine Fish,2016-17,1734834,8.09,14032714
+Seafood,Other Marine Fish,2017-18,1625008,7.72,12551896
+Seafood,Other Marine Fish,2018-19,1103007,9.42,10391465
+Seafood,Other Marine Fish,2019-20,1074890,8.53,9168561
+Seafood,Other Marine Fish,2020-21,1044993,8.64,9030305
+Seafood,Other Seafood,2016-17,,,12596345
+Seafood,Other Seafood,2017-18,,,31458285
+Seafood,Other Seafood,2018-19,,,35147882
+Seafood,Other Seafood,2019-20,,,39210974
+Seafood,Other Seafood,2020-21,,,47730844
+Seafood,Other Shellfish & Molluscs,2016-17,1690835,9.4,15893369
+Seafood,Other Shellfish & Molluscs,2017-18,1749461,9.79,17123895
+Seafood,Other Shellfish & Molluscs,2018-19,1668290,11.49,19175990
+Seafood,Other Shellfish & Molluscs,2019-20,1482667,11.45,16970645
+Seafood,Other Shellfish & Molluscs,2020-21,1520355,12.46,18947643
+Seafood,Oysters,2016-17,5400000,8,43200000
+Seafood,Oysters,2017-18,2970000,9.26,20160000
+Seafood,Oysters,2018-19,2099000,9.74,20449927
+Seafood,Oysters,2019-20,2392860,9.29,22238762
+Seafood,Oysters,2020-21,2803000,9.38,26300000
+Seafood,Prawns,2016-17,2429433,19.05,46271472
+Seafood,Prawns,2017-18,2577403,19.86,51180993
+Seafood,Prawns,2018-19,2413112,19.47,46980647
+Seafood,Prawns,2019-20,1935523,13.36,25853311
+Seafood,Prawns,2020-21,2018177,19.31,38968753
+Seafood,Sardines,2016-17,39757000,0.6,23854200
+Seafood,Sardines,2017-18,43293000,0.61,26408730
+Seafood,Sardines,2018-19,40041000,0.66,26427060
+Seafood,Sardines,2019-20,39889000,0.67,26725630
+Seafood,Sardines,2020-21,38024000,0.63,23955120
+Seafood,Shark,2016-17,141000,4.21,593610
+Seafood,Shark,2017-18,141000,3.58,504569
+Seafood,Shark,2018-19,NO DATA,NO DATA,NO DATA
+Seafood,Shark,2019-20,NO DATA,NO DATA,NO DATA
+Seafood,Shark,2020-21,NO DATA,NO DATA,NO DATA
+Seafood,Snapper,2016-17,342739,10.09,3459108
+Seafood,Snapper,2017-18,304390,9.79,2979112
+Seafood,Snapper,2018-19,280923,9.61,2700454
+Seafood,Snapper,2019-20,115008,10.39,1194844
+Seafood,Snapper,2020-21,42879,12.17,521978
+Seafood,Snook,2016-17,45000,4.6,206999.99999999997
+Seafood,Snook,2017-18,45000,3.91,175950
+Seafood,Snook,2018-19,NO DATA,NO DATA,NO DATA
+Seafood,Snook,2019-20,NO DATA,NO DATA,NO DATA
+Seafood,Snook,2020-21,NO DATA,NO DATA,NO DATA
+Seafood,Southern Bluefin Tuna,2016-17,8350000,14.57,121631804
+Seafood,Southern Bluefin Tuna,2017-18,9000000,15.75,126000000
+Seafood,Southern Bluefin Tuna,2018-19,9068132,14.21,128849912
+Seafood,Southern Bluefin Tuna,2019-20,9021067,14.15,127659385
+Seafood,Southern Bluefin Tuna,2020-21,10243899,11.22,114930810
+Seafood,Squid,2016-17,440744,12.81,5646378
+Seafood,Squid,2017-18,468701,14.23,6671185
+Seafood,Squid,2018-19,357720,15.71,5619449
+Seafood,Squid,2019-20,381315,16.39,6251136
+Seafood,Squid,2020-21,395151,16.99,6713354
+Seafood,Whiting,2016-17,268392,16.35,4387407
+Seafood,Whiting,2017-18,242967,17.68,4295676
+Seafood,Whiting,2018-19,232295,18.14,4213963
+Seafood,Whiting,2019-20,234369,16.97,3977522
+Seafood,Whiting,2020-21,181309,18.66,3383991
+Seafood,Yellow Eye Mullet,2016-17,192420,5.12,985438
+Seafood,Yellow Eye Mullet,2017-18,176722,5.3,935805
+Seafood,Yellow Eye Mullet,2018-19,301026,4.54,1367725
+Seafood,Yellow Eye Mullet,2019-20,468880,4.29,2010848
+Seafood,Yellow Eye Mullet,2020-21,377290,5.22,1970541
+Wine,Wine Grapes,2016-17,863789,761.6,657857454
+Wine,Wine Grapes,2017-18,747360,789.2,589819648
+Wine,Wine Grapes,2018-19,768865,821.83,631876353
+Wine,Wine Grapes,2019-20,651195,855.11,556842113
+Wine,Wine Grapes,2020-21,941113,878.78,827033217
