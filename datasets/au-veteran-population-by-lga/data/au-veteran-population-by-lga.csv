@@ -1,0 +1,535 @@
+state,state_abbrev,snapshot_date,lga,net_total_dva_clients,total_veterans,total_dependants,disability_compensation_payment,war_widows,service_pensioners,ss_age_pensioners,gold_card_holders,white_card_holders
+New South Wales,NSW,2026-01-02,Albury,1105,878,231,252,97,211,14,334,620
+New South Wales,NSW,2026-01-02,Armidale,265,191,74,58,40,52,Under 5,91,127
+New South Wales,NSW,2026-01-02,Ballina,880,587,299,251,154,241,29,410,305
+New South Wales,NSW,2026-01-02,Balranald,17,14,Under 5,10,Under 5,Under 5,Under 5,10,5
+New South Wales,NSW,2026-01-02,Bathurst,453,372,82,112,46,67,Under 5,160,244
+New South Wales,NSW,2026-01-02,Bayside,1065,908,157,80,91,97,Under 5,194,758
+New South Wales,NSW,2026-01-02,Bega Valley,746,593,156,221,64,159,Under 5,280,361
+New South Wales,NSW,2026-01-02,Bellingen,185,133,52,52,25,53,Under 5,68,85
+New South Wales,NSW,2026-01-02,Berrigan,153,111,42,52,10,63,0,64,54
+New South Wales,NSW,2026-01-02,Blacktown,1874,1494,382,327,186,356,14,510,1063
+New South Wales,NSW,2026-01-02,Bland,53,43,10,10,8,Under 5,0,18,30
+New South Wales,NSW,2026-01-02,Blayney,96,70,26,24,12,26,Under 5,32,45
+New South Wales,NSW,2026-01-02,Blue Mountains,992,787,208,232,108,159,9,352,514
+New South Wales,NSW,2026-01-02,Bogan,9,7,Under 5,Under 5,Under 5,Under 5,0,Under 5,Under 5
+New South Wales,NSW,2026-01-02,Bourke,16,11,5,Under 5,Under 5,Under 5,0,5,7
+New South Wales,NSW,2026-01-02,Brewarrina,5,5,0,Under 5,0,Under 5,0,Under 5,Under 5
+New South Wales,NSW,2026-01-02,Broken Hill,194,151,43,40,30,32,Under 5,64,99
+New South Wales,NSW,2026-01-02,Burwood,143,108,35,16,13,50,Under 5,30,63
+New South Wales,NSW,2026-01-02,Byron,310,223,90,76,51,73,Under 5,144,119
+New South Wales,NSW,2026-01-02,Cabonne,160,125,37,32,18,25,Under 5,64,75
+New South Wales,NSW,2026-01-02,Camden,989,801,189,153,78,123,5,273,581
+New South Wales,NSW,2026-01-02,Campbelltown,1383,1041,345,331,163,311,11,462,639
+New South Wales,NSW,2026-01-02,Canada Bay,595,492,104,61,57,76,Under 5,132,377
+New South Wales,NSW,2026-01-02,Canterbury-Bankstown,1957,1210,747,136,165,1149,8,310,506
+New South Wales,NSW,2026-01-02,Carrathool,21,17,Under 5,5,Under 5,Under 5,0,8,12
+New South Wales,NSW,2026-01-02,Central Coast,4260,3074,1195,1001,631,979,34,1679,1931
+New South Wales,NSW,2026-01-02,Central Darling,18,15,Under 5,6,Under 5,7,0,8,7
+New South Wales,NSW,2026-01-02,Cessnock,827,668,163,168,61,163,13,273,446
+New South Wales,NSW,2026-01-02,Clarence Valley,1088,811,281,313,143,247,21,443,487
+New South Wales,NSW,2026-01-02,Cobar,16,16,0,Under 5,0,0,0,Under 5,13
+New South Wales,NSW,2026-01-02,Coffs Harbour,1335,946,394,339,198,337,28,561,555
+New South Wales,NSW,2026-01-02,Coolamon,95,77,18,23,7,24,0,32,50
+New South Wales,NSW,2026-01-02,Coonamble,28,20,8,8,Under 5,10,Under 5,7,11
+New South Wales,NSW,2026-01-02,Cootamundra-Gundagai,183,140,44,63,20,52,0,83,75
+New South Wales,NSW,2026-01-02,Cowra,178,131,48,42,27,38,0,72,80
+New South Wales,NSW,2026-01-02,Cumberland,791,514,277,76,90,335,Under 5,163,288
+New South Wales,NSW,2026-01-02,Dubbo,486,366,122,127,67,104,Under 5,194,227
+New South Wales,NSW,2026-01-02,Dungog,183,154,30,45,12,22,6,51,114
+New South Wales,NSW,2026-01-02,Edward River,100,72,28,29,18,18,Under 5,45,41
+New South Wales,NSW,2026-01-02,Eurobodalla,965,720,250,316,128,221,26,408,423
+New South Wales,NSW,2026-01-02,Fairfield,2309,1342,968,87,46,1938,Under 5,131,249
+New South Wales,NSW,2026-01-02,Federation,289,221,69,88,25,82,8,110,133
+New South Wales,NSW,2026-01-02,Forbes,80,54,26,23,13,20,0,35,29
+New South Wales,NSW,2026-01-02,Georges River,726,544,183,85,109,121,Under 5,206,395
+New South Wales,NSW,2026-01-02,Gilgandra,32,22,10,7,9,Under 5,0,17,14
+New South Wales,NSW,2026-01-02,Glen Innes Severn,134,97,37,43,19,30,Under 5,58,55
+New South Wales,NSW,2026-01-02,Goulburn Mulwaree,519,423,98,118,50,78,9,171,291
+New South Wales,NSW,2026-01-02,Greater Hume,255,215,41,65,11,41,Under 5,78,140
+New South Wales,NSW,2026-01-02,Griffith,130,94,37,32,20,33,Under 5,53,56
+New South Wales,NSW,2026-01-02,Gunnedah,129,99,30,24,16,22,6,49,61
+New South Wales,NSW,2026-01-02,Gwydir,55,38,17,21,8,15,0,25,19
+New South Wales,NSW,2026-01-02,Hawkesbury,1157,993,167,246,77,143,13,332,706
+New South Wales,NSW,2026-01-02,Hay,40,32,8,9,5,5,0,10,23
+New South Wales,NSW,2026-01-02,Hilltops,238,176,62,73,32,58,Under 5,95,108
+New South Wales,NSW,2026-01-02,Hornsby,949,706,244,155,132,162,5,301,494
+New South Wales,NSW,2026-01-02,Hunters Hill,74,52,22,13,12,13,0,31,28
+New South Wales,NSW,2026-01-02,Inner West,1001,839,163,101,67,162,0,178,633
+New South Wales,NSW,2026-01-02,Inverell,241,169,73,76,40,56,5,112,83
+New South Wales,NSW,2026-01-02,Junee,109,89,20,28,7,19,Under 5,38,54
+New South Wales,NSW,2026-01-02,Kempsey,528,384,145,153,74,152,9,225,216
+New South Wales,NSW,2026-01-02,Kiama,452,373,81,85,42,65,0,132,279
+New South Wales,NSW,2026-01-02,Ku-ring-gai,814,602,212,119,152,76,Under 5,288,429
+New South Wales,NSW,2026-01-02,Kyogle,179,131,49,62,24,43,6,81,72
+New South Wales,NSW,2026-01-02,Lachlan,37,25,12,6,Under 5,9,0,14,16
+New South Wales,NSW,2026-01-02,Lake Macquarie,3205,2513,698,710,329,591,33,1079,1676
+New South Wales,NSW,2026-01-02,Lane Cove,261,220,41,37,29,16,0,67,168
+New South Wales,NSW,2026-01-02,Leeton,94,65,29,22,16,21,0,36,42
+New South Wales,NSW,2026-01-02,Lismore,544,420,127,136,57,100,13,197,254
+New South Wales,NSW,2026-01-02,Lithgow,228,173,55,64,22,59,Under 5,86,102
+New South Wales,NSW,2026-01-02,Liverpool,1697,1379,319,184,85,422,11,276,952
+New South Wales,NSW,2026-01-02,Liverpool Plains,87,54,33,21,20,24,Under 5,40,31
+New South Wales,NSW,2026-01-02,Lockhart,62,54,8,18,Under 5,9,Under 5,15,39
+New South Wales,NSW,2026-01-02,Maitland,1975,1685,293,328,120,230,13,490,1265
+New South Wales,NSW,2026-01-02,Mid-Coast,2017,1427,598,625,295,589,14,914,780
+New South Wales,NSW,2026-01-02,Mid-Western,325,248,77,80,34,75,Under 5,120,154
+New South Wales,NSW,2026-01-02,Moree Plains,61,47,14,16,8,16,0,27,22
+New South Wales,NSW,2026-01-02,Mosman,285,228,57,46,44,19,Under 5,101,150
+New South Wales,NSW,2026-01-02,Murray River,186,141,45,53,22,47,0,66,92
+New South Wales,NSW,2026-01-02,Murrumbidgee,30,24,6,11,5,Under 5,Under 5,12,17
+New South Wales,NSW,2026-01-02,Muswellbrook,178,143,35,42,16,35,Under 5,60,90
+New South Wales,NSW,2026-01-02,Nambucca Valley,454,334,122,156,49,150,11,193,176
+New South Wales,NSW,2026-01-02,Narrabri,108,84,24,31,16,16,Under 5,39,55
+New South Wales,NSW,2026-01-02,Narrandera,64,44,20,19,13,13,Under 5,30,25
+New South Wales,NSW,2026-01-02,Narromine,48,38,10,13,7,9,0,18,24
+New South Wales,NSW,2026-01-02,Newcastle,2991,2595,399,431,215,266,17,702,2005
+New South Wales,NSW,2026-01-02,North Sydney,575,497,79,67,59,22,0,142,379
+New South Wales,NSW,2026-01-02,Northern Beaches,2198,1631,573,437,360,315,7,830,1070
+New South Wales,NSW,2026-01-02,Oberon,62,47,15,22,7,14,Under 5,27,26
+New South Wales,NSW,2026-01-02,Orange,412,312,101,78,58,62,Under 5,140,210
+New South Wales,NSW,2026-01-02,Parkes,145,108,37,33,21,30,Under 5,53,69
+New South Wales,NSW,2026-01-02,Parramatta,1463,1165,299,139,137,268,Under 5,303,886
+New South Wales,NSW,2026-01-02,Penrith,2073,1645,435,443,203,370,20,640,1164
+New South Wales,NSW,2026-01-02,Port Macquarie-Hastings,1712,1227,486,466,231,414,22,714,716
+New South Wales,NSW,2026-01-02,Port Stephens,3293,2840,463,754,190,390,58,893,2086
+New South Wales,NSW,2026-01-02,Queanbeyan-Palerang,3421,3200,224,477,68,113,15,615,2594
+New South Wales,NSW,2026-01-02,Randwick,1045,873,173,115,94,74,Under 5,243,659
+New South Wales,NSW,2026-01-02,Richmond Valley,414,299,117,137,48,131,9,179,156
+New South Wales,NSW,2026-01-02,Ryde,638,493,145,74,74,110,0,147,360
+New South Wales,NSW,2026-01-02,Shellharbour,938,741,199,194,61,190,8,306,475
+New South Wales,NSW,2026-01-02,Shoalhaven,4158,3504,669,917,265,599,46,1220,2507
+New South Wales,NSW,2026-01-02,Singleton,542,459,84,95,35,58,Under 5,143,319
+New South Wales,NSW,2026-01-02,Snowy Monaro,359,317,42,75,20,32,0,99,233
+New South Wales,NSW,2026-01-02,Snowy Valleys,203,168,37,48,17,41,Under 5,64,114
+New South Wales,NSW,2026-01-02,Strathfield,242,197,45,7,13,54,0,25,149
+New South Wales,NSW,2026-01-02,Sutherland,2352,1877,477,320,280,249,8,686,1394
+New South Wales,NSW,2026-01-02,Sydney,1520,1395,125,119,64,106,Under 5,202,1172
+New South Wales,NSW,2026-01-02,Tamworth,797,579,220,203,114,153,19,311,354
+New South Wales,NSW,2026-01-02,Temora,81,58,23,21,13,15,Under 5,33,36
+New South Wales,NSW,2026-01-02,Tenterfield,142,109,35,48,16,39,Under 5,62,61
+New South Wales,NSW,2026-01-02,The Hills,1261,1036,225,208,100,178,5,320,765
+New South Wales,NSW,2026-01-02,Tweed,1934,1317,626,560,306,494,27,901,693
+New South Wales,NSW,2026-01-02,Unincorporated NSW,11,8,Under 5,Under 5,Under 5,Under 5,0,7,Under 5
+New South Wales,NSW,2026-01-02,Upper Hunter,129,99,31,26,17,21,Under 5,50,61
+New South Wales,NSW,2026-01-02,Upper Lachlan,130,117,15,34,7,11,Under 5,40,81
+New South Wales,NSW,2026-01-02,Uralla,84,66,19,27,8,18,Under 5,30,40
+New South Wales,NSW,2026-01-02,Wagga Wagga,1987,1763,230,287,116,148,21,403,1409
+New South Wales,NSW,2026-01-02,Walcha,24,17,7,6,5,Under 5,0,8,12
+New South Wales,NSW,2026-01-02,Walgett,47,37,10,20,Under 5,16,Under 5,22,16
+New South Wales,NSW,2026-01-02,Warren,16,11,5,5,Under 5,Under 5,0,8,7
+New South Wales,NSW,2026-01-02,Warrumbungle,109,81,28,38,13,33,Under 5,51,38
+New South Wales,NSW,2026-01-02,Waverley,340,302,40,34,26,23,0,81,220
+New South Wales,NSW,2026-01-02,Weddin,55,37,18,16,10,15,Under 5,24,21
+New South Wales,NSW,2026-01-02,Wentworth,92,74,18,34,7,26,0,35,45
+New South Wales,NSW,2026-01-02,Willoughby,401,316,85,55,62,27,0,115,236
+New South Wales,NSW,2026-01-02,Wingecarribee,711,523,189,161,111,112,8,288,328
+New South Wales,NSW,2026-01-02,Wollondilly,596,476,122,130,53,112,0,204,313
+New South Wales,NSW,2026-01-02,Wollongong,1908,1502,409,308,177,323,5,586,1022
+New South Wales,NSW,2026-01-02,Woollahra,345,272,73,27,62,11,0,96,215
+New South Wales,NSW,2026-01-02,Yass Valley,647,561,87,114,33,58,Under 5,193,398
+Victoria,Vic,2026-01-02,Mornington Peninsula,3642,2957,691,620,361,509,25,964,2272
+Victoria,Vic,2026-01-02,Greater Geelong,3120,2382,749,831,336,682,49,1096,1528
+Victoria,Vic,2026-01-02,Wodonga,2070,1767,312,468,91,255,36,536,1305
+Victoria,Vic,2026-01-02,Wyndham,1824,1574,255,387,104,250,19,385,1216
+Victoria,Vic,2026-01-02,Casey,1784,1418,369,333,152,362,10,480,1002
+Victoria,Vic,2026-01-02,Greater Bendigo,1705,1344,364,510,184,318,24,611,878
+Victoria,Vic,2026-01-02,Banyule,1543,1244,301,271,154,215,10,398,935
+Victoria,Vic,2026-01-02,Frankston,1519,1144,376,351,178,365,11,544,735
+Victoria,Vic,2026-01-02,Brimbank,1341,865,476,98,46,897,Under 5,151,302
+Victoria,Vic,2026-01-02,Ballarat,1287,954,337,313,159,286,20,448,628
+Victoria,Vic,2026-01-02,Wellington,1285,1117,171,239,71,144,9,265,905
+Victoria,Vic,2026-01-02,Whittlesea,1253,1005,249,201,82,283,6,297,706
+Victoria,Vic,2026-01-02,Yarra Ranges,1237,964,276,266,105,277,Under 5,377,650
+Victoria,Vic,2026-01-02,Mitchell,1219,1097,129,239,49,119,13,281,829
+Victoria,Vic,2026-01-02,Kingston,1167,866,304,188,168,245,8,367,583
+Victoria,Vic,2026-01-02,Knox,1095,825,270,215,115,272,9,334,555
+Victoria,Vic,2026-01-02,Hume,1043,831,213,183,91,199,Under 5,267,591
+Victoria,Vic,2026-01-02,Greater Dandenong,1025,633,392,100,61,686,Under 5,162,208
+Victoria,Vic,2026-01-02,Whitehorse,948,673,275,130,136,227,6,281,445
+Victoria,Vic,2026-01-02,Melton,921,756,167,178,61,188,6,230,544
+Victoria,Vic,2026-01-02,Monash,910,623,290,138,151,226,5,282,410
+Victoria,Vic,2026-01-02,Maroondah,880,646,236,160,100,194,13,264,430
+Victoria,Vic,2026-01-02,Boroondara,869,670,201,137,127,107,Under 5,289,433
+Victoria,Vic,2026-01-02,Cardinia,866,697,170,179,68,166,7,244,506
+Victoria,Vic,2026-01-02,East Gippsland,848,632,219,263,85,251,5,317,389
+Victoria,Vic,2026-01-02,Latrobe ,805,611,194,179,96,170,10,304,382
+Victoria,Vic,2026-01-02,Hobsons Bay,796,630,167,120,70,155,6,173,462
+Victoria,Vic,2026-01-02,Bayside,777,531,247,131,186,77,5,329,364
+Victoria,Vic,2026-01-02,Moonee Valley,762,596,167,94,68,157,5,178,415
+Victoria,Vic,2026-01-02,Maribyrnong,761,523,238,37,22,440,Under 5,66,240
+Victoria,Vic,2026-01-02,Baw Baw,699,528,174,183,66,184,6,238,349
+Victoria,Vic,2026-01-02,Macedon Ranges,663,538,126,155,57,106,6,203,373
+Victoria,Vic,2026-01-02,Darebin,650,478,173,83,79,171,Under 5,170,315
+Victoria,Vic,2026-01-02,Merri-bek,646,489,157,64,91,101,Under 5,170,373
+Victoria,Vic,2026-01-02,Mildura,637,461,178,165,82,163,9,236,285
+Victoria,Vic,2026-01-02,Greater Shepparton,617,463,156,157,73,144,11,225,299
+Victoria,Vic,2026-01-02,Manningham,610,441,170,114,91,124,Under 5,214,278
+Victoria,Vic,2026-01-02,Glen Eira,581,423,159,81,107,86,Under 5,198,299
+Victoria,Vic,2026-01-02,Melbourne,556,490,66,65,29,57,Under 5,96,370
+Victoria,Vic,2026-01-02,Bass Coast,547,393,158,148,64,164,Under 5,211,243
+Victoria,Vic,2026-01-02,Port Phillip,522,443,79,80,41,55,Under 5,140,321
+Victoria,Vic,2026-01-02,Indigo,495,409,88,140,35,83,8,174,267
+Victoria,Vic,2026-01-02,Nillumbik,493,407,86,113,35,67,Under 5,141,290
+Victoria,Vic,2026-01-02,Stonnington,479,369,110,60,79,38,Under 5,157,260
+Victoria,Vic,2026-01-02,Campaspe,474,341,135,144,59,120,8,177,209
+Victoria,Vic,2026-01-02,Moira,472,336,140,145,67,127,15,189,202
+Victoria,Vic,2026-01-02,Yarra,423,341,83,58,17,116,0,83,212
+Victoria,Vic,2026-01-02,Wangaratta,418,318,101,96,52,91,Under 5,143,220
+Victoria,Vic,2026-01-02,Moorabool,415,337,80,114,30,77,Under 5,117,241
+Victoria,Vic,2026-01-02,Warrnambool,377,268,109,84,55,83,0,150,164
+Victoria,Vic,2026-01-02,Surf Coast,347,265,82,69,34,59,0,118,176
+Victoria,Vic,2026-01-02,South Gippsland,333,250,83,87,35,86,6,116,157
+Victoria,Vic,2026-01-02,Golden Plains,294,248,47,80,12,51,Under 5,95,159
+Victoria,Vic,2026-01-02,Glenelg,256,198,59,76,30,60,Under 5,98,125
+Victoria,Vic,2026-01-02,Strathbogie,227,177,50,64,18,63,Under 5,91,104
+Victoria,Vic,2026-01-02,Murrindindi,217,164,53,58,23,46,Under 5,80,102
+Victoria,Vic,2026-01-02,Mount Alexander,209,149,61,60,35,48,Under 5,89,92
+Victoria,Vic,2026-01-02,Benalla,200,154,47,53,20,46,Under 5,76,97
+Victoria,Vic,2026-01-02,Central Goldfields,194,130,65,66,38,59,Under 5,101,62
+Victoria,Vic,2026-01-02,Alpine,191,150,42,44,11,42,Under 5,60,97
+Victoria,Vic,2026-01-02,Colac Otway,190,133,57,44,26,52,Under 5,74,79
+Victoria,Vic,2026-01-02,Southern Grampians,186,135,51,46,26,45,Under 5,64,89
+Victoria,Vic,2026-01-02,Moyne,180,150,30,48,13,36,Under 5,54,103
+Victoria,Vic,2026-01-02,Horsham,179,131,49,40,27,35,Under 5,58,96
+Victoria,Vic,2026-01-02,Hepburn,179,130,49,45,28,33,Under 5,75,77
+Victoria,Vic,2026-01-02,Swan Hill,178,130,49,48,28,34,Under 5,67,78
+Victoria,Vic,2026-01-02,Towong,154,130,24,50,7,35,Under 5,62,74
+Victoria,Vic,2026-01-02,Northern Grampians,147,118,30,44,11,34,5,54,68
+Victoria,Vic,2026-01-02,Corangamite,140,102,39,37,22,45,Under 5,66,54
+Victoria,Vic,2026-01-02,Gannawarra,134,88,46,35,34,25,0,65,54
+Victoria,Vic,2026-01-02,Pyrenees,128,99,29,41,11,36,Under 5,49,57
+Victoria,Vic,2026-01-02,Mansfield,127,105,22,33,8,31,Under 5,45,65
+Victoria,Vic,2026-01-02,Ararat,125,92,33,23,18,21,0,38,69
+Victoria,Vic,2026-01-02,Loddon,87,65,22,28,12,22,Under 5,40,37
+Victoria,Vic,2026-01-02,Yarriambiack,81,56,25,22,10,25,0,37,26
+Victoria,Vic,2026-01-02,Buloke,72,56,16,16,10,14,0,26,37
+Victoria,Vic,2026-01-02,Hindmarsh,66,57,9,20,5,9,0,18,43
+Victoria,Vic,2026-01-02,Queenscliffe,62,45,17,27,9,13,0,31,23
+Victoria,Vic,2026-01-02,West Wimmera,44,34,10,10,Under 5,11,Under 5,15,19
+Victoria,Vic,2026-01-02,Unincorporated Vic,Under 5,Under 5,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Queensland,Qld,2026-01-02,Brisbane,20697,17252,3486,3540,1516,2677,132,5529,12239
+Queensland,Qld,2026-01-02,Moreton Bay,14993,12005,3068,3843,1001,2626,273,5375,7414
+Queensland,Qld,2026-01-02,Townsville,12123,10580,1575,2135,350,1182,97,3269,7350
+Queensland,Qld,2026-01-02,Gold Coast,9510,7364,2181,2415,928,1741,172,3641,4458
+Queensland,Qld,2026-01-02,Ipswich,8603,7652,977,1404,277,695,128,2045,5718
+Queensland,Qld,2026-01-02,Sunshine Coast,8127,6333,1834,2264,691,1654,161,3221,3692
+Queensland,Qld,2026-01-02,Logan,4770,3753,1036,1100,390,989,81,1610,2357
+Queensland,Qld,2026-01-02,Toowoomba,4526,3734,813,1182,349,646,123,1426,2513
+Queensland,Qld,2026-01-02,Cairns,4102,3578,539,813,194,520,32,1107,2557
+Queensland,Qld,2026-01-02,Fraser Coast,3967,2991,1007,1486,379,1060,136,1780,1540
+Queensland,Qld,2026-01-02,Redland,3236,2490,762,917,297,747,65,1187,1541
+Queensland,Qld,2026-01-02,Bundaberg,2624,1979,671,977,247,755,77,1137,1050
+Queensland,Qld,2026-01-02,Mackay,1529,1240,291,426,123,280,12,544,762
+Queensland,Qld,2026-01-02,Gympie,1426,1117,316,471,113,349,34,566,626
+Queensland,Qld,2026-01-02,Lockyer Valley,1262,1068,195,303,55,172,20,419,692
+Queensland,Qld,2026-01-02,Noosa,1124,861,266,353,112,259,12,480,468
+Queensland,Qld,2026-01-02,Scenic Rim,1103,910,199,292,74,197,13,400,564
+Queensland,Qld,2026-01-02,Rockhampton,1003,760,247,240,102,238,9,328,491
+Queensland,Qld,2026-01-02,Somerset,949,801,153,265,41,167,28,381,457
+Queensland,Qld,2026-01-02,Gladstone,924,793,133,250,61,137,6,292,533
+Queensland,Qld,2026-01-02,South Burnett,810,605,205,287,79,253,8,348,322
+Queensland,Qld,2026-01-02,Southern Downs,774,587,190,251,76,206,13,312,332
+Queensland,Qld,2026-01-02,Livingstone,726,588,140,226,55,156,14,260,373
+Queensland,Qld,2026-01-02,Tablelands,619,488,132,194,51,143,5,247,281
+Queensland,Qld,2026-01-02,Whitsunday,567,459,110,170,42,131,Under 5,211,281
+Queensland,Qld,2026-01-02,Cassowary Coast,492,403,90,160,43,101,7,188,250
+Queensland,Qld,2026-01-02,Western Downs,390,322,68,103,27,63,7,130,208
+Queensland,Qld,2026-01-02,Mareeba,335,282,55,96,16,72,Under 5,112,173
+Queensland,Qld,2026-01-02,Burdekin,265,211,55,92,27,61,7,105,124
+Queensland,Qld,2026-01-02,Central Highlands ,241,216,25,50,16,23,Under 5,59,161
+Queensland,Qld,2026-01-02,Hinchinbrook,218,167,51,72,23,64,Under 5,97,84
+Queensland,Qld,2026-01-02,North Burnett,209,174,35,77,17,34,5,85,101
+Queensland,Qld,2026-01-02,Charters Towers,192,145,49,54,20,48,Under 5,70,87
+Queensland,Qld,2026-01-02,Mount Isa,133,123,10,21,Under 5,15,0,23,84
+Queensland,Qld,2026-01-02,Isaac,132,125,7,35,5,15,0,30,94
+Queensland,Qld,2026-01-02,Maranoa,131,113,18,33,12,10,Under 5,39,76
+Queensland,Qld,2026-01-02,Douglas,126,110,16,40,7,21,Under 5,41,74
+Queensland,Qld,2026-01-02,Banana,111,91,20,27,12,19,0,32,59
+Queensland,Qld,2026-01-02,Goondiwindi,107,80,27,30,14,27,Under 5,45,46
+Queensland,Qld,2026-01-02,Murweh,53,43,11,11,Under 5,11,0,15,31
+Queensland,Qld,2026-01-02,Cook,51,44,7,24,Under 5,15,0,27,21
+Queensland,Qld,2026-01-02,Balonne,35,26,9,13,Under 5,10,0,11,17
+Queensland,Qld,2026-01-02,Longreach,35,27,8,7,Under 5,9,0,14,15
+Queensland,Qld,2026-01-02,Weipa,34,33,Under 5,0,0,Under 5,0,Under 5,27
+Queensland,Qld,2026-01-02,Torres,34,33,Under 5,Under 5,0,Under 5,0,Under 5,26
+Queensland,Qld,2026-01-02,Torres Strait Island,30,28,Under 5,Under 5,0,Under 5,0,0,27
+Queensland,Qld,2026-01-02,Barcaldine,26,19,7,10,5,Under 5,Under 5,10,14
+Queensland,Qld,2026-01-02,Blackall Tambo,23,18,5,Under 5,Under 5,7,Under 5,7,11
+Queensland,Qld,2026-01-02,Paroo,20,18,Under 5,8,Under 5,Under 5,0,8,9
+Queensland,Qld,2026-01-02,Carpentaria,18,15,Under 5,6,Under 5,Under 5,0,5,8
+Queensland,Qld,2026-01-02,Cloncurry,18,18,0,6,0,Under 5,0,6,11
+Queensland,Qld,2026-01-02,Yarrabah,18,17,Under 5,5,0,Under 5,0,Under 5,14
+Queensland,Qld,2026-01-02,Northern Peninsula Area,16,16,0,0,0,0,0,Under 5,15
+Queensland,Qld,2026-01-02,Flinders,13,11,Under 5,Under 5,Under 5,Under 5,0,Under 5,8
+Queensland,Qld,2026-01-02,Winton,10,8,Under 5,Under 5,Under 5,Under 5,0,Under 5,6
+Queensland,Qld,2026-01-02,Aurukun,7,7,0,Under 5,0,0,0,0,5
+Queensland,Qld,2026-01-02,Etheridge,6,5,Under 5,Under 5,Under 5,0,0,Under 5,Under 5
+Queensland,Qld,2026-01-02,Hope Vale,6,6,0,Under 5,0,0,0,Under 5,5
+Queensland,Qld,2026-01-02,Quilpie,6,5,Under 5,Under 5,Under 5,0,0,Under 5,5
+Queensland,Qld,2026-01-02,Lockhart River,5,5,0,0,0,0,0,0,5
+Queensland,Qld,2026-01-02,Palm Island,5,5,0,Under 5,0,0,0,Under 5,Under 5
+Queensland,Qld,2026-01-02,Cherbourg,5,Under 5,Under 5,Under 5,Under 5,Under 5,0,Under 5,Under 5
+Queensland,Qld,2026-01-02,Napranum,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Queensland,Qld,2026-01-02,Kowanyama,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Queensland,Qld,2026-01-02,Pormpuraaw,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Queensland,Qld,2026-01-02,Mapoon,Under 5,Under 5,0,Under 5,0,0,0,Under 5,Under 5
+Queensland,Qld,2026-01-02,Richmond,Under 5,Under 5,Under 5,0,Under 5,0,0,Under 5,0
+Queensland,Qld,2026-01-02,McKinlay,Under 5,Under 5,0,Under 5,0,0,0,Under 5,0
+Queensland,Qld,2026-01-02,Mornington,Under 5,Under 5,0,Under 5,0,0,0,Under 5,Under 5
+Queensland,Qld,2026-01-02,Woorabinda,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Queensland,Qld,2026-01-02,Burke,Under 5,Under 5,0,0,0,0,0,0,0
+Queensland,Qld,2026-01-02,Doomadgee,Under 5,Under 5,0,0,0,0,0,0,0
+Queensland,Qld,2026-01-02,Diamantina,Under 5,Under 5,0,Under 5,0,0,0,0,Under 5
+Queensland,Qld,2026-01-02,Croydon,Under 5,Under 5,0,0,0,0,0,0,0
+Queensland,Qld,2026-01-02,Bulloo,Under 5,Under 5,0,0,0,0,0,0,Under 5
+South Australia,SA,2026-01-02,Onkaparinga,2654,2005,661,615,231,721,45,897,1242
+South Australia,SA,2026-01-02,Salisbury,2237,1793,447,352,120,551,32,479,1280
+South Australia,SA,2026-01-02,Playford,2126,1855,275,336,84,284,14,472,1402
+South Australia,SA,2026-01-02,Port Adelaide Enfield,2019,1644,378,258,127,461,11,430,1189
+South Australia,SA,2026-01-02,Tea Tree Gully,1743,1401,345,329,124,359,22,460,998
+South Australia,SA,2026-01-02,Charles Sturt,1591,1248,349,256,123,384,8,412,872
+South Australia,SA,2026-01-02,Marion,1167,891,281,237,136,250,19,366,612
+South Australia,SA,2026-01-02,Gawler,842,698,150,142,52,152,7,235,498
+South Australia,SA,2026-01-02,Mount Barker,751,637,116,142,42,99,Under 5,221,449
+South Australia,SA,2026-01-02,Mitcham,692,519,173,117,80,126,5,238,339
+South Australia,SA,2026-01-02,West Torrens,649,482,168,109,83,132,Under 5,212,327
+South Australia,SA,2026-01-02,Adelaide Hills,625,538,90,113,29,93,5,161,380
+South Australia,SA,2026-01-02,Alexandrina,611,448,164,172,55,189,14,239,253
+South Australia,SA,2026-01-02,Holdfast Bay,586,418,169,115,88,125,Under 5,214,273
+South Australia,SA,2026-01-02,Barossa,525,408,121,119,39,106,15,176,264
+South Australia,SA,2026-01-02,Campbelltown ,475,370,107,70,45,94,Under 5,128,272
+South Australia,SA,2026-01-02,Light,445,389,56,67,23,39,Under 5,113,293
+South Australia,SA,2026-01-02,Victor Harbor,439,315,124,125,33,148,11,158,188
+South Australia,SA,2026-01-02,Unley,416,305,112,88,68,71,Under 5,160,196
+South Australia,SA,2026-01-02,Burnside,396,298,98,88,60,58,6,156,191
+South Australia,SA,2026-01-02,Norwood Payneham and St Peters,370,298,74,61,42,48,Under 5,109,218
+South Australia,SA,2026-01-02,Mount Gambier,326,240,86,98,39,93,6,135,124
+South Australia,SA,2026-01-02,Copper Coast,301,221,83,116,31,106,Under 5,127,124
+South Australia,SA,2026-01-02,Prospect,286,241,46,40,16,32,Under 5,58,188
+South Australia,SA,2026-01-02,Murray Bridge,269,208,61,88,17,91,5,103,115
+South Australia,SA,2026-01-02,Yorke Peninsula,248,180,69,93,26,100,5,117,81
+South Australia,SA,2026-01-02,Adelaide,237,197,40,30,23,18,Under 5,65,143
+South Australia,SA,2026-01-02,Port Pirie,226,147,79,65,27,93,Under 5,88,78
+South Australia,SA,2026-01-02,Adelaide Plains,206,186,21,41,Under 5,26,Under 5,52,137
+South Australia,SA,2026-01-02,Mid Murray,186,156,31,65,10,46,Under 5,66,92
+South Australia,SA,2026-01-02,Berri Barmera,165,124,43,55,17,56,0,66,66
+South Australia,SA,2026-01-02,Loxton Waikerie,163,109,55,58,32,51,Under 5,81,55
+South Australia,SA,2026-01-02,Wattle Range,154,122,33,47,15,38,0,56,79
+South Australia,SA,2026-01-02,Renmark Paringa,149,102,47,37,18,54,Under 5,57,57
+South Australia,SA,2026-01-02,Clare and Gilbert Valleys,145,108,39,45,16,44,Under 5,59,63
+South Australia,SA,2026-01-02,Port Lincoln,144,105,39,38,18,45,Under 5,64,57
+South Australia,SA,2026-01-02,Yankalilla,138,105,33,44,6,53,0,51,58
+South Australia,SA,2026-01-02,Whyalla,134,108,26,27,7,34,0,30,71
+South Australia,SA,2026-01-02,Port Augusta,115,90,25,40,14,32,Under 5,48,48
+South Australia,SA,2026-01-02,Grant,106,88,19,26,Under 5,27,Under 5,32,55
+South Australia,SA,2026-01-02,Wakefield,102,90,13,23,5,19,0,28,63
+South Australia,SA,2026-01-02,Walkerville,95,71,24,18,17,13,Under 5,34,46
+South Australia,SA,2026-01-02,Coorong,78,60,19,23,8,26,0,31,34
+South Australia,SA,2026-01-02,Goyder,75,63,12,27,Under 5,20,0,31,34
+South Australia,SA,2026-01-02,Kangaroo Island,75,57,18,21,6,27,0,31,29
+South Australia,SA,2026-01-02,Northern Areas,73,57,16,25,6,21,Under 5,26,33
+South Australia,SA,2026-01-02,Barunga West,66,41,25,24,10,26,0,29,19
+South Australia,SA,2026-01-02,Lower Eyre,60,48,12,12,Under 5,14,0,17,33
+South Australia,SA,2026-01-02,Tatiara,52,33,19,14,10,18,Under 5,23,21
+South Australia,SA,2026-01-02,Naracoorte Lucindale,50,37,13,7,7,11,0,18,26
+South Australia,SA,2026-01-02,Mount Remarkable,46,36,11,15,6,14,0,20,22
+South Australia,SA,2026-01-02,Peterborough,45,34,11,17,Under 5,18,Under 5,16,21
+South Australia,SA,2026-01-02,Tumby Bay,45,32,13,13,7,9,Under 5,18,21
+South Australia,SA,2026-01-02,Kingston (SA),39,29,10,15,5,13,0,19,14
+South Australia,SA,2026-01-02,Unincorporated SA,38,34,Under 5,5,Under 5,6,0,Under 5,29
+South Australia,SA,2026-01-02,Ceduna,30,25,5,13,Under 5,7,Under 5,15,11
+South Australia,SA,2026-01-02,Southern Mallee,28,19,10,10,6,11,0,15,9
+South Australia,SA,2026-01-02,Robe,27,22,5,11,Under 5,7,0,13,11
+South Australia,SA,2026-01-02,Franklin Harbour,23,16,7,8,Under 5,11,0,8,10
+South Australia,SA,2026-01-02,Flinders Ranges,22,15,8,7,Under 5,11,0,9,7
+South Australia,SA,2026-01-02,Roxby Downs,21,18,Under 5,Under 5,Under 5,0,0,Under 5,14
+South Australia,SA,2026-01-02,Streaky Bay,19,14,5,6,Under 5,5,Under 5,10,7
+South Australia,SA,2026-01-02,Cleve,14,11,Under 5,Under 5,Under 5,Under 5,0,5,6
+South Australia,SA,2026-01-02,Karoonda East Murray,14,10,Under 5,7,Under 5,Under 5,0,9,5
+South Australia,SA,2026-01-02,Coober Pedy,11,10,Under 5,Under 5,Under 5,Under 5,0,Under 5,6
+South Australia,SA,2026-01-02,Orroroo Carrieton,8,5,Under 5,Under 5,Under 5,Under 5,0,5,Under 5
+South Australia,SA,2026-01-02,Wudinna,7,5,Under 5,Under 5,Under 5,Under 5,0,Under 5,Under 5
+South Australia,SA,2026-01-02,Elliston,5,5,0,Under 5,0,Under 5,0,Under 5,Under 5
+South Australia,SA,2026-01-02,Kimba,5,Under 5,Under 5,Under 5,Under 5,Under 5,0,Under 5,0
+Western Australia,WA,2026-01-02,Rockingham,5928,5205,739,1028,177,628,46,1349,3932
+Western Australia,WA,2026-01-02,Mandurah,2482,1871,626,689,194,714,42,911,1109
+Western Australia,WA,2026-01-02,Wanneroo,2463,1949,523,578,155,599,42,715,1250
+Western Australia,WA,2026-01-02,Joondalup,2362,1842,525,594,186,512,26,770,1158
+Western Australia,WA,2026-01-02,Stirling,2361,1751,619,432,241,584,20,729,1056
+Western Australia,WA,2026-01-02,Swan,1728,1412,318,343,76,366,18,419,959
+Western Australia,WA,2026-01-02,Cockburn,1604,1370,239,257,101,207,6,393,1021
+Western Australia,WA,2026-01-02,Melville,1341,1006,338,304,149,276,25,478,615
+Western Australia,WA,2026-01-02,Gosnells,978,744,235,211,92,248,16,288,473
+Western Australia,WA,2026-01-02,Armadale,917,732,186,213,60,182,14,255,489
+Western Australia,WA,2026-01-02,Kwinana,768,672,97,135,27,111,6,167,503
+Western Australia,WA,2026-01-02,Kalamunda,749,573,178,165,60,162,13,231,361
+Western Australia,WA,2026-01-02,Bayswater,723,528,197,124,68,220,5,199,303
+Western Australia,WA,2026-01-02,Canning,692,542,155,140,66,158,7,204,349
+Western Australia,WA,2026-01-02,Busselton,619,447,178,207,62,204,5,265,236
+Western Australia,WA,2026-01-02,Mundaring,588,467,122,144,35,143,Under 5,178,293
+Western Australia,WA,2026-01-02,Albany,518,383,137,127,55,143,7,190,228
+Western Australia,WA,2026-01-02,Murray,517,394,125,150,36,127,7,195,223
+Western Australia,WA,2026-01-02,South Perth,480,364,118,91,65,77,Under 5,163,243
+Western Australia,WA,2026-01-02,Greater Geraldton,469,348,121,120,45,139,Under 5,150,225
+Western Australia,WA,2026-01-02,Fremantle,436,371,67,80,28,72,Under 5,130,249
+Western Australia,WA,2026-01-02,Serpentine-Jarrahdale,433,373,60,105,13,76,6,117,260
+Western Australia,WA,2026-01-02,Bunbury,409,290,120,112,55,122,8,152,173
+Western Australia,WA,2026-01-02,Belmont,409,293,119,82,49,118,Under 5,136,184
+Western Australia,WA,2026-01-02,Harvey,358,293,65,105,22,75,Under 5,109,195
+Western Australia,WA,2026-01-02,Victoria Park,318,242,76,63,38,67,Under 5,104,164
+Western Australia,WA,2026-01-02,Vincent,289,234,56,42,15,66,Under 5,55,158
+Western Australia,WA,2026-01-02,Nedlands,289,231,58,32,40,20,0,88,159
+Western Australia,WA,2026-01-02,Capel,239,179,60,60,12,68,Under 5,72,113
+Western Australia,WA,2026-01-02,Cambridge,237,175,62,42,30,36,0,83,118
+Western Australia,WA,2026-01-02,Perth,214,195,19,36,9,12,Under 5,50,143
+Western Australia,WA,2026-01-02,Dardanup,205,147,59,65,21,74,6,86,77
+Western Australia,WA,2026-01-02,Bassendean,186,134,52,31,27,42,0,58,84
+Western Australia,WA,2026-01-02,Subiaco,184,145,39,33,22,22,0,62,92
+Western Australia,WA,2026-01-02,Karratha,180,171,9,18,5,Under 5,0,22,142
+Western Australia,WA,2026-01-02,Kalgoorlie-Boulder,163,140,23,37,11,16,Under 5,43,96
+Western Australia,WA,2026-01-02,Augusta Margaret River,144,112,32,44,13,35,5,56,67
+Western Australia,WA,2026-01-02,Claremont,137,93,44,30,27,20,Under 5,64,54
+Western Australia,WA,2026-01-02,Collie,134,109,25,43,5,36,0,43,59
+Western Australia,WA,2026-01-02,Northam,128,103,25,42,10,30,Under 5,43,65
+Western Australia,WA,2026-01-02,Broome,120,107,14,31,Under 5,15,0,31,75
+Western Australia,WA,2026-01-02,Manjimup,118,98,23,34,6,31,7,41,61
+Western Australia,WA,2026-01-02,Gingin,117,88,30,41,7,51,0,55,35
+Western Australia,WA,2026-01-02,Esperance,115,87,29,34,8,39,0,39,53
+Western Australia,WA,2026-01-02,Chittering,109,92,17,29,Under 5,19,Under 5,29,57
+Western Australia,WA,2026-01-02,East Fremantle,106,90,16,22,11,9,0,34,57
+Western Australia,WA,2026-01-02,Bridgetown-Greenbushes,100,79,21,30,7,22,Under 5,38,49
+Western Australia,WA,2026-01-02,Denmark,98,78,20,28,Under 5,34,Under 5,40,37
+Western Australia,WA,2026-01-02,Plantagenet,97,72,25,27,9,33,Under 5,36,38
+Western Australia,WA,2026-01-02,Mosman Park,94,77,17,19,9,16,0,36,44
+Western Australia,WA,2026-01-02,Toodyay,93,69,25,25,12,25,0,44,35
+Western Australia,WA,2026-01-02,Donnybrook-Balingup,91,69,22,35,6,22,Under 5,36,37
+Western Australia,WA,2026-01-02,Waroona,81,62,19,17,6,8,Under 5,29,39
+Western Australia,WA,2026-01-02,York,79,66,13,26,Under 5,24,0,29,37
+Western Australia,WA,2026-01-02,Port Hedland,76,75,Under 5,11,0,Under 5,0,5,63
+Western Australia,WA,2026-01-02,Irwin,75,54,21,26,6,33,0,36,22
+Western Australia,WA,2026-01-02,Cottesloe,69,48,21,12,15,8,0,29,31
+Western Australia,WA,2026-01-02,Dandaragan,67,49,19,26,Under 5,19,6,29,20
+Western Australia,WA,2026-01-02,Exmouth,56,51,5,10,Under 5,8,0,13,41
+Western Australia,WA,2026-01-02,Ashburton,46,45,Under 5,Under 5,Under 5,0,0,8,34
+Western Australia,WA,2026-01-02,Narrogin,43,32,11,11,7,8,0,17,21
+Western Australia,WA,2026-01-02,Northampton,36,29,7,17,Under 5,11,0,16,16
+Western Australia,WA,2026-01-02,Beverley,35,24,11,12,Under 5,16,0,16,11
+Western Australia,WA,2026-01-02,Wyndham-East Kimberley,35,33,Under 5,Under 5,Under 5,Under 5,0,5,28
+Western Australia,WA,2026-01-02,Nannup,33,25,8,12,Under 5,9,Under 5,12,15
+Western Australia,WA,2026-01-02,Carnarvon,32,27,5,Under 5,Under 5,6,0,6,16
+Western Australia,WA,2026-01-02,Boyup Brook,31,28,Under 5,11,Under 5,6,Under 5,11,18
+Western Australia,WA,2026-01-02,East Pilbara,29,29,0,5,0,0,0,0,24
+Western Australia,WA,2026-01-02,Derby-West Kimberley,29,27,Under 5,6,0,Under 5,Under 5,8,19
+Western Australia,WA,2026-01-02,Katanning,28,20,8,9,Under 5,6,Under 5,12,10
+Western Australia,WA,2026-01-02,Wagin,26,20,6,Under 5,Under 5,Under 5,Under 5,10,14
+Western Australia,WA,2026-01-02,Coolgardie,26,23,Under 5,7,Under 5,6,0,6,16
+Western Australia,WA,2026-01-02,Moora,25,13,12,Under 5,8,6,0,15,5
+Western Australia,WA,2026-01-02,Boddington,22,18,Under 5,8,Under 5,5,0,7,11
+Western Australia,WA,2026-01-02,Merredin,22,15,7,11,Under 5,6,Under 5,7,11
+Western Australia,WA,2026-01-02,Chapman Valley,20,14,6,Under 5,Under 5,7,0,8,7
+Western Australia,WA,2026-01-02,Bruce Rock,18,12,6,10,Under 5,12,0,11,Under 5
+Western Australia,WA,2026-01-02,Peppermint Grove,17,11,6,5,Under 5,Under 5,0,9,Under 5
+Western Australia,WA,2026-01-02,Ravensthorpe,17,12,5,6,Under 5,7,0,9,5
+Western Australia,WA,2026-01-02,Kojonup,17,12,5,5,Under 5,5,0,7,8
+Western Australia,WA,2026-01-02,Coorow,17,12,5,5,Under 5,5,0,10,5
+Western Australia,WA,2026-01-02,Cuballing,17,15,Under 5,7,0,6,0,6,8
+Western Australia,WA,2026-01-02,Shark Bay,13,9,Under 5,Under 5,0,5,0,5,Under 5
+Western Australia,WA,2026-01-02,Corrigin,11,9,Under 5,Under 5,0,Under 5,0,Under 5,6
+Western Australia,WA,2026-01-02,Halls Creek,11,11,0,Under 5,0,Under 5,0,Under 5,7
+Western Australia,WA,2026-01-02,Pingelly,11,9,Under 5,Under 5,Under 5,Under 5,0,Under 5,5
+Western Australia,WA,2026-01-02,Cranbrook,11,9,Under 5,5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Wongan-Ballidu,11,8,Under 5,Under 5,Under 5,5,0,Under 5,5
+Western Australia,WA,2026-01-02,Broomehill-Tambellup,10,10,0,Under 5,0,0,0,Under 5,9
+Western Australia,WA,2026-01-02,Jerramungup,10,9,Under 5,5,0,5,0,6,Under 5
+Western Australia,WA,2026-01-02,Three Springs,8,6,Under 5,Under 5,Under 5,Under 5,0,Under 5,5
+Western Australia,WA,2026-01-02,Dumbleyung,8,6,Under 5,Under 5,0,Under 5,Under 5,Under 5,Under 5
+Western Australia,WA,2026-01-02,Dundas,8,7,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Brookton,7,7,0,5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Cunderdin,7,6,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Goomalling,7,5,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Williams,7,6,Under 5,Under 5,Under 5,0,0,5,Under 5
+Western Australia,WA,2026-01-02,Meekatharra,7,5,Under 5,Under 5,Under 5,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Carnamah,6,6,0,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Christmas Island,6,6,0,0,0,0,0,0,6
+Western Australia,WA,2026-01-02,Dowerin,6,Under 5,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Wandering,6,6,0,Under 5,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Mukinbudin,6,5,Under 5,Under 5,Under 5,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Mount Magnet,6,6,0,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Mingenew,6,Under 5,Under 5,Under 5,0,5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Leonora,6,6,0,Under 5,0,0,Under 5,Under 5,Under 5
+Western Australia,WA,2026-01-02,Narembeen,6,5,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Victoria Plains,5,5,0,Under 5,0,0,0,0,5
+Western Australia,WA,2026-01-02,Cue,5,Under 5,Under 5,Under 5,Under 5,Under 5,0,Under 5,0
+Western Australia,WA,2026-01-02,Quairading,5,Under 5,Under 5,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Dalwallinu,5,5,0,Under 5,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Nungarin,5,Under 5,Under 5,0,Under 5,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Wickepin,5,Under 5,Under 5,0,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Mount Marshall,5,Under 5,Under 5,Under 5,Under 5,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Yilgarn,5,5,0,Under 5,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,West Arthur,5,Under 5,Under 5,0,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Lake Grace,Under 5,Under 5,0,Under 5,0,Under 5,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Woodanilling,Under 5,Under 5,Under 5,Under 5,0,Under 5,Under 5,Under 5,Under 5
+Western Australia,WA,2026-01-02,Kulin,Under 5,Under 5,0,0,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Kellerberrin,Under 5,Under 5,Under 5,Under 5,Under 5,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Gnowangerup,Under 5,Under 5,Under 5,Under 5,Under 5,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Wyalkatchem,Under 5,Under 5,0,Under 5,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Kondinin,Under 5,Under 5,0,0,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Sandstone,Under 5,Under 5,Under 5,Under 5,0,Under 5,0,Under 5,0
+Western Australia,WA,2026-01-02,Westonia,Under 5,Under 5,0,Under 5,0,0,0,Under 5,Under 5
+Western Australia,WA,2026-01-02,Tammin,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Western Australia,WA,2026-01-02,Trayning,Under 5,0,Under 5,0,Under 5,Under 5,0,Under 5,0
+Western Australia,WA,2026-01-02,Koorda,Under 5,Under 5,Under 5,0,0,Under 5,0,0,Under 5
+Western Australia,WA,2026-01-02,Perenjori,Under 5,0,Under 5,0,Under 5,0,0,Under 5,0
+Western Australia,WA,2026-01-02,Kent,Under 5,Under 5,0,0,0,0,0,0,0
+Western Australia,WA,2026-01-02,Laverton,Under 5,Under 5,0,0,0,0,0,0,0
+Western Australia,WA,2026-01-02,Upper Gascoyne,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Tasmania,Tas,2026-01-02,Clarence,1105,864,248,246,115,221,16,367,566
+Tasmania,Tas,2026-01-02,Launceston,913,667,250,195,135,179,13,313,444
+Tasmania,Tas,2026-01-02,Kingborough,724,570,155,173,64,145,10,212,400
+Tasmania,Tas,2026-01-02,Hobart,660,547,115,125,59,78,Under 5,179,361
+Tasmania,Tas,2026-01-02,Glenorchy,653,497,158,173,79,130,9,227,304
+Tasmania,Tas,2026-01-02,Devonport,506,385,123,123,37,149,9,165,234
+Tasmania,Tas,2026-01-02,West Tamar,476,376,103,129,33,116,10,164,226
+Tasmania,Tas,2026-01-02,Central Coast ,402,325,79,120,38,87,Under 5,150,197
+Tasmania,Tas,2026-01-02,Huon Valley,383,320,64,110,21,67,6,134,193
+Tasmania,Tas,2026-01-02,Sorell,370,298,73,101,24,85,5,122,193
+Tasmania,Tas,2026-01-02,Meander Valley,342,261,82,99,26,89,6,120,158
+Tasmania,Tas,2026-01-02,Burnie,276,219,57,63,29,54,Under 5,90,144
+Tasmania,Tas,2026-01-02,Latrobe,261,196,68,79,24,77,7,98,119
+Tasmania,Tas,2026-01-02,Brighton,248,208,42,64,16,54,Under 5,66,142
+Tasmania,Tas,2026-01-02,Waratah-Wynyard,243,186,58,66,22,64,Under 5,82,121
+Tasmania,Tas,2026-01-02,Northern Midlands,232,184,48,70,18,63,Under 5,84,116
+Tasmania,Tas,2026-01-02,Derwent Valley,197,159,38,51,16,40,0,61,105
+Tasmania,Tas,2026-01-02,Break O'Day,189,141,49,58,20,65,Under 5,80,74
+Tasmania,Tas,2026-01-02,Kentish,165,131,35,53,11,33,0,56,84
+Tasmania,Tas,2026-01-02,George Town,160,123,38,49,9,54,Under 5,57,65
+Tasmania,Tas,2026-01-02,Southern Midlands,111,97,14,39,Under 5,24,Under 5,38,60
+Tasmania,Tas,2026-01-02,Circular Head,108,82,26,21,9,17,0,39,51
+Tasmania,Tas,2026-01-02,Dorset,104,82,22,36,6,30,Under 5,44,42
+Tasmania,Tas,2026-01-02,Glamorgan-Spring Bay,98,79,20,37,7,23,6,37,47
+Tasmania,Tas,2026-01-02,West Coast,70,60,10,25,5,15,Under 5,32,28
+Tasmania,Tas,2026-01-02,Tasman,66,51,15,21,7,15,Under 5,26,32
+Tasmania,Tas,2026-01-02,Central Highlands ,53,44,9,21,Under 5,16,Under 5,20,25
+Tasmania,Tas,2026-01-02,King Island,14,11,Under 5,Under 5,Under 5,0,0,5,8
+Tasmania,Tas,2026-01-02,Flinders (Tas.),13,11,Under 5,6,Under 5,Under 5,0,7,5
+Northern Territory,NT,2026-01-02,Darwin,2730,2612,121,266,49,100,10,281,2267
+Northern Territory,NT,2026-01-02,Palmerston,1820,1733,87,170,25,52,Under 5,265,1432
+Northern Territory,NT,2026-01-02,Litchfield,906,854,53,116,12,54,Under 5,172,680
+Northern Territory,NT,2026-01-02,Katherine,507,504,Under 5,20,Under 5,Under 5,0,27,469
+Northern Territory,NT,2026-01-02,Alice Springs,197,183,14,28,7,13,0,28,146
+Northern Territory,NT,2026-01-02,Unincorporated NT,85,80,5,19,Under 5,8,Under 5,24,57
+Northern Territory,NT,2026-01-02,Coomalie,26,23,Under 5,7,0,8,0,9,14
+Northern Territory,NT,2026-01-02,Darwin Waterfront Precinct,22,21,Under 5,Under 5,Under 5,0,0,Under 5,20
+Northern Territory,NT,2026-01-02,Victoria Daly,17,14,Under 5,Under 5,Under 5,5,0,Under 5,10
+Northern Territory,NT,2026-01-02,Roper Gulf,15,12,Under 5,Under 5,Under 5,Under 5,0,Under 5,9
+Northern Territory,NT,2026-01-02,West Arnhem,13,12,Under 5,Under 5,Under 5,0,0,Under 5,8
+Northern Territory,NT,2026-01-02,Barkly,13,13,0,Under 5,0,Under 5,0,Under 5,11
+Northern Territory,NT,2026-01-02,East Arnhem,11,11,0,0,0,0,0,Under 5,8
+Northern Territory,NT,2026-01-02,Wagait,10,8,Under 5,Under 5,Under 5,Under 5,0,Under 5,5
+Northern Territory,NT,2026-01-02,MacDonnell,5,5,0,Under 5,0,0,0,0,5
+Northern Territory,NT,2026-01-02,Central Desert,Under 5,Under 5,0,Under 5,0,0,0,0,Under 5
+Northern Territory,NT,2026-01-02,Tiwi Islands,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Northern Territory,NT,2026-01-02,West Daly,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Northern Territory,NT,2026-01-02,Groote Archipelago,Under 5,Under 5,0,0,0,0,0,0,Under 5
+Australian Capital Territory,ACT,2026-01-02,Unincorporated ACT,15621,14311,1338,2260,594,817,56,2730,11787
