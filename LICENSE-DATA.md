@@ -12,11 +12,13 @@ All South Australian and Commonwealth government data redistributed in this repo
 - **Department for Housing and Urban Development data** (Land Division Applications): licensed under [CC BY 3.0 AU](http://creativecommons.org/licenses/by/3.0/au/) per the licence file bundled with the data itself (the CKAN portal record's `license_id` field claims CC BY 4.0 — see `datasets/sa-land-division-applications/README.md` for the discrepancy).
 - **Australian Library and Information Association (ALIA) / National and State Libraries Australasia (NSLA) data** (Australian Public Libraries Statistical Report, South Australia figures supplied by Public Library Services SA): licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0), confirmed directly on the report's cover page. See `datasets/sa-public-library-statistics/README.md`.
 - **SA Water data** (drinking water quality performance): "Contains data from SA Water, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
+- **SA Health data** (Retirement Villages Register): "Contains data from SA Health, © Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)."
 
 ## Explicitly excluded (not CC BY, not redistributed here)
 
 - **ACARA "My School" school location/profile data** — non-commercial, no-redistribution terms under the [My School Terms of Use](https://myschool.edu.au/terms-of-use). See `datasets/sa-school-locations/README.md`.
 - **SA Country Fire Service (CFS) / SAFECOM incident data** (Brigade Incidents, Fire Cause by Incident Group, Regional Incident Summary, Current Incidents feed) — licensed Creative Commons Attribution-NonCommercial-NoDerivs 4.0 (CC BY-NC-ND), which this repository's redistribution doesn't meet (non-commercial-only, no derivatives). See `datasets/sa-mfs-fire-service-incidents/README.md`.
+- **Aged Care Quality and Safety Commission "Star Ratings" data** (Dept of Health, Disability and Ageing, quarterly extracts on health.gov.au / gen-agedcaredata.gov.au) — not CC BY; the publishing site's own copyright notice prohibits commercial use and reproduction elsewhere without written permission. See `datasets/sa-retirement-villages-register/README.md`.
 
 ## Repository code and documentation
 

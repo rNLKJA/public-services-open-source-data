@@ -19,6 +19,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/sa-land-division-applications/`** — statewide land division (subdivision) development application register: status, dates and cadastral references for every SA land division application since 1989.
 - **`datasets/sa-public-library-statistics/`** — South Australia's public library collections, usage/loans, visitation and program statistics for 2022-23, drawn from the national ALIA/NSLA statistical report.
 - **`datasets/sa-water-quality/`** — SA Water's monthly drinking-water quality performance by supply region and system: rolling 12-month average values and health-guideline compliance rates across 59 tested parameters, plus a suburb-to-system lookup.
+- **`datasets/sa-retirement-villages-register/`** — SA Health's statewide register of registered retirement villages: name, address, LGA and independent-living-unit/serviced-apartment counts for every registered village.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 
