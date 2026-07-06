@@ -1,0 +1,981 @@
+category,jurisdiction,financial_year,value
+"Agriculture, forestry and fishing",AUST,2019-20,0.0648559721681127
+"Agriculture, forestry and fishing",AUST,2020-21,0.066112100757863
+"Agriculture, forestry and fishing",AUST,2021-22,0.0742401227496006
+"Agriculture, forestry and fishing",AUST,2022-23,0.0827001697763015
+"Agriculture, forestry and fishing",AUST,2023-24,0.0911653246305981
+"Agriculture, forestry and fishing",NSW,2019-20,0.044651287817033
+"Agriculture, forestry and fishing",NSW,2020-21,0.0454598675309138
+"Agriculture, forestry and fishing",NSW,2021-22,0.0469343888774534
+"Agriculture, forestry and fishing",NSW,2022-23,0.0469137543387979
+"Agriculture, forestry and fishing",NSW,2023-24,0.0487093649128994
+"Agriculture, forestry and fishing",VIC,2019-20,0.0280449418517186
+"Agriculture, forestry and fishing",VIC,2020-21,0.02705539720395
+"Agriculture, forestry and fishing",VIC,2021-22,0.0251883863258407
+"Agriculture, forestry and fishing",VIC,2022-23,0.023821421341703
+"Agriculture, forestry and fishing",VIC,2023-24,0.0357747363378726
+"Agriculture, forestry and fishing",QLD,2019-20,0.0261253009401741
+"Agriculture, forestry and fishing",QLD,2020-21,0.026119852768824
+"Agriculture, forestry and fishing",QLD,2021-22,0.0265735118558234
+"Agriculture, forestry and fishing",QLD,2022-23,0.0274041782278594
+"Agriculture, forestry and fishing",QLD,2023-24,0.0271076067763727
+"Agriculture, forestry and fishing",SA,2019-20,0.0303926922752294
+"Agriculture, forestry and fishing",SA,2020-21,0.0305106235196929
+"Agriculture, forestry and fishing",SA,2021-22,0.0309090164606109
+"Agriculture, forestry and fishing",SA,2022-23,0.0325441986328446
+"Agriculture, forestry and fishing",SA,2023-24,0.0346210178354154
+"Agriculture, forestry and fishing",WA,2019-20,0.0524154951998258
+"Agriculture, forestry and fishing",WA,2020-21,0.0551517903941132
+"Agriculture, forestry and fishing",WA,2021-22,0.0587905008626022
+"Agriculture, forestry and fishing",WA,2022-23,0.0640960386002212
+"Agriculture, forestry and fishing",WA,2023-24,0.0315722922197877
+"Agriculture, forestry and fishing",TAS,2019-20,0.0362579963857398
+"Agriculture, forestry and fishing",TAS,2020-21,0.0370611147918279
+"Agriculture, forestry and fishing",TAS,2021-22,0.0382934915834742
+"Agriculture, forestry and fishing",TAS,2022-23,0.0376777954701558
+"Agriculture, forestry and fishing",TAS,2023-24,0.0373435174258224
+"Agriculture, forestry and fishing",NT,2019-20,0.0648559721681127
+"Agriculture, forestry and fishing",NT,2020-21,0.066112100757863
+"Agriculture, forestry and fishing",NT,2021-22,0.0742401227496006
+"Agriculture, forestry and fishing",NT,2022-23,0.0827001697763015
+"Agriculture, forestry and fishing",NT,2023-24,0.0911653246305981
+"Agriculture, forestry and fishing",ACTPrivate,2019-20,0.0575210156731504
+"Agriculture, forestry and fishing",ACTPrivate,2020-21,0.0590440309486188
+"Agriculture, forestry and fishing",ACTPrivate,2021-22,0.0610911372074184
+"Agriculture, forestry and fishing",ACTPrivate,2022-23,0.0638068557922665
+"Agriculture, forestry and fishing",ACTPrivate,2023-24,0.0679803487722132
+"Agriculture, forestry and fishing",Comcare,2019-20,0.00687209371593826
+"Agriculture, forestry and fishing",Comcare,2020-21,0.00590160323575384
+"Agriculture, forestry and fishing",Comcare,2021-22,0.0051780786297932
+"Agriculture, forestry and fishing",Comcare,2022-23,0.00409254130115529
+"Agriculture, forestry and fishing",Comcare,2023-24,0.00525438174362715
+"Agriculture, forestry and fishing",AUST,2019-20,0.0352882556262196
+"Agriculture, forestry and fishing",AUST,2020-21,0.0359788496511324
+"Agriculture, forestry and fishing",AUST,2021-22,0.0367671780787634
+"Agriculture, forestry and fishing",AUST,2022-23,0.0375748064875269
+"Agriculture, forestry and fishing",AUST,2023-24,0.0365248376003307
+Mining,AUST,2019-20,0.0616760182801081
+Mining,AUST,2020-21,0.0795615769309486
+Mining,AUST,2021-22,0.0590923035262261
+Mining,AUST,2022-23,0.0682210545276524
+Mining,AUST,2023-24,0.0775558553077593
+Mining,NSW,2019-20,0.0335321371334796
+Mining,NSW,2020-21,0.0325526736377646
+Mining,NSW,2021-22,0.0358657214178589
+Mining,NSW,2022-23,0.038981443570018
+Mining,NSW,2023-24,0.0401441402023306
+Mining,VIC,2019-20,0.0188440470187308
+Mining,VIC,2020-21,0.0188863414168553
+Mining,VIC,2021-22,0.0206987384934866
+Mining,VIC,2022-23,0.0164204661296194
+Mining,VIC,2023-24,0.024496783738989
+Mining,QLD,2019-20,0.0134711139790263
+Mining,QLD,2020-21,0.0135480238812238
+Mining,QLD,2021-22,0.0118151978179642
+Mining,QLD,2022-23,0.012471511238648
+Mining,QLD,2023-24,0.0124397175218281
+Mining,SA,2019-20,0.0170273485615919
+Mining,SA,2020-21,0.0159520496611435
+Mining,SA,2021-22,0.0162444139745999
+Mining,SA,2022-23,0.0161802874253584
+Mining,SA,2023-24,0.0174392368170177
+Mining,WA,2019-20,0.00932445454119743
+Mining,WA,2020-21,0.0102300627878793
+Mining,WA,2021-22,0.0102209920018836
+Mining,WA,2022-23,0.0105838857057463
+Mining,WA,2023-24,0.0102905340253586
+Mining,TAS,2019-20,0.0138071339110506
+Mining,TAS,2020-21,0.0180583115348676
+Mining,TAS,2021-22,0.0191686250102975
+Mining,TAS,2022-23,0.015721018825878
+Mining,TAS,2023-24,0.0177477718169028
+Mining,NT,2019-20,0.014070109969345
+Mining,NT,2020-21,0.0138287215918018
+Mining,NT,2021-22,0.0140201753693521
+Mining,NT,2022-23,0.0159782294431756
+Mining,NT,2023-24,0.0143785308776452
+Mining,ACTPrivate,2019-20,0.0616760182801081
+Mining,ACTPrivate,2020-21,0.0795615769309486
+Mining,ACTPrivate,2021-22,0.0590923035262261
+Mining,ACTPrivate,2022-23,0.0682210545276524
+Mining,ACTPrivate,2023-24,0.0775558553077593
+Mining,AUST,2019-20,0.0147866173286175
+Mining,AUST,2020-21,0.014957641315909
+Mining,AUST,2021-22,0.0151726653075622
+Mining,AUST,2022-23,0.015773495021849
+Mining,AUST,2023-24,0.0156801770334165
+Manufacturing,AUST,2019-20,0.0372865181257857
+Manufacturing,AUST,2020-21,0.0401502793219107
+Manufacturing,AUST,2021-22,0.0400502589120042
+Manufacturing,AUST,2022-23,0.0419739818461151
+Manufacturing,AUST,2023-24,0.0448582373464553
+Manufacturing,NSW,2019-20,0.025779149004755902
+Manufacturing,NSW,2020-21,0.0267182485889599
+Manufacturing,NSW,2021-22,0.0272899603430491
+Manufacturing,NSW,2022-23,0.028762155683432
+Manufacturing,NSW,2023-24,0.03011293980357
+Manufacturing,VIC,2019-20,0.0229296380739207
+Manufacturing,VIC,2020-21,0.0222112584615393
+Manufacturing,VIC,2021-22,0.0212751071942628
+Manufacturing,VIC,2022-23,0.021153134577436
+Manufacturing,VIC,2023-24,0.0308083648253503
+Manufacturing,QLD,2019-20,0.0184319370066349
+Manufacturing,QLD,2020-21,0.0184407636289074
+Manufacturing,QLD,2021-22,0.0181948127039365
+Manufacturing,QLD,2022-23,0.0186832287002885
+Manufacturing,QLD,2023-24,0.0192445468397329
+Manufacturing,SA,2019-20,0.0242199342114412
+Manufacturing,SA,2020-21,0.0245509840253386
+Manufacturing,SA,2021-22,0.02515682427735
+Manufacturing,SA,2022-23,0.0261443647795561
+Manufacturing,SA,2023-24,0.0286191940127066
+Manufacturing,WA,2019-20,0.0187785125432449
+Manufacturing,WA,2020-21,0.0199490347286687
+Manufacturing,WA,2021-22,0.0211862921575194
+Manufacturing,WA,2022-23,0.0234241261312634
+Manufacturing,WA,2023-24,0.0243183970274573
+Manufacturing,TAS,2019-20,0.0185871174122606
+Manufacturing,TAS,2020-21,0.0196637357673773
+Manufacturing,TAS,2021-22,0.0216020137045924
+Manufacturing,TAS,2022-23,0.0223507129136851
+Manufacturing,TAS,2023-24,0.022987144065977
+Manufacturing,NT,2019-20,0.0185118495205887
+Manufacturing,NT,2020-21,0.0207663110113226
+Manufacturing,NT,2021-22,0.0208954337419994
+Manufacturing,NT,2022-23,0.0215610498963878
+Manufacturing,NT,2023-24,0.0204264547545327
+Manufacturing,ACTPrivate,2019-20,0.0372865181257857
+Manufacturing,ACTPrivate,2020-21,0.0401502793219107
+Manufacturing,ACTPrivate,2021-22,0.0400502589120042
+Manufacturing,ACTPrivate,2022-23,0.0419739818461151
+Manufacturing,ACTPrivate,2023-24,0.0448582373464553
+Manufacturing,Comcare,2019-20,0.0025371016887629
+Manufacturing,Comcare,2020-21,0.00268663349851716
+Manufacturing,Comcare,2021-22,0.0123397373845542
+Manufacturing,Comcare,2022-23,0.00231816316153725
+Manufacturing,Comcare,2023-24,0.00186816343619219
+Manufacturing,AUST,2019-20,0.0222376451924443
+Manufacturing,AUST,2020-21,0.0225246392052039
+Manufacturing,AUST,2021-22,0.022698121526643
+Manufacturing,AUST,2022-23,0.0234017853658631
+Manufacturing,AUST,2023-24,0.0269331205160818
+"Electricity, gas, water and waste services",AUST,2019-20,0.0313200707514621
+"Electricity, gas, water and waste services",AUST,2020-21,0.0331667789188271
+"Electricity, gas, water and waste services",AUST,2021-22,0.037478907912863
+"Electricity, gas, water and waste services",AUST,2022-23,0.0381314457818758
+"Electricity, gas, water and waste services",AUST,2023-24,0.0378180920064161
+"Electricity, gas, water and waste services",NSW,2019-20,0.0198182123889743
+"Electricity, gas, water and waste services",NSW,2020-21,0.0219899762318477
+"Electricity, gas, water and waste services",NSW,2021-22,0.0207305465819053
+"Electricity, gas, water and waste services",NSW,2022-23,0.0212308483137116
+"Electricity, gas, water and waste services",NSW,2023-24,0.0208445823266706
+"Electricity, gas, water and waste services",VIC,2019-20,0.0124216370850697
+"Electricity, gas, water and waste services",VIC,2020-21,0.0123271073927582
+"Electricity, gas, water and waste services",VIC,2021-22,0.0114862530433564
+"Electricity, gas, water and waste services",VIC,2022-23,0.0115652075051961
+"Electricity, gas, water and waste services",VIC,2023-24,0.0159320104277182
+"Electricity, gas, water and waste services",QLD,2019-20,0.00842545446234794
+"Electricity, gas, water and waste services",QLD,2020-21,0.0073946163623585
+"Electricity, gas, water and waste services",QLD,2021-22,0.00733712164816891
+"Electricity, gas, water and waste services",QLD,2022-23,0.00746242977433766
+"Electricity, gas, water and waste services",QLD,2023-24,0.00676930132246703
+"Electricity, gas, water and waste services",SA,2019-20,0.0119627115045902
+"Electricity, gas, water and waste services",SA,2020-21,0.0125945743266882
+"Electricity, gas, water and waste services",SA,2021-22,0.0126453979154868
+"Electricity, gas, water and waste services",SA,2022-23,0.0139521086995012
+"Electricity, gas, water and waste services",SA,2023-24,0.0146076956796882
+"Electricity, gas, water and waste services",WA,2019-20,0.00719792328739357
+"Electricity, gas, water and waste services",WA,2020-21,0.00818190323997442
+"Electricity, gas, water and waste services",WA,2021-22,0.008565519832813
+"Electricity, gas, water and waste services",WA,2022-23,0.0106811237886042
+"Electricity, gas, water and waste services",WA,2023-24,0.0105037887787349
+"Electricity, gas, water and waste services",TAS,2019-20,0.00874566220884091
+"Electricity, gas, water and waste services",TAS,2020-21,0.00938529970552779
+"Electricity, gas, water and waste services",TAS,2021-22,0.0083519827180108
+"Electricity, gas, water and waste services",TAS,2022-23,0.00948376211959922
+"Electricity, gas, water and waste services",TAS,2023-24,0.00967542555441138
+"Electricity, gas, water and waste services",NT,2019-20,0.0075217931069445
+"Electricity, gas, water and waste services",NT,2020-21,0.00650774579507308
+"Electricity, gas, water and waste services",NT,2021-22,0.00670150636709005
+"Electricity, gas, water and waste services",NT,2022-23,0.0062214308007777
+"Electricity, gas, water and waste services",NT,2023-24,0.00551720723009466
+"Electricity, gas, water and waste services",ACTPrivate,2019-20,0.0313200707514621
+"Electricity, gas, water and waste services",ACTPrivate,2020-21,0.0331667789188271
+"Electricity, gas, water and waste services",ACTPrivate,2021-22,0.037478907912863
+"Electricity, gas, water and waste services",ACTPrivate,2022-23,0.0381314457818758
+"Electricity, gas, water and waste services",ACTPrivate,2023-24,0.0378180920064161
+"Electricity, gas, water and waste services",Comcare,2019-20,0.0163356728579262
+"Electricity, gas, water and waste services",Comcare,2020-21,0.0124705405248302
+"Electricity, gas, water and waste services",Comcare,2021-22,0.0147806928082291
+"Electricity, gas, water and waste services",Comcare,2022-23,0.0146368108364526
+"Electricity, gas, water and waste services",Comcare,2023-24,0.0140933676122345
+"Electricity, gas, water and waste services",AUST,2019-20,0.0129785978853671
+"Electricity, gas, water and waste services",AUST,2020-21,0.0132347610549315
+"Electricity, gas, water and waste services",AUST,2021-22,0.0128879175586694
+"Electricity, gas, water and waste services",AUST,2022-23,0.0135006111679183
+"Electricity, gas, water and waste services",AUST,2023-24,0.0140139749772855
+Construction,AUST,2019-20,0.0404662733595805
+Construction,AUST,2020-21,0.0415257503257467
+Construction,AUST,2021-22,0.0425303338622663
+Construction,AUST,2022-23,0.0451024511455165
+Construction,AUST,2023-24,0.0461905937127622
+Construction,NSW,2019-20,0.0274374802105619
+Construction,NSW,2020-21,0.0294056892566522
+Construction,NSW,2021-22,0.0297771010655457
+Construction,NSW,2022-23,0.0302084378219806
+Construction,NSW,2023-24,0.0325294005316375
+Construction,VIC,2019-20,0.0196702906532909
+Construction,VIC,2020-21,0.0193928944999063
+Construction,VIC,2021-22,0.0196602500498608
+Construction,VIC,2022-23,0.0194721806733341
+Construction,VIC,2023-24,0.0276123511895663
+Construction,QLD,2019-20,0.0173981278801288
+Construction,QLD,2020-21,0.0176202678392921
+Construction,QLD,2021-22,0.0175685262610106
+Construction,QLD,2022-23,0.0182266015781727
+Construction,QLD,2023-24,0.0183847691408274
+Construction,SA,2019-20,0.0245042378870043
+Construction,SA,2020-21,0.0239989370775535
+Construction,SA,2021-22,0.024531828649798
+Construction,SA,2022-23,0.0256791379162585
+Construction,SA,2023-24,0.027632265896273
+Construction,WA,2019-20,0.0165624424265046
+Construction,WA,2020-21,0.0182170880932913
+Construction,WA,2021-22,0.0196773500718262
+Construction,WA,2022-23,0.021418772029316
+Construction,WA,2023-24,0.022719664606444
+Construction,TAS,2019-20,0.0237241040179926
+Construction,TAS,2020-21,0.0239530902562113
+Construction,TAS,2021-22,0.024480038035292
+Construction,TAS,2022-23,0.0250262319133729
+Construction,TAS,2023-24,0.0253777149860078
+Construction,NT,2019-20,0.0261784973224236
+Construction,NT,2020-21,0.0260171171265955
+Construction,NT,2021-22,0.0275056993927709
+Construction,NT,2022-23,0.0288258436026717
+Construction,NT,2023-24,0.0292312644100176
+Construction,ACTPrivate,2019-20,0.0404662733595805
+Construction,ACTPrivate,2020-21,0.0415257503257467
+Construction,ACTPrivate,2021-22,0.0425303338622663
+Construction,ACTPrivate,2022-23,0.0451024511455165
+Construction,ACTPrivate,2023-24,0.0461905937127622
+Construction,Comcare,2019-20,0.00302874578298154
+Construction,Comcare,2020-21,0.00460047845757264
+Construction,Comcare,2021-22,0.00588895405094959
+Construction,Comcare,2022-23,0.002621860681186
+Construction,Comcare,2023-24,0.00258288526007266
+Construction,AUST,2019-20,0.0213550838349753
+Construction,AUST,2020-21,0.0224599318155649
+Construction,AUST,2021-22,0.0228258198579075
+Construction,AUST,2022-23,0.0233741720461367
+Construction,AUST,2023-24,0.0264737889704311
+Wholesale trade,AUST,2019-20,0.0237255789997041
+Wholesale trade,AUST,2020-21,0.0247577054858939
+Wholesale trade,AUST,2021-22,0.0232588156182165
+Wholesale trade,AUST,2022-23,0.0239410411686914
+Wholesale trade,AUST,2023-24,0.0257825760187899
+Wholesale trade,NSW,2019-20,0.0110007272430116
+Wholesale trade,NSW,2020-21,0.0112153642646651
+Wholesale trade,NSW,2021-22,0.0116216875027479
+Wholesale trade,NSW,2022-23,0.0123219426633353
+Wholesale trade,NSW,2023-24,0.0130496947120393
+Wholesale trade,VIC,2019-20,0.0102075729601448
+Wholesale trade,VIC,2020-21,0.00994778780685039
+Wholesale trade,VIC,2021-22,0.00977010508013887
+Wholesale trade,VIC,2022-23,0.0100563482816123
+Wholesale trade,VIC,2023-24,0.0146926030770034
+Wholesale trade,QLD,2019-20,0.00930026224001135
+Wholesale trade,QLD,2020-21,0.00930564890773563
+Wholesale trade,QLD,2021-22,0.00936272334672149
+Wholesale trade,QLD,2022-23,0.0095292896139476
+Wholesale trade,QLD,2023-24,0.00974627388944682
+Wholesale trade,SA,2019-20,0.0122853725192878
+Wholesale trade,SA,2020-21,0.0121267759506654
+Wholesale trade,SA,2021-22,0.0124945309682306
+Wholesale trade,SA,2022-23,0.0128337672870199
+Wholesale trade,SA,2023-24,0.0135242232513138
+Wholesale trade,WA,2019-20,0.0120621934133544
+Wholesale trade,WA,2020-21,0.0126856724987347
+Wholesale trade,WA,2021-22,0.0135874425219338
+Wholesale trade,WA,2022-23,0.0145850748270593
+Wholesale trade,WA,2023-24,0.0151081897832029
+Wholesale trade,TAS,2019-20,0.0141506926816226
+Wholesale trade,TAS,2020-21,0.0149311453866793
+Wholesale trade,TAS,2021-22,0.0148289481008698
+Wholesale trade,TAS,2022-23,0.0140367612553207
+Wholesale trade,TAS,2023-24,0.0149176922637917
+Wholesale trade,NT,2019-20,0.0175473680739912
+Wholesale trade,NT,2020-21,0.0164912273863612
+Wholesale trade,NT,2021-22,0.0190059022172403
+Wholesale trade,NT,2022-23,0.0177383122403625
+Wholesale trade,NT,2023-24,0.0193518895160799
+Wholesale trade,ACTPrivate,2019-20,0.0237255789997041
+Wholesale trade,ACTPrivate,2020-21,0.0247577054858939
+Wholesale trade,ACTPrivate,2021-22,0.0232588156182165
+Wholesale trade,ACTPrivate,2022-23,0.0239410411686914
+Wholesale trade,ACTPrivate,2023-24,0.0257825760187899
+Wholesale trade,AUST,2019-20,0.0107652659351487
+Wholesale trade,AUST,2020-21,0.0108520308529951
+Wholesale trade,AUST,2021-22,0.011053155336898
+Wholesale trade,AUST,2022-23,0.0115347655226171
+Wholesale trade,AUST,2023-24,0.0133546983471152
+Retail trade,AUST,2019-20,0.0228065478202602
+Retail trade,AUST,2020-21,0.0246715333607598
+Retail trade,AUST,2021-22,0.0248395962108281
+Retail trade,AUST,2022-23,0.0240609707241675
+Retail trade,AUST,2023-24,0.0270582067798128
+Retail trade,NSW,2019-20,0.0202555325217836
+Retail trade,NSW,2020-21,0.0206605821415368
+Retail trade,NSW,2021-22,0.0207008579978156
+Retail trade,NSW,2022-23,0.0208548061320829
+Retail trade,NSW,2023-24,0.0212466430341728
+Retail trade,VIC,2019-20,0.0138833620277937
+Retail trade,VIC,2020-21,0.0123877138693599
+Retail trade,VIC,2021-22,0.0114975068164233
+Retail trade,VIC,2022-23,0.0112768787008251
+Retail trade,VIC,2023-24,0.0153187728834965
+Retail trade,QLD,2019-20,0.012929096911021
+Retail trade,QLD,2020-21,0.0131149418381275
+Retail trade,QLD,2021-22,0.0131252562654366
+Retail trade,QLD,2022-23,0.0134752585369009
+Retail trade,QLD,2023-24,0.0136240339351733
+Retail trade,SA,2019-20,0.0134360909812248
+Retail trade,SA,2020-21,0.0135405880436037
+Retail trade,SA,2021-22,0.0142570630095951
+Retail trade,SA,2022-23,0.0147446410001332
+Retail trade,SA,2023-24,0.0158819064633584
+Retail trade,WA,2019-20,0.0153568848199208
+Retail trade,WA,2020-21,0.0159815090540224
+Retail trade,WA,2021-22,0.0171503512846047
+Retail trade,WA,2022-23,0.018064600506426
+Retail trade,WA,2023-24,0.0182532525077668
+Retail trade,TAS,2019-20,0.0139777604198816
+Retail trade,TAS,2020-21,0.0148021170318371
+Retail trade,TAS,2021-22,0.0145100970060967
+Retail trade,TAS,2022-23,0.0130279247229751
+Retail trade,TAS,2023-24,0.0144936828370728
+Retail trade,NT,2019-20,0.017427507019133
+Retail trade,NT,2020-21,0.0174892395286818
+Retail trade,NT,2021-22,0.0184016626437004
+Retail trade,NT,2022-23,0.0203668939790352
+Retail trade,NT,2023-24,0.0186706110596591
+Retail trade,ACTPrivate,2019-20,0.0228065478202602
+Retail trade,ACTPrivate,2020-21,0.0246715333607598
+Retail trade,ACTPrivate,2021-22,0.0248395962108281
+Retail trade,ACTPrivate,2022-23,0.0240609707241675
+Retail trade,ACTPrivate,2023-24,0.0270582067798128
+Retail trade,AUST,2019-20,0.0157809241807554
+Retail trade,AUST,2020-21,0.0158614216166738
+Retail trade,AUST,2021-22,0.0157371485243039
+Retail trade,AUST,2022-23,0.0158915712397166
+Retail trade,AUST,2023-24,0.0172998824864657
+Accommodation and food services,AUST,2019-20,0.0204487145138509
+Accommodation and food services,AUST,2020-21,0.0204269587556795
+Accommodation and food services,AUST,2021-22,0.020872823161599
+Accommodation and food services,AUST,2022-23,0.0219274640759757
+Accommodation and food services,AUST,2023-24,0.0219461420601156
+Accommodation and food services,NSW,2019-20,0.0197589282238146
+Accommodation and food services,NSW,2020-21,0.0195705199809624
+Accommodation and food services,NSW,2021-22,0.0196445755090518
+Accommodation and food services,NSW,2022-23,0.0194330774681746
+Accommodation and food services,NSW,2023-24,0.0200902747647584
+Accommodation and food services,VIC,2019-20,0.0120998543329062
+Accommodation and food services,VIC,2020-21,0.0112978255318008
+Accommodation and food services,VIC,2021-22,0.0110344400957955
+Accommodation and food services,VIC,2022-23,0.0109747926992047
+Accommodation and food services,VIC,2023-24,0.0152032663194631
+Accommodation and food services,QLD,2019-20,0.0133511954839146
+Accommodation and food services,QLD,2020-21,0.0128364413161635
+Accommodation and food services,QLD,2021-22,0.0122132380051289
+Accommodation and food services,QLD,2022-23,0.0123307817870329
+Accommodation and food services,QLD,2023-24,0.0126110065740098
+Accommodation and food services,SA,2019-20,0.0154123825272066
+Accommodation and food services,SA,2020-21,0.0157857259992658
+Accommodation and food services,SA,2021-22,0.0158496227358534
+Accommodation and food services,SA,2022-23,0.0159287854831523
+Accommodation and food services,SA,2023-24,0.0171309131916722
+Accommodation and food services,WA,2019-20,0.0155828825302741
+Accommodation and food services,WA,2020-21,0.0158687274696535
+Accommodation and food services,WA,2021-22,0.0159786720761279
+Accommodation and food services,WA,2022-23,0.0172077132163128
+Accommodation and food services,WA,2023-24,0.0174319717787152
+Accommodation and food services,TAS,2019-20,0.0150356712387348
+Accommodation and food services,TAS,2020-21,0.0141886721278687
+Accommodation and food services,TAS,2021-22,0.0137819733247036
+Accommodation and food services,TAS,2022-23,0.0134917284821377
+Accommodation and food services,TAS,2023-24,0.0129367557043883
+Accommodation and food services,NT,2019-20,0.0191361186287452
+Accommodation and food services,NT,2020-21,0.0194474468205471
+Accommodation and food services,NT,2021-22,0.0190045809098074
+Accommodation and food services,NT,2022-23,0.0209183572403454
+Accommodation and food services,NT,2023-24,0.020356658235355
+Accommodation and food services,ACTPrivate,2019-20,0.0204487145138509
+Accommodation and food services,ACTPrivate,2020-21,0.0204269587556795
+Accommodation and food services,ACTPrivate,2021-22,0.020872823161599
+Accommodation and food services,ACTPrivate,2022-23,0.0219274640759757
+Accommodation and food services,ACTPrivate,2023-24,0.0219461420601156
+Accommodation and food services,Comcare,2019-20,0.0140270300971404
+Accommodation and food services,Comcare,2020-21,0.0164063165832727
+Accommodation and food services,Comcare,2021-22,0.0147185319737581
+Accommodation and food services,Comcare,2022-23,0.0138929933379046
+Accommodation and food services,Comcare,2023-24,0.0125150529757544
+Accommodation and food services,AUST,2019-20,0.0155689053314199
+Accommodation and food services,AUST,2020-21,0.0156345552261833
+Accommodation and food services,AUST,2021-22,0.015319383267036
+Accommodation and food services,AUST,2022-23,0.0154835646097291
+Accommodation and food services,AUST,2023-24,0.016794376903167
+"Transport, postal and warehousing",AUST,2019-20,0.0449062826034827
+"Transport, postal and warehousing",AUST,2020-21,0.0482451869465995
+"Transport, postal and warehousing",AUST,2021-22,0.0519746643060026
+"Transport, postal and warehousing",AUST,2022-23,0.049839420724435
+"Transport, postal and warehousing",AUST,2023-24,0.0608868238098939
+"Transport, postal and warehousing",NSW,2019-20,0.0304164589287095
+"Transport, postal and warehousing",NSW,2020-21,0.0325232175748246
+"Transport, postal and warehousing",NSW,2021-22,0.0317745179920499
+"Transport, postal and warehousing",NSW,2022-23,0.0332620082040159
+"Transport, postal and warehousing",NSW,2023-24,0.0307587538547813
+"Transport, postal and warehousing",VIC,2019-20,0.0242333936717694
+"Transport, postal and warehousing",VIC,2020-21,0.023010122296275
+"Transport, postal and warehousing",VIC,2021-22,0.0230111270746899
+"Transport, postal and warehousing",VIC,2022-23,0.0226016028305761
+"Transport, postal and warehousing",VIC,2023-24,0.0313538170323726
+"Transport, postal and warehousing",QLD,2019-20,0.0237038865433898
+"Transport, postal and warehousing",QLD,2020-21,0.0240644152716397
+"Transport, postal and warehousing",QLD,2021-22,0.0231073883835584
+"Transport, postal and warehousing",QLD,2022-23,0.0231019758402923
+"Transport, postal and warehousing",QLD,2023-24,0.0226042466191782
+"Transport, postal and warehousing",SA,2019-20,0.0329166825128058
+"Transport, postal and warehousing",SA,2020-21,0.0347910184238885
+"Transport, postal and warehousing",SA,2021-22,0.0366036637547575
+"Transport, postal and warehousing",SA,2022-23,0.0367108362597797
+"Transport, postal and warehousing",SA,2023-24,0.0383729589088832
+"Transport, postal and warehousing",WA,2019-20,0.0204266726913669
+"Transport, postal and warehousing",WA,2020-21,0.0236248236317302
+"Transport, postal and warehousing",WA,2021-22,0.0244541602938884
+"Transport, postal and warehousing",WA,2022-23,0.0253465415485892
+"Transport, postal and warehousing",WA,2023-24,0.026659158048142
+"Transport, postal and warehousing",TAS,2019-20,0.0220217337858702
+"Transport, postal and warehousing",TAS,2020-21,0.0252692153119884
+"Transport, postal and warehousing",TAS,2021-22,0.0275887288889201
+"Transport, postal and warehousing",TAS,2022-23,0.027295271017536
+"Transport, postal and warehousing",TAS,2023-24,0.030769888731294
+"Transport, postal and warehousing",NT,2019-20,0.0276584161325416
+"Transport, postal and warehousing",NT,2020-21,0.0301400505278629
+"Transport, postal and warehousing",NT,2021-22,0.0318693230571667
+"Transport, postal and warehousing",NT,2022-23,0.0363999408935566
+"Transport, postal and warehousing",NT,2023-24,0.0391631409226011
+"Transport, postal and warehousing",ACTPrivate,2019-20,0.0449062826034827
+"Transport, postal and warehousing",ACTPrivate,2020-21,0.0482451869465995
+"Transport, postal and warehousing",ACTPrivate,2021-22,0.0519746643060026
+"Transport, postal and warehousing",ACTPrivate,2022-23,0.049839420724435
+"Transport, postal and warehousing",ACTPrivate,2023-24,0.0608868238098939
+"Transport, postal and warehousing",Comcare,2019-20,0.0172069073969183
+"Transport, postal and warehousing",Comcare,2020-21,0.0177674862233511
+"Transport, postal and warehousing",Comcare,2021-22,0.0166526451542475
+"Transport, postal and warehousing",Comcare,2022-23,0.0169053447620741
+"Transport, postal and warehousing",Comcare,2023-24,0.0194484921455776
+"Transport, postal and warehousing",AUST,2019-20,0.0244167918738298
+"Transport, postal and warehousing",AUST,2020-21,0.0252925588553728
+"Transport, postal and warehousing",AUST,2021-22,0.0250583031978433
+"Transport, postal and warehousing",AUST,2022-23,0.0255473776184755
+"Transport, postal and warehousing",AUST,2023-24,0.0276743225381112
+Information media and telecommunications,AUST,2019-20,0.0175721428056478
+Information media and telecommunications,AUST,2020-21,0.01904808322222
+Information media and telecommunications,AUST,2021-22,0.0191618892887608
+Information media and telecommunications,AUST,2022-23,0.0196298487046824
+Information media and telecommunications,AUST,2023-24,0.0195905156596393
+Information media and telecommunications,NSW,2019-20,0.0034326763929731
+Information media and telecommunications,NSW,2020-21,0.0037769271433803
+Information media and telecommunications,NSW,2021-22,0.00360099275326192
+Information media and telecommunications,NSW,2022-23,0.00395408347011467
+Information media and telecommunications,NSW,2023-24,0.00410128275362005
+Information media and telecommunications,VIC,2019-20,0.00344590336423066
+Information media and telecommunications,VIC,2020-21,0.00331454450635872
+Information media and telecommunications,VIC,2021-22,0.00332997634883454
+Information media and telecommunications,VIC,2022-23,0.00306050032067016
+Information media and telecommunications,VIC,2023-24,0.00442986263401696
+Information media and telecommunications,QLD,2019-20,0.0049052853103741
+Information media and telecommunications,QLD,2020-21,0.00541345468241014
+Information media and telecommunications,QLD,2021-22,0.00516812103531461
+Information media and telecommunications,QLD,2022-23,0.00560316462665402
+Information media and telecommunications,QLD,2023-24,0.00551119545870301
+Information media and telecommunications,SA,2019-20,0.00537088814025384
+Information media and telecommunications,SA,2020-21,0.00516426426256057
+Information media and telecommunications,SA,2021-22,0.00547753627316328
+Information media and telecommunications,SA,2022-23,0.00561445009339962
+Information media and telecommunications,SA,2023-24,0.00586101703926255
+Information media and telecommunications,WA,2019-20,0.00363925372606073
+Information media and telecommunications,WA,2020-21,0.00374666452640986
+Information media and telecommunications,WA,2021-22,0.00391738051386262
+Information media and telecommunications,WA,2022-23,0.00415462472339343
+Information media and telecommunications,WA,2023-24,0.00466476833281063
+Information media and telecommunications,TAS,2019-20,0.00922375747603513
+Information media and telecommunications,TAS,2020-21,0.00999112710473133
+Information media and telecommunications,TAS,2021-22,0.0102176841390809
+Information media and telecommunications,TAS,2022-23,0.0104675080605989
+Information media and telecommunications,TAS,2023-24,0.0107299237493895
+Information media and telecommunications,NT,2019-20,0.0175721428056478
+Information media and telecommunications,NT,2020-21,0.01904808322222
+Information media and telecommunications,NT,2021-22,0.0191618892887608
+Information media and telecommunications,NT,2022-23,0.0196298487046824
+Information media and telecommunications,NT,2023-24,0.0195905156596393
+Information media and telecommunications,ACTPrivate,2019-20,0.0080980248502402
+Information media and telecommunications,ACTPrivate,2020-21,0.00812715657734889
+Information media and telecommunications,ACTPrivate,2021-22,0.00799768846736917
+Information media and telecommunications,ACTPrivate,2022-23,0.00733466754731021
+Information media and telecommunications,ACTPrivate,2023-24,0.00745416579875382
+Information media and telecommunications,Comcare,2019-20,0.00283666480540159
+Information media and telecommunications,Comcare,2020-21,0.00227325625968429
+Information media and telecommunications,Comcare,2021-22,0.00241617092567172
+Information media and telecommunications,Comcare,2022-23,0.00337642119035231
+Information media and telecommunications,Comcare,2023-24,0.0033082226811867
+Information media and telecommunications,AUST,2019-20,0.00351507974437255
+Information media and telecommunications,AUST,2020-21,0.00342139232715073
+Information media and telecommunications,AUST,2021-22,0.00345897301683821
+Information media and telecommunications,AUST,2022-23,0.00387421297267604
+Information media and telecommunications,AUST,2023-24,0.00423343865934945
+Financial and insurance services,AUST,2019-20,0.00685338597690403
+Financial and insurance services,AUST,2020-21,0.00677509359616339
+Financial and insurance services,AUST,2021-22,0.0068628346554155
+Financial and insurance services,AUST,2022-23,0.00705072341564647
+Financial and insurance services,AUST,2023-24,0.00707198829617693
+Financial and insurance services,NSW,2019-20,0.00241273248786327
+Financial and insurance services,NSW,2020-21,0.00232041310483991
+Financial and insurance services,NSW,2021-22,0.00241926621963007
+Financial and insurance services,NSW,2022-23,0.00246032511674205
+Financial and insurance services,NSW,2023-24,0.00266799777155468
+Financial and insurance services,VIC,2019-20,0.00265556722153434
+Financial and insurance services,VIC,2020-21,0.00250208882064694
+Financial and insurance services,VIC,2021-22,0.0030167385367912
+Financial and insurance services,VIC,2022-23,0.00288108918365298
+Financial and insurance services,VIC,2023-24,0.00400519586002003
+Financial and insurance services,QLD,2019-20,0.00192969868355215
+Financial and insurance services,QLD,2020-21,0.00197115431727735
+Financial and insurance services,QLD,2021-22,0.00198167637659653
+Financial and insurance services,QLD,2022-23,0.00191567505236968
+Financial and insurance services,QLD,2023-24,0.00179583755222881
+Financial and insurance services,SA,2019-20,0.00334814980692244
+Financial and insurance services,SA,2020-21,0.00357817812975037
+Financial and insurance services,SA,2021-22,0.00360118725387287
+Financial and insurance services,SA,2022-23,0.00389197321021728
+Financial and insurance services,SA,2023-24,0.00405860599426599
+Financial and insurance services,WA,2019-20,0.00290236899494595
+Financial and insurance services,WA,2020-21,0.00287394198247275
+Financial and insurance services,WA,2021-22,0.00293285022705351
+Financial and insurance services,WA,2022-23,0.00300358163381576
+Financial and insurance services,WA,2023-24,0.00313561453827908
+Financial and insurance services,TAS,2019-20,0.00609153409694572
+Financial and insurance services,TAS,2020-21,0.0065213006659503
+Financial and insurance services,TAS,2021-22,0.00591455850520851
+Financial and insurance services,TAS,2022-23,0.0056667927380876296
+Financial and insurance services,TAS,2023-24,0.00584673325884259
+Financial and insurance services,NT,2019-20,0.00541326154614006
+Financial and insurance services,NT,2020-21,0.00464358079509265
+Financial and insurance services,NT,2021-22,0.00512269560543789
+Financial and insurance services,NT,2022-23,0.00506007510481893
+Financial and insurance services,NT,2023-24,0.00579904802901218
+Financial and insurance services,ACTPrivate,2019-20,0.00685338597690403
+Financial and insurance services,ACTPrivate,2020-21,0.00677509359616339
+Financial and insurance services,ACTPrivate,2021-22,0.0068628346554155
+Financial and insurance services,ACTPrivate,2022-23,0.00705072341564647
+Financial and insurance services,ACTPrivate,2023-24,0.00707198829617693
+Financial and insurance services,Comcare,2019-20,0.0020883197574003
+Financial and insurance services,Comcare,2020-21,0.00165652107330522
+Financial and insurance services,Comcare,2021-22,0.00164478945705872
+Financial and insurance services,Comcare,2022-23,0.0015995263622883
+Financial and insurance services,Comcare,2023-24,0.00180683090928277
+Financial and insurance services,AUST,2019-20,0.00247487836468082
+Financial and insurance services,AUST,2020-21,0.00234541669492179
+Financial and insurance services,AUST,2021-22,0.00247149411872312
+Financial and insurance services,AUST,2022-23,0.00244132791524726
+Financial and insurance services,AUST,2023-24,0.00278951877276088
+"Rental, hiring and real estate services",AUST,2019-20,0.0104316422338009
+"Rental, hiring and real estate services",AUST,2020-21,0.0113005915416653
+"Rental, hiring and real estate services",AUST,2021-22,0.012350588672942
+"Rental, hiring and real estate services",AUST,2022-23,0.012725077500883
+"Rental, hiring and real estate services",AUST,2023-24,0.0152539728262401
+"Rental, hiring and real estate services",NSW,2019-20,0.00740681486528267
+"Rental, hiring and real estate services",NSW,2020-21,0.00760790420301878
+"Rental, hiring and real estate services",NSW,2021-22,0.00777660538422927
+"Rental, hiring and real estate services",NSW,2022-23,0.00897962075300059
+"Rental, hiring and real estate services",NSW,2023-24,0.00941791470670332
+"Rental, hiring and real estate services",VIC,2019-20,0.00713463406918502
+"Rental, hiring and real estate services",VIC,2020-21,0.0071526970596795
+"Rental, hiring and real estate services",VIC,2021-22,0.00670068801532162
+"Rental, hiring and real estate services",VIC,2022-23,0.00730102008153797
+"Rental, hiring and real estate services",VIC,2023-24,0.010027778185032
+"Rental, hiring and real estate services",QLD,2019-20,0.00615793105410295
+"Rental, hiring and real estate services",QLD,2020-21,0.00621115291100592
+"Rental, hiring and real estate services",QLD,2021-22,0.00615144690916406
+"Rental, hiring and real estate services",QLD,2022-23,0.00628375979729946
+"Rental, hiring and real estate services",QLD,2023-24,0.00662634408956429
+"Rental, hiring and real estate services",SA,2019-20,0.00791404221254044
+"Rental, hiring and real estate services",SA,2020-21,0.00782717479435502
+"Rental, hiring and real estate services",SA,2021-22,0.0077494501665517
+"Rental, hiring and real estate services",SA,2022-23,0.00851961300774963
+"Rental, hiring and real estate services",SA,2023-24,0.00960882060873793
+"Rental, hiring and real estate services",WA,2019-20,0.00765981893462818
+"Rental, hiring and real estate services",WA,2020-21,0.00744026231356601
+"Rental, hiring and real estate services",WA,2021-22,0.00841709450051235
+"Rental, hiring and real estate services",WA,2022-23,0.00931266918439069
+"Rental, hiring and real estate services",WA,2023-24,0.00968273583172536
+"Rental, hiring and real estate services",TAS,2019-20,0.00716174513242104
+"Rental, hiring and real estate services",TAS,2020-21,0.00653805489388165
+"Rental, hiring and real estate services",TAS,2021-22,0.0068564340900385
+"Rental, hiring and real estate services",TAS,2022-23,0.00740196585409796
+"Rental, hiring and real estate services",TAS,2023-24,0.00728184808586332
+"Rental, hiring and real estate services",NT,2019-20,0.0104316422338009
+"Rental, hiring and real estate services",NT,2020-21,0.0113005915416653
+"Rental, hiring and real estate services",NT,2021-22,0.012350588672942
+"Rental, hiring and real estate services",NT,2022-23,0.012725077500883
+"Rental, hiring and real estate services",NT,2023-24,0.0152539728262401
+"Rental, hiring and real estate services",ACTPrivate,2019-20,0.00948065240340025
+"Rental, hiring and real estate services",ACTPrivate,2020-21,0.00942772581847783
+"Rental, hiring and real estate services",ACTPrivate,2021-22,0.0098247002163317
+"Rental, hiring and real estate services",ACTPrivate,2022-23,0.0101219896766619
+"Rental, hiring and real estate services",ACTPrivate,2023-24,0.0114096411845947
+"Rental, hiring and real estate services",Comcare,2019-20,0.00662792487342746
+"Rental, hiring and real estate services",Comcare,2020-21,0.0042411932803209
+"Rental, hiring and real estate services",Comcare,2021-22,0.00384665171716947
+"Rental, hiring and real estate services",Comcare,2022-23,0.00417388859072089
+"Rental, hiring and real estate services",Comcare,2023-24,0.00393197622723716
+"Rental, hiring and real estate services",AUST,2019-20,0.00720513597861178
+"Rental, hiring and real estate services",AUST,2020-21,0.0072901581140531
+"Rental, hiring and real estate services",AUST,2021-22,0.00736079565624903
+"Rental, hiring and real estate services",AUST,2022-23,0.0081245558494563
+"Rental, hiring and real estate services",AUST,2023-24,0.00913739659008627
+"Professional, scientific and technical services",AUST,2019-20,0.0110186197745124
+"Professional, scientific and technical services",AUST,2020-21,0.0117895888385273
+"Professional, scientific and technical services",AUST,2021-22,0.0125948587076123
+"Professional, scientific and technical services",AUST,2022-23,0.0131508439705352
+"Professional, scientific and technical services",AUST,2023-24,0.0157553158137075
+"Professional, scientific and technical services",NSW,2019-20,0.00282318415460586
+"Professional, scientific and technical services",NSW,2020-21,0.00288125862937066
+"Professional, scientific and technical services",NSW,2021-22,0.00294235217622815
+"Professional, scientific and technical services",NSW,2022-23,0.00303189401735322
+"Professional, scientific and technical services",NSW,2023-24,0.00321465854119471
+"Professional, scientific and technical services",VIC,2019-20,0.00271327405055976
+"Professional, scientific and technical services",VIC,2020-21,0.00274790997080525
+"Professional, scientific and technical services",VIC,2021-22,0.00271303167233417
+"Professional, scientific and technical services",VIC,2022-23,0.0027182522787618
+"Professional, scientific and technical services",VIC,2023-24,0.00377320222793378
+"Professional, scientific and technical services",QLD,2019-20,0.00221624216261693
+"Professional, scientific and technical services",QLD,2020-21,0.00225797892113357
+"Professional, scientific and technical services",QLD,2021-22,0.00219579617272514
+"Professional, scientific and technical services",QLD,2022-23,0.00224052433913226
+"Professional, scientific and technical services",QLD,2023-24,0.00227925664639896
+"Professional, scientific and technical services",SA,2019-20,0.00340959789295191
+"Professional, scientific and technical services",SA,2020-21,0.00369358194239677
+"Professional, scientific and technical services",SA,2021-22,0.00374808810219829
+"Professional, scientific and technical services",SA,2022-23,0.00414163970913249
+"Professional, scientific and technical services",SA,2023-24,0.00412567293399706
+"Professional, scientific and technical services",WA,2019-20,0.00310902723336492
+"Professional, scientific and technical services",WA,2020-21,0.00324167896582262
+"Professional, scientific and technical services",WA,2021-22,0.00350538463314571
+"Professional, scientific and technical services",WA,2022-23,0.00383869066381502
+"Professional, scientific and technical services",WA,2023-24,0.00393971535389759
+"Professional, scientific and technical services",TAS,2019-20,0.00642208975989049
+"Professional, scientific and technical services",TAS,2020-21,0.0061574878228233
+"Professional, scientific and technical services",TAS,2021-22,0.00622254202513317
+"Professional, scientific and technical services",TAS,2022-23,0.00651410082206969
+"Professional, scientific and technical services",TAS,2023-24,0.00646673778665005
+"Professional, scientific and technical services",NT,2019-20,0.0110186197745124
+"Professional, scientific and technical services",NT,2020-21,0.0117895888385273
+"Professional, scientific and technical services",NT,2021-22,0.0125948587076123
+"Professional, scientific and technical services",NT,2022-23,0.0131508439705352
+"Professional, scientific and technical services",NT,2023-24,0.0157553158137075
+"Professional, scientific and technical services",ACTPrivate,2019-20,0.00372326576450898
+"Professional, scientific and technical services",ACTPrivate,2020-21,0.00364417807652737
+"Professional, scientific and technical services",ACTPrivate,2021-22,0.0036668258862028
+"Professional, scientific and technical services",ACTPrivate,2022-23,0.00384083310962287
+"Professional, scientific and technical services",ACTPrivate,2023-24,0.0038323832804694
+"Professional, scientific and technical services",Comcare,2019-20,0.00367685351262444
+"Professional, scientific and technical services",Comcare,2020-21,0.00379444591045345
+"Professional, scientific and technical services",Comcare,2021-22,0.0037778933906675
+"Professional, scientific and technical services",Comcare,2022-23,0.0045916096892866
+"Professional, scientific and technical services",Comcare,2023-24,0.00478695778456506
+"Professional, scientific and technical services",AUST,2019-20,0.00291083403295376
+"Professional, scientific and technical services",AUST,2020-21,0.00296570575067136
+"Professional, scientific and technical services",AUST,2021-22,0.00300833738450899
+"Professional, scientific and technical services",AUST,2022-23,0.0031154796656664
+"Professional, scientific and technical services",AUST,2023-24,0.00348622256329095
+Administrative and support services,AUST,2019-20,0.0217426534631291
+Administrative and support services,AUST,2020-21,0.0227771214312073
+Administrative and support services,AUST,2021-22,0.0254946660659759
+Administrative and support services,AUST,2022-23,0.0265723458779417
+Administrative and support services,AUST,2023-24,0.0230827568509211
+Administrative and support services,NSW,2019-20,0.0182827679620586
+Administrative and support services,NSW,2020-21,0.0201485142665597
+Administrative and support services,NSW,2021-22,0.0202017696461225
+Administrative and support services,NSW,2022-23,0.0203604741453542
+Administrative and support services,NSW,2023-24,0.0210539149817974
+Administrative and support services,VIC,2019-20,0.0155068389783146
+Administrative and support services,VIC,2020-21,0.0161239565593167
+Administrative and support services,VIC,2021-22,0.015419033125404
+Administrative and support services,VIC,2022-23,0.0161526707521917
+Administrative and support services,VIC,2023-24,0.0219610689042886
+Administrative and support services,QLD,2019-20,0.0146631019028572
+Administrative and support services,QLD,2020-21,0.0163815739214553
+Administrative and support services,QLD,2021-22,0.0168391071548443
+Administrative and support services,QLD,2022-23,0.0164062925676359
+Administrative and support services,QLD,2023-24,0.0163560494500695
+Administrative and support services,SA,2019-20,0.0186545930791086
+Administrative and support services,SA,2020-21,0.0191541476438196
+Administrative and support services,SA,2021-22,0.0191551436545091
+Administrative and support services,SA,2022-23,0.020087506783324
+Administrative and support services,SA,2023-24,0.022617576575918
+Administrative and support services,WA,2019-20,0.0140008525970182
+Administrative and support services,WA,2020-21,0.0146131373081854
+Administrative and support services,WA,2021-22,0.0156688459346742
+Administrative and support services,WA,2022-23,0.0180315680053602
+Administrative and support services,WA,2023-24,0.0200662655487362
+Administrative and support services,TAS,2019-20,0.0217426534631291
+Administrative and support services,TAS,2020-21,0.0227771214312073
+Administrative and support services,TAS,2021-22,0.0254946660659759
+Administrative and support services,TAS,2022-23,0.0265723458779417
+Administrative and support services,TAS,2023-24,0.0230827568509211
+Administrative and support services,NT,2019-20,0.0129355267350567
+Administrative and support services,NT,2020-21,0.0138162973256257
+Administrative and support services,NT,2021-22,0.0149373881071973
+Administrative and support services,NT,2022-23,0.015937507679188
+Administrative and support services,NT,2023-24,0.0186531891849182
+Administrative and support services,ACTPrivate,2019-20,0.020809445125718
+Administrative and support services,ACTPrivate,2020-21,0.018288070991864
+Administrative and support services,ACTPrivate,2021-22,0.0183192412042806
+Administrative and support services,ACTPrivate,2022-23,0.0193488627680834
+Administrative and support services,ACTPrivate,2023-24,0.020679156101634
+Administrative and support services,Comcare,2019-20,0.00174655954772614
+Administrative and support services,Comcare,2020-21,0.00173366172152537
+Administrative and support services,Comcare,2021-22,0.00156019819057215
+Administrative and support services,Comcare,2022-23,0.00150425573377511
+Administrative and support services,Comcare,2023-24,0.00135301794341452
+Administrative and support services,AUST,2019-20,0.016408241032017
+Administrative and support services,AUST,2020-21,0.0177191237609318
+Administrative and support services,AUST,2021-22,0.0177081061952835
+Administrative and support services,AUST,2022-23,0.0181937852926901
+Administrative and support services,AUST,2023-24,0.0204510005275638
+Public administration and safety,AUST,2019-20,0.0285825602919382
+Public administration and safety,AUST,2020-21,0.0270831073800334
+Public administration and safety,AUST,2021-22,0.0322714231111775
+Public administration and safety,AUST,2022-23,0.0343366993414604
+Public administration and safety,AUST,2023-24,0.0358207945042251
+Public administration and safety,NSW,2019-20,0.0192112871093839
+Public administration and safety,NSW,2020-21,0.0197759515579719
+Public administration and safety,NSW,2021-22,0.0195689087451268
+Public administration and safety,NSW,2022-23,0.0197163303687424
+Public administration and safety,NSW,2023-24,0.0187791092449368
+Public administration and safety,VIC,2019-20,0.0215080006952251
+Public administration and safety,VIC,2020-21,0.0221492126318442
+Public administration and safety,VIC,2021-22,0.0232510679398855
+Public administration and safety,VIC,2022-23,0.0243201053554383
+Public administration and safety,VIC,2023-24,0.0348075552389769
+Public administration and safety,QLD,2019-20,0.0120473681579539
+Public administration and safety,QLD,2020-21,0.0125419951179637
+Public administration and safety,QLD,2021-22,0.0124208686544493
+Public administration and safety,QLD,2022-23,0.0141378626328388
+Public administration and safety,QLD,2023-24,0.0167552986972362
+Public administration and safety,SA,2019-20,0.022328242985823
+Public administration and safety,SA,2020-21,0.020499377859091
+Public administration and safety,SA,2021-22,0.0206463652791703
+Public administration and safety,SA,2022-23,0.022509589015553
+Public administration and safety,SA,2023-24,0.024253726059734
+Public administration and safety,WA,2019-20,0.0213542093493703
+Public administration and safety,WA,2020-21,0.0214534431218505
+Public administration and safety,WA,2021-22,0.0221834624409123
+Public administration and safety,WA,2022-23,0.0225616306148062
+Public administration and safety,WA,2023-24,0.0234663068364245
+Public administration and safety,TAS,2019-20,0.0218405113620666
+Public administration and safety,TAS,2020-21,0.0219987629097822
+Public administration and safety,TAS,2021-22,0.0275862701448568
+Public administration and safety,TAS,2022-23,0.0343366993414604
+Public administration and safety,TAS,2023-24,0.0358207945042251
+Public administration and safety,NT,2019-20,0.0151236321532836
+Public administration and safety,NT,2020-21,0.0145064813335707
+Public administration and safety,NT,2021-22,0.0138063437474905
+Public administration and safety,NT,2022-23,0.0155886840470846
+Public administration and safety,NT,2023-24,0.0180692066492932
+Public administration and safety,ACTPrivate,2019-20,0.0285825602919382
+Public administration and safety,ACTPrivate,2020-21,0.0270831073800334
+Public administration and safety,ACTPrivate,2021-22,0.0322714231111775
+Public administration and safety,ACTPrivate,2022-23,0.0266909474793006
+Public administration and safety,ACTPrivate,2023-24,0.0232534308579475
+Public administration and safety,Comcare,2019-20,0.00805509198845237
+Public administration and safety,Comcare,2020-21,0.0084230791724431
+Public administration and safety,Comcare,2021-22,0.00732029118649713
+Public administration and safety,Comcare,2022-23,0.00787707699796916
+Public administration and safety,Comcare,2023-24,0.0104851920067145
+Public administration and safety,AUST,2019-20,0.0156285059041858
+Public administration and safety,AUST,2020-21,0.0163542061117213
+Public administration and safety,AUST,2021-22,0.0164070151470257
+Public administration and safety,AUST,2022-23,0.0172489394474974
+Public administration and safety,AUST,2023-24,0.020005193104257
+Education and training,AUST,2019-20,0.013307699301797
+Education and training,AUST,2020-21,0.0130743873760708
+Education and training,AUST,2021-22,0.0140007388330148
+Education and training,AUST,2022-23,0.0148587898302048
+Education and training,AUST,2023-24,0.0157055382351515
+Education and training,NSW,2019-20,0.00592685799783227
+Education and training,NSW,2020-21,0.00635037716054568
+Education and training,NSW,2021-22,0.00708805776274441
+Education and training,NSW,2022-23,0.0068122250232195
+Education and training,NSW,2023-24,0.00652987336657087
+Education and training,VIC,2019-20,0.00763466815061008
+Education and training,VIC,2020-21,0.00855221154969129
+Education and training,VIC,2021-22,0.00898226372961218
+Education and training,VIC,2022-23,0.00907270126224157
+Education and training,VIC,2023-24,0.0124814965897901
+Education and training,QLD,2019-20,0.00607370726805463
+Education and training,QLD,2020-21,0.00624238938296552
+Education and training,QLD,2021-22,0.00622045492667692
+Education and training,QLD,2022-23,0.0064402686034711
+Education and training,QLD,2023-24,0.00745513547408464
+Education and training,SA,2019-20,0.00737038204547896
+Education and training,SA,2020-21,0.00730317159060703
+Education and training,SA,2021-22,0.00751806096627975
+Education and training,SA,2022-23,0.00784613502850589
+Education and training,SA,2023-24,0.00852476651593182
+Education and training,WA,2019-20,0.00933780147954093
+Education and training,WA,2020-21,0.0117816266083563
+Education and training,WA,2021-22,0.00992318825760389
+Education and training,WA,2022-23,0.011200313881834
+Education and training,WA,2023-24,0.0117040116716855
+Education and training,TAS,2019-20,0.0103782247790785
+Education and training,TAS,2020-21,0.00955949038665851
+Education and training,TAS,2021-22,0.0108231802799728
+Education and training,TAS,2022-23,0.0113344930993178
+Education and training,TAS,2023-24,0.0105774041216875
+Education and training,NT,2019-20,0.013307699301797
+Education and training,NT,2020-21,0.0130743873760708
+Education and training,NT,2021-22,0.0140007388330148
+Education and training,NT,2022-23,0.0148587898302048
+Education and training,NT,2023-24,0.0157055382351515
+Education and training,ACTPrivate,2019-20,0.0132014497014115
+Education and training,ACTPrivate,2020-21,0.0118876757177497
+Education and training,ACTPrivate,2021-22,0.0124068853450666
+Education and training,ACTPrivate,2022-23,0.0130653638792041
+Education and training,ACTPrivate,2023-24,0.0133114883232921
+Education and training,Comcare,2019-20,0.00104305877486984
+Education and training,Comcare,2020-21,0.00104987593866967
+Education and training,Comcare,2021-22,0.00162446446541474
+Education and training,Comcare,2022-23,0.00206350833065944
+Education and training,Comcare,2023-24,0.00276733720212602
+Education and training,AUST,2019-20,0.00708452208345604
+Education and training,AUST,2020-21,0.00770677704753204
+Education and training,AUST,2021-22,0.00790961509349978
+Education and training,AUST,2022-23,0.00809089136509634
+Education and training,AUST,2023-24,0.0091987091488961
+Health care and social assistance,AUST,2019-20,0.0224010391037746
+Health care and social assistance,AUST,2020-21,0.0227565041103494
+Health care and social assistance,AUST,2021-22,0.02261270624669
+Health care and social assistance,AUST,2022-23,0.0252582683889486
+Health care and social assistance,AUST,2023-24,0.0259832475740123
+Health care and social assistance,NSW,2019-20,0.0169170561610912
+Health care and social assistance,NSW,2020-21,0.0178985661977997
+Health care and social assistance,NSW,2021-22,0.0179252295637353
+Health care and social assistance,NSW,2022-23,0.019030078662752
+Health care and social assistance,NSW,2023-24,0.0186443177361952
+Health care and social assistance,VIC,2019-20,0.0158238478776159
+Health care and social assistance,VIC,2020-21,0.0156347213084435
+Health care and social assistance,VIC,2021-22,0.0154000711099117
+Health care and social assistance,VIC,2022-23,0.0164120854327889
+Health care and social assistance,VIC,2023-24,0.0235185162775783
+Health care and social assistance,QLD,2019-20,0.0101028204026034
+Health care and social assistance,QLD,2020-21,0.0100495701653954
+Health care and social assistance,QLD,2021-22,0.0101269983684113
+Health care and social assistance,QLD,2022-23,0.0110105075743471
+Health care and social assistance,QLD,2023-24,0.0123171507699086
+Health care and social assistance,SA,2019-20,0.0209063935059434
+Health care and social assistance,SA,2020-21,0.0197129915090955
+Health care and social assistance,SA,2021-22,0.019985652137836
+Health care and social assistance,SA,2022-23,0.0209925473714713
+Health care and social assistance,SA,2023-24,0.0225434236773929
+Health care and social assistance,WA,2019-20,0.0143948277374074
+Health care and social assistance,WA,2020-21,0.0166255890999902
+Health care and social assistance,WA,2021-22,0.0158570386727872
+Health care and social assistance,WA,2022-23,0.0165426769921257
+Health care and social assistance,WA,2023-24,0.0175817678397983
+Health care and social assistance,TAS,2019-20,0.0194019767591419
+Health care and social assistance,TAS,2020-21,0.0200646204927134
+Health care and social assistance,TAS,2021-22,0.02261270624669
+Health care and social assistance,TAS,2022-23,0.0241866221217674
+Health care and social assistance,TAS,2023-24,0.0238242389392214
+Health care and social assistance,NT,2019-20,0.0187348288140443
+Health care and social assistance,NT,2020-21,0.0184665007946233
+Health care and social assistance,NT,2021-22,0.019249208270355
+Health care and social assistance,NT,2022-23,0.019619158551336
+Health care and social assistance,NT,2023-24,0.0218378562252475
+Health care and social assistance,ACTPrivate,2019-20,0.0224010391037746
+Health care and social assistance,ACTPrivate,2020-21,0.0227565041103494
+Health care and social assistance,ACTPrivate,2021-22,0.0224799763329853
+Health care and social assistance,ACTPrivate,2022-23,0.0252582683889486
+Health care and social assistance,ACTPrivate,2023-24,0.0259832475740123
+Health care and social assistance,Comcare,2019-20,0.0100248086936209
+Health care and social assistance,Comcare,2020-21,0.00696197816110005
+Health care and social assistance,Comcare,2021-22,0.00647963242950587
+Health care and social assistance,Comcare,2022-23,0.00275354795718456
+Health care and social assistance,Comcare,2023-24,0.00557506580185561
+Health care and social assistance,AUST,2019-20,0.0150832547711779
+Health care and social assistance,AUST,2020-21,0.0155207303322539
+Health care and social assistance,AUST,2021-22,0.0153767887003056
+Health care and social assistance,AUST,2022-23,0.0162940385745415
+Health care and social assistance,AUST,2023-24,0.0186130851557943
+Arts and recreation services,AUST,2019-20,0.0213411114344204
+Arts and recreation services,AUST,2020-21,0.0223944191358976
+Arts and recreation services,AUST,2021-22,0.0229671853551943
+Arts and recreation services,AUST,2022-23,0.0223718134807132
+Arts and recreation services,AUST,2023-24,0.0240268079227192
+Arts and recreation services,NSW,2019-20,0.018619447045466
+Arts and recreation services,NSW,2020-21,0.017861552732727
+Arts and recreation services,NSW,2021-22,0.018246474320349
+Arts and recreation services,NSW,2022-23,0.0183777286203796
+Arts and recreation services,NSW,2023-24,0.019260635565043
+Arts and recreation services,VIC,2019-20,0.0130394987659306
+Arts and recreation services,VIC,2020-21,0.0132418349544873
+Arts and recreation services,VIC,2021-22,0.0137274917466652
+Arts and recreation services,VIC,2022-23,0.0122815810461503
+Arts and recreation services,VIC,2023-24,0.016752206384633
+Arts and recreation services,QLD,2019-20,0.0129428810613388
+Arts and recreation services,QLD,2020-21,0.0129868682300991
+Arts and recreation services,QLD,2021-22,0.0130348936447405
+Arts and recreation services,QLD,2022-23,0.0127797682702598
+Arts and recreation services,QLD,2023-24,0.0138770344063452
+Arts and recreation services,SA,2019-20,0.0165920785810536
+Arts and recreation services,SA,2020-21,0.0172240523245185
+Arts and recreation services,SA,2021-22,0.016828758234397
+Arts and recreation services,SA,2022-23,0.0166257737592483
+Arts and recreation services,SA,2023-24,0.01831376116737
+Arts and recreation services,WA,2019-20,0.0143590601901831
+Arts and recreation services,WA,2020-21,0.0154395038251919
+Arts and recreation services,WA,2021-22,0.0164071589706984
+Arts and recreation services,WA,2022-23,0.0182084212309458
+Arts and recreation services,WA,2023-24,0.0193300822919533
+Arts and recreation services,TAS,2019-20,0.0154209391007007
+Arts and recreation services,TAS,2020-21,0.0193818406995011
+Arts and recreation services,TAS,2021-22,0.0190307683352412
+Arts and recreation services,TAS,2022-23,0.0209620598763894
+Arts and recreation services,TAS,2023-24,0.0188731557174133
+Arts and recreation services,NT,2019-20,0.0191646364665399
+Arts and recreation services,NT,2020-21,0.0197127363111307
+Arts and recreation services,NT,2021-22,0.0200250566916153
+Arts and recreation services,NT,2022-23,0.0205478353116576
+Arts and recreation services,NT,2023-24,0.0200237178737568
+Arts and recreation services,ACTPrivate,2019-20,0.0213411114344204
+Arts and recreation services,ACTPrivate,2020-21,0.0223944191358976
+Arts and recreation services,ACTPrivate,2021-22,0.0229671853551943
+Arts and recreation services,ACTPrivate,2022-23,0.0223718134807132
+Arts and recreation services,ACTPrivate,2023-24,0.0240268079227192
+Arts and recreation services,Comcare,2019-20,0.00828698417157763
+Arts and recreation services,Comcare,2020-21,0.00783782701118062
+Arts and recreation services,Comcare,2021-22,0.00619602884671894
+Arts and recreation services,Comcare,2022-23,0.00549022790441081
+Arts and recreation services,Comcare,2023-24,0.00495439925237591
+Arts and recreation services,AUST,2019-20,0.0147997944115103
+Arts and recreation services,AUST,2020-21,0.0151994364955975
+Arts and recreation services,AUST,2021-22,0.0155273448728569
+Arts and recreation services,AUST,2022-23,0.0151660366076116
+Arts and recreation services,AUST,2023-24,0.0173455793411579
+Other services,AUST,2019-20,0.0210919518277644
+Other services,AUST,2020-21,0.0205966916445733
+Other services,AUST,2021-22,0.0255003749861155
+Other services,AUST,2022-23,0.0327526804755911
+Other services,AUST,2023-24,0.0353291042592811
