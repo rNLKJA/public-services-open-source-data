@@ -1,0 +1,8 @@
+section,duration,nsw,vic,qld,wa,sa,tas,act,nt,australia
+,0–90 days (<3 months),142,9,89,56,n.p.,—,n.p.,n.a.,302
+,91–182 days (3-<6 months),890,81,662,334,45,9,9,n.a.,2030
+,183–273 days (6-<9 months),823,75,411,161,39,6,16,n.a.,1531
+,274–364 days (9-<12 months),587,68,234,46,n.p.,7,n.p.,n.a.,962
+,365+ days (12+ months),752,127,420,19,18,57,8,n.a.,1401
+,Number of successfully completed orders,3194,360,1816,616,120,79,41,n.a.,6226
+,Number of orders ended during the year,4026,408,2068,770,128,85,44,n.a.,7529

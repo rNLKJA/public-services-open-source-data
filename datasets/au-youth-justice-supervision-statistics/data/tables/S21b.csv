@@ -1,0 +1,22 @@
+sex,remoteness_area,first_nations,non_indigenous,not_stated,total
+Male,Major cities of Australia,1330,2380,55,3766
+Male,Inner regional Australia,658,489,24,1172
+Male,Outer regional Australia,900,208,18,1127
+Male,Remote Australia,392,24,6,423
+Male,Very remote Australia,536,8,3,547
+Female,Major cities of Australia,523,550,8,1081
+Female,Inner regional Australia,182,124,7,314
+Female,Outer regional Australia,305,39,5,349
+Female,Remote Australia,112,2,—,113
+Female,Very remote Australia,82,3,—,85
+Not stated,Major cities of Australia,2,2,—,3
+Not stated,Inner regional Australia,—,4,—,4
+Not stated,Outer regional Australia,—,—,3,3
+Not stated,Remote Australia,—,—,—,—
+Not stated,Very remote Australia,—,—,1,1
+Total,Major cities of Australia,1855,2932,63,4850
+Total,Inner regional Australia,841,618,32,1491
+Total,Outer regional Australia,1205,248,26,1479
+Total,Remote Australia,504,26,6,536
+Total,Very remote Australia,618,11,4,634
+Total,Total under supervision,5310,4084,185,9579

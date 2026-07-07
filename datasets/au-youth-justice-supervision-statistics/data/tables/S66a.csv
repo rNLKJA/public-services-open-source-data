@@ -1,0 +1,10 @@
+legal_status,indigenous_status,nsw,vic,qld,wa,sa,tas,act,nt,australia
+Unsentenced,First Nations,8.564,14.301,25.069,15.644,50.814,12.563,98.282,n.a.,18.265
+Unsentenced,Non-Indigenous,0.301,1.346,1.171,0.975,1.898,1.887,5.819,n.a.,1.05
+Unsentenced,Total,0.935,1.621,3.278,1.991,4.556,3.112,8.802,n.a.,2.131
+Sentenced,First Nations,57.028,18.008,99.261,90.871,56.505,51.304,60.936,n.a.,70.888
+Sentenced,Non-Indigenous,3.863,1.692,4.25,4.662,2.47,10.295,4.576,n.a.,3.503
+Sentenced,Total,8.095,2.034,12.657,10.633,5.469,14.972,6.394,n.a.,7.799
+Total,First Nations,63.941,30.193,115.002,103.889,101.63,62.59,143.934,n.a.,84.646
+Total,Non-Indigenous,4.128,2.849,5.064,5.433,4.133,12.07,9.627,n.a.,4.365
+Total,Total,8.892,3.426,14.79,12.252,9.497,17.84,13.96,n.a.,9.478

@@ -1,0 +1,17 @@
+sex,indigenous_status,nsw,vic,qld,wa,sa,tas,act,nt,australia
+Male,First Nations,108.8,10.1,177.7,42.2,16.6,3.9,4.5,37.1,400.9
+Male,Non-Indigenous,60.5,60.7,70.1,24.7,15.2,7.8,10.5,2,251.6
+Male,Not stated,0.7,0.2,0.1,—,0.3,—,—,0.4,1.8
+Male,Total,170,71,247.9,66.9,32.1,11.7,15,39.5,654.2
+Female,First Nations,8.6,1.2,30,3.4,3.9,0.9,1.2,2.9,52
+Female,Non-Indigenous,5.5,1.6,11.7,3.6,2.2,1.7,0.9,—,27.3
+Female,Not stated,0.1,—,0.1,—,—,—,—,—,0.3
+Female,Total,14.3,2.9,41.8,7,6.1,2.6,2,2.9,79.5
+Not stated,First Nations,—,—,—,—,—,—,—,—,—
+Not stated,Non-Indigenous,—,—,—,—,—,—,—,—,0.1
+Not stated,Not stated,—,—,—,—,—,—,—,—,—
+Not stated,Total,—,—,—,—,—,—,—,—,0.1
+Total,First Nations,117.4,11.3,207.7,45.6,20.4,4.7,5.7,40,452.8
+Total,Non-Indigenous,66.1,62.3,81.8,28.3,17.4,9.6,11.4,2,278.9
+Total,Not stated,0.8,0.2,0.3,—,0.3,—,—,0.4,2
+Total,Total,184.3,73.9,289.8,73.9,38.2,14.3,17.1,42.4,733.7

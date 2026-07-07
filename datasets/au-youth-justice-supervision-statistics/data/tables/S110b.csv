@@ -1,0 +1,16 @@
+legal_status,indigenous_status,nsw,vic,qld,wa,sa,tas,act,nt,australia
+Police-referred pre-court detention,First Nations,41.6,—,15.264,176.978,164.338,—,264.961,—,50.57
+Police-referred pre-court detention,Non-Indigenous,3.053,—,0.848,7.264,7.124,—,16.145,—,2.626
+Police-referred pre-court detention,Total,6.12,—,2.115,19.018,15.618,—,24.172,—,5.844
+Remand,First Nations,111.256,35.1,139.336,180.345,138.169,36.131,155.322,277.558,131.425
+Remand,Non-Indigenous,7.393,4.544,5.996,6.799,6.471,9.175,8.225,6.175,6.26
+Remand,Total,15.62,5.213,17.766,18.818,13.651,12.212,12.971,119.294,14.683
+Unsentenced,First Nations,122.866,35.1,140.902,253.445,190.506,n.p.,n.p.,277.558,148.414
+Unsentenced,Non-Indigenous,8.368,4.544,6.166,9.197,9.023,n.p.,n.p.,6.175,7.188
+Unsentenced,Total,17.483,5.213,18.058,26.112,18.932,12.212,29.184,119.294,16.702
+Sentenced,First Nations,17.898,5.014,26.615,28.855,16.748,n.p.,n.p.,130.874,27.615
+Sentenced,Non-Indigenous,0.676,0.444,0.547,1.467,0.831,n.p.,n.p.,3.705,0.736
+Sentenced,Total,1.984,0.539,2.838,3.364,1.685,n.p.,n.p.,56.927,2.52
+Total,First Nations,124.156,35.1,141.684,258.254,191.553,39.415,310.644,278.437,149.891
+Total,Non-Indigenous,8.459,4.59,6.185,9.733,9.083,9.592,19.8,6.175,7.304
+Total,Total,17.676,5.258,18.144,26.945,19.044,12.952,29.184,119.656,16.912

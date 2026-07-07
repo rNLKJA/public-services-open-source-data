@@ -1,0 +1,17 @@
+sex,indigenous_status,10_12,13,14,15,16,17,10_17,18plus,total
+Male,First Nations,94,181,322,439,468,551,2055,69,2124
+Male,Non-Indigenous,12,85,203,363,405,443,1511,134,1645
+Male,Not stated,2,3,8,12,8,16,49,2,51
+Male,Total,108,269,533,814,881,1010,3615,205,3820
+Female,First Nations,24,63,114,132,139,111,583,7,590
+Female,Non-Indigenous,8,36,45,73,70,80,312,7,319
+Female,Not stated,1,2,2,2,2,2,11,—,11
+Female,Total,33,101,161,207,211,193,906,14,920
+Not stated,First Nations,—,—,—,—,—,—,—,—,—
+Not stated,Non-Indigenous,—,—,—,1,1,—,2,—,2
+Not stated,Not stated,—,—,—,—,—,—,—,—,—
+Not stated,Total,—,—,—,1,1,—,2,—,2
+Total,First Nations,118,244,436,571,607,662,2638,76,2714
+Total,Non-Indigenous,20,121,248,437,476,523,1825,141,1966
+Total,Not stated,3,5,10,14,10,18,60,2,62
+Total,Total,141,370,694,1022,1093,1203,4523,219,4742

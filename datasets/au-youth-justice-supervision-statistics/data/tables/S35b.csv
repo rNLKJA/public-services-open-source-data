@@ -1,0 +1,17 @@
+sex,indigenous_status,nsw,vic,qld,wa,sa,tas,act,nt,australia
+Male,First Nations,730,164,1127,536,194,n.p.,n.p.,745,3592
+Male,Non-Indigenous,592,706,715,393,184,n.p.,n.p.,41,2825
+Male,Not stated,62,4,12,—,7,4,—,26,115
+Male,Total,1384,874,1854,929,385,n.p.,n.p.,812,6532
+Female,First Nations,202,30,415,143,85,n.p.,n.p.,172,1089
+Female,Non-Indigenous,139,95,183,104,51,n.p.,n.p.,3,646
+Female,Not stated,13,—,1,—,—,1,—,6,21
+Female,Total,354,125,599,247,136,n.p.,n.p.,181,1756
+Not stated,First Nations,2,—,1,—,—,—,—,—,3
+Not stated,Non-Indigenous,1,—,2,1,—,2,—,—,6
+Not stated,Not stated,—,—,—,—,1,1,—,2,4
+Not stated,Total,3,—,3,1,1,3,—,2,13
+Total,First Nations,934,194,1543,679,279,90,48,917,4684
+Total,Non-Indigenous,732,801,900,498,235,161,106,44,3477
+Total,Not stated,75,4,13,—,8,6,—,34,140
+Total,Total,1741,999,2456,1177,522,257,154,995,8301

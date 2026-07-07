@@ -1,0 +1,61 @@
+year,sex,indigenous_status,10,11,12,13,10_13,14,15,16,17,14_17,10_17,18plus,total
+2020-21,Male,First Nations,—,—,0.8,3.8,4.7,9.1,14.5,22.3,33.2,79.1,83.8,65.1,148.9
+2020-21,Male,Non-Indigenous,—,—,—,—,—,0.3,0.6,0.7,2.5,4,4,4.5,8.6
+2020-21,Male,Not stated,—,—,—,—,—,—,—,0.4,0.7,1,1,4.6,5.6
+2020-21,Male,Total,—,—,0.8,3.8,4.7,9.4,15,23.4,36.3,84.2,88.9,74.2,163.1
+2020-21,Female,First Nations,—,—,—,0.2,0.2,1.3,3.6,3,3.9,11.8,12,5.4,17.4
+2020-21,Female,Non-Indigenous,—,—,—,—,—,—,—,—,1.1,1.1,1.1,0.8,1.9
+2020-21,Female,Not stated,—,—,—,—,—,—,—,—,—,—,—,—,—
+2020-21,Female,Total,—,—,—,0.2,0.2,1.4,3.6,3.1,5,13,13.2,6.2,19.4
+2020-21,Total,First Nations,—,—,0.8,4,4.9,10.4,18,25.4,37.1,91,95.9,70.5,166.4
+2020-21,Total,Non-Indigenous,—,—,—,—,—,0.3,0.6,0.7,3.6,5.2,5.2,5.3,10.5
+2020-21,Total,Not stated,—,—,—,—,—,—,—,0.4,0.7,1.1,1.1,4.6,5.7
+2020-21,Total,Total,—,—,0.8,4,4.9,10.7,18.6,26.5,41.4,97.2,102.1,80.4,182.5
+2021-22,Male,First Nations,0.2,1.1,1.7,7.6,10.6,16,25.1,29.4,38.9,109.5,120,75.1,195.1
+2021-22,Male,Non-Indigenous,—,—,0.2,—,0.2,0.2,2.5,1.5,2.6,6.8,7,5.5,12.5
+2021-22,Male,Not stated,—,—,—,—,—,—,—,0.2,1.9,2.1,2.1,4.2,6.3
+2021-22,Male,Total,0.2,1.1,1.9,7.6,10.8,16.2,27.6,31.2,43.4,118.4,129.2,84.8,214
+2021-22,Female,First Nations,—,0.1,0.3,0.7,1.2,2.3,6,6.6,5.6,20.4,21.6,7.5,29.1
+2021-22,Female,Non-Indigenous,—,—,—,—,—,—,0.5,—,—,0.5,0.5,0.6,1.1
+2021-22,Female,Not stated,—,—,—,—,—,—,—,0.7,0.3,1,1,—,1
+2021-22,Female,Total,—,0.1,0.4,0.7,1.2,2.3,6.4,7.3,5.9,21.9,23.1,8.1,31.2
+2021-22,Total,First Nations,0.2,1.1,2,8.4,11.7,18.3,31.1,36,44.5,129.9,141.6,82.6,224.2
+2021-22,Total,Non-Indigenous,—,—,0.3,—,0.3,0.2,2.9,1.5,2.6,7.3,7.5,6.1,13.6
+2021-22,Total,Not stated,—,—,—,—,—,—,—,1,2.1,3.1,3.1,4.2,7.3
+2021-22,Total,Total,0.2,1.1,2.3,8.4,12,18.4,34,38.5,49.3,140.2,152.2,93,245.2
+2022-23,Male,First Nations,0.2,2.2,4.6,8.7,15.7,19,40,42.5,51.7,153.1,168.9,102,270.8
+2022-23,Male,Non-Indigenous,—,—,—,0.2,0.2,—,0.5,3.4,1.6,5.5,5.7,8.5,14.2
+2022-23,Male,Not stated,—,0.7,—,—,0.7,0.1,1.1,0.6,1.6,3.3,4,6.9,10.9
+2022-23,Male,Total,0.2,2.8,4.6,8.8,16.6,19.1,41.6,46.4,54.9,162,178.5,117.4,295.9
+2022-23,Female,First Nations,—,0.3,0.4,1.7,2.4,5.3,9.1,8.9,10.4,33.7,36.1,11.6,47.7
+2022-23,Female,Non-Indigenous,—,—,—,0.8,0.8,—,—,—,—,—,0.8,—,0.8
+2022-23,Female,Not stated,—,—,—,0.4,0.4,0.1,—,—,0.6,0.7,1.1,0.1,1.2
+2022-23,Female,Total,—,0.3,0.4,2.8,3.5,5.4,9.1,8.9,11,34.4,38,11.8,49.7
+2022-23,Total,First Nations,0.2,2.5,5,10.3,18.1,24.3,49.1,51.4,62.1,186.9,205,113.6,318.6
+2022-23,Total,Non-Indigenous,—,—,—,0.9,0.9,—,0.5,3.4,1.6,5.5,6.5,8.5,14.9
+2022-23,Total,Not stated,—,0.8,—,0.4,1.2,0.2,1.1,0.7,2.2,4.2,5.4,7.1,12.5
+2022-23,Total,Total,0.2,3.3,5,11.7,20.2,24.5,50.7,55.5,65.9,196.6,216.8,129.1,346
+2023-24,Male,First Nations,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Male,Non-Indigenous,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Male,Not stated,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Male,Total,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Female,First Nations,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Female,Non-Indigenous,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Female,Not stated,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Female,Total,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Total,First Nations,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Total,Non-Indigenous,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Total,Not stated,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2023-24,Total,Total,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Male,First Nations,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Male,Non-Indigenous,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Male,Not stated,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Male,Total,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Female,First Nations,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Female,Non-Indigenous,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Female,Not stated,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Female,Total,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Total,First Nations,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Total,Non-Indigenous,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Total,Not stated,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2024-25,Total,Total,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.

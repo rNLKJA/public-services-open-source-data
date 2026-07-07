@@ -1,0 +1,13 @@
+legal_status,indigenous_status,nsw,vic,qld,wa,sa,tas,act,nt,australia
+Unsentenced,First Nations,226,86,464,233,168,20,33,498,1728
+Unsentenced,Non-Indigenous,125,361,224,146,122,19,70,17,1084
+Unsentenced,Not stated,8,3,2,—,3,1,—,14,31
+Unsentenced,Total,359,450,690,379,293,40,103,529,2843
+Sentenced,First Nations,749,58,1087,448,138,56,15,265,2816
+Sentenced,Non-Indigenous,595,268,527,346,112,95,33,10,1986
+Sentenced,Not stated,61,2,10,—,4,4,—,7,88
+Sentenced,Total,1405,328,1624,794,254,155,48,282,4890
+Total,First Nations,892,113,1276,619,251,76,43,591,3861
+Total,Non-Indigenous,703,484,645,456,201,127,90,24,2730
+Total,Not stated,73,4,12,—,7,5,—,17,118
+Total,Total,1668,601,1933,1075,459,208,133,632,6709

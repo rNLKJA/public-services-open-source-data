@@ -1,0 +1,17 @@
+indigenous_status,age_group,nsw,vic,qld,wa,sa,tas,act,nt,australia
+First Nations,10-13 years,277,25,553,n.p.,103,16,n.p.,219,1583
+First Nations,14-17 years,957,136,1023,491,212,73,37,638,3567
+First Nations,18+ years,5,37,28,n.p.,4,6,n.p.,77,159
+First Nations,Total,1239,198,1604,867,319,95,54,934,5310
+Non-Indigenous,10-13 years,160,49,154,n.p.,43,26,n.p.,4,539
+Non-Indigenous,14-17 years,931,626,724,490,218,129,101,32,3251
+Non-Indigenous,18+ years,10,177,66,n.p.,20,10,n.p.,9,294
+Non-Indigenous,Total,1101,852,944,574,281,165,122,45,4084
+Not stated,10-13 years,9,—,—,—,—,1,—,5,15
+Not stated,14-17 years,106,4,14,—,9,4,—,23,160
+Not stated,18+ years,1,—,1,—,—,1,—,7,10
+Not stated,Total,116,4,15,—,9,6,—,35,185
+Total,10-13 years,446,74,707,457,146,43,n.p.,228,2137
+Total,14-17 years,1994,766,1761,981,439,206,138,693,6978
+Total,18+ years,16,214,95,2,24,17,n.p.,93,463
+Total,Total,2456,1054,2563,1441,609,266,176,1014,9579

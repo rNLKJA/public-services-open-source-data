@@ -1,0 +1,96 @@
+year,order_type,nsw,vic,qld,wa,sa,tas,act,nt,australia_excl_nt,australia
+2020-21,Home detention bail [unsentenced community-based orders],—,—,—,—,—,—,—,—,—,—
+2020-21,Supervised or conditional bail [unsentenced community-based orders],655,2256,936,665,666,51,170,628,5399,6027
+2020-21,Other unsentenced community-based supervision [unsentenced community-based orders],3,577,—,—,—,4,—,—,584,584
+2020-21,Sub-total: unsentenced community-based orders,658,2833,936,665,666,55,170,628,5983,6611
+2020-21,Probation and similar [sentenced community-based orders],7678,1180,3927,1185,n.p.,185,n.p.,179,14409,14588
+2020-21,Suspended detention [sentenced community-based orders],212,—,453,298,n.p.,40,n.p.,251,1087,1338
+2020-21,Home detention [sentenced community-based orders],—,—,—,—,3,—,—,—,3,3
+2020-21,Parole or supervised release [sentenced community-based orders],402,215,328,130,2,17,—,17,1094,1111
+2020-21,Sentenced other [sentenced community-based orders],—,—,—,5,10,—,—,—,15,15
+2020-21,Community service [sentenced community-based orders],198,—,1096,23,180,115,—,49,1612,1661
+2020-21,Sub-total: sentenced community-based orders,8490,1395,5804,1641,385,357,148,496,18220,18716
+2020-21,Other - other type of legal arrangements [other orders],32,—,—,—,n.p.,—,n.p.,171,39,210
+2020-21,Total: Community-based supervised orders,9180,4228,6740,2306,1057,412,319,1295,24242,25537
+2020-21,Police-referred detention [unsentenced detention orders],2613,—,983,715,422,—,149,—,4882,4882
+2020-21,Remand [unsentenced detention orders],10348,3386,6246,968,480,215,181,5587,21824,27411
+2020-21,Sub-total: unsentenced detention orders,12961,3386,7229,1683,902,215,330,5587,26706,32293
+2020-21,Sentenced detention [sentenced detention orders],1229,491,723,216,48,28,60,870,2795,3665
+2020-21,Total: Detention orders,14190,3877,7952,1899,950,243,390,6457,29501,35958
+2020-21,All orders,23370,8105,14692,4205,2007,655,709,7752,53743,61495
+2021-22,Home detention bail [unsentenced community-based orders],—,—,—,—,—,—,—,—,—,—
+2021-22,Supervised or conditional bail [unsentenced community-based orders],n.p.,2037,1012,810,889,n.p.,217,1149,5541,6690
+2021-22,Other unsentenced community-based supervision [unsentenced community-based orders],n.p.,454,—,—,—,n.p.,—,—,459,459
+2021-22,Sub-total: unsentenced community-based orders,527,2491,1012,810,889,54,217,1149,6000,7149
+2021-22,Probation and similar [sentenced community-based orders],6496,927,3990,1266,143,135,82,365,13039,13404
+2021-22,Suspended detention [sentenced community-based orders],183,—,510,283,61,49,32,381,1118,1499
+2021-22,Home detention [sentenced community-based orders],—,—,—,—,—,—,—,1,—,1
+2021-22,Parole or supervised release [sentenced community-based orders],270,148,386,172,4,10,—,2,990,992
+2021-22,Sentenced other [sentenced community-based orders],—,—,—,7,23,—,—,—,30,30
+2021-22,Community service [sentenced community-based orders],141,—,1002,19,195,100,—,95,1457,1552
+2021-22,Sub-total: sentenced community-based orders,7090,1075,5888,1747,426,294,114,844,16634,17478
+2021-22,Other - other type of legal arrangements [other orders],33,—,—,—,6,—,4,228,43,271
+2021-22,Total: Community-based supervised orders,7650,3566,6900,2557,1321,348,335,2221,22677,24898
+2021-22,Police-referred detention [unsentenced detention orders],2144,—,520,915,527,—,141,—,4247,4247
+2021-22,Remand [unsentenced detention orders],10577,2714,7094,1252,654,251,248,8842,22790,31632
+2021-22,Sub-total: unsentenced detention orders,12721,2714,7614,2167,1181,251,389,8842,27037,35879
+2021-22,Sentenced detention [sentenced detention orders],1060,338,842,264,67,36,55,1170,2662,3832
+2021-22,Total: Detention orders,13781,3052,8456,2431,1248,287,444,10012,29699,39711
+2021-22,All orders,21431,6618,15356,4988,2569,635,779,12233,52376,64609
+2022-23,Home detention bail [unsentenced community-based orders],—,—,—,—,—,—,—,—,—,—
+2022-23,Supervised or conditional bail [unsentenced community-based orders],498,1830,1277,826,1000,n.p.,n.p.,4906,5696,10602
+2022-23,Other unsentenced community-based supervision [unsentenced community-based orders],2,346,—,—,—,n.p.,n.p.,—,353,353
+2022-23,Sub-total: unsentenced community-based orders,500,2176,1277,826,1000,59,211,4906,6049,10955
+2022-23,Probation and similar [sentenced community-based orders],5539,704,3756,1417,148,130,116,705,11810,12515
+2022-23,Suspended detention [sentenced community-based orders],150,—,503,304,77,56,23,516,1113,1629
+2022-23,Home detention [sentenced community-based orders],—,—,—,—,2,—,—,—,2,2
+2022-23,Parole or supervised release [sentenced community-based orders],255,116,427,132,4,10,—,—,944,944
+2022-23,Sentenced other [sentenced community-based orders],—,—,—,5,22,—,—,—,27,27
+2022-23,Community service [sentenced community-based orders],121,—,949,5,241,113,—,81,1429,1510
+2022-23,Sub-total: sentenced community-based orders,6065,820,5635,1863,494,309,139,1302,15325,16627
+2022-23,Other - other type of legal arrangements [other orders],21,—,—,—,6,—,10,434,37,471
+2022-23,Total: Community-based supervised orders,6586,2996,6912,2689,1500,368,360,6642,21411,28053
+2022-23,Police-referred detention [unsentenced detention orders],2303,—,328,1135,492,—,200,—,4458,4458
+2022-23,Remand [unsentenced detention orders],10867,2711,7988,1230,679,368,313,8068,24156,32224
+2022-23,Sub-total: unsentenced detention orders,13170,2711,8316,2365,1171,368,513,8068,28614,36682
+2022-23,Sentenced detention [sentenced detention orders],928,239,969,284,62,48,57,1077,2587,3664
+2022-23,Total: Detention orders,14098,2950,9285,2649,1233,416,570,9145,31201,40346
+2022-23,All orders,20684,5946,16197,5338,2733,784,930,15787,52612,68399
+2023-24,Home detention bail [unsentenced community-based orders],—,—,—,—,—,—,—,n.a.,—,n.a.
+2023-24,Supervised or conditional bail [unsentenced community-based orders],501,1336,1191,903,964,51,206,n.a.,5152,n.a.
+2023-24,Other unsentenced community-based supervision [unsentenced community-based orders],1,357,—,—,—,4,—,n.a.,362,n.a.
+2023-24,Sub-total: unsentenced community-based orders,502,1693,1191,903,964,55,206,n.a.,5514,n.a.
+2023-24,Probation and similar [sentenced community-based orders],5696,652,3726,1329,197,180,n.p.,n.a.,11886,n.a.
+2023-24,Suspended detention [sentenced community-based orders],128,—,516,316,93,67,n.p.,n.a.,1127,n.a.
+2023-24,Home detention [sentenced community-based orders],—,—,—,—,5,—,—,n.a.,5,n.a.
+2023-24,Parole or supervised release [sentenced community-based orders],283,78,534,143,1,17,—,n.a.,1056,n.a.
+2023-24,Sentenced other [sentenced community-based orders],—,—,—,6,14,—,—,n.a.,20,n.a.
+2023-24,Community service [sentenced community-based orders],136,—,848,6,231,162,—,n.a.,1383,n.a.
+2023-24,Sub-total: sentenced community-based orders,6243,730,5624,1800,541,426,113,n.a.,15477,n.a.
+2023-24,Other - other type of legal arrangements [other orders],16,—,—,—,10,—,n.p.,n.a.,28,n.a.
+2023-24,Total: Community-based supervised orders,6761,2423,6815,2703,1515,481,321,n.a.,21019,n.a.
+2023-24,Police-referred detention [unsentenced detention orders],2329,—,225,1061,464,—,245,n.a.,4324,n.a.
+2023-24,Remand [unsentenced detention orders],12633,2304,8078,1168,751,401,283,n.a.,25618,n.a.
+2023-24,Sub-total: unsentenced detention orders,14962,2304,8303,2229,1215,401,528,n.a.,29942,n.a.
+2023-24,Sentenced detention [sentenced detention orders],1017,226,1082,302,56,56,10,n.a.,2749,n.a.
+2023-24,Total: Detention orders,15979,2530,9385,2531,1271,457,538,n.a.,32691,n.a.
+2023-24,All orders,22740,4953,16200,5234,2786,938,859,n.a.,53710,n.a.
+2024-25,Home detention bail [unsentenced community-based orders],—,—,—,—,—,—,—,n.a.,—,n.a.
+2024-25,Supervised or conditional bail [unsentenced community-based orders],510,1199,1094,866,846,63,240,n.a.,4818,n.a.
+2024-25,Other unsentenced community-based supervision [unsentenced community-based orders],—,381,—,—,—,—,—,n.a.,381,n.a.
+2024-25,Sub-total: unsentenced community-based orders,510,1580,1094,866,846,63,240,n.a.,5199,n.a.
+2024-25,Probation and similar [sentenced community-based orders],6046,795,3452,1093,200,202,72,n.a.,11860,n.a.
+2024-25,Suspended detention [sentenced community-based orders],157,—,510,273,83,88,10,n.a.,1121,n.a.
+2024-25,Home detention [sentenced community-based orders],—,—,—,—,1,—,—,n.a.,1,n.a.
+2024-25,Parole or supervised release [sentenced community-based orders],360,81,513,128,6,18,—,n.a.,1106,n.a.
+2024-25,Sentenced other [sentenced community-based orders],—,—,—,7,18,—,—,n.a.,25,n.a.
+2024-25,Community service [sentenced community-based orders],96,—,769,5,162,202,—,n.a.,1234,n.a.
+2024-25,Sub-total: sentenced community-based orders,6659,876,5244,1506,470,510,82,n.a.,15347,n.a.
+2024-25,Other - other type of legal arrangements [other orders],28,1,—,1,10,—,5,n.a.,45,n.a.
+2024-25,Total: Community-based supervised orders,7197,2457,6338,2373,1326,573,327,n.a.,20591,n.a.
+2024-25,Police-referred detention [unsentenced detention orders],2364,—,144,1171,508,—,186,n.a.,4373,n.a.
+2024-25,Remand [unsentenced detention orders],11590,2756,7465,1270,831,382,332,n.a.,24626,n.a.
+2024-25,Sub-total: unsentenced detention orders,13954,2756,7609,2441,1339,382,518,n.a.,28999,n.a.
+2024-25,Sentenced detention [sentenced detention orders],995,231,1050,213,60,46,16,n.a.,2611,n.a.
+2024-25,Total: Detention orders,14949,2987,8659,2654,1399,428,534,n.a.,31610,n.a.
+2024-25,All orders,22146,5444,14997,5027,2725,1001,861,n.a.,52201,n.a.
