@@ -1,0 +1,247 @@
+sector,category,determination_outcome,year,value
+State Government,Personal,full release,2024-25,3997
+State Government,Personal,partial release,2024-25,5414
+State Government,Personal,release refused,2024-25,1182
+State Government,Personal,full release,2023-24,3697
+State Government,Personal,partial release,2023-24,4605
+State Government,Personal,release refused,2023-24,773
+State Government,Personal,full release,2022-23,3922
+State Government,Personal,partial release,2022-23,4054
+State Government,Personal,release refused,2022-23,814
+State Government,Personal,transferred,2022-23,107
+State Government,Personal,withdrawn/closed,2022-23,892
+State Government,Personal,full release,2021-22,3621
+State Government,Personal,partial release,2021-22,3268
+State Government,Personal,release refused,2021-22,958
+State Government,Personal,full release,2020-21,3614
+State Government,Personal,partial release,2020-21,2904
+State Government,Personal,release refused,2020-21,734
+State Government,Personal,full release,2019-20,3859
+State Government,Personal,partial release,2019-20,2689
+State Government,Personal,release refused,2019-20,726
+State Government,Personal,full release,2018-19,4100
+State Government,Personal,partial release,2018-19,2515
+State Government,Personal,release refused,2018-19,747
+State Government,Personal,full release,2017-18,3878
+State Government,Personal,partial release,2017-18,2443
+State Government,Personal,release refused,2017-18,719
+State Government,Personal,full release,2016-17,4004
+State Government,Personal,partial release,2016-17,2250
+State Government,Personal,release refused,2016-17,781
+State Government,Personal,full release,2015-16,3512
+State Government,Personal,partial release,2015-16,2093
+State Government,Personal,release refused,2015-16,770
+State Government,Personal,full release,2014-15,3248
+State Government,Personal,partial release,2014-15,1872
+State Government,Personal,release refused,2014-15,500
+State Government,Personal,full release,2013-14,2488
+State Government,Personal,partial release,2013-14,1877
+State Government,Personal,release refused,2013-14,507
+State Government,Personal,full release,2012-13,3668
+State Government,Personal,partial release,2012-13,1745
+State Government,Personal,release refused,2012-13,697
+State Government,Non-personal,full release,2024-25,410
+State Government,Non-personal,partial release,2024-25,805
+State Government,Non-personal,release refused,2024-25,458
+State Government,Non-personal,full release,2023-24,346
+State Government,Non-personal,partial release,2023-24,945
+State Government,Non-personal,release refused,2023-24,550
+State Government,Non-personal,full release,2022-23,451
+State Government,Non-personal,partial release,2022-23,729
+State Government,Non-personal,release refused,2022-23,682
+State Government,Non-personal,transferred,2022-23,154
+State Government,Non-personal,withdrawn/closed,2022-23,283
+State Government,Non-personal,full release,2021-22,314
+State Government,Non-personal,partial release,2021-22,382
+State Government,Non-personal,release refused,2021-22,409
+State Government,Non-personal,full release,2020-21,555
+State Government,Non-personal,partial release,2020-21,572
+State Government,Non-personal,release refused,2020-21,547
+State Government,Non-personal,full release,2019-20,608
+State Government,Non-personal,partial release,2019-20,882
+State Government,Non-personal,release refused,2019-20,594
+State Government,Non-personal,full release,2018-19,571
+State Government,Non-personal,partial release,2018-19,686
+State Government,Non-personal,release refused,2018-19,539
+State Government,Non-personal,full release,2017-18,830
+State Government,Non-personal,partial release,2017-18,444
+State Government,Non-personal,release refused,2017-18,746
+State Government,Non-personal,full release,2016-17,1243
+State Government,Non-personal,partial release,2016-17,756
+State Government,Non-personal,release refused,2016-17,1010
+State Government,Non-personal,full release,2015-16,1906
+State Government,Non-personal,partial release,2015-16,641
+State Government,Non-personal,release refused,2015-16,734
+State Government,Non-personal,full release,2014-15,2558
+State Government,Non-personal,partial release,2014-15,795
+State Government,Non-personal,release refused,2014-15,1022
+State Government,Non-personal,full release,2013-14,2278
+State Government,Non-personal,partial release,2013-14,932
+State Government,Non-personal,release refused,2013-14,864
+State Government,Non-personal,full release,2012-13,2742
+State Government,Non-personal,partial release,2012-13,880
+State Government,Non-personal,release refused,2012-13,892
+Local Government,Personal,full release,2024-25,33
+Local Government,Personal,partial release,2024-25,97
+Local Government,Personal,release refused,2024-25,26
+Local Government,Personal,full release,2023-24,47
+Local Government,Personal,partial release,2023-24,80
+Local Government,Personal,release refused,2023-24,26
+Local Government,Personal,full release,2022-23,80
+Local Government,Personal,partial release,2022-23,61
+Local Government,Personal,release refused,2022-23,15
+Local Government,Personal,transferred,2022-23,0
+Local Government,Personal,withdrawn/closed,2022-23,19
+Local Government,Personal,full release,2021-22,42
+Local Government,Personal,partial release,2021-22,53
+Local Government,Personal,release refused,2021-22,21
+Local Government,Personal,full release,2020-21,27
+Local Government,Personal,partial release,2020-21,70
+Local Government,Personal,release refused,2020-21,18
+Local Government,Personal,full release,2019-20,21
+Local Government,Personal,partial release,2019-20,26
+Local Government,Personal,release refused,2019-20,6
+Local Government,Personal,full release,2018-19,25
+Local Government,Personal,partial release,2018-19,28
+Local Government,Personal,release refused,2018-19,11
+Local Government,Personal,full release,2017-18,18
+Local Government,Personal,partial release,2017-18,46
+Local Government,Personal,release refused,2017-18,15
+Local Government,Personal,full release,2016-17,19
+Local Government,Personal,partial release,2016-17,46
+Local Government,Personal,release refused,2016-17,7
+Local Government,Personal,full release,2015-16,25
+Local Government,Personal,partial release,2015-16,40
+Local Government,Personal,release refused,2015-16,15
+Local Government,Personal,full release,2014-15,28
+Local Government,Personal,partial release,2014-15,35
+Local Government,Personal,release refused,2014-15,32
+Local Government,Personal,full release,2013-14,28
+Local Government,Personal,partial release,2013-14,25
+Local Government,Personal,release refused,2013-14,10
+Local Government,Personal,full release,2012-13,29
+Local Government,Personal,partial release,2012-13,27
+Local Government,Personal,release refused,2012-13,6
+Local Government,Non-personal,full release,2024-25,154
+Local Government,Non-personal,partial release,2024-25,164
+Local Government,Non-personal,release refused,2024-25,23
+Local Government,Non-personal,full release,2023-24,166
+Local Government,Non-personal,partial release,2023-24,201
+Local Government,Non-personal,release refused,2023-24,37
+Local Government,Non-personal,full release,2022-23,100
+Local Government,Non-personal,partial release,2022-23,135
+Local Government,Non-personal,release refused,2022-23,35
+Local Government,Non-personal,transferred,2022-23,3
+Local Government,Non-personal,withdrawn/closed,2022-23,43
+Local Government,Non-personal,full release,2021-22,104
+Local Government,Non-personal,partial release,2021-22,123
+Local Government,Non-personal,release refused,2021-22,67
+Local Government,Non-personal,full release,2020-21,165
+Local Government,Non-personal,partial release,2020-21,144
+Local Government,Non-personal,release refused,2020-21,71
+Local Government,Non-personal,full release,2019-20,191
+Local Government,Non-personal,partial release,2019-20,131
+Local Government,Non-personal,release refused,2019-20,55
+Local Government,Non-personal,full release,2018-19,195
+Local Government,Non-personal,partial release,2018-19,103
+Local Government,Non-personal,release refused,2018-19,68
+Local Government,Non-personal,full release,2017-18,161
+Local Government,Non-personal,partial release,2017-18,135
+Local Government,Non-personal,release refused,2017-18,69
+Local Government,Non-personal,full release,2016-17,212
+Local Government,Non-personal,partial release,2016-17,114
+Local Government,Non-personal,release refused,2016-17,111
+Local Government,Non-personal,full release,2015-16,161
+Local Government,Non-personal,partial release,2015-16,125
+Local Government,Non-personal,release refused,2015-16,57
+Local Government,Non-personal,full release,2014-15,247
+Local Government,Non-personal,partial release,2014-15,103
+Local Government,Non-personal,release refused,2014-15,78
+Local Government,Non-personal,full release,2013-14,217
+Local Government,Non-personal,partial release,2013-14,87
+Local Government,Non-personal,release refused,2013-14,45
+Local Government,Non-personal,full release,2012-13,188
+Local Government,Non-personal,partial release,2012-13,112
+Local Government,Non-personal,release refused,2012-13,61
+Universities,Personal,full release,2024-25,1
+Universities,Personal,partial release,2024-25,37
+Universities,Personal,release refused,2024-25,2
+Universities,Personal,full release,2023-24,4
+Universities,Personal,partial release,2023-24,24
+Universities,Personal,release refused,2023-24,2
+Universities,Personal,full release,2022-23,2
+Universities,Personal,partial release,2022-23,13
+Universities,Personal,release refused,2022-23,1
+Universities,Personal,transferred,2022-23,0
+Universities,Personal,withdrawn/closed,2022-23,0
+Universities,Personal,full release,2021-22,2
+Universities,Personal,partial release,2021-22,16
+Universities,Personal,release refused,2021-22,2
+Universities,Personal,full release,2020-21,2
+Universities,Personal,partial release,2020-21,6
+Universities,Personal,release refused,2020-21,1
+Universities,Personal,full release,2019-20,1
+Universities,Personal,partial release,2019-20,15
+Universities,Personal,release refused,2019-20,2
+Universities,Personal,full release,2018-19,0
+Universities,Personal,partial release,2018-19,5
+Universities,Personal,release refused,2018-19,1
+Universities,Personal,full release,2017-18,2
+Universities,Personal,partial release,2017-18,3
+Universities,Personal,release refused,2017-18,2
+Universities,Personal,full release,2016-17,1
+Universities,Personal,partial release,2016-17,9
+Universities,Personal,release refused,2016-17,1
+Universities,Personal,full release,2015-16,2
+Universities,Personal,partial release,2015-16,1
+Universities,Personal,release refused,2015-16,0
+Universities,Personal,full release,2014-15,3
+Universities,Personal,partial release,2014-15,2
+Universities,Personal,release refused,2014-15,0
+Universities,Personal,full release,2013-14,4
+Universities,Personal,partial release,2013-14,3
+Universities,Personal,release refused,2013-14,1
+Universities,Personal,full release,2012-13,4
+Universities,Personal,partial release,2012-13,1
+Universities,Personal,release refused,2012-13,0
+Universities,Non-personal,full release,2024-25,7
+Universities,Non-personal,partial release,2024-25,16
+Universities,Non-personal,release refused,2024-25,0
+Universities,Non-personal,full release,2023-24,9
+Universities,Non-personal,partial release,2023-24,30
+Universities,Non-personal,release refused,2023-24,1
+Universities,Non-personal,full release,2022-23,2
+Universities,Non-personal,partial release,2022-23,3
+Universities,Non-personal,release refused,2022-23,0
+Universities,Non-personal,transferred,2022-23,0
+Universities,Non-personal,withdrawn/closed,2022-23,0
+Universities,Non-personal,full release,2021-22,2
+Universities,Non-personal,partial release,2021-22,9
+Universities,Non-personal,release refused,2021-22,0
+Universities,Non-personal,full release,2020-21,9
+Universities,Non-personal,partial release,2020-21,14
+Universities,Non-personal,release refused,2020-21,11
+Universities,Non-personal,full release,2019-20,4
+Universities,Non-personal,partial release,2019-20,7
+Universities,Non-personal,release refused,2019-20,5
+Universities,Non-personal,full release,2018-19,3
+Universities,Non-personal,partial release,2018-19,5
+Universities,Non-personal,release refused,2018-19,3
+Universities,Non-personal,full release,2017-18,3
+Universities,Non-personal,partial release,2017-18,2
+Universities,Non-personal,release refused,2017-18,3
+Universities,Non-personal,full release,2016-17,5
+Universities,Non-personal,partial release,2016-17,1
+Universities,Non-personal,release refused,2016-17,3
+Universities,Non-personal,full release,2015-16,3
+Universities,Non-personal,partial release,2015-16,4
+Universities,Non-personal,release refused,2015-16,1
+Universities,Non-personal,full release,2014-15,1
+Universities,Non-personal,partial release,2014-15,2
+Universities,Non-personal,release refused,2014-15,1
+Universities,Non-personal,full release,2013-14,5
+Universities,Non-personal,partial release,2013-14,3
+Universities,Non-personal,release refused,2013-14,1
+Universities,Non-personal,full release,2012-13,2
+Universities,Non-personal,partial release,2012-13,1
+Universities,Non-personal,release refused,2012-13,4

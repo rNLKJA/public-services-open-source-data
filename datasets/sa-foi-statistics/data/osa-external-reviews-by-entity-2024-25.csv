@@ -1,0 +1,60 @@
+entity_type,entity,received,received_pct,completed,completed_pct
+Government Department,Attorney-General's Department,4,3.85%,4,4.30%
+Government Department,Department for Child Protection,5,4.81%,2,2.15%
+Government Department,Department for Correctional Services,12,11.54%,15,16.13%
+Government Department,Department for Education,3,2.88%,3,3.23%
+Government Department,Department for Energy and Mining,2,1.92%,2,2.15%
+Government Department,Department for Environment and Water,1,0.96%,1,1.08%
+Government Department,Department for Health and Wellbeing,9,8.65%,10,10.75%
+Government Department,Department for Infrastructure and Transport,11,10.58%,15,16.13%
+Government Department,Department of Human Services,1,0.96%,1,1.08%
+Government Department,Department of Primary Industries and Regions SA,1,0.96%,0,0.00%
+Government Department,Department of State Development,1,0.96%,1,1.08%
+Government Department,Department of the Premier and Cabinet,5,4.81%,4,4.30%
+Government Department,Department of Treasury and Finance,7,6.73%,5,5.38%
+Government Department,SA Housing Trust,1,0.96%,1,1.08%
+Government Department,SA Police,38,36.54%,27,29.03%
+Government Department,SA Water Corporation,3,2.88%,2,2.15%
+Local Government,Yorke Peninsula Council,1,7.14%,1,5.00%
+Local Government,Mount Barker District Council,1,7.14%,1,5.00%
+Local Government,District Council of Tumby Bay,1,7.14%,2,10.00%
+Local Government,District Council of Cleve,1,7.14%,1,5.00%
+Local Government,Corporation of the City of Whyalla,1,7.14%,1,5.00%
+Local Government,City of West Torrens,0,0.00%,2,10.00%
+Local Government,City of Victor Harbor,2,14.29%,2,10.00%
+Local Government,City of Tea Tree Gully,2,14.29%,4,20.00%
+Local Government,City of Port Lincoln,0,0.00%,1,5.00%
+Local Government,City of Port Adelaide Enfield,0,0.00%,1,5.00%
+Local Government,City of Marion,1,7.14%,0,0.00%
+Local Government,City of Holdfast Bay,1,7.14%,1,5.00%
+Local Government,City of Charles Sturt,1,7.14%,2,10.00%
+Local Government,Barunga West Council,1,7.14%,1,5.00%
+Local Government,Adelaide Plains Council,1,7.14%,0,0.00%
+Other Authority,Women's and Children's Health Network,1,2.13%,0,0.00%
+Other Authority,Veterinary Surgeons Board of SA,2,4.26%,1,2.17%
+Other Authority,University of South Australia,7,14.89%,12,26.09%
+Other Authority,University of Adelaide,2,4.26%,2,4.35%
+Other Authority,TAFE SA,1,2.13%,1,2.17%
+Other Authority,Super SA Board,1,2.13%,1,2.17%
+Other Authority,Southern Adelaide Local Health Network,5,10.64%,4,8.70%
+Other Authority,ReturnToWorkSA,3,6.38%,1,2.17%
+Other Authority,Public Trustee,1,2.13%,1,2.17%
+Other Authority,Northern Adelaide Waste Management Authority,1,2.13%,0,0.00%
+Other Authority,Northern Adelaide Local Health Network,1,2.13%,2,4.35%
+Other Authority,Limestone Coast Local Health Network,0,0.00%,1,2.17%
+Other Authority,Green Industries SA,2,4.26%,2,4.35%
+Other Authority,Flinders University,3,6.38%,4,8.70%
+Other Authority,Education Standards Board,1,2.13%,1,2.17%
+Other Authority,Courts Administration Authority,1,2.13%,1,2.17%
+Other Authority,Central Adelaide Local Health Network,13,27.66%,9,19.57%
+Other Authority,Barossa Hills Fleurieu Local Health Network,2,4.26%,3,6.52%
+Minister,Premier,0,0.00%,1,6.25%
+Minister,Minister for Trade and Investment,0,0.00%,1,6.25%
+Minister,Minister for Primary Industries and Regional Development,1,9.09%,0,0.00%
+Minister,"Minister for Police, Emergency Services and Correctional Services",1,9.09%,1,6.25%
+Minister,Minister for Human Services,0,0.00%,1,6.25%
+Minister,"Minister for Housing and Urban Development, Housing Infrastructure and Planning",0,0.00%,1,6.25%
+Minister,Minister for Health and Wellbeing,7,63.64%,7,43.75%
+Minister,Minister for Education,2,18.18%,2,12.50%
+Minister,Deputy Premier,0,0.00%,1,6.25%
+Minister,Attorney-General,0,0.00%,1,6.25%

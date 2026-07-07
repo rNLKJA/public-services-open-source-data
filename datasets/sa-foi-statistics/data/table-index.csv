@@ -1,0 +1,24 @@
+source,file,title,rows
+State Records SA,fee-waiver-reasons.csv,"Number of fee waivers/reductions by reason, by sector, by year",99
+State Records SA,amendment-application-outcomes.csv,Amendment application outcomes by year (all sectors combined),55
+State Records SA,internal-review-outcomes.csv,Internal review outcomes by year (all sectors combined),42
+State Records SA,other-refusal-reasons.csv,"Use of other (non-clause) refusal reasons by reason, by sector, by year",78
+State Records SA,applications-by-year-since-1991.csv,"Number of FOI applications received by year by sector, since 1991",80
+State Records SA,s14-1-extensions.csv,"Number of section 14(1) formal extensions given, by reason, by sector, by year",78
+State Records SA,applications-by-applicant-type.csv,"Number of access applications received, by applicant type, by sector, by year",186
+State Records SA,applications-by-mps.csv,"Number of access applications made by Members of Parliament, by year, since 2001",24
+State Records SA,applications-unfinished-at-year-end.csv,"Access applications unfinished at year end, by category, by sector, by year (category scheme changed from within/outside-30-days to not-overdue/overdue partway through the series - both are preserved as reported)",78
+State Records SA,applications-overdue-at-year-end.csv,"Overdue access applications carried over at year end, by personal/non-personal category, by sector, by year",78
+State Records SA,determination-outcome.csv,"Access determination outcome (full/partial release, refused, transferred, withdrawn), by personal/non-personal category, by sector, by year",246
+State Records SA,refusal-reasons-by-clause.csv,"Use of statutory refusal reasons (FOI Act clause), by reason, by sector, by year",273
+State Records SA,processing-time.csv,"Length of processing time for access applications, by category, by sector, by year (category scheme changed from day-band buckets to within/outside-timeframe partway through the series - both are preserved as reported)",117
+State Records SA,applications-by-agency.csv,"Number of FOI applications received by individual agency, by sector (State Government / Local Government / Universities), by year - merged from 3 separate per-sector source files",2337
+State Records SA,fte-staff.csv,"Full-time-equivalent staff working on FOI, by sector, by year",39
+State Records SA,negotiated-extensions.csv,"Number of negotiated extensions given, by sector, by year (source discontinued after 2021-22)",30
+State Records SA,refusal-reason-amendment-outcomes.csv,"Reason for refusal to amend records, by year (all sectors combined; source discontinued after 2021-22)",30
+Ombudsman SA,osa-external-reviews-by-year.csv,"External reviews received/completed, by sector, by year (2021-22 to 2024-25)",40
+Ombudsman SA,osa-review-processing-time-bands.csv,"External reviews completed within time-period bands, by year (2021-22 to 2024-25)",28
+Ombudsman SA,osa-foi-matters-by-year.csv,"FOI external reviews/enquiries/complaints received and closed, by year (2021-22 to 2024-25)",40
+Ombudsman SA,osa-average-days-open.csv,"Average days open for FOI external reviews and complaints, by year (2021-22 to 2024-25)",8
+Ombudsman SA,osa-review-outcomes-2024-25.csv,"Outcomes of FOI external reviews conducted by the Ombudsman, 2024-25",10
+Ombudsman SA,osa-external-reviews-by-entity-2024-25.csv,"External reviews received/completed by individual government department, local council, other authority and minister, 2024-25 - merged from 4 separate per-entity-type source tables",59

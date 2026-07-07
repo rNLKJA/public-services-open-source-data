@@ -1,0 +1,40 @@
+sector,year,value
+State Government,2024-25,97.9
+State Government,2023-24,103.5
+State Government,2022-23,101.7
+State Government,2021-22,126.4
+State Government,2020-21,142.7
+State Government,2019-20,148.2
+State Government,2018-19,126.6
+State Government,2017-18,132
+State Government,2016-17,118.8
+State Government,2015-16,98.8
+State Government,2014-15,102.9
+State Government,2013-14,100.1
+State Government,2012-13,91.7
+Local Government,2024-25,15.1
+Local Government,2023-24,16.6
+Local Government,2022-23,14.8
+Local Government,2021-22,18.9
+Local Government,2020-21,21.3
+Local Government,2019-20,15.9
+Local Government,2018-19,12.1
+Local Government,2017-18,21.4
+Local Government,2016-17,12
+Local Government,2015-16,10.7
+Local Government,2014-15,12.2
+Local Government,2013-14,22.8
+Local Government,2012-13,12.8
+Universities,2024-25,2.5
+Universities,2023-24,2.1
+Universities,2022-23,1.1
+Universities,2021-22,3.3
+Universities,2020-21,4
+Universities,2019-20,6.5
+Universities,2018-19,2.4
+Universities,2017-18,3.7
+Universities,2016-17,1.7
+Universities,2015-16,1
+Universities,2014-15,1.8
+Universities,2013-14,0.5
+Universities,2012-13,0.3

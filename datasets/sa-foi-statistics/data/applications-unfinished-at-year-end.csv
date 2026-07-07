@@ -1,0 +1,79 @@
+sector,category,year,value
+State Government,within 30 day timeframe,2021-22,589
+State Government,within 30 day timeframe,2020-21,691
+State Government,within 30 day timeframe,2019-20,666
+State Government,within 30 day timeframe,2018-19,624
+State Government,within 30 day timeframe,2017-18,762
+State Government,within 30 day timeframe,2016-17,680
+State Government,within 30 day timeframe,2015-16,622
+State Government,within 30 day timeframe,2014-15,555
+State Government,within 30 day timeframe,2013-14,615
+State Government,within 30 day timeframe,2012-13,615
+State Government,outside 30 day timeframe,2021-22,2843
+State Government,outside 30 day timeframe,2020-21,2523
+State Government,outside 30 day timeframe,2019-20,2306
+State Government,outside 30 day timeframe,2018-19,2391
+State Government,outside 30 day timeframe,2017-18,2082
+State Government,outside 30 day timeframe,2016-17,1908
+State Government,outside 30 day timeframe,2015-16,1884
+State Government,outside 30 day timeframe,2014-15,1688
+State Government,outside 30 day timeframe,2013-14,1627
+State Government,outside 30 day timeframe,2012-13,2078
+Local Government,within 30 day timeframe,2021-22,31
+Local Government,within 30 day timeframe,2020-21,34
+Local Government,within 30 day timeframe,2019-20,38
+Local Government,within 30 day timeframe,2018-19,38
+Local Government,within 30 day timeframe,2017-18,22
+Local Government,within 30 day timeframe,2016-17,67
+Local Government,within 30 day timeframe,2015-16,20
+Local Government,within 30 day timeframe,2014-15,32
+Local Government,within 30 day timeframe,2013-14,15
+Local Government,within 30 day timeframe,2012-13,11
+Local Government,outside 30 day timeframe,2021-22,273
+Local Government,outside 30 day timeframe,2020-21,251
+Local Government,outside 30 day timeframe,2019-20,145
+Local Government,outside 30 day timeframe,2018-19,151
+Local Government,outside 30 day timeframe,2017-18,129
+Local Government,outside 30 day timeframe,2016-17,94
+Local Government,outside 30 day timeframe,2015-16,78
+Local Government,outside 30 day timeframe,2014-15,70
+Local Government,outside 30 day timeframe,2013-14,45
+Local Government,outside 30 day timeframe,2012-13,46
+Universities,within 30 day timeframe,2021-22,2
+Universities,within 30 day timeframe,2020-21,1
+Universities,within 30 day timeframe,2019-20,12
+Universities,within 30 day timeframe,2018-19,2
+Universities,within 30 day timeframe,2017-18,3
+Universities,within 30 day timeframe,2016-17,2
+Universities,within 30 day timeframe,2015-16,1
+Universities,within 30 day timeframe,2014-15,1
+Universities,within 30 day timeframe,2013-14,0
+Universities,within 30 day timeframe,2012-13,1
+Universities,outside 30 day timeframe,2021-22,7
+Universities,outside 30 day timeframe,2020-21,7
+Universities,outside 30 day timeframe,2019-20,7
+Universities,outside 30 day timeframe,2018-19,7
+Universities,outside 30 day timeframe,2017-18,8
+Universities,outside 30 day timeframe,2016-17,7
+Universities,outside 30 day timeframe,2015-16,8
+Universities,outside 30 day timeframe,2014-15,8
+Universities,outside 30 day timeframe,2013-14,6
+Universities,outside 30 day timeframe,2012-13,5
+State Government,not overdue,2024-25,1608
+State Government,not overdue,2023-24,915
+State Government,not overdue,2022-23,780
+State Government,overdue,2024-25,1193
+State Government,overdue,2023-24,873
+State Government,overdue,2022-23,845
+Local Government,not overdue,2024-25,17
+Local Government,not overdue,2023-24,26
+Local Government,not overdue,2022-23,41
+Local Government,overdue,2024-25,1
+Local Government,overdue,2023-24,3
+Local Government,overdue,2022-23,1
+Universities,not overdue,2024-25,3
+Universities,not overdue,2023-24,6
+Universities,not overdue,2022-23,4
+Universities,overdue,2024-25,2
+Universities,overdue,2023-24,2
+Universities,overdue,2022-23,0

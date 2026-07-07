@@ -1,0 +1,79 @@
+sector,category,year,value
+State Government,Personal,2024-25,1022
+State Government,Personal,2023-24,758
+State Government,Personal,2022-23,609
+State Government,Personal,2021-22,2042
+State Government,Personal,2020-21,1807
+State Government,Personal,2019-20,1583
+State Government,Personal,2018-19,1537
+State Government,Personal,2017-18,1618
+State Government,Personal,2016-17,1111
+State Government,Personal,2015-16,1125
+State Government,Personal,2014-15,917
+State Government,Personal,2013-14,672
+State Government,Personal,2012-13,519
+State Government,Non-personal,2024-25,171
+State Government,Non-personal,2023-24,115
+State Government,Non-personal,2022-23,236
+State Government,Non-personal,2021-22,801
+State Government,Non-personal,2020-21,816
+State Government,Non-personal,2019-20,723
+State Government,Non-personal,2018-19,854
+State Government,Non-personal,2017-18,842
+State Government,Non-personal,2016-17,797
+State Government,Non-personal,2015-16,759
+State Government,Non-personal,2014-15,771
+State Government,Non-personal,2013-14,955
+State Government,Non-personal,2012-13,1559
+Local Government,Personal,2024-25,0
+Local Government,Personal,2023-24,1
+Local Government,Personal,2022-23,0
+Local Government,Personal,2021-22,75
+Local Government,Personal,2020-21,60
+Local Government,Personal,2019-20,31
+Local Government,Personal,2018-19,40
+Local Government,Personal,2017-18,27
+Local Government,Personal,2016-17,20
+Local Government,Personal,2015-16,18
+Local Government,Personal,2014-15,16
+Local Government,Personal,2013-14,13
+Local Government,Personal,2012-13,15
+Local Government,Non-personal,2024-25,1
+Local Government,Non-personal,2023-24,2
+Local Government,Non-personal,2022-23,1
+Local Government,Non-personal,2021-22,190
+Local Government,Non-personal,2020-21,191
+Local Government,Non-personal,2019-20,114
+Local Government,Non-personal,2018-19,111
+Local Government,Non-personal,2017-18,107
+Local Government,Non-personal,2016-17,74
+Local Government,Non-personal,2015-16,60
+Local Government,Non-personal,2014-15,54
+Local Government,Non-personal,2013-14,32
+Local Government,Non-personal,2012-13,31
+Universities,Personal,2024-25,2
+Universities,Personal,2023-24,0
+Universities,Personal,2022-23,0
+Universities,Personal,2021-22,1
+Universities,Personal,2020-21,1
+Universities,Personal,2019-20,1
+Universities,Personal,2018-19,1
+Universities,Personal,2017-18,1
+Universities,Personal,2016-17,1
+Universities,Personal,2015-16,1
+Universities,Personal,2014-15,2
+Universities,Personal,2013-14,3
+Universities,Personal,2012-13,1
+Universities,Non-personal,2024-25,0
+Universities,Non-personal,2023-24,0
+Universities,Non-personal,2022-23,0
+Universities,Non-personal,2021-22,6
+Universities,Non-personal,2020-21,6
+Universities,Non-personal,2019-20,6
+Universities,Non-personal,2018-19,6
+Universities,Non-personal,2017-18,8
+Universities,Non-personal,2016-17,6
+Universities,Non-personal,2015-16,7
+Universities,Non-personal,2014-15,6
+Universities,Non-personal,2013-14,3
+Universities,Non-personal,2012-13,4

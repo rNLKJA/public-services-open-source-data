@@ -1,0 +1,43 @@
+outcome,year,value
+Decision confirmed,2024-25,226
+Decision confirmed,2023-24,227
+Decision confirmed,2022-23,179
+Decision confirmed,2021-22,142
+Decision confirmed,2020-21,138
+Decision confirmed,2019-20,133
+Decision confirmed,2018-19,141
+Decision confirmed,2017-18,105
+Decision confirmed,2016-17,173
+Decision confirmed,2015-16,128
+Decision confirmed,2014-15,182
+Decision confirmed,2013-14,165
+Decision confirmed,2012-13,191
+Decision varied,2024-25,78
+Decision varied,2023-24,190
+Decision varied,2022-23,157
+Decision varied,2021-22,75
+Decision varied,2020-21,85
+Decision varied,2019-20,193
+Decision varied,2018-19,102
+Decision varied,2017-18,36
+Decision varied,2016-17,61
+Decision varied,2015-16,57
+Decision varied,2014-15,56
+Decision varied,2013-14,107
+Decision varied,2012-13,58
+Decision reversed,2024-25,18
+Decision reversed,2023-24,21
+Decision reversed,2022-23,12
+Decision reversed,2021-22,28
+Decision reversed,2020-21,63
+Decision reversed,2019-20,36
+Decision reversed,2018-19,37
+Decision reversed,2017-18,22
+Decision reversed,2016-17,53
+Decision reversed,2015-16,43
+Decision reversed,2014-15,64
+Decision reversed,2013-14,54
+Decision reversed,2012-13,41
+Withdrawn/closed,2024-25,17
+Withdrawn/closed,2023-24,32
+Withdrawn/closed,2022-23,29

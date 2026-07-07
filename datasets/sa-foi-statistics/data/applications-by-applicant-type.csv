@@ -1,0 +1,187 @@
+sector,applicant_type,year,value
+State Government,Member of the Public,2024-25,7457
+State Government,Member of the Public,2023-24,6271
+State Government,Member of the Public,2022-23,5758
+State Government,Member of the Public,2021-22,5196
+State Government,Member of the Public,2020-21,4547
+State Government,Member of the Public,2019-20,4000
+State Government,Member of the Public,2018-19,4115
+State Government,Member of the Public,2017-18,3900
+State Government,Member of the Public,2016-17,4032
+State Government,Member of the Public,2015-16,4337
+State Government,Member of the Public,2014-15,3785
+State Government,Member of the Public,2013-14,3862
+State Government,Member of the Public,2012-13,3552
+State Government,Lawyer / Agent,2024-25,5836
+State Government,Lawyer / Agent,2023-24,5269
+State Government,Lawyer / Agent,2022-23,5222
+State Government,Lawyer / Agent,2021-22,3012
+State Government,Lawyer / Agent,2020-21,2972
+State Government,Lawyer / Agent,2019-20,3597
+State Government,Lawyer / Agent,2018-19,3450
+State Government,Lawyer / Agent,2017-18,3878
+State Government,Lawyer / Agent,2016-17,3458
+State Government,Lawyer / Agent,2015-16,3161
+State Government,Lawyer / Agent,2014-15,3463
+State Government,Lawyer / Agent,2013-14,3280
+State Government,Lawyer / Agent,2012-13,3912
+State Government,Member of Parliament,2024-25,1427
+State Government,Member of Parliament,2023-24,1697
+State Government,Member of Parliament,2022-23,2067
+State Government,Member of Parliament,2021-22,556
+State Government,Member of Parliament,2020-21,1035
+State Government,Member of Parliament,2019-20,1066
+State Government,Member of Parliament,2018-19,1514
+State Government,Member of Parliament,2017-18,1038
+State Government,Member of Parliament,2016-17,2173
+State Government,Member of Parliament,2015-16,1671
+State Government,Member of Parliament,2014-15,2325
+State Government,Member of Parliament,2013-14,2068
+State Government,Member of Parliament,2012-13,2812
+State Government,Other,2021-22,695
+State Government,Other,2020-21,1133
+State Government,Other,2019-20,983
+State Government,Other,2018-19,689
+State Government,Other,2017-18,688
+State Government,Other,2016-17,742
+State Government,Other,2015-16,914
+State Government,Other,2014-15,794
+State Government,Other,2013-14,787
+State Government,Other,2012-13,800
+State Government,Media,2024-25,77
+State Government,Media,2023-24,82
+State Government,Media,2022-23,111
+State Government,Media,2021-22,122
+State Government,Media,2020-21,154
+State Government,Media,2019-20,138
+State Government,Media,2018-19,210
+State Government,Media,2017-18,172
+State Government,Media,2016-17,150
+State Government,Media,2015-16,195
+State Government,Media,2014-15,181
+State Government,Media,2013-14,184
+State Government,Media,2012-13,424
+Local Government,Member of the Public,2024-25,443
+Local Government,Member of the Public,2023-24,431
+Local Government,Member of the Public,2022-23,410
+Local Government,Member of the Public,2021-22,314
+Local Government,Member of the Public,2020-21,353
+Local Government,Member of the Public,2019-20,235
+Local Government,Member of the Public,2018-19,296
+Local Government,Member of the Public,2017-18,311
+Local Government,Member of the Public,2016-17,237
+Local Government,Member of the Public,2015-16,214
+Local Government,Member of the Public,2014-15,286
+Local Government,Member of the Public,2013-14,216
+Local Government,Member of the Public,2012-13,265
+Local Government,Lawyer / Agent,2024-25,98
+Local Government,Lawyer / Agent,2023-24,62
+Local Government,Lawyer / Agent,2022-23,70
+Local Government,Lawyer / Agent,2021-22,62
+Local Government,Lawyer / Agent,2020-21,63
+Local Government,Lawyer / Agent,2019-20,59
+Local Government,Lawyer / Agent,2018-19,48
+Local Government,Lawyer / Agent,2017-18,35
+Local Government,Lawyer / Agent,2016-17,44
+Local Government,Lawyer / Agent,2015-16,45
+Local Government,Lawyer / Agent,2014-15,44
+Local Government,Lawyer / Agent,2013-14,54
+Local Government,Lawyer / Agent,2012-13,44
+Local Government,Member of Parliament,2024-25,37
+Local Government,Member of Parliament,2023-24,164
+Local Government,Member of Parliament,2022-23,37
+Local Government,Member of Parliament,2021-22,34
+Local Government,Member of Parliament,2020-21,124
+Local Government,Member of Parliament,2019-20,175
+Local Government,Member of Parliament,2018-19,86
+Local Government,Member of Parliament,2017-18,59
+Local Government,Member of Parliament,2016-17,226
+Local Government,Member of Parliament,2015-16,108
+Local Government,Member of Parliament,2014-15,131
+Local Government,Member of Parliament,2013-14,79
+Local Government,Member of Parliament,2012-13,49
+Local Government,Other,2021-22,30
+Local Government,Other,2020-21,43
+Local Government,Other,2019-20,29
+Local Government,Other,2018-19,52
+Local Government,Other,2017-18,66
+Local Government,Other,2016-17,78
+Local Government,Other,2015-16,62
+Local Government,Other,2014-15,96
+Local Government,Other,2013-14,72
+Local Government,Other,2012-13,87
+Local Government,Media,2024-25,4
+Local Government,Media,2023-24,2
+Local Government,Media,2022-23,3
+Local Government,Media,2021-22,4
+Local Government,Media,2020-21,4
+Local Government,Media,2019-20,18
+Local Government,Media,2018-19,8
+Local Government,Media,2017-18,8
+Local Government,Media,2016-17,17
+Local Government,Media,2015-16,27
+Local Government,Media,2014-15,30
+Local Government,Media,2013-14,18
+Local Government,Media,2012-13,2
+Universities,Member of the Public,2024-25,56
+Universities,Member of the Public,2023-24,69
+Universities,Member of the Public,2022-23,22
+Universities,Member of the Public,2021-22,9
+Universities,Member of the Public,2020-21,9
+Universities,Member of the Public,2019-20,24
+Universities,Member of the Public,2018-19,10
+Universities,Member of the Public,2017-18,12
+Universities,Member of the Public,2016-17,11
+Universities,Member of the Public,2015-16,6
+Universities,Member of the Public,2014-15,9
+Universities,Member of the Public,2013-14,8
+Universities,Member of the Public,2012-13,4
+Universities,Lawyer / Agent,2024-25,0
+Universities,Lawyer / Agent,2023-24,2
+Universities,Lawyer / Agent,2022-23,1
+Universities,Lawyer / Agent,2021-22,2
+Universities,Lawyer / Agent,2020-21,3
+Universities,Lawyer / Agent,2019-20,2
+Universities,Lawyer / Agent,2018-19,0
+Universities,Lawyer / Agent,2017-18,1
+Universities,Lawyer / Agent,2016-17,1
+Universities,Lawyer / Agent,2015-16,1
+Universities,Lawyer / Agent,2014-15,0
+Universities,Lawyer / Agent,2013-14,0
+Universities,Lawyer / Agent,2012-13,0
+Universities,Member of Parliament,2024-25,5
+Universities,Member of Parliament,2023-24,17
+Universities,Member of Parliament,2022-23,0
+Universities,Member of Parliament,2021-22,0
+Universities,Member of Parliament,2020-21,1
+Universities,Member of Parliament,2019-20,1
+Universities,Member of Parliament,2018-19,0
+Universities,Member of Parliament,2017-18,4
+Universities,Member of Parliament,2016-17,3
+Universities,Member of Parliament,2015-16,3
+Universities,Member of Parliament,2014-15,3
+Universities,Member of Parliament,2013-14,2
+Universities,Member of Parliament,2012-13,6
+Universities,Other,2021-22,21
+Universities,Other,2020-21,11
+Universities,Other,2019-20,7
+Universities,Other,2018-19,5
+Universities,Other,2017-18,2
+Universities,Other,2016-17,3
+Universities,Other,2015-16,2
+Universities,Other,2014-15,1
+Universities,Other,2013-14,4
+Universities,Other,2012-13,2
+Universities,Media,2024-25,3
+Universities,Media,2023-24,4
+Universities,Media,2022-23,1
+Universities,Media,2021-22,0
+Universities,Media,2020-21,10
+Universities,Media,2019-20,10
+Universities,Media,2018-19,2
+Universities,Media,2017-18,0
+Universities,Media,2016-17,3
+Universities,Media,2015-16,0
+Universities,Media,2014-15,1
+Universities,Media,2013-14,4
+Universities,Media,2012-13,0

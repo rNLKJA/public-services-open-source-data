@@ -1,0 +1,118 @@
+sector,category,year,value
+State Government,0-15 days,2021-22,2218
+State Government,0-15 days,2020-21,2246
+State Government,0-15 days,2019-20,2671
+State Government,0-15 days,2018-19,2506
+State Government,0-15 days,2017-18,2250
+State Government,0-15 days,2016-17,2659
+State Government,0-15 days,2015-16,2985
+State Government,0-15 days,2014-15,3527
+State Government,0-15 days,2013-14,2902
+State Government,0-15 days,2012-13,3354
+State Government,16-30 days,2021-22,2587
+State Government,16-30 days,2020-21,2849
+State Government,16-30 days,2019-20,2498
+State Government,16-30 days,2018-19,2209
+State Government,16-30 days,2017-18,2863
+State Government,16-30 days,2016-17,2953
+State Government,16-30 days,2015-16,2500
+State Government,16-30 days,2014-15,2424
+State Government,16-30 days,2013-14,2288
+State Government,16-30 days,2012-13,3299
+State Government,more than 30 days,2021-22,4454
+State Government,more than 30 days,2020-21,4063
+State Government,more than 30 days,2019-20,4434
+State Government,more than 30 days,2018-19,4780
+State Government,more than 30 days,2017-18,4179
+State Government,more than 30 days,2016-17,5062
+State Government,more than 30 days,2015-16,4747
+State Government,more than 30 days,2014-15,4839
+State Government,more than 30 days,2013-14,5803
+State Government,more than 30 days,2012-13,4845
+Local Government,0-15 days,2021-22,135
+Local Government,0-15 days,2020-21,173
+Local Government,0-15 days,2019-20,164
+Local Government,0-15 days,2018-19,162
+Local Government,0-15 days,2017-18,201
+Local Government,0-15 days,2016-17,198
+Local Government,0-15 days,2015-16,160
+Local Government,0-15 days,2014-15,233
+Local Government,0-15 days,2013-14,189
+Local Government,0-15 days,2012-13,170
+Local Government,16-30 days,2021-22,190
+Local Government,16-30 days,2020-21,231
+Local Government,16-30 days,2019-20,234
+Local Government,16-30 days,2018-19,188
+Local Government,16-30 days,2017-18,212
+Local Government,16-30 days,2016-17,250
+Local Government,16-30 days,2015-16,211
+Local Government,16-30 days,2014-15,226
+Local Government,16-30 days,2013-14,167
+Local Government,16-30 days,2012-13,201
+Local Government,more than 30 days,2021-22,85
+Local Government,more than 30 days,2020-21,106
+Local Government,more than 30 days,2019-20,87
+Local Government,more than 30 days,2018-19,91
+Local Government,more than 30 days,2017-18,75
+Local Government,more than 30 days,2016-17,92
+Local Government,more than 30 days,2015-16,67
+Local Government,more than 30 days,2014-15,78
+Local Government,more than 30 days,2013-14,75
+Local Government,more than 30 days,2012-13,55
+Universities,0-15 days,2021-22,7
+Universities,0-15 days,2020-21,17
+Universities,0-15 days,2019-20,10
+Universities,0-15 days,2018-19,4
+Universities,0-15 days,2017-18,3
+Universities,0-15 days,2016-17,1
+Universities,0-15 days,2015-16,0
+Universities,0-15 days,2014-15,2
+Universities,0-15 days,2013-14,3
+Universities,0-15 days,2012-13,5
+Universities,16-30 days,2021-22,15
+Universities,16-30 days,2020-21,25
+Universities,16-30 days,2019-20,13
+Universities,16-30 days,2018-19,7
+Universities,16-30 days,2017-18,8
+Universities,16-30 days,2016-17,8
+Universities,16-30 days,2015-16,8
+Universities,16-30 days,2014-15,6
+Universities,16-30 days,2013-14,11
+Universities,16-30 days,2012-13,4
+Universities,more than 30 days,2021-22,14
+Universities,more than 30 days,2020-21,12
+Universities,more than 30 days,2019-20,9
+Universities,more than 30 days,2018-19,3
+Universities,more than 30 days,2017-18,5
+Universities,more than 30 days,2016-17,10
+Universities,more than 30 days,2015-16,3
+Universities,more than 30 days,2014-15,2
+Universities,more than 30 days,2013-14,3
+Universities,more than 30 days,2012-13,3
+State Government,within timeframe (not extended),2024-25,10384
+State Government,within timeframe (not extended),2023-24,8503
+State Government,within timeframe (not extended),2022-23,7487
+State Government,within timeframe (extended),2024-25,624
+State Government,within timeframe (extended),2023-24,430
+State Government,within timeframe (extended),2022-23,471
+State Government,outside of timeframe,2024-25,2974
+State Government,outside of timeframe,2023-24,3489
+State Government,outside of timeframe,2022-23,4130
+Local Government,within timeframe (not extended),2024-25,483
+Local Government,within timeframe (not extended),2023-24,515
+Local Government,within timeframe (not extended),2022-23,403
+Local Government,within timeframe (extended),2024-25,21
+Local Government,within timeframe (extended),2023-24,88
+Local Government,within timeframe (extended),2022-23,59
+Local Government,outside of timeframe,2024-25,36
+Local Government,outside of timeframe,2023-24,27
+Local Government,outside of timeframe,2022-23,29
+Universities,within timeframe (not extended),2024-25,45
+Universities,within timeframe (not extended),2023-24,39
+Universities,within timeframe (not extended),2022-23,17
+Universities,within timeframe (extended),2024-25,21
+Universities,within timeframe (extended),2023-24,23
+Universities,within timeframe (extended),2022-23,4
+Universities,outside of timeframe,2024-25,2
+Universities,outside of timeframe,2023-24,26
+Universities,outside of timeframe,2022-23,0

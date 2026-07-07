@@ -1,0 +1,19 @@
+Length of processing time,2024-25,2023-24,2022-23,2021-22,2020-21,2019-20,2018-19,2017-18,2016-17,2015-16,2014-15,2013-14,2012-13
+STATE - 0-15 days,,,,2218,2246,2671,2506,2250,2659,2985,3527,2902,3354
+STATE - 16-30 days,,,,2587,2849,2498,2209,2863,2953,2500,2424,2288,3299
+STATE - more than 30 days,,,,4454,4063,4434,4780,4179,5062,4747,4839,5803,4845
+LOCAL - 0-15 days,,,,135,173,164,162,201,198,160,233,189,170
+LOCAL - 16-30 days,,,,190,231,234,188,212,250,211,226,167,201
+LOCAL - more than 30 days,,,,85,106,87,91,75,92,67,78,75,55
+UNIVERSITIES - 0-15 days,,,,7,17,10,4,3,1,0,2,3,5
+UNIVERSITIES - 16-30 days,,,,15,25,13,7,8,8,8,6,11,4
+UNIVERSITIES - more than 30 days,,,,14,12,9,3,5,10,3,2,3,3
+STATE - within timeframe (not extended),10384,8503,7487,,,,,,,,,,
+STATE - within timeframe (extended),624,430,471,,,,,,,,,,
+STATE - outside of timeframe,2974,3489,4130,,,,,,,,,,
+LOCAL - within timeframe (not extended),483,515,403,,,,,,,,,,
+LOCAL - within timeframe (extended),21,88,59,,,,,,,,,,
+LOCAL - outside of timeframe,36,27,29,,,,,,,,,,
+UNIVERSITIES - within timeframe (not extended),45,39,17,,,,,,,,,,
+UNIVERSITIES - within timeframe (extended),21,23,4,,,,,,,,,,
+UNIVERSITIES - outside of timeframe,2,26,0,,,,,,,,,,
