@@ -40,6 +40,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/au-veteran-population-by-lga/`** — Department of Veterans' Affairs' Local Government Area profile: net DVA client, veteran/dependant, pension-type and Gold/White Card holder counts for every local government area nationwide, with a dedicated South Australia breakdown (69 SA LGAs).
 - **`datasets/au-migrant-settlement-statistics/`** — Department of Home Affairs' Settlement Database extract: Humanitarian, Family and Skilled migration stream settler counts nationwide by visa subclass, country of birth, ethnicity, religion, language, age, gender and Local Government Area, 2016-2025, with a dedicated South Australia breakdown down to LGA level.
 - **`datasets/sa-crime-statistics/`** — SA Police's statewide recorded-crime series: suburb/postcode-level offence counts by offence type, financial year 2010-11 to 2025-26 (Q1-Q3), plus a companion Family and Domestic Abuse-related offences breakdown by postcode and quarter.
+- **`datasets/sa-mental-health-services/`** — SA Health's acute mental health service performance indicators: average length of stay, 28-day readmission rate and 7-day post-discharge community follow-up rate, statewide by acute ward type, 2013-14 to 2017-18.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 

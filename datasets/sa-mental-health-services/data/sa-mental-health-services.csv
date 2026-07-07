@@ -1,0 +1,121 @@
+financial_year,indicator,unit,ward_type,value,partial_year_footnote
+2013-14,Average length of stay,days,All Adult acute wards combined,15.7,
+2013-14,Average length of stay,days,All acute wards combined,17.5,
+2013-14,Average length of stay,days,Child & Adolescent acute,5.1,
+2013-14,Average length of stay,days,Forensic acute,40.9,
+2013-14,Average length of stay,days,General Acute Adult,17.4,
+2013-14,Average length of stay,days,General Acute Older Persons,38,
+2013-14,Average length of stay,days,Short Stay,1.4,
+2013-14,Average length of stay,days,Specialist acute,18.8,
+2013-14,Community follow-up within 7 days of discharge,proportion,All Adult acute wards combined,0.645,
+2013-14,Community follow-up within 7 days of discharge,proportion,All acute wards combined,0.626,
+2013-14,Community follow-up within 7 days of discharge,proportion,Child & Adolescent acute,0.633,
+2013-14,Community follow-up within 7 days of discharge,proportion,Forensic acute,0.391,
+2013-14,Community follow-up within 7 days of discharge,proportion,General Acute Adult,0.669,
+2013-14,Community follow-up within 7 days of discharge,proportion,General Acute Older Persons,0.487,
+2013-14,Community follow-up within 7 days of discharge,proportion,Short Stay,0.398,
+2013-14,Community follow-up within 7 days of discharge,proportion,Specialist acute,0.626,
+2013-14,Readmission within 28 days,proportion,All Adult acute wards combined,0.104,
+2013-14,Readmission within 28 days,proportion,All acute wards combined,0.101,
+2013-14,Readmission within 28 days,proportion,Child & Adolescent acute,0.142,
+2013-14,Readmission within 28 days,proportion,Forensic acute,0,
+2013-14,Readmission within 28 days,proportion,General Acute Adult,0.105,
+2013-14,Readmission within 28 days,proportion,General Acute Older Persons,0.051,
+2013-14,Readmission within 28 days,proportion,Short Stay,0.132,
+2013-14,Readmission within 28 days,proportion,Specialist acute,0.087,
+2014-15,Average length of stay,days,All Adult acute wards combined,13.7,
+2014-15,Average length of stay,days,All acute wards combined,15.4,
+2014-15,Average length of stay,days,Child & Adolescent acute,4.2,
+2014-15,Average length of stay,days,Forensic acute,63.5,
+2014-15,Average length of stay,days,General Acute Adult,16.5,
+2014-15,Average length of stay,days,General Acute Older Persons,41.7,
+2014-15,Average length of stay,days,Short Stay,1.7,
+2014-15,Average length of stay,days,Specialist acute,19.5,
+2014-15,Community follow-up within 7 days of discharge,proportion,All Adult acute wards combined,0.669,
+2014-15,Community follow-up within 7 days of discharge,proportion,All acute wards combined,0.668,
+2014-15,Community follow-up within 7 days of discharge,proportion,Child & Adolescent acute,0.621,
+2014-15,Community follow-up within 7 days of discharge,proportion,Forensic acute,0.308,
+2014-15,Community follow-up within 7 days of discharge,proportion,General Acute Adult,0.701,
+2014-15,Community follow-up within 7 days of discharge,proportion,General Acute Older Persons,0.708,
+2014-15,Community follow-up within 7 days of discharge,proportion,Short Stay,0.515,
+2014-15,Community follow-up within 7 days of discharge,proportion,Specialist acute,0.7,
+2014-15,Readmission within 28 days,proportion,All Adult acute wards combined,0.123,
+2014-15,Readmission within 28 days,proportion,All acute wards combined,0.127,
+2014-15,Readmission within 28 days,proportion,Child & Adolescent acute,0.241,
+2014-15,Readmission within 28 days,proportion,Forensic acute,0.077,
+2014-15,Readmission within 28 days,proportion,General Acute Adult,0.121,
+2014-15,Readmission within 28 days,proportion,General Acute Older Persons,0.061,
+2014-15,Readmission within 28 days,proportion,Short Stay,0.137,
+2014-15,Readmission within 28 days,proportion,Specialist acute,0.11,
+2015-16,Average length of stay,days,All Adult acute wards combined,10.6,
+2015-16,Average length of stay,days,All acute wards combined,12.2,
+2015-16,Average length of stay,days,Child & Adolescent acute,3.6,
+2015-16,Average length of stay,days,Forensic acute,62.2,
+2015-16,Average length of stay,days,General Acute Adult,12.5,
+2015-16,Average length of stay,days,General Acute Older Persons,34.7,
+2015-16,Average length of stay,days,Short Stay,2.1,
+2015-16,Average length of stay,days,Specialist acute,18.8,
+2015-16,Community follow-up within 7 days of discharge,proportion,All Adult acute wards combined,0.661,
+2015-16,Community follow-up within 7 days of discharge,proportion,All acute wards combined,0.667,
+2015-16,Community follow-up within 7 days of discharge,proportion,Child & Adolescent acute,0.65,
+2015-16,Community follow-up within 7 days of discharge,proportion,Forensic acute,0.316,
+2015-16,Community follow-up within 7 days of discharge,proportion,General Acute Adult,0.693,
+2015-16,Community follow-up within 7 days of discharge,proportion,General Acute Older Persons,0.76,
+2015-16,Community follow-up within 7 days of discharge,proportion,Short Stay,0.508,
+2015-16,Community follow-up within 7 days of discharge,proportion,Specialist acute,0.763,
+2015-16,Readmission within 28 days,proportion,All Adult acute wards combined,0.138,
+2015-16,Readmission within 28 days,proportion,All acute wards combined,0.14,
+2015-16,Readmission within 28 days,proportion,Child & Adolescent acute,0.253,
+2015-16,Readmission within 28 days,proportion,Forensic acute,0,
+2015-16,Readmission within 28 days,proportion,General Acute Adult,0.144,
+2015-16,Readmission within 28 days,proportion,General Acute Older Persons,0.077,
+2015-16,Readmission within 28 days,proportion,Short Stay,0.141,
+2015-16,Readmission within 28 days,proportion,Specialist acute,0.086,
+2016-17,Average length of stay,days,All Adult acute wards combined,10.2,
+2016-17,Average length of stay,days,All acute wards combined,11.3,
+2016-17,Average length of stay,days,Child & Adolescent acute,3.8,
+2016-17,Average length of stay,days,Forensic acute,17.1,
+2016-17,Average length of stay,days,General Acute Adult,12.2,
+2016-17,Average length of stay,days,General Acute Older Persons,29.4,
+2016-17,Average length of stay,days,Short Stay,1.9,
+2016-17,Average length of stay,days,Specialist acute,18.4,
+2016-17,Community follow-up within 7 days of discharge,proportion,All Adult acute wards combined,0.656,
+2016-17,Community follow-up within 7 days of discharge,proportion,All acute wards combined,0.664,
+2016-17,Community follow-up within 7 days of discharge,proportion,Child & Adolescent acute,0.709,
+2016-17,Community follow-up within 7 days of discharge,proportion,Forensic acute,0.077,
+2016-17,Community follow-up within 7 days of discharge,proportion,General Acute Adult,0.693,
+2016-17,Community follow-up within 7 days of discharge,proportion,General Acute Older Persons,0.789,
+2016-17,Community follow-up within 7 days of discharge,proportion,Short Stay,0.509,
+2016-17,Community follow-up within 7 days of discharge,proportion,Specialist acute,0.7,
+2016-17,Readmission within 28 days,proportion,All Adult acute wards combined,0.146,
+2016-17,Readmission within 28 days,proportion,All acute wards combined,0.144,
+2016-17,Readmission within 28 days,proportion,Child & Adolescent acute,0.218,
+2016-17,Readmission within 28 days,proportion,Forensic acute,0.077,
+2016-17,Readmission within 28 days,proportion,General Acute Adult,0.141,
+2016-17,Readmission within 28 days,proportion,General Acute Older Persons,0.06,
+2016-17,Readmission within 28 days,proportion,Short Stay,0.171,
+2016-17,Readmission within 28 days,proportion,Specialist acute,0.126,
+2017-18,Average length of stay,days,All Adult acute wards combined,10.5,b
+2017-18,Average length of stay,days,All acute wards combined,11.7,b
+2017-18,Average length of stay,days,Child & Adolescent acute,3.9,b
+2017-18,Average length of stay,days,Forensic acute,17.1,b
+2017-18,Average length of stay,days,General Acute Adult,12,b
+2017-18,Average length of stay,days,General Acute Older Persons,32.8,b
+2017-18,Average length of stay,days,Short Stay,2.1,b
+2017-18,Average length of stay,days,Specialist acute,18.6,b
+2017-18,Community follow-up within 7 days of discharge,proportion,All Adult acute wards combined,0.673,d
+2017-18,Community follow-up within 7 days of discharge,proportion,All acute wards combined,0.683,d
+2017-18,Community follow-up within 7 days of discharge,proportion,Child & Adolescent acute,0.866,d
+2017-18,Community follow-up within 7 days of discharge,proportion,Forensic acute,0.07,d
+2017-18,Community follow-up within 7 days of discharge,proportion,General Acute Adult,0.705,d
+2017-18,Community follow-up within 7 days of discharge,proportion,General Acute Older Persons,0.743,d
+2017-18,Community follow-up within 7 days of discharge,proportion,Short Stay,0.55,d
+2017-18,Community follow-up within 7 days of discharge,proportion,Specialist acute,0.678,d
+2017-18,Readmission within 28 days,proportion,All Adult acute wards combined,0.147,c
+2017-18,Readmission within 28 days,proportion,All acute wards combined,0.143,c
+2017-18,Readmission within 28 days,proportion,Child & Adolescent acute,0.203,c
+2017-18,Readmission within 28 days,proportion,Forensic acute,0.093,c
+2017-18,Readmission within 28 days,proportion,General Acute Adult,0.143,c
+2017-18,Readmission within 28 days,proportion,General Acute Older Persons,0.049,c
+2017-18,Readmission within 28 days,proportion,Short Stay,0.182,c
+2017-18,Readmission within 28 days,proportion,Specialist acute,0.094,c
