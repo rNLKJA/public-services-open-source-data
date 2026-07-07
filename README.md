@@ -50,6 +50,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/sa-waste-levy-rates/`** — EPA South Australia's historical landfill waste levy schedule: metropolitan and country solid-waste rates ($/tonne) and the statewide liquid-waste rate ($/kilolitre), 1994 to 2023-24.
 - **`datasets/au-waste-resource-recovery/`** — DCCEEW's National Waste and Resource Recovery Database 2024: tonnes of waste generated, managed and disposed of by category, type, source stream, management method and ultimate fate, nationally by financial year (2006-07 to 2022-23), with a dedicated South Australia breakdown.
 - **`datasets/sa-notifiable-conditions-surveillance/`** — SA Health Communicable Disease Control Branch's weekly notifiable-conditions surveillance reports: statewide case counts for ~63 notifiable diseases/conditions, both a 5-year/YTD comparison (2021-2026) and a rolling last-8-weeks weekly count, refreshed weekly from the NIDS system.
+- **`datasets/au-ndis-participants-by-lga/`** — National Disability Insurance Agency's quarterly active-participant counts by Local Government Area nationwide, 18 quarters (December 2021 to March 2026), with a dedicated South Australia breakdown across all 70 SA LGAs.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 
