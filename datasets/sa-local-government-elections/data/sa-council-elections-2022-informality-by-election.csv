@@ -1,0 +1,293 @@
+council,election,is_overall_row,is_statewide_total_row,informal_votes_2022,total_votes_2022,informality_rate_2022,status,vacancies,candidates
+Adelaide,Lord Mayor,False,False,53,8630,0.0061413673232908455,,1,5
+Adelaide,Area councillors,False,False,190,8588,0.022123893805309734,,2,9
+Adelaide,North ward councillors,False,False,50,2486,0.02011263073209976,,2,5
+Adelaide,Central ward councillors,False,False,90,3382,0.026611472501478415,,4,14
+Adelaide,South ward councillors,False,False,76,2843,0.02673232500879353,,3,12
+Adelaide,Overall for council (all elections combined),True,False,459,25929,0.01770218674071503,,12,45
+Adelaide Hills,Mayor,False,False,,,,Uncontested,,
+Adelaide Hills,Ranges ward councillors,False,False,135,5302,0.025462089777442475,,7,12
+Adelaide Hills,Valleys ward councillors,False,False,72,3984,0.018072289156626505,,5,6
+Adelaide Hills,Overall for council (all elections combined),True,False,207,9286,0.022291621796252423,,12,18
+Adelaide Plains,Mayor,False,False,29,2080,0.013942307692307693,,1,2
+Adelaide Plains,Area councillors,False,False,109,2089,0.052178075634274776,,9,15
+Adelaide Plains,Overall for council (all elections combined),True,False,138,4169,0.03310146318061885,,10,17
+Alexandrina,Mayor,False,False,88,9958,0.008837115886724242,,1,4
+Alexandrina,Alexandrina West ward councillors,False,False,78,3177,0.024551463644948063,,3,6
+Alexandrina,Alexandrina North ward councillors,False,False,60,3076,0.01950585175552666,,3,6
+Alexandrina,Alexandrina South ward councillors,False,False,62,3707,0.016725114647963314,,3,13
+Alexandrina,Overall for council (all elections combined),True,False,288,19918,0.014459283060548249,,10,29
+Barossa,Mayor,False,False,35,7394,0.004733567757641331,,1,2
+Barossa,Area councillors,False,False,369,7446,0.04955680902497985,,11,22
+Barossa,Overall for council (all elections combined),True,False,404,14840,0.027223719676549865,,12,24
+Barunga West,Area councillors,False,False,34,1087,0.031278748850046,,9,11
+Barunga West,Overall for council (all elections combined),True,False,34,1087,0.031278748850046,,9,11
+Berri Barmera,Mayor,False,False,22,3256,0.006756756756756757,,1,3
+Berri Barmera,Area councillors,False,False,102,3244,0.031442663378545004,,8,9
+Berri Barmera,Overall for council (all elections combined),True,False,124,6500,0.019076923076923078,,9,12
+Burnside,Mayor,False,False,184,10561,0.017422592557522962,,1,2
+Burnside,Beaumont ward councillors,False,False,44,1886,0.02332979851537646,,2,6
+Burnside,Burnside ward councillors,False,False,62,1666,0.03721488595438175,,2,3
+Burnside,Eastwood & Glenunga ward councillors,False,False,79,2051,0.03851779619697709,,2,6
+Burnside,Kensington Gardens & Magill ward councillors,False,False,21,1518,0.01383399209486166,,2,6
+Burnside,Kensington Park ward councillors,False,False,54,1962,0.027522935779816515,,2,5
+Burnside,Rose Park & Toorak Gardens ward councillors,False,False,,,,Uncontested,,
+Burnside,Overall for council (all elections combined),True,False,444,19644,0.022602321319486866,,11,28
+Campbelltown,Mayor,False,False,,,,Uncontested,,
+Campbelltown,Hectorville ward councillors,False,False,50,2500,0.02,,2,7
+Campbelltown,Gorge ward councillors,False,False,50,2225,0.02247191011235955,,2,4
+Campbelltown,Newton ward councillors,False,False,92,2141,0.04297057449789818,,2,4
+Campbelltown,River ward councillors,False,False,45,2245,0.0200445434298441,,2,5
+Campbelltown,Woodforde ward councillors,False,False,,,,Uncontested,,
+Campbelltown,Overall for council (all elections combined),True,False,237,9111,0.02601251234771156,,8,20
+Ceduna,Mayor,False,False,9,1138,0.007908611599297012,,1,2
+Ceduna,Area councillors,False,False,40,1143,0.03499562554680665,,8,11
+Ceduna,Overall for council (all elections combined),True,False,49,2281,0.021481806225339763,,9,13
+Charles Sturt,Mayor,False,False,283,26717,0.010592506643709997,,1,4
+Charles Sturt,Semaphore Park ward councillors,False,False,134,3344,0.04007177033492823,,2,4
+Charles Sturt,Grange ward councillors,False,False,179,3297,0.05429178040643009,,2,4
+Charles Sturt,Henley ward councillors,False,False,201,3056,0.06577225130890052,,2,3
+Charles Sturt,Woodville ward councillors,False,False,249,4141,0.06013040328423086,,2,4
+Charles Sturt,West Woodville ward councillors,False,False,231,3348,0.06899641577060932,,2,3
+Charles Sturt,Findon ward councillors,False,False,211,3777,0.05586444267937517,,2,4
+Charles Sturt,Hindmarsh ward councillors,False,False,107,3043,0.035162668419323036,,2,5
+Charles Sturt,Beverley ward councillors,False,False,,,,Uncontested,,
+Charles Sturt,Overall for council (all elections combined),True,False,1595,50723,0.031445300948287756,,15,31
+Clare & Gilbert Valleys,Mayor,False,False,23,3359,0.006847275974992557,,1,3
+Clare & Gilbert Valleys,Area councillors,False,False,123,3355,0.036661698956780925,,9,10
+Clare & Gilbert Valleys,Overall for council (all elections combined),True,False,146,6714,0.021745606196008342,,10,13
+Cleve,Area councillors,False,False,11,882,0.012471655328798186,,7,11
+Cleve,Overall for council (all elections combined),True,False,11,882,0.012471655328798186,,7,11
+Coober Pedy,Mayor,False,False,,,,Election not held,,
+Coober Pedy,Area councillors,False,False,,,,Election not held,,
+Coober Pedy,Overall for council (all elections combined),True,False,,,,No elections held,,
+Coorong,Mayor,False,False,11,2146,0.005125815470643057,,1,3
+Coorong,Area councillors,False,False,64,2155,0.029698375870069606,,7,15
+Coorong,Overall for council (all elections combined),True,False,75,4301,0.01743780516159033,,8,18
+Copper Coast,Mayor,False,False,,,,Uncontested,,
+Copper Coast,Area councillors,False,False,,,,Uncontested,,
+Copper Coast,Overall for council (all elections combined),True,False,,,,No elections held,,
+Elliston,Area councillors,False,False,6,509,0.011787819253438114,,8,11
+Elliston,Overall for council (all elections combined),True,False,6,509,0.011787819253438114,,8,11
+Flinders Ranges,Mayor,False,False,3,736,0.004076086956521739,,1,2
+Flinders Ranges,Area councillors,False,False,,,,Uncontested,,
+Flinders Ranges,Overall for council (all elections combined),True,False,3,736,0.004076086956521739,,1,2
+Franklin Harbour,Area councillors,False,False,7,645,0.010852713178294573,,6,9
+Franklin Harbour,Overall for council (all elections combined),True,False,7,645,0.010852713178294573,,6,9
+Gawler,Mayor,False,False,61,6423,0.009497119725984743,,1,4
+Gawler,Area councillors,False,False,356,6408,0.05555555555555555,,10,23
+Gawler,Overall for council (all elections combined),True,False,417,12831,0.03249941547813888,,11,27
+Goyder,Hallett ward councillor,False,False,1,278,0.0035971223021582736,,1,3
+Goyder,Burra ward councillors,False,False,5,739,0.006765899864682003,,3,7
+Goyder,Eudunda ward councillors,False,False,6,537,0.0111731843575419,,2,6
+Goyder,Robertstown ward councillor,False,False,,,,Uncontested,,
+Goyder,Overall for council (all elections combined),True,False,12,1554,0.007722007722007722,,6,16
+Grant,Mayor,False,False,39,3491,0.011171584073331424,,1,2
+Grant,Central ward councillors,False,False,75,2662,0.028174305033809167,,7,10
+Grant,Tarpeena ward councillor,False,False,0,371,0,,1,2
+Grant,Port MacDonnell ward councillor,False,False,2,431,0.004640371229698376,,1,3
+Grant,Overall for council (all elections combined),True,False,116,6955,0.01667864845434939,,10,17
+Holdfast Bay,Mayor,False,False,198,8990,0.022024471635150165,,1,2
+Holdfast Bay,Glenelg ward councillors,False,False,44,2139,0.020570359981299673,,3,8
+Holdfast Bay,Somerton ward councillors,False,False,39,2318,0.016824849007765316,,3,6
+Holdfast Bay,Brighton ward councillors,False,False,,,,Uncontested,,
+Holdfast Bay,Seacliff ward councillors,False,False,45,2308,0.01949740034662045,,3,5
+Holdfast Bay,Overall for council (all elections combined),True,False,326,15755,0.02069184385909235,,10,21
+Kangaroo Island,Mayor,False,False,23,2199,0.010459299681673489,,1,2
+Kangaroo Island,Area councillors,False,False,83,2206,0.03762466001813237,,9,11
+Kangaroo Island,Overall for council (all elections combined),True,False,106,4405,0.024063564131668557,,10,13
+Karoonda East Murray,Mayor,False,False,,,,Uncontested,,
+Karoonda East Murray,Area councillors,False,False,3,465,0.0064516129032258064,,6,11
+Karoonda East Murray,Overall for council (all elections combined),True,False,3,465,0.0064516129032258064,,6,11
+Kimba,Area councillors,False,False,,,,Uncontested,,
+Kimba,Overall for council (all elections combined),True,False,,,,No elections held,,
+Kingston,Mayor,False,False,,,,Failed,,
+Kingston,Area councillors,False,False,18,1160,0.015517241379310345,,7,9
+Kingston,Overall for council (all elections combined),True,False,18,1160,0.015517241379310345,,7,9
+Light,Mayor,False,False,62,4088,0.015166340508806261,,1,2
+Light,Dutton ward councillors,False,False,32,1908,0.016771488469601678,,3,8
+Light,Light ward councillors,False,False,22,1117,0.019695613249776187,,3,4
+Light,Mudla Wirra ward councillors,False,False,38,1080,0.03518518518518519,,3,4
+Light,Overall for council (all elections combined),True,False,154,8193,0.018796533626266324,,10,18
+Lower Eyre,Area councillors,False,False,46,1693,0.027170702894270527,,7,8
+Lower Eyre,Overall for council (all elections combined),True,False,46,1693,0.027170702894270527,,7,8
+Loxton Waikerie,Mayor,False,False,12,4489,0.0026732011583871684,,1,2
+Loxton Waikerie,Area councillors,False,False,211,4521,0.046671090466710904,,10,13
+Loxton Waikerie,Overall for council (all elections combined),True,False,223,9010,0.024750277469478357,,11,15
+Marion,Mayor,False,False,214,19433,0.011012195749498277,,1,3
+Marion,Mullawirra ward councillors,False,False,205,3321,0.06172839506172839,,2,3
+Marion,Woodlands ward councillors,False,False,87,3379,0.02574726250369932,,2,9
+Marion,Warracowie ward councillors,False,False,118,3279,0.0359865812747789,,2,8
+Marion,Warriparinga ward councillors,False,False,133,3343,0.039784624588692794,,2,5
+Marion,Coastal ward councillors,False,False,98,3376,0.029028436018957347,,2,6
+Marion,Southern Hills ward councillors,False,False,109,2747,0.03967965052784856,,2,4
+Marion,Overall for council (all elections combined),True,False,964,38878,0.02479551417253974,,13,38
+Mid Murray,Mayor,False,False,32,3092,0.01034928848641656,,1,3
+Mid Murray,Eyre ward councillors,False,False,22,727,0.030261348005502064,,2,4
+Mid Murray,Shearer ward councillors,False,False,,,,Uncontested,,
+Mid Murray,Murray ward councillors,False,False,15,733,0.020463847203274217,,2,6
+Mid Murray,Overall for council (all elections combined),True,False,69,4552,0.01515817223198594,,5,13
+Mitcham,Mayor,False,False,81,17179,0.004715059083765062,,1,3
+Mitcham,Boorman ward councillors,False,False,60,2862,0.020964360587002098,,2,4
+Mitcham,Gault ward councillors,False,False,33,2817,0.011714589989350373,,2,6
+Mitcham,Overton ward councillors,False,False,67,2286,0.02930883639545057,,2,6
+Mitcham,Babbage ward councillors,False,False,82,2729,0.030047636496885306,,2,4
+Mitcham,Craigburn ward councillors,False,False,107,3149,0.033979040965385836,,2,4
+Mitcham,The Park ward councillors,False,False,126,3255,0.03870967741935484,,2,3
+Mitcham,Overall for council (all elections combined),True,False,556,34277,0.01622078945065204,,13,30
+Mount Barker,Mayor,False,False,132,10556,0.012504736642667677,,1,2
+Mount Barker,North ward councillors,False,False,59,2929,0.0201433936497098,,3,4
+Mount Barker,Central ward councillors,False,False,104,4387,0.02370640528835195,,4,5
+Mount Barker,South ward councillors,False,False,76,3237,0.023478529502625887,,3,5
+Mount Barker,Overall for council (all elections combined),True,False,371,21109,0.017575441754701784,,11,16
+Mount Gambier,Mayor,False,False,,,,Uncontested,,
+Mount Gambier,Area councillors,False,False,296,8162,0.03626562117128155,,8,18
+Mount Gambier,Overall for council (all elections combined),True,False,296,8162,0.03626562117128155,,8,18
+Mount Remarkable,Telowie ward councillors,False,False,,,,Uncontested,,
+Mount Remarkable,Willochra ward councillors,False,False,,,,Uncontested,,
+Mount Remarkable,Overall for council (all elections combined),True,False,,,,No elections held,,
+Murray Bridge,Mayor,False,False,42,5605,0.007493309545049063,,1,2
+Murray Bridge,Area councillors,False,False,282,5619,0.05018686599038975,,9,15
+Murray Bridge,Overall for council (all elections combined),True,False,324,11224,0.02886671418389166,,10,17
+Naracoorte Lucindale,Mayor,False,False,7,3527,0.001984689537850865,,1,2
+Naracoorte Lucindale,Area councillors,False,False,138,3533,0.03906028870648175,,10,16
+Naracoorte Lucindale,Overall for council (all elections combined),True,False,145,7060,0.020538243626062325,,11,18
+Northern Areas,Belalie ward councillors,False,False,9,809,0.011124845488257108,,4,5
+Northern Areas,Broughton ward councillors,False,False,,,,Uncontested,,
+Northern Areas,Rocky River ward councillors,False,False,4,536,0.007462686567164179,,3,5
+Northern Areas,Yackamorrundie ward councillor,False,False,,,,Uncontested,,
+Northern Areas,Overall for council (all elections combined),True,False,13,1345,0.009665427509293681,,7,10
+Norwood Payneham & St Peters,Mayor,False,False,67,8713,0.007689659130035579,,1,3
+Norwood Payneham & St Peters,St Peters ward councillors,False,False,21,1459,0.01439342015078821,,2,6
+Norwood Payneham & St Peters,Torrens ward councillors,False,False,71,1357,0.05232129697862933,,2,3
+Norwood Payneham & St Peters,Payneham ward councillors,False,False,39,1241,0.031426269137792104,,2,5
+Norwood Payneham & St Peters,Maylands/Trinity ward councillors,False,False,59,1914,0.03082549634273772,,3,4
+Norwood Payneham & St Peters,West Norwood/Kent Town ward councillors,False,False,,,,Uncontested,,
+Norwood Payneham & St Peters,Kensington/East Norwood ward councillors,False,False,41,1316,0.03115501519756839,,2,3
+Norwood Payneham & St Peters,Overall for council (all elections combined),True,False,298,16000,0.018625,,12,24
+Onkaparinga,Mayor,False,False,382,32668,0.01169340026937676,,1,8
+Onkaparinga,South Coast ward councillors,False,False,273,6100,0.04475409836065574,,2,10
+Onkaparinga,Mid Coast ward councillors,False,False,294,6020,0.04883720930232558,,2,10
+Onkaparinga,Knox ward councillors,False,False,390,4647,0.08392511297611362,,2,8
+Onkaparinga,Pimpala ward councillors,False,False,227,5071,0.04476434628278446,,2,7
+Onkaparinga,Thalassa ward councillors,False,False,218,5338,0.04083926564256276,,2,6
+Onkaparinga,Southern Vales ward councillors,False,False,289,5473,0.052804677507765393,,2,8
+Onkaparinga,Overall for council (all elections combined),True,False,2073,65317,0.031737526218289264,,13,57
+Orroroo Carrieton,Area councillors,False,False,,,,Uncontested,,
+Orroroo Carrieton,Overall for council (all elections combined),True,False,,,,No elections held,,
+Peterborough,Mayor,False,False,2,766,0.0026109660574412533,,1,2
+Peterborough,Area councillors,False,False,16,770,0.02077922077922078,,8,10
+Peterborough,Overall for council (all elections combined),True,False,18,1536,0.01171875,,9,12
+Playford,Mayor,False,False,311,17945,0.01733073279465032,,1,3
+Playford,Ward 1 councillors,False,False,138,4122,0.033478893740902474,,3,11
+Playford,Ward 2 councillors,False,False,137,4212,0.032526115859449194,,3,10
+Playford,Ward 3 councillors,False,False,73,3152,0.02315989847715736,,3,10
+Playford,Ward 4 councillors,False,False,157,3086,0.0508749189889825,,3,12
+Playford,Ward 5 councillors,False,False,146,3446,0.04236796285548462,,3,6
+Playford,Overall for council (all elections combined),True,False,962,35963,0.026749714984845536,,16,52
+Port Adelaide Enfield,Mayor,False,False,,,,Uncontested,,
+Port Adelaide Enfield,Outer Harbor ward councillors,False,False,56,3083,0.018164125851443398,,2,6
+Port Adelaide Enfield,Semaphore ward councillors,False,False,35,3223,0.01085944771951598,,2,6
+Port Adelaide Enfield,Port Adelaide ward councillors,False,False,58,3129,0.018536273569830616,,2,6
+Port Adelaide Enfield,Parks ward councillors,False,False,189,5067,0.037300177619893425,,3,6
+Port Adelaide Enfield,Enfield ward councillors,False,False,202,5415,0.03730378578024007,,3,4
+Port Adelaide Enfield,Klemzig ward councillors,False,False,85,3034,0.02801582069874753,,2,6
+Port Adelaide Enfield,Northfield ward councillors,False,False,131,6177,0.021207706006151853,,3,6
+Port Adelaide Enfield,Overall for council (all elections combined),True,False,756,29128,0.025954408129634714,,17,40
+Port Augusta,Mayor,False,False,21,4226,0.0049692380501656416,,1,2
+Port Augusta,Area councillors,False,False,188,4249,0.04424570487173453,,9,13
+Port Augusta,Overall for council (all elections combined),True,False,209,8475,0.02466076696165192,,10,15
+Port Lincoln,Mayor,False,False,33,4350,0.007586206896551724,,1,2
+Port Lincoln,Area councillors,False,False,157,4309,0.03643536783476445,,9,10
+Port Lincoln,Overall for council (all elections combined),True,False,190,8659,0.021942487585171498,,10,12
+Port Pirie,Mayor,False,False,,,,Uncontested,,
+Port Pirie,Area councillors,False,False,220,5206,0.042258932001536686,,9,14
+Port Pirie,Overall for council (all elections combined),True,False,220,5206,0.042258932001536686,,9,14
+Prospect,Mayor,False,False,54,5942,0.009087849209020532,,1,5
+Prospect,North ward councillors,False,False,51,1342,0.038002980625931444,,2,6
+Prospect,West ward councillors,False,False,40,1626,0.024600246002460024,,2,8
+Prospect,Central ward councillors,False,False,53,1597,0.03318722604884158,,2,5
+Prospect,East ward councillors,False,False,39,1350,0.028888888888888888,,2,6
+Prospect,Overall for council (all elections combined),True,False,237,11857,0.019988192628826854,,9,30
+Renmark Paringa,Mayor,False,False,31,3212,0.009651307596513076,,1,2
+Renmark Paringa,Area councillors,False,False,70,3216,0.021766169154228857,,8,10
+Renmark Paringa,Overall for council (all elections combined),True,False,101,6428,0.015712507778469196,,9,12
+Robe,Mayor,False,False,,,,Failed,,
+Robe,Area councillors,False,False,9,952,0.009453781512605041,,6,12
+Robe,Overall for council (all elections combined),True,False,9,952,0.009453781512605041,,6,12
+Salisbury,Mayor,False,False,480,30906,0.015530964861192001,,1,4
+Salisbury,Central ward councillors,False,False,248,4615,0.053737811484290354,,2,5
+Salisbury,East ward councillors,False,False,286,3868,0.07394002068252327,,2,3
+Salisbury,South ward councillors,False,False,311,3971,0.07831780407957693,,2,5
+Salisbury,Hills ward councillors,False,False,208,3755,0.05539280958721705,,2,5
+Salisbury,Para ward councillors,False,False,210,5315,0.03951081843838194,,2,8
+Salisbury,North ward councillors,False,False,335,4528,0.07398409893992933,,2,4
+Salisbury,West ward councillors,False,False,179,4874,0.03672548215018465,,2,6
+Salisbury,Overall for council (all elections combined),True,False,2257,61832,0.03650213481692328,,15,40
+Southern Mallee,Area councillors,False,False,,,,Uncontested,,
+Southern Mallee,Overall for council (all elections combined),True,False,,,,No elections held,,
+Streaky Bay,Flinders ward councillors,False,False,,,,Uncontested,,
+Streaky Bay,Eyre ward councillors,False,False,,,,Uncontested,,
+Streaky Bay,Overall for council (all elections combined),True,False,,,,No elections held,,
+Tatiara,Mayor,False,False,19,2742,0.006929248723559446,,1,2
+Tatiara,Area councillors,False,False,109,2750,0.039636363636363636,,9,13
+Tatiara,Overall for council (all elections combined),True,False,128,5492,0.023306627822286964,,10,15
+Tea Tree Gully,Mayor,False,False,317,19594,0.016178421965907932,,1,5
+Tea Tree Gully,Pedare ward councillors,False,False,133,3046,0.04366382140512147,,2,5
+Tea Tree Gully,Drumminor ward councillors,False,False,131,2951,0.04439173161640122,,2,5
+Tea Tree Gully,Hillcott ward councillors,False,False,139,3022,0.04599602911978822,,2,4
+Tea Tree Gully,Balmoral ward councillors,False,False,91,3446,0.02640742890307603,,2,8
+Tea Tree Gully,Steventon ward councillors,False,False,153,3775,0.04052980132450331,,2,3
+Tea Tree Gully,Water Gully ward councillors,False,False,157,3399,0.04619005589879376,,2,4
+Tea Tree Gully,Overall for council (all elections combined),True,False,1121,39233,0.028572885071241047,,13,34
+Tumby Bay,Mayor,False,False,,,,Uncontested,,
+Tumby Bay,Area councillors,False,False,,,,Uncontested,,
+Tumby Bay,Overall for council (all elections combined),True,False,,,,No elections held,,
+Unley,Mayor,False,False,77,9210,0.008360477741585234,,1,4
+Unley,Unley ward councillors,False,False,59,1687,0.034973325429756966,,2,3
+Unley,Parkside ward councillors,False,False,49,1421,0.034482758620689655,,2,4
+Unley,Fullarton ward councillors,False,False,67,1633,0.04102878138395591,,2,5
+Unley,Goodwood ward councillors,False,False,41,1526,0.026867627785058978,,2,7
+Unley,Clarence Park ward councillors,False,False,35,1457,0.024021962937542895,,2,3
+Unley,Unley Park ward councillors,False,False,47,1502,0.031291611185086554,,2,4
+Unley,Overall for council (all elections combined),True,False,375,18436,0.020340637882403992,,13,30
+Victor Harbor,Mayor,False,False,48,6362,0.007544797233574348,,1,3
+Victor Harbor,Area councillors,False,False,312,6338,0.049226885452824234,,9,19
+Victor Harbor,Overall for council (all elections combined),True,False,360,12700,0.028346456692913385,,10,22
+Wakefield,Mayor,False,False,,,,Uncontested,,
+Wakefield,North ward councillors,False,False,6,750,0.008,,3,6
+Wakefield,Central ward councillors,False,False,17,1141,0.014899211218229623,,4,6
+Wakefield,South ward councillors,False,False,,,,Uncontested,,
+Wakefield,Overall for council (all elections combined),True,False,23,1891,0.012162876784769964,,7,12
+Walkerville,Mayor,False,False,16,2352,0.006802721088435374,,1,2
+Walkerville,Area councillors,False,False,91,2359,0.03857566765578635,,8,13
+Walkerville,Overall for council (all elections combined),True,False,107,4711,0.022712799830184673,,9,15
+Wattle Range,Mayor,False,False,,,,Uncontested,,
+Wattle Range,Kintore ward councillors,False,False,16,854,0.01873536299765808,,2,3
+Wattle Range,Riddoch ward councillors,False,False,18,768,0.0234375,,2,3
+Wattle Range,Corcoran ward councillors,False,False,38,1931,0.01967892283790782,,5,6
+Wattle Range,Sorby Adams ward councillors,False,False,10,696,0.014367816091954023,,2,4
+Wattle Range,Overall for council (all elections combined),True,False,82,4249,0.019298658507884207,,11,16
+West Torrens,Mayor,False,False,,,,Uncontested,,
+West Torrens,Keswick ward councillors,False,False,35,2344,0.014931740614334471,,2,6
+West Torrens,Hilton ward councillors,False,False,56,2023,0.02768166089965398,,2,4
+West Torrens,Plympton ward councillors,False,False,38,1981,0.019182231196365473,,2,5
+West Torrens,Lockleys ward councillors,False,False,48,1961,0.02447730749617542,,2,4
+West Torrens,Airport ward councillors,False,False,27,1740,0.015517241379310345,,2,6
+West Torrens,Morphett ward councillors,False,False,,,,Uncontested,,
+West Torrens,Thebarton ward councillors,False,False,33,2074,0.01591128254580521,,2,6
+West Torrens,Overall for council (all elections combined),True,False,237,12123,0.019549616431576343,,12,31
+Whyalla,Mayor,False,False,36,6603,0.005452067242162653,,1,2
+Whyalla,Area councillors,False,False,268,6556,0.04087858450274558,,9,19
+Whyalla,Overall for council (all elections combined),True,False,304,13159,0.02310205942700813,,10,21
+Wudinna,Area councillors,False,False,,,,Uncontested,,
+Wudinna,Overall for council (all elections combined),True,False,,,,No elections held,,
+Yankalilla,Field ward councillors,False,False,23,983,0.023397761953204477,,4,6
+Yankalilla,Light ward councillors,False,False,34,1525,0.022295081967213116,,5,10
+Yankalilla,Overall for council (all elections combined),True,False,57,2508,0.022727272727272728,,9,16
+Yorke Peninsula,Mayor,False,False,,,,Uncontested,,
+Yorke Peninsula,Kalkabury ward councillors,False,False,,,,Uncontested,,
+Yorke Peninsula,Gum Flat ward councillors,False,False,8,1334,0.005997001499250375,,3,4
+Yorke Peninsula,Innes/Penton Vale ward councillors,False,False,,,,Uncontested,,
+Yorke Peninsula,Overall for council (all elections combined),True,False,8,1334,0.005997001499250375,,3,4
+All councils,Total (informality across all elections combined),False,True,18518,733092,0.025260131061312904,,565,1163

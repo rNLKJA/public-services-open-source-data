@@ -1,0 +1,39 @@
+council,election,vacancies,vacancies_filled,vacancies_outstanding,supplementary_election_required,is_failed_election
+Adelaide Hills,Mayoral,1,1,0,No,False
+Burnside,Rose Park & Toorak Gardens ward,2,2,0,No,False
+Campbelltown,Mayoral,1,1,0,No,False
+Campbelltown,Woodforde ward,2,2,0,No,False
+Charles Sturt,Beverley ward,2,2,0,No,False
+Copper Coast,Mayoral,1,1,0,No,False
+Copper Coast,Area councillor,9,8,1,Yes,False
+Flinders Ranges,Area councillor,8,8,0,No,False
+Goyder,Robertstown ward,1,1,0,No,False
+Holdfast Bay,Brighton ward,3,3,0,No,False
+Karoonda East Murray,Mayoral,1,1,0,No,False
+Kimba,Area councillor,7,6,1,Yes,False
+Kingston,Mayoral,1,0,1,Yes,True
+Mid Murray,Shearer ward,4,4,0,No,False
+Mount Gambier,Mayoral,1,1,0,No,False
+Mount Remarkable,Telowie ward,3,3,0,No,False
+Mount Remarkable,Willochra ward,4,3,1,Yes,False
+Northern Areas,Broughton ward,1,1,0,No,False
+Northern Areas,Yackamorrundie ward,1,1,0,No,False
+Norwood Payneham & St Peters,West Norwood/Kent Town ward,2,2,0,No,False
+Orroroo Carrieton,Area councillor,6,6,0,No,False
+Port Adelaide Enfield,Mayoral,1,1,0,No,False
+Port Pirie,Mayoral,1,1,0,No,False
+Robe,Mayoral,1,0,1,Yes,True
+Southern Mallee,Area councillor,7,2,5,Yes,False
+Streaky Bay,Flinders ward,4,4,0,No,False
+Streaky Bay,Eyre ward,4,3,1,Yes,False
+Tumby Bay,Mayoral,1,1,0,No,False
+Tumby Bay,Area councillor,6,2,4,Yes,False
+Wakefield,Mayoral,1,1,0,No,False
+Wakefield,South ward,2,2,0,No,False
+Wattle Range,Mayoral,1,1,0,No,False
+West Torrens,Mayoral,1,1,0,No,False
+West Torrens,Morphett ward,2,2,0,No,False
+Wudinna,Area councillor,7,6,1,Yes,False
+Yorke Peninsula,Mayoral,1,1,0,No,False
+Yorke Peninsula,Kalkabury ward,4,4,0,No,False
+Yorke Peninsula,Innes/Penton Vale ward,4,4,0,No,False
