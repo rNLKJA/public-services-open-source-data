@@ -1,0 +1,6 @@
+table,title,geography_level,rows,file
+07,Total number of dwelling units approved - states and territories,state,11330,table-07-dwelling-units-by-state.csv
+39,Value of total building approved - states and territories,state,11430,table-39-value-of-total-building-by-state.csv
+40,Value of residential building approved - states and territories,state,13335,table-40-value-of-residential-building-by-state.csv
+41,Value of non-residential building approved - states and territories,state,12078,table-41-value-of-non-residential-building-by-state.csv
+10,"Number of dwelling units approved, by Greater Capital City Statistical Area - original",gccsa,7176,table-10-dwelling-units-by-gccsa.csv
