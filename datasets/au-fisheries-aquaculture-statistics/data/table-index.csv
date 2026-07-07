@@ -1,0 +1,20 @@
+table,title,geography_level,converted,output_file
+1,"Gross value of fisheries and aquaculture production, Australia",state + Commonwealth fishery,yes,gross-value-of-production-by-jurisdiction-1998-99-to-2024-25.csv
+2,"Fisheries and aquaculture production, Australia",national commodity-group total,no,
+3,"Wild-caught fisheries production, Australia",national commodity total,no,
+4,"Aquaculture production, Australia",national commodity total,no,
+5,"Fisheries and aquaculture production, New South Wales",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv
+6,"Fisheries and aquaculture production, Victoria",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv
+7,"Fisheries and aquaculture production, Queensland",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv
+8,"Fisheries and aquaculture production, South Australia",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv (also south-australia-fisheries-aquaculture-production-1998-99-to-2024-25.csv)
+9,"Fisheries and aquaculture production, Western Australia",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv
+10,"Fisheries and aquaculture production, Tasmania",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv
+11,"Fisheries and aquaculture production, Northern Territory",state,yes,fisheries-aquaculture-production-by-state-1998-99-to-2024-25.csv
+12,"Fisheries production, Commonwealth",Commonwealth fishery (by-fishery nested layout),no,
+13,"Value of fisheries products exports, selected commodities",national,no,
+14,"Volume of fisheries products exports, selected commodities",national,no,
+15,"Value of fisheries products imports, selected commodities",national,no,
+16,"Volume of fisheries products imports, selected commodities",national,no,
+17,"Value of Australian fisheries products trade, by selected countries",national,no,
+18,"Apparent consumption of seafood, Australia",national,no,
+19,"Estimated employment in the Australian commercial fishing and aquaculture industry, 2021 Census",national,no,

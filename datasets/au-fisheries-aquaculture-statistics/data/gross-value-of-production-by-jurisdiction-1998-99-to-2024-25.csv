@@ -1,0 +1,838 @@
+production_type,jurisdiction,unit,financial_year,is_preliminary,value_aud_thousands
+State wild-catch fisheries,New South Wales,$’000,1998-99,False,82428
+State wild-catch fisheries,New South Wales,$’000,1999-00,False,87961.9
+State wild-catch fisheries,New South Wales,$’000,2000-01,False,104394.9
+State wild-catch fisheries,New South Wales,$’000,2001-02,False,95101.5
+State wild-catch fisheries,New South Wales,$’000,2002-03,False,104433.3
+State wild-catch fisheries,New South Wales,$’000,2003-04,False,89711.2
+State wild-catch fisheries,New South Wales,$’000,2004-05,False,79614
+State wild-catch fisheries,New South Wales,$’000,2005-06,False,81017.2
+State wild-catch fisheries,New South Wales,$’000,2006-07,False,87400.7
+State wild-catch fisheries,New South Wales,$’000,2007-08,False,89044.3
+State wild-catch fisheries,New South Wales,$’000,2008-09,False,79110.7
+State wild-catch fisheries,New South Wales,$’000,2009-10,False,81851.8
+State wild-catch fisheries,New South Wales,$’000,2010-11,False,79149.3
+State wild-catch fisheries,New South Wales,$’000,2011-12,False,77265.3
+State wild-catch fisheries,New South Wales,$’000,2012-13,False,80693.7
+State wild-catch fisheries,New South Wales,$’000,2013-14,False,92479
+State wild-catch fisheries,New South Wales,$’000,2014-15,False,89483.5
+State wild-catch fisheries,New South Wales,$’000,2015-16,False,91082
+State wild-catch fisheries,New South Wales,$’000,2016-17,False,89305
+State wild-catch fisheries,New South Wales,$’000,2017-18,False,99501.1
+State wild-catch fisheries,New South Wales,$’000,2018-19,False,106233.7
+State wild-catch fisheries,New South Wales,$’000,2019-20,False,113173.6
+State wild-catch fisheries,New South Wales,$’000,2020-21,False,102927
+State wild-catch fisheries,New South Wales,$’000,2021-22,False,98013.1
+State wild-catch fisheries,New South Wales,$’000,2022-23,False,95706.3
+State wild-catch fisheries,New South Wales,$’000,2023-24,False,102932.9
+State wild-catch fisheries,New South Wales,$’000,2024-25,True,na
+State wild-catch fisheries,Victoria,$’000,1998-99,False,74386
+State wild-catch fisheries,Victoria,$’000,1999-00,False,89914
+State wild-catch fisheries,Victoria,$’000,2000-01,False,108002
+State wild-catch fisheries,Victoria,$’000,2001-02,False,101656
+State wild-catch fisheries,Victoria,$’000,2002-03,False,89048
+State wild-catch fisheries,Victoria,$’000,2003-04,False,72214
+State wild-catch fisheries,Victoria,$’000,2004-05,False,85859
+State wild-catch fisheries,Victoria,$’000,2005-06,False,77502
+State wild-catch fisheries,Victoria,$’000,2006-07,False,74631
+State wild-catch fisheries,Victoria,$’000,2007-08,False,67830
+State wild-catch fisheries,Victoria,$’000,2008-09,False,54284
+State wild-catch fisheries,Victoria,$’000,2009-10,False,47663
+State wild-catch fisheries,Victoria,$’000,2010-11,False,51258.2
+State wild-catch fisheries,Victoria,$’000,2011-12,False,55474.5
+State wild-catch fisheries,Victoria,$’000,2012-13,False,55745.1
+State wild-catch fisheries,Victoria,$’000,2013-14,False,54840.5
+State wild-catch fisheries,Victoria,$’000,2014-15,False,58741.7
+State wild-catch fisheries,Victoria,$’000,2015-16,False,57809.9
+State wild-catch fisheries,Victoria,$’000,2016-17,False,54362.3
+State wild-catch fisheries,Victoria,$’000,2017-18,False,62770.1
+State wild-catch fisheries,Victoria,$’000,2018-19,False,71596.2
+State wild-catch fisheries,Victoria,$’000,2019-20,False,62254.8
+State wild-catch fisheries,Victoria,$’000,2020-21,False,45110.8
+State wild-catch fisheries,Victoria,$’000,2021-22,False,49353.3
+State wild-catch fisheries,Victoria,$’000,2022-23,False,49848.4
+State wild-catch fisheries,Victoria,$’000,2023-24,False,47210.8
+State wild-catch fisheries,Victoria,$’000,2024-25,True,na
+State wild-catch fisheries,Queensland,$’000,1998-99,False,227983.4
+State wild-catch fisheries,Queensland,$’000,1999-00,False,227021.9
+State wild-catch fisheries,Queensland,$’000,2000-01,False,253634.5
+State wild-catch fisheries,Queensland,$’000,2001-02,False,234007.8
+State wild-catch fisheries,Queensland,$’000,2002-03,False,228120
+State wild-catch fisheries,Queensland,$’000,2003-04,False,237792
+State wild-catch fisheries,Queensland,$’000,2004-05,False,198265.2
+State wild-catch fisheries,Queensland,$’000,2005-06,False,218456.1
+State wild-catch fisheries,Queensland,$’000,2006-07,False,206940
+State wild-catch fisheries,Queensland,$’000,2007-08,False,208205
+State wild-catch fisheries,Queensland,$’000,2008-09,False,223024
+State wild-catch fisheries,Queensland,$’000,2009-10,False,222411.1
+State wild-catch fisheries,Queensland,$’000,2010-11,False,194739.5
+State wild-catch fisheries,Queensland,$’000,2011-12,False,185616.2
+State wild-catch fisheries,Queensland,$’000,2012-13,False,196213.1
+State wild-catch fisheries,Queensland,$’000,2013-14,False,191334
+State wild-catch fisheries,Queensland,$’000,2014-15,False,182208.6
+State wild-catch fisheries,Queensland,$’000,2015-16,False,175897.4
+State wild-catch fisheries,Queensland,$’000,2016-17,False,192908.9
+State wild-catch fisheries,Queensland,$’000,2017-18,False,180198.9
+State wild-catch fisheries,Queensland,$’000,2018-19,False,158942.4
+State wild-catch fisheries,Queensland,$’000,2019-20,False,156058.5
+State wild-catch fisheries,Queensland,$’000,2020-21,False,243095.3
+State wild-catch fisheries,Queensland,$’000,2021-22,False,223764.5
+State wild-catch fisheries,Queensland,$’000,2022-23,False,268560.6
+State wild-catch fisheries,Queensland,$’000,2023-24,False,223003.5
+State wild-catch fisheries,Queensland,$’000,2024-25,True,na
+State wild-catch fisheries,South Australia,$’000,1998-99,False,165106.2
+State wild-catch fisheries,South Australia,$’000,1999-00,False,182986
+State wild-catch fisheries,South Australia,$’000,2000-01,False,206986.2
+State wild-catch fisheries,South Australia,$’000,2001-02,False,206779
+State wild-catch fisheries,South Australia,$’000,2002-03,False,195219
+State wild-catch fisheries,South Australia,$’000,2003-04,False,182536
+State wild-catch fisheries,South Australia,$’000,2004-05,False,182959
+State wild-catch fisheries,South Australia,$’000,2005-06,False,192674
+State wild-catch fisheries,South Australia,$’000,2006-07,False,218684
+State wild-catch fisheries,South Australia,$’000,2007-08,False,205967
+State wild-catch fisheries,South Australia,$’000,2008-09,False,219285
+State wild-catch fisheries,South Australia,$’000,2009-10,False,199489
+State wild-catch fisheries,South Australia,$’000,2010-11,False,195440
+State wild-catch fisheries,South Australia,$’000,2011-12,False,208928
+State wild-catch fisheries,South Australia,$’000,2012-13,False,198105
+State wild-catch fisheries,South Australia,$’000,2013-14,False,210410
+State wild-catch fisheries,South Australia,$’000,2014-15,False,240204
+State wild-catch fisheries,South Australia,$’000,2015-16,False,264653
+State wild-catch fisheries,South Australia,$’000,2016-17,False,253107
+State wild-catch fisheries,South Australia,$’000,2017-18,False,264049
+State wild-catch fisheries,South Australia,$’000,2018-19,False,276686
+State wild-catch fisheries,South Australia,$’000,2019-20,False,232140.2
+State wild-catch fisheries,South Australia,$’000,2020-21,False,199625.2
+State wild-catch fisheries,South Australia,$’000,2021-22,False,196194.3
+State wild-catch fisheries,South Australia,$’000,2022-23,False,203029.6
+State wild-catch fisheries,South Australia,$’000,2023-24,False,214288.3
+State wild-catch fisheries,South Australia,$’000,2024-25,True,na
+State wild-catch fisheries,Western Australia,$’000,1998-99,False,403576
+State wild-catch fisheries,Western Australia,$’000,1999-00,False,547707
+State wild-catch fisheries,Western Australia,$’000,2000-01,False,435926
+State wild-catch fisheries,Western Australia,$’000,2001-02,False,434372
+State wild-catch fisheries,Western Australia,$’000,2002-03,False,431501
+State wild-catch fisheries,Western Australia,$’000,2003-04,False,400742
+State wild-catch fisheries,Western Australia,$’000,2004-05,False,414834
+State wild-catch fisheries,Western Australia,$’000,2005-06,False,417653
+State wild-catch fisheries,Western Australia,$’000,2006-07,False,352382
+State wild-catch fisheries,Western Australia,$’000,2007-08,False,323524
+State wild-catch fisheries,Western Australia,$’000,2008-09,False,291473
+State wild-catch fisheries,Western Australia,$’000,2009-10,False,272368
+State wild-catch fisheries,Western Australia,$’000,2010-11,False,285890
+State wild-catch fisheries,Western Australia,$’000,2011-12,False,279877
+State wild-catch fisheries,Western Australia,$’000,2012-13,False,330871.7
+State wild-catch fisheries,Western Australia,$’000,2013-14,False,416919.3
+State wild-catch fisheries,Western Australia,$’000,2014-15,False,488420
+State wild-catch fisheries,Western Australia,$’000,2015-16,False,503939
+State wild-catch fisheries,Western Australia,$’000,2016-17,False,529336
+State wild-catch fisheries,Western Australia,$’000,2017-18,False,554472
+State wild-catch fisheries,Western Australia,$’000,2018-19,False,518667.7
+State wild-catch fisheries,Western Australia,$’000,2019-20,False,387975
+State wild-catch fisheries,Western Australia,$’000,2020-21,False,342157
+State wild-catch fisheries,Western Australia,$’000,2021-22,False,326662
+State wild-catch fisheries,Western Australia,$’000,2022-23,False,381254
+State wild-catch fisheries,Western Australia,$’000,2023-24,False,408424
+State wild-catch fisheries,Western Australia,$’000,2024-25,True,na
+State wild-catch fisheries,Tasmania,$’000,1998-99,False,169166.3
+State wild-catch fisheries,Tasmania,$’000,1999-00,False,167126
+State wild-catch fisheries,Tasmania,$’000,2000-01,False,197128.2
+State wild-catch fisheries,Tasmania,$’000,2001-02,False,199895.7
+State wild-catch fisheries,Tasmania,$’000,2002-03,False,159306.2
+State wild-catch fisheries,Tasmania,$’000,2003-04,False,142733.4
+State wild-catch fisheries,Tasmania,$’000,2004-05,False,166502.6
+State wild-catch fisheries,Tasmania,$’000,2005-06,False,170164.6
+State wild-catch fisheries,Tasmania,$’000,2006-07,False,188364.5
+State wild-catch fisheries,Tasmania,$’000,2007-08,False,165562.7
+State wild-catch fisheries,Tasmania,$’000,2008-09,False,176326.2
+State wild-catch fisheries,Tasmania,$’000,2009-10,False,175135
+State wild-catch fisheries,Tasmania,$’000,2010-11,False,163052.9
+State wild-catch fisheries,Tasmania,$’000,2011-12,False,155981.5
+State wild-catch fisheries,Tasmania,$’000,2012-13,False,153869.3
+State wild-catch fisheries,Tasmania,$’000,2013-14,False,176947.2
+State wild-catch fisheries,Tasmania,$’000,2014-15,False,175265.2
+State wild-catch fisheries,Tasmania,$’000,2015-16,False,182349
+State wild-catch fisheries,Tasmania,$’000,2016-17,False,175934.9
+State wild-catch fisheries,Tasmania,$’000,2017-18,False,194316.6
+State wild-catch fisheries,Tasmania,$’000,2018-19,False,187410.7
+State wild-catch fisheries,Tasmania,$’000,2019-20,False,147874.9
+State wild-catch fisheries,Tasmania,$’000,2020-21,False,124715.5
+State wild-catch fisheries,Tasmania,$’000,2021-22,False,120687.1
+State wild-catch fisheries,Tasmania,$’000,2022-23,False,119465.7
+State wild-catch fisheries,Tasmania,$’000,2023-24,False,124678.3
+State wild-catch fisheries,Tasmania,$’000,2024-25,True,na
+State wild-catch fisheries,Northern Territory,$’000,1998-99,False,22306.5
+State wild-catch fisheries,Northern Territory,$’000,1999-00,False,32028
+State wild-catch fisheries,Northern Territory,$’000,2000-01,False,34270.1
+State wild-catch fisheries,Northern Territory,$’000,2001-02,False,31336.2
+State wild-catch fisheries,Northern Territory,$’000,2002-03,False,33019
+State wild-catch fisheries,Northern Territory,$’000,2003-04,False,31514.1
+State wild-catch fisheries,Northern Territory,$’000,2004-05,False,32766.4
+State wild-catch fisheries,Northern Territory,$’000,2005-06,False,26249.5
+State wild-catch fisheries,Northern Territory,$’000,2006-07,False,28917.5
+State wild-catch fisheries,Northern Territory,$’000,2007-08,False,32948.1
+State wild-catch fisheries,Northern Territory,$’000,2008-09,False,33717.2
+State wild-catch fisheries,Northern Territory,$’000,2009-10,False,31241
+State wild-catch fisheries,Northern Territory,$’000,2010-11,False,32442
+State wild-catch fisheries,Northern Territory,$’000,2011-12,False,34103.8
+State wild-catch fisheries,Northern Territory,$’000,2012-13,False,34089.6
+State wild-catch fisheries,Northern Territory,$’000,2013-14,False,30358.8
+State wild-catch fisheries,Northern Territory,$’000,2014-15,False,31071.3
+State wild-catch fisheries,Northern Territory,$’000,2015-16,False,34894.3
+State wild-catch fisheries,Northern Territory,$’000,2016-17,False,43859.5
+State wild-catch fisheries,Northern Territory,$’000,2017-18,False,47824.8
+State wild-catch fisheries,Northern Territory,$’000,2018-19,False,38538.4
+State wild-catch fisheries,Northern Territory,$’000,2019-20,False,40533.8
+State wild-catch fisheries,Northern Territory,$’000,2020-21,False,45934
+State wild-catch fisheries,Northern Territory,$’000,2021-22,False,59419.7
+State wild-catch fisheries,Northern Territory,$’000,2022-23,False,58666.4
+State wild-catch fisheries,Northern Territory,$’000,2023-24,False,48411.4
+State wild-catch fisheries,Northern Territory,$’000,2024-25,True,na
+State wild-catch fisheries,Total,$’000,1998-99,False,1144952.4
+State wild-catch fisheries,Total,$’000,1999-00,False,1334744.8
+State wild-catch fisheries,Total,$’000,2000-01,False,1340341.8
+State wild-catch fisheries,Total,$’000,2001-02,False,1303148.2
+State wild-catch fisheries,Total,$’000,2002-03,False,1240646.4
+State wild-catch fisheries,Total,$’000,2003-04,False,1157242.8
+State wild-catch fisheries,Total,$’000,2004-05,False,1160800.2
+State wild-catch fisheries,Total,$’000,2005-06,False,1183716.5
+State wild-catch fisheries,Total,$’000,2006-07,False,1157319.7
+State wild-catch fisheries,Total,$’000,2007-08,False,1093081.2
+State wild-catch fisheries,Total,$’000,2008-09,False,1077220.1
+State wild-catch fisheries,Total,$’000,2009-10,False,1030159
+State wild-catch fisheries,Total,$’000,2010-11,False,1001971.8
+State wild-catch fisheries,Total,$’000,2011-12,False,997246.2
+State wild-catch fisheries,Total,$’000,2012-13,False,1049587.5
+State wild-catch fisheries,Total,$’000,2013-14,False,1173288.8
+State wild-catch fisheries,Total,$’000,2014-15,False,1265394.4
+State wild-catch fisheries,Total,$’000,2015-16,False,1310624.6
+State wild-catch fisheries,Total,$’000,2016-17,False,1338813.6
+State wild-catch fisheries,Total,$’000,2017-18,False,1403132.4
+State wild-catch fisheries,Total,$’000,2018-19,False,1358075
+State wild-catch fisheries,Total,$’000,2019-20,False,1140010.7
+State wild-catch fisheries,Total,$’000,2020-21,False,1103564.9
+State wild-catch fisheries,Total,$’000,2021-22,False,1074094
+State wild-catch fisheries,Total,$’000,2022-23,False,1176531
+State wild-catch fisheries,Total,$’000,2023-24,False,1168949.3
+State wild-catch fisheries,Total,$’000,2024-25,True,na
+Aquaculture,New South Wales,$’000,1998-99,False,39488.7
+Aquaculture,New South Wales,$’000,1999-00,False,42041
+Aquaculture,New South Wales,$’000,2000-01,False,42244.6
+Aquaculture,New South Wales,$’000,2001-02,False,43698.5
+Aquaculture,New South Wales,$’000,2002-03,False,48585.7
+Aquaculture,New South Wales,$’000,2003-04,False,49647.5
+Aquaculture,New South Wales,$’000,2004-05,False,48372.2
+Aquaculture,New South Wales,$’000,2005-06,False,45026.9
+Aquaculture,New South Wales,$’000,2006-07,False,45975
+Aquaculture,New South Wales,$’000,2007-08,False,48111
+Aquaculture,New South Wales,$’000,2008-09,False,48681
+Aquaculture,New South Wales,$’000,2009-10,False,52400
+Aquaculture,New South Wales,$’000,2010-11,False,48087
+Aquaculture,New South Wales,$’000,2011-12,False,46959
+Aquaculture,New South Wales,$’000,2012-13,False,50134.5
+Aquaculture,New South Wales,$’000,2013-14,False,53364.8
+Aquaculture,New South Wales,$’000,2014-15,False,55756.1
+Aquaculture,New South Wales,$’000,2015-16,False,60232.4
+Aquaculture,New South Wales,$’000,2016-17,False,64610.3
+Aquaculture,New South Wales,$’000,2017-18,False,70727.5
+Aquaculture,New South Wales,$’000,2018-19,False,76013
+Aquaculture,New South Wales,$’000,2019-20,False,84567
+Aquaculture,New South Wales,$’000,2020-21,False,89331
+Aquaculture,New South Wales,$’000,2021-22,False,94995
+Aquaculture,New South Wales,$’000,2022-23,False,103605
+Aquaculture,New South Wales,$’000,2023-24,False,98446
+Aquaculture,New South Wales,$’000,2024-25,True,na
+Aquaculture,Victoria,$’000,1998-99,False,15059
+Aquaculture,Victoria,$’000,1999-00,False,16896
+Aquaculture,Victoria,$’000,2000-01,False,18971
+Aquaculture,Victoria,$’000,2001-02,False,20740.2
+Aquaculture,Victoria,$’000,2002-03,False,20700
+Aquaculture,Victoria,$’000,2003-04,False,23560.6
+Aquaculture,Victoria,$’000,2004-05,False,23946.2
+Aquaculture,Victoria,$’000,2005-06,False,21003.2
+Aquaculture,Victoria,$’000,2006-07,False,20121
+Aquaculture,Victoria,$’000,2007-08,False,17100.3
+Aquaculture,Victoria,$’000,2008-09,False,15498.6
+Aquaculture,Victoria,$’000,2009-10,False,17598.3
+Aquaculture,Victoria,$’000,2010-11,False,12234.2
+Aquaculture,Victoria,$’000,2011-12,False,17881.9
+Aquaculture,Victoria,$’000,2012-13,False,21198.7
+Aquaculture,Victoria,$’000,2013-14,False,25394.7
+Aquaculture,Victoria,$’000,2014-15,False,29054.1
+Aquaculture,Victoria,$’000,2015-16,False,27584.5
+Aquaculture,Victoria,$’000,2016-17,False,39319.9
+Aquaculture,Victoria,$’000,2017-18,False,48269.3
+Aquaculture,Victoria,$’000,2018-19,False,59633.4
+Aquaculture,Victoria,$’000,2019-20,False,48390.1
+Aquaculture,Victoria,$’000,2020-21,False,51624.3
+Aquaculture,Victoria,$’000,2021-22,False,53937.6
+Aquaculture,Victoria,$’000,2022-23,False,55720.4
+Aquaculture,Victoria,$’000,2023-24,False,59047
+Aquaculture,Victoria,$’000,2024-25,True,na
+Aquaculture,Queensland,$’000,1998-99,False,43608
+Aquaculture,Queensland,$’000,1999-00,False,54481
+Aquaculture,Queensland,$’000,2000-01,False,53678
+Aquaculture,Queensland,$’000,2001-02,False,70755
+Aquaculture,Queensland,$’000,2002-03,False,62912
+Aquaculture,Queensland,$’000,2003-04,False,68640
+Aquaculture,Queensland,$’000,2004-05,False,64500
+Aquaculture,Queensland,$’000,2005-06,False,66723
+Aquaculture,Queensland,$’000,2006-07,False,72069
+Aquaculture,Queensland,$’000,2007-08,False,75251
+Aquaculture,Queensland,$’000,2008-09,False,83552
+Aquaculture,Queensland,$’000,2009-10,False,99381
+Aquaculture,Queensland,$’000,2010-11,False,82471
+Aquaculture,Queensland,$’000,2011-12,False,82509.3
+Aquaculture,Queensland,$’000,2012-13,False,81771.3
+Aquaculture,Queensland,$’000,2013-14,False,89136.1
+Aquaculture,Queensland,$’000,2014-15,False,114058
+Aquaculture,Queensland,$’000,2015-16,False,117300
+Aquaculture,Queensland,$’000,2016-17,False,116500
+Aquaculture,Queensland,$’000,2017-18,False,114200
+Aquaculture,Queensland,$’000,2018-19,False,114500
+Aquaculture,Queensland,$’000,2019-20,False,161100
+Aquaculture,Queensland,$’000,2020-21,False,187430
+Aquaculture,Queensland,$’000,2021-22,False,219010
+Aquaculture,Queensland,$’000,2022-23,False,263166.3
+Aquaculture,Queensland,$’000,2023-24,False,263269.9
+Aquaculture,Queensland,$’000,2024-25,True,na
+Aquaculture,South Australia,$’000,1998-99,False,180171
+Aquaculture,South Australia,$’000,1999-00,False,220229
+Aquaculture,South Australia,$’000,2000-01,False,285350
+Aquaculture,South Australia,$’000,2001-02,False,282672
+Aquaculture,South Australia,$’000,2002-03,False,301721
+Aquaculture,South Australia,$’000,2003-04,False,278973
+Aquaculture,South Australia,$’000,2004-05,False,186643
+Aquaculture,South Australia,$’000,2005-06,False,210481.8
+Aquaculture,South Australia,$’000,2006-07,False,207814.7
+Aquaculture,South Australia,$’000,2007-08,False,262128.1
+Aquaculture,South Australia,$’000,2008-09,False,245854.9
+Aquaculture,South Australia,$’000,2009-10,False,193452.3
+Aquaculture,South Australia,$’000,2010-11,False,216707.6
+Aquaculture,South Australia,$’000,2011-12,False,228519.5
+Aquaculture,South Australia,$’000,2012-13,False,242740
+Aquaculture,South Australia,$’000,2013-14,False,181370
+Aquaculture,South Australia,$’000,2014-15,False,227480
+Aquaculture,South Australia,$’000,2015-16,False,251520
+Aquaculture,South Australia,$’000,2016-17,False,230540
+Aquaculture,South Australia,$’000,2017-18,False,205660
+Aquaculture,South Australia,$’000,2018-19,False,211703.4
+Aquaculture,South Australia,$’000,2019-20,False,228979.1
+Aquaculture,South Australia,$’000,2020-21,False,200090
+Aquaculture,South Australia,$’000,2021-22,False,237900
+Aquaculture,South Australia,$’000,2022-23,False,267050
+Aquaculture,South Australia,$’000,2023-24,False,212560
+Aquaculture,South Australia,$’000,2024-25,True,na
+Aquaculture,Western Australia,$’000,1998-99,False,186951
+Aquaculture,Western Australia,$’000,1999-00,False,195887
+Aquaculture,Western Australia,$’000,2000-01,False,156995
+Aquaculture,Western Australia,$’000,2001-02,False,180873
+Aquaculture,Western Australia,$’000,2002-03,False,130303
+Aquaculture,Western Australia,$’000,2003-04,False,129529
+Aquaculture,Western Australia,$’000,2004-05,False,128475
+Aquaculture,Western Australia,$’000,2005-06,False,127913
+Aquaculture,Western Australia,$’000,2006-07,False,129044.8
+Aquaculture,Western Australia,$’000,2007-08,False,123174
+Aquaculture,Western Australia,$’000,2008-09,False,101535
+Aquaculture,Western Australia,$’000,2009-10,False,96395.5
+Aquaculture,Western Australia,$’000,2010-11,False,112447.8
+Aquaculture,Western Australia,$’000,2011-12,False,109235.3
+Aquaculture,Western Australia,$’000,2012-13,False,96089.3
+Aquaculture,Western Australia,$’000,2013-14,False,73300
+Aquaculture,Western Australia,$’000,2014-15,False,81185.9
+Aquaculture,Western Australia,$’000,2015-16,False,89636.1
+Aquaculture,Western Australia,$’000,2016-17,False,90452.7
+Aquaculture,Western Australia,$’000,2017-18,False,79239.9
+Aquaculture,Western Australia,$’000,2018-19,False,91712.3
+Aquaculture,Western Australia,$’000,2019-20,False,85130.5
+Aquaculture,Western Australia,$’000,2020-21,False,82242
+Aquaculture,Western Australia,$’000,2021-22,False,111008
+Aquaculture,Western Australia,$’000,2022-23,False,72363
+Aquaculture,Western Australia,$’000,2023-24,False,123005
+Aquaculture,Western Australia,$’000,2024-25,True,na
+Aquaculture,Tasmania,$’000,1998-99,False,85128
+Aquaculture,Tasmania,$’000,1999-00,False,100358
+Aquaculture,Tasmania,$’000,2000-01,False,115011.8
+Aquaculture,Tasmania,$’000,2001-02,False,127799.7
+Aquaculture,Tasmania,$’000,2002-03,False,122744.2
+Aquaculture,Tasmania,$’000,2003-04,False,146447.4
+Aquaculture,Tasmania,$’000,2004-05,False,157346.1
+Aquaculture,Tasmania,$’000,2005-06,False,245195.8
+Aquaculture,Tasmania,$’000,2006-07,False,306390.2
+Aquaculture,Tasmania,$’000,2007-08,False,320923.5
+Aquaculture,Tasmania,$’000,2008-09,False,350690.8
+Aquaculture,Tasmania,$’000,2009-10,False,392892.6
+Aquaculture,Tasmania,$’000,2010-11,False,448739.8
+Aquaculture,Tasmania,$’000,2011-12,False,536965.1
+Aquaculture,Tasmania,$’000,2012-13,False,539920.1
+Aquaculture,Tasmania,$’000,2013-14,False,559051.9
+Aquaculture,Tasmania,$’000,2014-15,False,650342.9
+Aquaculture,Tasmania,$’000,2015-16,False,730722.7
+Aquaculture,Tasmania,$’000,2016-17,False,770948.5
+Aquaculture,Tasmania,$’000,2017-18,False,873545
+Aquaculture,Tasmania,$’000,2018-19,False,866067.4
+Aquaculture,Tasmania,$’000,2019-20,False,930725.5
+Aquaculture,Tasmania,$’000,2020-21,False,1060344.5
+Aquaculture,Tasmania,$’000,2021-22,False,1189632.6
+Aquaculture,Tasmania,$’000,2022-23,False,1419173
+Aquaculture,Tasmania,$’000,2023-24,False,1326996.3
+Aquaculture,Tasmania,$’000,2024-25,True,na
+Aquaculture,Northern Territory,$’000,1998-99,False,55000
+Aquaculture,Northern Territory,$’000,1999-00,False,55000
+Aquaculture,Northern Territory,$’000,2000-01,False,34500
+Aquaculture,Northern Territory,$’000,2001-02,False,4627
+Aquaculture,Northern Territory,$’000,2002-03,False,21900
+Aquaculture,Northern Territory,$’000,2003-04,False,27800
+Aquaculture,Northern Territory,$’000,2004-05,False,24800
+Aquaculture,Northern Territory,$’000,2005-06,False,26000
+Aquaculture,Northern Territory,$’000,2006-07,False,24600
+Aquaculture,Northern Territory,$’000,2007-08,False,22570
+Aquaculture,Northern Territory,$’000,2008-09,False,20900
+Aquaculture,Northern Territory,$’000,2009-10,False,25480
+Aquaculture,Northern Territory,$’000,2010-11,False,26980
+Aquaculture,Northern Territory,$’000,2011-12,False,17214
+Aquaculture,Northern Territory,$’000,2012-13,False,23900
+Aquaculture,Northern Territory,$’000,2013-14,False,15200
+Aquaculture,Northern Territory,$’000,2014-15,False,24100
+Aquaculture,Northern Territory,$’000,2015-16,False,24522
+Aquaculture,Northern Territory,$’000,2016-17,False,34447
+Aquaculture,Northern Territory,$’000,2017-18,False,25550.7
+Aquaculture,Northern Territory,$’000,2018-19,False,29965.6
+Aquaculture,Northern Territory,$’000,2019-20,False,48063.5
+Aquaculture,Northern Territory,$’000,2020-21,False,54340.3
+Aquaculture,Northern Territory,$’000,2021-22,False,62469.7
+Aquaculture,Northern Territory,$’000,2022-23,False,82312.1
+Aquaculture,Northern Territory,$’000,2023-24,False,76654.1
+Aquaculture,Northern Territory,$’000,2024-25,True,na
+Aquaculture,Total,$’000,1998-99,False,605405.7
+Aquaculture,Total,$’000,1999-00,False,684892
+Aquaculture,Total,$’000,2000-01,False,706750.4
+Aquaculture,Total,$’000,2001-02,False,731165.5
+Aquaculture,Total,$’000,2002-03,False,708865.8
+Aquaculture,Total,$’000,2003-04,False,724597.5
+Aquaculture,Total,$’000,2004-05,False,634082.5
+Aquaculture,Total,$’000,2005-06,False,742343.8
+Aquaculture,Total,$’000,2006-07,False,806014.7
+Aquaculture,Total,$’000,2007-08,False,869257.9
+Aquaculture,Total,$’000,2008-09,False,866712.4
+Aquaculture,Total,$’000,2009-10,False,877599.7
+Aquaculture,Total,$’000,2010-11,False,947667.5
+Aquaculture,Total,$’000,2011-12,False,1039284
+Aquaculture,Total,$’000,2012-13,False,1055753.9
+Aquaculture,Total,$’000,2013-14,False,996817.5
+Aquaculture,Total,$’000,2014-15,False,1181977
+Aquaculture,Total,$’000,2015-16,False,1301517.6
+Aquaculture,Total,$’000,2016-17,False,1346818.3
+Aquaculture,Total,$’000,2017-18,False,1417192.4
+Aquaculture,Total,$’000,2018-19,False,1449595
+Aquaculture,Total,$’000,2019-20,False,1586955.6
+Aquaculture,Total,$’000,2020-21,False,1725402
+Aquaculture,Total,$’000,2021-22,False,1968953
+Aquaculture,Total,$’000,2022-23,False,2263389.8
+Aquaculture,Total,$’000,2023-24,False,2159978.3
+Aquaculture,Total,$’000,2024-25,True,na
+Commonwealth fisheries,Northern Prawn,$’000,1998-99,False,111248
+Commonwealth fisheries,Northern Prawn,$’000,1999-00,False,107361.8
+Commonwealth fisheries,Northern Prawn,$’000,2000-01,False,164668
+Commonwealth fisheries,Northern Prawn,$’000,2001-02,False,134634.7
+Commonwealth fisheries,Northern Prawn,$’000,2002-03,False,82539.8
+Commonwealth fisheries,Northern Prawn,$’000,2003-04,False,73978.7
+Commonwealth fisheries,Northern Prawn,$’000,2004-05,False,64999.2
+Commonwealth fisheries,Northern Prawn,$’000,2005-06,False,72846.7
+Commonwealth fisheries,Northern Prawn,$’000,2006-07,False,63750.2
+Commonwealth fisheries,Northern Prawn,$’000,2007-08,False,74450.6
+Commonwealth fisheries,Northern Prawn,$’000,2008-09,False,73986.3
+Commonwealth fisheries,Northern Prawn,$’000,2009-10,False,88828.1
+Commonwealth fisheries,Northern Prawn,$’000,2010-11,False,94827.9
+Commonwealth fisheries,Northern Prawn,$’000,2011-12,False,64708.3
+Commonwealth fisheries,Northern Prawn,$’000,2012-13,False,71038.9
+Commonwealth fisheries,Northern Prawn,$’000,2013-14,False,115201.5
+Commonwealth fisheries,Northern Prawn,$’000,2014-15,False,106827.1
+Commonwealth fisheries,Northern Prawn,$’000,2015-16,False,124013.8
+Commonwealth fisheries,Northern Prawn,$’000,2016-17,False,118812
+Commonwealth fisheries,Northern Prawn,$’000,2017-18,False,98149.9
+Commonwealth fisheries,Northern Prawn,$’000,2018-19,False,117633.8
+Commonwealth fisheries,Northern Prawn,$’000,2019-20,False,84843.8
+Commonwealth fisheries,Northern Prawn,$’000,2020-21,False,76626.3
+Commonwealth fisheries,Northern Prawn,$’000,2021-22,False,91749.3
+Commonwealth fisheries,Northern Prawn,$’000,2022-23,False,112360.1
+Commonwealth fisheries,Northern Prawn,$’000,2023-24,False,77649.2
+Commonwealth fisheries,Northern Prawn,$’000,2024-25,True,58339.84
+Commonwealth fisheries,Torres Strait,$’000,1998-99,False,36194.6
+Commonwealth fisheries,Torres Strait,$’000,1999-00,False,34466
+Commonwealth fisheries,Torres Strait,$’000,2000-01,False,36504
+Commonwealth fisheries,Torres Strait,$’000,2001-02,False,34202.9
+Commonwealth fisheries,Torres Strait,$’000,2002-03,False,36666.4
+Commonwealth fisheries,Torres Strait,$’000,2003-04,False,32985.5
+Commonwealth fisheries,Torres Strait,$’000,2004-05,False,34702.3
+Commonwealth fisheries,Torres Strait,$’000,2005-06,False,27844.2
+Commonwealth fisheries,Torres Strait,$’000,2006-07,False,24658.8
+Commonwealth fisheries,Torres Strait,$’000,2007-08,False,21256.1
+Commonwealth fisheries,Torres Strait,$’000,2008-09,False,15442.9
+Commonwealth fisheries,Torres Strait,$’000,2009-10,False,14527.5
+Commonwealth fisheries,Torres Strait,$’000,2010-11,False,33932
+Commonwealth fisheries,Torres Strait,$’000,2011-12,False,23914.4
+Commonwealth fisheries,Torres Strait,$’000,2012-13,False,25056.5
+Commonwealth fisheries,Torres Strait,$’000,2013-14,False,30460.3
+Commonwealth fisheries,Torres Strait,$’000,2014-15,False,25108.5
+Commonwealth fisheries,Torres Strait,$’000,2015-16,False,24354.5
+Commonwealth fisheries,Torres Strait,$’000,2016-17,False,18069.7
+Commonwealth fisheries,Torres Strait,$’000,2017-18,False,20631.6
+Commonwealth fisheries,Torres Strait,$’000,2018-19,False,31807.7
+Commonwealth fisheries,Torres Strait,$’000,2019-20,False,18544.5
+Commonwealth fisheries,Torres Strait,$’000,2020-21,False,19816.6
+Commonwealth fisheries,Torres Strait,$’000,2021-22,False,23161.3
+Commonwealth fisheries,Torres Strait,$’000,2022-23,False,17447.3
+Commonwealth fisheries,Torres Strait,$’000,2023-24,False,12811.4
+Commonwealth fisheries,Torres Strait,$’000,2024-25,True,18197.84
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,1998-99,False,59331.2
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,1999-00,False,72057.2
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2000-01,False,63812.3
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2001-02,False,70047
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2002-03,False,65732.5
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2003-04,False,54547.2
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2004-05,False,58925.9
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2005-06,False,43627.3
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2006-07,False,54539.3
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2007-08,False,46398
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2008-09,False,55940.3
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2009-10,False,55673.1
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2010-11,False,48578.8
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2011-12,False,50644
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2012-13,False,56344.7
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2013-14,False,40133.2
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2014-15,False,38357.4
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2015-16,False,42913.4
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2016-17,False,47096
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2017-18,False,43961.9
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2018-19,False,48888.1
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2019-20,False,51601.3
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2020-21,False,70277.9
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2021-22,False,84735.2
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2022-23,False,59948.5
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2023-24,False,55613.2
+Commonwealth fisheries,SESSF Commonwealth Trawl Sector,$’000,2024-25,True,74962.31
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,1998-99,False,na
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,1999-00,False,na
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2000-01,False,na
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2001-02,False,na
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2002-03,False,21593.6
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2003-04,False,23498.8
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2004-05,False,24591
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2005-06,False,21540.4
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2006-07,False,23784
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2007-08,False,27543.5
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2008-09,False,30569.7
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2009-10,False,24550.1
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2010-11,False,23829.5
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2011-12,False,20860.2
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2012-13,False,22022.9
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2013-14,False,20396.7
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2014-15,False,20914.8
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2015-16,False,22378.5
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2016-17,False,25286
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2017-18,False,23301.2
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2018-19,False,29431
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2019-20,False,23898.7
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2020-21,False,28766.4
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2021-22,False,25254.6
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2022-23,False,29851.6
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2023-24,False,33391.9
+Commonwealth fisheries,"SESSF Gillnet, Hook and Trap Sector",$’000,2024-25,True,27621.13
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,1998-99,False,6361.1
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,1999-00,False,6846
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2000-01,False,5754.1
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2001-02,False,6353.4
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2002-03,False,8575.2
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2003-04,False,14304
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2004-05,False,16653.7
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2005-06,False,15504.7
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2006-07,False,17991.2
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2007-08,False,12781
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2008-09,False,8976.8
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2009-10,False,11692.4
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2010-11,False,11074.3
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2011-12,False,11638.9
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2012-13,False,11995.7
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2013-14,False,11216.4
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2014-15,False,8473.9
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2015-16,False,7694.2
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2016-17,False,10040.4
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2017-18,False,9158.7
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2018-19,False,8475.9
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2019-20,False,10758.9
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2020-21,False,10635.3
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2021-22,False,9452
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2022-23,False,8779
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2023-24,False,9404.6
+Commonwealth fisheries,SESSF Great Australian Bight Trawl Sector,$’000,2024-25,True,11412
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,1998-99,False,51601.7
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,1999-00,False,49877.7
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2000-01,False,62694.9
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2001-02,False,78942.5
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2002-03,False,67912.5
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2003-04,False,46830.9
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2004-05,False,42470.6
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2005-06,False,28704
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2006-07,False,32601.4
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2007-08,False,31960.2
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2008-09,False,38895.1
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2009-10,False,30139.5
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2010-11,False,30917
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2011-12,False,28034.6
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2012-13,False,24841.5
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2013-14,False,31215.8
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2014-15,False,34974.8
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2015-16,False,48754.7
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2016-17,False,35673.7
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2017-18,False,38401.5
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2018-19,False,32078.1
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2019-20,False,39789.7
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2020-21,False,35647.1
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2021-22,False,34684.7
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2022-23,False,40147.6
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2023-24,False,38605.6
+Commonwealth fisheries,Eastern Tuna and Billfish,$’000,2024-25,True,43083.74
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,1998-99,False,56874
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,1999-00,False,56516.9
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2000-01,False,62134.1
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2001-02,False,72432
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2002-03,False,77840
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2003-04,False,38155.7
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2004-05,False,43807.2
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2005-06,False,37524.8
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2006-07,False,40975.4
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2007-08,False,44567.6
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2008-09,False,45341.4
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2009-10,False,24220.5
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2010-11,False,30551.4
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2011-12,False,40603.3
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2012-13,False,38365.7
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2013-14,False,39476.7
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2014-15,False,36807.4
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2015-16,False,35874.8
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2016-17,False,38544
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2017-18,False,39734.9
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2018-19,False,43424.7
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2019-20,False,41268
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2020-21,False,35489.6
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2021-22,False,35447
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2022-23,False,32571
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2023-24,False,46871.7
+Commonwealth fisheries,Southern Bluefin Tuna,$’000,2024-25,True,39382.95
+Commonwealth fisheries,Western Tuna and Billfish,$’000,1998-99,False,9968
+Commonwealth fisheries,Western Tuna and Billfish,$’000,1999-00,False,29061.1
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2000-01,False,32729.1
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2001-02,False,31826
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2002-03,False,19997.8
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2003-04,False,8200.7
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2004-05,False,3584.1
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2005-06,False,2749.4
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2006-07,False,2199.7
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2007-08,False,1655.7
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2008-09,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2009-10,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2010-11,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2011-12,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2012-13,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2013-14,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2014-15,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2015-16,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2016-17,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2017-18,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2018-19,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2019-20,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2020-21,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2021-22,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2022-23,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2023-24,False,np
+Commonwealth fisheries,Western Tuna and Billfish,$’000,2024-25,True,np
+Commonwealth fisheries,Bass Strait Scallop,$’000,1998-99,False,1725.6
+Commonwealth fisheries,Bass Strait Scallop,$’000,1999-00,False,na
+Commonwealth fisheries,Bass Strait Scallop,$’000,2000-01,False,na
+Commonwealth fisheries,Bass Strait Scallop,$’000,2001-02,False,na
+Commonwealth fisheries,Bass Strait Scallop,$’000,2002-03,False,694.3
+Commonwealth fisheries,Bass Strait Scallop,$’000,2003-04,False,1474.5
+Commonwealth fisheries,Bass Strait Scallop,$’000,2004-05,False,386.8
+Commonwealth fisheries,Bass Strait Scallop,$’000,2005-06,False,191.4
+Commonwealth fisheries,Bass Strait Scallop,$’000,2006-07,False,na
+Commonwealth fisheries,Bass Strait Scallop,$’000,2007-08,False,na
+Commonwealth fisheries,Bass Strait Scallop,$’000,2008-09,False,1163.3
+Commonwealth fisheries,Bass Strait Scallop,$’000,2009-10,False,3743.6
+Commonwealth fisheries,Bass Strait Scallop,$’000,2010-11,False,2945.9
+Commonwealth fisheries,Bass Strait Scallop,$’000,2011-12,False,1026.8
+Commonwealth fisheries,Bass Strait Scallop,$’000,2012-13,False,502.2
+Commonwealth fisheries,Bass Strait Scallop,$’000,2013-14,False,546.2
+Commonwealth fisheries,Bass Strait Scallop,$’000,2014-15,False,2761.5
+Commonwealth fisheries,Bass Strait Scallop,$’000,2015-16,False,4610.1
+Commonwealth fisheries,Bass Strait Scallop,$’000,2016-17,False,5998.5
+Commonwealth fisheries,Bass Strait Scallop,$’000,2017-18,False,6715.1
+Commonwealth fisheries,Bass Strait Scallop,$’000,2018-19,False,6334.4
+Commonwealth fisheries,Bass Strait Scallop,$’000,2019-20,False,5340.3
+Commonwealth fisheries,Bass Strait Scallop,$’000,2020-21,False,4688.7
+Commonwealth fisheries,Bass Strait Scallop,$’000,2021-22,False,4437.9
+Commonwealth fisheries,Bass Strait Scallop,$’000,2022-23,False,1257.3
+Commonwealth fisheries,Bass Strait Scallop,$’000,2023-24,False,4046.1
+Commonwealth fisheries,Bass Strait Scallop,$’000,2024-25,True,2746.23
+Commonwealth fisheries,Southern Squid Jig,$’000,1998-99,False,1957.2
+Commonwealth fisheries,Southern Squid Jig,$’000,1999-00,False,443.5
+Commonwealth fisheries,Southern Squid Jig,$’000,2000-01,False,2858.1
+Commonwealth fisheries,Southern Squid Jig,$’000,2001-02,False,735.7
+Commonwealth fisheries,Southern Squid Jig,$’000,2002-03,False,1158.3
+Commonwealth fisheries,Southern Squid Jig,$’000,2003-04,False,1889.4
+Commonwealth fisheries,Southern Squid Jig,$’000,2004-05,False,1907.4
+Commonwealth fisheries,Southern Squid Jig,$’000,2005-06,False,886.9
+Commonwealth fisheries,Southern Squid Jig,$’000,2006-07,False,1042.1
+Commonwealth fisheries,Southern Squid Jig,$’000,2007-08,False,232
+Commonwealth fisheries,Southern Squid Jig,$’000,2008-09,False,461.4
+Commonwealth fisheries,Southern Squid Jig,$’000,2009-10,False,92.9
+Commonwealth fisheries,Southern Squid Jig,$’000,2010-11,False,1656.8
+Commonwealth fisheries,Southern Squid Jig,$’000,2011-12,False,2075
+Commonwealth fisheries,Southern Squid Jig,$’000,2012-13,False,241.6
+Commonwealth fisheries,Southern Squid Jig,$’000,2013-14,False,np
+Commonwealth fisheries,Southern Squid Jig,$’000,2014-15,False,890.5
+Commonwealth fisheries,Southern Squid Jig,$’000,2015-16,False,1034.9
+Commonwealth fisheries,Southern Squid Jig,$’000,2016-17,False,572.1
+Commonwealth fisheries,Southern Squid Jig,$’000,2017-18,False,2699
+Commonwealth fisheries,Southern Squid Jig,$’000,2018-19,False,1002.2
+Commonwealth fisheries,Southern Squid Jig,$’000,2019-20,False,349.6
+Commonwealth fisheries,Southern Squid Jig,$’000,2020-21,False,1607.3
+Commonwealth fisheries,Southern Squid Jig,$’000,2021-22,False,620.8
+Commonwealth fisheries,Southern Squid Jig,$’000,2022-23,False,2728.5
+Commonwealth fisheries,Southern Squid Jig,$’000,2023-24,False,3630.7
+Commonwealth fisheries,Southern Squid Jig,$’000,2024-25,True,3137.5
+Commonwealth fisheries,Southern Shark,$’000,1998-99,False,15534.2
+Commonwealth fisheries,Southern Shark,$’000,1999-00,False,9521.1
+Commonwealth fisheries,Southern Shark,$’000,2000-01,False,13343.6
+Commonwealth fisheries,Southern Shark,$’000,2001-02,False,15297.7
+Commonwealth fisheries,Southern Shark,$’000,2002-03,False,na
+Commonwealth fisheries,Southern Shark,$’000,2003-04,False,na
+Commonwealth fisheries,Southern Shark,$’000,2004-05,False,na
+Commonwealth fisheries,Southern Shark,$’000,2005-06,False,na
+Commonwealth fisheries,Southern Shark,$’000,2006-07,False,na
+Commonwealth fisheries,Southern Shark,$’000,2007-08,False,na
+Commonwealth fisheries,Southern Shark,$’000,2008-09,False,na
+Commonwealth fisheries,Southern Shark,$’000,2009-10,False,na
+Commonwealth fisheries,Southern Shark,$’000,2010-11,False,na
+Commonwealth fisheries,Southern Shark,$’000,2011-12,False,na
+Commonwealth fisheries,Southern Shark,$’000,2012-13,False,na
+Commonwealth fisheries,Southern Shark,$’000,2013-14,False,na
+Commonwealth fisheries,Southern Shark,$’000,2014-15,False,na
+Commonwealth fisheries,Southern Shark,$’000,2015-16,False,na
+Commonwealth fisheries,Southern Shark,$’000,2016-17,False,na
+Commonwealth fisheries,Southern Shark,$’000,2017-18,False,na
+Commonwealth fisheries,Southern Shark,$’000,2018-19,False,na
+Commonwealth fisheries,Southern Shark,$’000,2019-20,False,na
+Commonwealth fisheries,Southern Shark,$’000,2020-21,False,na
+Commonwealth fisheries,Southern Shark,$’000,2021-22,False,na
+Commonwealth fisheries,Southern Shark,$’000,2022-23,False,na
+Commonwealth fisheries,Southern Shark,$’000,2023-24,False,na
+Commonwealth fisheries,Southern Shark,$’000,2024-25,True,na
+Commonwealth fisheries,South East Non-trawl,$’000,1998-99,False,4018.2
+Commonwealth fisheries,South East Non-trawl,$’000,1999-00,False,5591.4
+Commonwealth fisheries,South East Non-trawl,$’000,2000-01,False,5775.8
+Commonwealth fisheries,South East Non-trawl,$’000,2001-02,False,5619
+Commonwealth fisheries,South East Non-trawl,$’000,2002-03,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2003-04,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2004-05,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2005-06,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2006-07,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2007-08,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2008-09,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2009-10,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2010-11,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2011-12,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2012-13,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2013-14,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2014-15,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2015-16,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2016-17,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2017-18,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2018-19,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2019-20,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2020-21,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2021-22,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2022-23,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2023-24,False,na
+Commonwealth fisheries,South East Non-trawl,$’000,2024-25,True,na
+Commonwealth fisheries,Other fisheries,$’000,1998-99,False,53262.2
+Commonwealth fisheries,Other fisheries,$’000,1999-00,False,29918.4
+Commonwealth fisheries,Other fisheries,$’000,2000-01,False,26473.6
+Commonwealth fisheries,Other fisheries,$’000,2001-02,False,31019.2
+Commonwealth fisheries,Other fisheries,$’000,2002-03,False,32137.1
+Commonwealth fisheries,Other fisheries,$’000,2003-04,False,46084.9
+Commonwealth fisheries,Other fisheries,$’000,2004-05,False,37941.6
+Commonwealth fisheries,Other fisheries,$’000,2005-06,False,26604.9
+Commonwealth fisheries,Other fisheries,$’000,2006-07,False,32648.4
+Commonwealth fisheries,Other fisheries,$’000,2007-08,False,28087.6
+Commonwealth fisheries,Other fisheries,$’000,2008-09,False,43915.5
+Commonwealth fisheries,Other fisheries,$’000,2009-10,False,52526.8
+Commonwealth fisheries,Other fisheries,$’000,2010-11,False,42497.1
+Commonwealth fisheries,Other fisheries,$’000,2011-12,False,64738.7
+Commonwealth fisheries,Other fisheries,$’000,2012-13,False,67404.1
+Commonwealth fisheries,Other fisheries,$’000,2013-14,False,51806.3
+Commonwealth fisheries,Other fisheries,$’000,2014-15,False,75160
+Commonwealth fisheries,Other fisheries,$’000,2015-16,False,127200.6
+Commonwealth fisheries,Other fisheries,$’000,2016-17,False,103258.2
+Commonwealth fisheries,Other fisheries,$’000,2017-18,False,107324.5
+Commonwealth fisheries,Other fisheries,$’000,2018-19,False,117893.4
+Commonwealth fisheries,Other fisheries,$’000,2019-20,False,161984.2
+Commonwealth fisheries,Other fisheries,$’000,2020-21,False,90069.4
+Commonwealth fisheries,Other fisheries,$’000,2021-22,False,127468.7
+Commonwealth fisheries,Other fisheries,$’000,2022-23,False,106690.7
+Commonwealth fisheries,Other fisheries,$’000,2023-24,False,120708.4
+Commonwealth fisheries,Other fisheries,$’000,2024-25,True,120437.6
+Commonwealth fisheries,Total,$’000,1998-99,False,408075.9
+Commonwealth fisheries,Total,$’000,1999-00,False,401661.1
+Commonwealth fisheries,Total,$’000,2000-01,False,476747.6
+Commonwealth fisheries,Total,$’000,2001-02,False,481110
+Commonwealth fisheries,Total,$’000,2002-03,False,414847.4
+Commonwealth fisheries,Total,$’000,2003-04,False,341950.2
+Commonwealth fisheries,Total,$’000,2004-05,False,329969.8
+Commonwealth fisheries,Total,$’000,2005-06,False,278024.6
+Commonwealth fisheries,Total,$’000,2006-07,False,294190.4
+Commonwealth fisheries,Total,$’000,2007-08,False,288932.3
+Commonwealth fisheries,Total,$’000,2008-09,False,314692.7
+Commonwealth fisheries,Total,$’000,2009-10,False,305994.5
+Commonwealth fisheries,Total,$’000,2010-11,False,320810.7
+Commonwealth fisheries,Total,$’000,2011-12,False,308244.1
+Commonwealth fisheries,Total,$’000,2012-13,False,317813.8
+Commonwealth fisheries,Total,$’000,2013-14,False,340453.1
+Commonwealth fisheries,Total,$’000,2014-15,False,350275.8
+Commonwealth fisheries,Total,$’000,2015-16,False,438829.5
+Commonwealth fisheries,Total,$’000,2016-17,False,403350.4
+Commonwealth fisheries,Total,$’000,2017-18,False,390078.3
+Commonwealth fisheries,Total,$’000,2018-19,False,436969.3
+Commonwealth fisheries,Total,$’000,2019-20,False,438378.9
+Commonwealth fisheries,Total,$’000,2020-21,False,373624.6
+Commonwealth fisheries,Total,$’000,2021-22,False,437011.5
+Commonwealth fisheries,Total,$’000,2022-23,False,411781.6
+Commonwealth fisheries,Total,$’000,2023-24,False,402732.8
+Commonwealth fisheries,Total,$’000,2024-25,True,399321.13
+Commonwealth fisheries,Total value,$’000,1998-99,False,2109210.2
+Commonwealth fisheries,Total value,$’000,1999-00,False,2367426.6
+Commonwealth fisheries,Total value,$’000,2000-01,False,2464479.9
+Commonwealth fisheries,Total value,$’000,2001-02,False,2444875.2
+Commonwealth fisheries,Total value,$’000,2002-03,False,2287502.4
+Commonwealth fisheries,Total value,$’000,2003-04,False,2187595.9
+Commonwealth fisheries,Total value,$’000,2004-05,False,2085582.1
+Commonwealth fisheries,Total value,$’000,2005-06,False,2167135.8
+Commonwealth fisheries,Total value,$’000,2006-07,False,2216710.5
+Commonwealth fisheries,Total value,$’000,2007-08,False,2207100.6
+Commonwealth fisheries,Total value,$’000,2008-09,False,2214273
+Commonwealth fisheries,Total value,$’000,2009-10,False,2192253.2
+Commonwealth fisheries,Total value,$’000,2010-11,False,2240650.4
+Commonwealth fisheries,Total value,$’000,2011-12,False,2304970.9
+Commonwealth fisheries,Total value,$’000,2012-13,False,2386168.9
+Commonwealth fisheries,Total value,$’000,2013-14,False,2473090
+Commonwealth fisheries,Total value,$’000,2014-15,False,2764205.8
+Commonwealth fisheries,Total value,$’000,2015-16,False,3020401.7
+Commonwealth fisheries,Total value,$’000,2016-17,False,3057582.5
+Commonwealth fisheries,Total value,$’000,2017-18,False,3177773.4
+Commonwealth fisheries,Total value,$’000,2018-19,False,3210125.1
+Commonwealth fisheries,Total value,$’000,2019-20,False,3133595.1
+Commonwealth fisheries,Total value,$’000,2020-21,False,3174525.1
+Commonwealth fisheries,Total value,$’000,2021-22,False,3450102.8
+Commonwealth fisheries,Total value,$’000,2022-23,False,3826939.4
+Commonwealth fisheries,Total value,$’000,2023-24,False,3701835.4
+Commonwealth fisheries,Total value,$’000,2024-25,True,na
