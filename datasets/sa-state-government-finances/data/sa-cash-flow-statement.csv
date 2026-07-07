@@ -1,0 +1,121 @@
+row_order,line_item,is_total_row,year,value_million_aud
+1,Cash receipts from operating activities,False,2015-16,17347
+1,Cash receipts from operating activities,False,2016-17,18507
+1,Cash receipts from operating activities,False,2017-18,19649
+1,Cash receipts from operating activities,False,2018-19,20514
+1,Cash receipts from operating activities,False,2019-20,19172
+1,Cash receipts from operating activities,False,2020-21,19610
+1,Cash receipts from operating activities,False,2021-22,22917
+1,Cash receipts from operating activities,False,2022-23,24020
+1,Cash receipts from operating activities,False,2023-24,26150
+1,Cash receipts from operating activities,False,2024-25,28761
+2,Cash payments from operating activities,False,2015-16,-16203
+2,Cash payments from operating activities,False,2016-17,-17247
+2,Cash payments from operating activities,False,2017-18,-18703
+2,Cash payments from operating activities,False,2018-19,-19188
+2,Cash payments from operating activities,False,2019-20,-20062
+2,Cash payments from operating activities,False,2020-21,-20521
+2,Cash payments from operating activities,False,2021-22,-22823
+2,Cash payments from operating activities,False,2022-23,-22178
+2,Cash payments from operating activities,False,2023-24,-24125
+2,Cash payments from operating activities,False,2024-25,-26878
+3,Total net cash flows from operating activities,True,2015-16,1145
+3,Total net cash flows from operating activities,True,2016-17,1260
+3,Total net cash flows from operating activities,True,2017-18,946
+3,Total net cash flows from operating activities,True,2018-19,1326
+3,Total net cash flows from operating activities,True,2019-20,-890
+3,Total net cash flows from operating activities,True,2020-21,-911
+3,Total net cash flows from operating activities,True,2021-22,94
+3,Total net cash flows from operating activities,True,2022-23,1843
+3,Total net cash flows from operating activities,True,2023-24,2025
+3,Total net cash flows from operating activities,True,2024-25,1883
+4,Total net cash flows from transactions in non-financial assets,True,2015-16,-1078
+4,Total net cash flows from transactions in non-financial assets,True,2016-17,-923
+4,Total net cash flows from transactions in non-financial assets,True,2017-18,-1703
+4,Total net cash flows from transactions in non-financial assets,True,2018-19,-1672
+4,Total net cash flows from transactions in non-financial assets,True,2019-20,-2026
+4,Total net cash flows from transactions in non-financial assets,True,2020-21,-2191
+4,Total net cash flows from transactions in non-financial assets,True,2021-22,-2578
+4,Total net cash flows from transactions in non-financial assets,True,2022-23,-2733
+4,Total net cash flows from transactions in non-financial assets,True,2023-24,-3019
+4,Total net cash flows from transactions in non-financial assets,True,2024-25,-3595
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2015-16,66
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2016-17,337
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2017-18,-757
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2018-19,-346
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2019-20,-2916
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2020-21,-3102
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2021-22,-2485
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2022-23,-890
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2023-24,-994
+5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2024-25,-1713
+6,Total net cash flows from investments in financial assets for policy purposes,True,2015-16,-108
+6,Total net cash flows from investments in financial assets for policy purposes,True,2016-17,592
+6,Total net cash flows from investments in financial assets for policy purposes,True,2017-18,1440
+6,Total net cash flows from investments in financial assets for policy purposes,True,2018-19,-196
+6,Total net cash flows from investments in financial assets for policy purposes,True,2019-20,-410
+6,Total net cash flows from investments in financial assets for policy purposes,True,2020-21,-211
+6,Total net cash flows from investments in financial assets for policy purposes,True,2021-22,-235
+6,Total net cash flows from investments in financial assets for policy purposes,True,2022-23,-214
+6,Total net cash flows from investments in financial assets for policy purposes,True,2023-24,-428
+6,Total net cash flows from investments in financial assets for policy purposes,True,2024-25,-313
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2015-16,-34
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2016-17,-46
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2017-18,-16
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2018-19,-17
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2019-20,-4
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2020-21,0
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2021-22,-5
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2022-23,-41
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2023-24,-19
+7,Total net cash flows from investments in financial assets for liquidity purposes,True,2024-25,-382
+8,Total net cash flows from financing activities,True,2015-16,54
+8,Total net cash flows from financing activities,True,2016-17,-703
+8,Total net cash flows from financing activities,True,2017-18,-428
+8,Total net cash flows from financing activities,True,2018-19,1167
+8,Total net cash flows from financing activities,True,2019-20,2755
+8,Total net cash flows from financing activities,True,2020-21,3250
+8,Total net cash flows from financing activities,True,2021-22,2473
+8,Total net cash flows from financing activities,True,2022-23,1594
+8,Total net cash flows from financing activities,True,2023-24,1470
+8,Total net cash flows from financing activities,True,2024-25,2227
+9,NET CHANGE IN THE STOCK OF CASH,True,2015-16,-22
+9,NET CHANGE IN THE STOCK OF CASH,True,2016-17,180
+9,NET CHANGE IN THE STOCK OF CASH,True,2017-18,240
+9,NET CHANGE IN THE STOCK OF CASH,True,2018-19,608
+9,NET CHANGE IN THE STOCK OF CASH,True,2019-20,-575
+9,NET CHANGE IN THE STOCK OF CASH,True,2020-21,-62
+9,NET CHANGE IN THE STOCK OF CASH,True,2021-22,-251
+9,NET CHANGE IN THE STOCK OF CASH,True,2022-23,449
+9,NET CHANGE IN THE STOCK OF CASH,True,2023-24,29
+9,NET CHANGE IN THE STOCK OF CASH,True,2024-25,-181
+10,GFS Cash Surplus (+) / Deficit (-),True,2015-16,66
+10,GFS Cash Surplus (+) / Deficit (-),True,2016-17,337
+10,GFS Cash Surplus (+) / Deficit (-),True,2017-18,-757
+10,GFS Cash Surplus (+) / Deficit (-),True,2018-19,-346
+10,GFS Cash Surplus (+) / Deficit (-),True,2019-20,-2916
+10,GFS Cash Surplus (+) / Deficit (-),True,2020-21,-3102
+10,GFS Cash Surplus (+) / Deficit (-),True,2021-22,-2485
+10,GFS Cash Surplus (+) / Deficit (-),True,2022-23,-890
+10,GFS Cash Surplus (+) / Deficit (-),True,2023-24,-994
+10,GFS Cash Surplus (+) / Deficit (-),True,2024-25,-1713
+11,Acquisitions of non-financial assets under new finance leases,False,2015-16,26
+11,Acquisitions of non-financial assets under new finance leases,False,2016-17,-2722
+11,Acquisitions of non-financial assets under new finance leases,False,2017-18,0
+11,Acquisitions of non-financial assets under new finance leases,False,2018-19,-1
+11,Acquisitions of non-financial assets under new finance leases,False,2019-20,0
+11,Acquisitions of non-financial assets under new finance leases,False,2020-21,0
+11,Acquisitions of non-financial assets under new finance leases,False,2021-22,0
+11,Acquisitions of non-financial assets under new finance leases,False,2022-23,0
+11,Acquisitions of non-financial assets under new finance leases,False,2023-24,0
+11,Acquisitions of non-financial assets under new finance leases,False,2024-25,0
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2015-16,93
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2016-17,-2385
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2017-18,-757
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2018-19,-347
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2019-20,-2916
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2020-21,-3102
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2021-22,-2485
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2022-23,-890
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2023-24,-994
+12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2024-25,-1713

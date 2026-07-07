@@ -1,0 +1,231 @@
+row_order,line_item,is_total_row,year,value_million_aud
+1,Buildings and structures,False,2015-16,30626
+1,Buildings and structures,False,2016-17,33871
+1,Buildings and structures,False,2017-18,35166
+1,Buildings and structures,False,2018-19,36044
+1,Buildings and structures,False,2019-20,40303
+1,Buildings and structures,False,2020-21,45117
+1,Buildings and structures,False,2021-22,51638
+1,Buildings and structures,False,2022-23,47480
+1,Buildings and structures,False,2023-24,51607
+1,Buildings and structures,False,2024-25,56163
+2,Machinery and equipment,False,2015-16,1448
+2,Machinery and equipment,False,2016-17,1778
+2,Machinery and equipment,False,2017-18,1814
+2,Machinery and equipment,False,2018-19,1993
+2,Machinery and equipment,False,2019-20,1519
+2,Machinery and equipment,False,2020-21,1768
+2,Machinery and equipment,False,2021-22,1598
+2,Machinery and equipment,False,2022-23,1675
+2,Machinery and equipment,False,2023-24,1804
+2,Machinery and equipment,False,2024-25,1883
+3,Other fixed produced assets,False,2015-16,150
+3,Other fixed produced assets,False,2016-17,155
+3,Other fixed produced assets,False,2017-18,123
+3,Other fixed produced assets,False,2018-19,139
+3,Other fixed produced assets,False,2019-20,115
+3,Other fixed produced assets,False,2020-21,120
+3,Other fixed produced assets,False,2021-22,145
+3,Other fixed produced assets,False,2022-23,98
+3,Other fixed produced assets,False,2023-24,151
+3,Other fixed produced assets,False,2024-25,159
+4,Other produced assets,False,2015-16,1339
+4,Other produced assets,False,2016-17,1344
+4,Other produced assets,False,2017-18,1351
+4,Other produced assets,False,2018-19,1361
+4,Other produced assets,False,2019-20,1394
+4,Other produced assets,False,2020-21,1721
+4,Other produced assets,False,2021-22,1895
+4,Other produced assets,False,2022-23,1913
+4,Other produced assets,False,2023-24,1876
+4,Other produced assets,False,2024-25,1903
+5,Land,False,2015-16,6806
+5,Land,False,2016-17,6933
+5,Land,False,2017-18,7172
+5,Land,False,2018-19,7566
+5,Land,False,2019-20,7937
+5,Land,False,2020-21,8182
+5,Land,False,2021-22,8879
+5,Land,False,2022-23,10703
+5,Land,False,2023-24,12198
+5,Land,False,2024-25,13821
+6,Other non-produced assets,False,2015-16,281
+6,Other non-produced assets,False,2016-17,322
+6,Other non-produced assets,False,2017-18,346
+6,Other non-produced assets,False,2018-19,318
+6,Other non-produced assets,False,2019-20,318
+6,Other non-produced assets,False,2020-21,288
+6,Other non-produced assets,False,2021-22,372
+6,Other non-produced assets,False,2022-23,379
+6,Other non-produced assets,False,2023-24,365
+6,Other non-produced assets,False,2024-25,351
+7,Total non-financial assets,True,2015-16,40650
+7,Total non-financial assets,True,2016-17,44403
+7,Total non-financial assets,True,2017-18,45972
+7,Total non-financial assets,True,2018-19,47420
+7,Total non-financial assets,True,2019-20,51585
+7,Total non-financial assets,True,2020-21,57196
+7,Total non-financial assets,True,2021-22,64527
+7,Total non-financial assets,True,2022-23,62248
+7,Total non-financial assets,True,2023-24,68000
+7,Total non-financial assets,True,2024-25,74280
+8,Currency and deposits,False,2015-16,1088
+8,Currency and deposits,False,2016-17,1268
+8,Currency and deposits,False,2017-18,1508
+8,Currency and deposits,False,2018-19,2116
+8,Currency and deposits,False,2019-20,1540
+8,Currency and deposits,False,2020-21,1478
+8,Currency and deposits,False,2021-22,1227
+8,Currency and deposits,False,2022-23,1676
+8,Currency and deposits,False,2023-24,1705
+8,Currency and deposits,False,2024-25,1524
+9,Advances,False,2015-16,57
+9,Advances,False,2016-17,63
+9,Advances,False,2017-18,69
+9,Advances,False,2018-19,141
+9,Advances,False,2019-20,177
+9,Advances,False,2020-21,173
+9,Advances,False,2021-22,134
+9,Advances,False,2022-23,158
+9,Advances,False,2023-24,168
+9,Advances,False,2024-25,139
+10,Other loans and placements,False,2015-16,125
+10,Other loans and placements,False,2016-17,158
+10,Other loans and placements,False,2017-18,173
+10,Other loans and placements,False,2018-19,188
+10,Other loans and placements,False,2019-20,196
+10,Other loans and placements,False,2020-21,194
+10,Other loans and placements,False,2021-22,205
+10,Other loans and placements,False,2022-23,243
+10,Other loans and placements,False,2023-24,234
+10,Other loans and placements,False,2024-25,244
+11,Equity including contributed capital,False,2015-16,19229
+11,Equity including contributed capital,False,2016-17,19675
+11,Equity including contributed capital,False,2017-18,19941
+11,Equity including contributed capital,False,2018-19,20559
+11,Equity including contributed capital,False,2019-20,19581
+11,Equity including contributed capital,False,2020-21,19434
+11,Equity including contributed capital,False,2021-22,19073
+11,Equity including contributed capital,False,2022-23,19317
+11,Equity including contributed capital,False,2023-24,30004
+11,Equity including contributed capital,False,2024-25,22461
+12,Other financial assets,False,2015-16,1160
+12,Other financial assets,False,2016-17,1090
+12,Other financial assets,False,2017-18,939
+12,Other financial assets,False,2018-19,1077
+12,Other financial assets,False,2019-20,1486
+12,Other financial assets,False,2020-21,1824
+12,Other financial assets,False,2021-22,2171
+12,Other financial assets,False,2022-23,2066
+12,Other financial assets,False,2023-24,2072
+12,Other financial assets,False,2024-25,2714
+13,Total financial assets,True,2015-16,21660
+13,Total financial assets,True,2016-17,22255
+13,Total financial assets,True,2017-18,22630
+13,Total financial assets,True,2018-19,24080
+13,Total financial assets,True,2019-20,22980
+13,Total financial assets,True,2020-21,23103
+13,Total financial assets,True,2021-22,22809
+13,Total financial assets,True,2022-23,23460
+13,Total financial assets,True,2023-24,34183
+13,Total financial assets,True,2024-25,27082
+14,Total Assets,True,2015-16,62309
+14,Total Assets,True,2016-17,66658
+14,Total Assets,True,2017-18,68602
+14,Total Assets,True,2018-19,71500
+14,Total Assets,True,2019-20,74565
+14,Total Assets,True,2020-21,80299
+14,Total Assets,True,2021-22,87337
+14,Total Assets,True,2022-23,85709
+14,Total Assets,True,2023-24,102183
+14,Total Assets,True,2024-25,101362
+15,Currency and deposits,False,2015-16,478
+15,Currency and deposits,False,2016-17,275
+15,Currency and deposits,False,2017-18,399
+15,Currency and deposits,False,2018-19,1438
+15,Currency and deposits,False,2019-20,345
+15,Currency and deposits,False,2020-21,286
+15,Currency and deposits,False,2021-22,541
+15,Currency and deposits,False,2022-23,529
+15,Currency and deposits,False,2023-24,342
+15,Currency and deposits,False,2024-25,332
+16,Advances,False,2015-16,234
+16,Advances,False,2016-17,234
+16,Advances,False,2017-18,236
+16,Advances,False,2018-19,212
+16,Advances,False,2019-20,261
+16,Advances,False,2020-21,235
+16,Advances,False,2021-22,185
+16,Advances,False,2022-23,168
+16,Advances,False,2023-24,155
+16,Advances,False,2024-25,148
+17,Other loans and placements,False,2015-16,5103
+17,Other loans and placements,False,2016-17,7254
+17,Other loans and placements,False,2017-18,6750
+17,Other loans and placements,False,2018-19,7065
+17,Other loans and placements,False,2019-20,10574
+17,Other loans and placements,False,2020-21,13999
+17,Other loans and placements,False,2021-22,16717
+17,Other loans and placements,False,2022-23,17877
+17,Other loans and placements,False,2023-24,19433
+17,Other loans and placements,False,2024-25,21991
+18,Debt securities,False,2015-16,0
+18,Debt securities,False,2016-17,0
+18,Debt securities,False,2017-18,0
+18,Debt securities,False,2018-19,0
+18,Debt securities,False,2019-20,0
+18,Debt securities,False,2020-21,0
+18,Debt securities,False,2021-22,0
+18,Debt securities,False,2022-23,0
+18,Debt securities,False,2023-24,0
+18,Debt securities,False,2024-25,0
+19,Provisions for defined benefit superannuation,False,2015-16,14029
+19,Provisions for defined benefit superannuation,False,2016-17,11448
+19,Provisions for defined benefit superannuation,False,2017-18,11288
+19,Provisions for defined benefit superannuation,False,2018-19,13836
+19,Provisions for defined benefit superannuation,False,2019-20,12474
+19,Provisions for defined benefit superannuation,False,2020-21,9588
+19,Provisions for defined benefit superannuation,False,2021-22,7065
+19,Provisions for defined benefit superannuation,False,2022-23,7518
+19,Provisions for defined benefit superannuation,False,2023-24,6893
+19,Provisions for defined benefit superannuation,False,2024-25,6601
+20,Other liabilities,False,2015-16,4852
+20,Other liabilities,False,2016-17,4997
+20,Other liabilities,False,2017-18,6905
+20,Other liabilities,False,2018-19,7363
+20,Other liabilities,False,2019-20,7647
+20,Other liabilities,False,2020-21,7669
+20,Other liabilities,False,2021-22,7522
+20,Other liabilities,False,2022-23,8007
+20,Other liabilities,False,2023-24,8629
+20,Other liabilities,False,2024-25,9124
+21,Total Liabilities,True,2015-16,24696
+21,Total Liabilities,True,2016-17,24208
+21,Total Liabilities,True,2017-18,25577
+21,Total Liabilities,True,2018-19,29914
+21,Total Liabilities,True,2019-20,31302
+21,Total Liabilities,True,2020-21,31778
+21,Total Liabilities,True,2021-22,32030
+21,Total Liabilities,True,2022-23,34098
+21,Total Liabilities,True,2023-24,35451
+21,Total Liabilities,True,2024-25,38197
+22,GFS NET WORTH,True,2015-16,37614
+22,GFS NET WORTH,True,2016-17,42450
+22,GFS NET WORTH,True,2017-18,43025
+22,GFS NET WORTH,True,2018-19,41586
+22,GFS NET WORTH,True,2019-20,43263
+22,GFS NET WORTH,True,2020-21,48521
+22,GFS NET WORTH,True,2021-22,55306
+22,GFS NET WORTH,True,2022-23,51610
+22,GFS NET WORTH,True,2023-24,66732
+22,GFS NET WORTH,True,2024-25,63165
+23,Net financial worth,True,2015-16,-3036
+23,Net financial worth,True,2016-17,-1953
+23,Net financial worth,True,2017-18,-2947
+23,Net financial worth,True,2018-19,-5833
+23,Net financial worth,True,2019-20,-8322
+23,Net financial worth,True,2020-21,-8675
+23,Net financial worth,True,2021-22,-9221
+23,Net financial worth,True,2022-23,-10638
+23,Net financial worth,True,2023-24,-1269
+23,Net financial worth,True,2024-25,-11114

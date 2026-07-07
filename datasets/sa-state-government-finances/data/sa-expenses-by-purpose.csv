@@ -1,0 +1,281 @@
+row_order,line_item,is_total_row,year,value_million_aud
+1,Public debt transactions,False,2015-16,622
+1,Public debt transactions,False,2016-17,537
+1,Public debt transactions,False,2017-18,791
+1,Public debt transactions,False,2018-19,683
+1,Public debt transactions,False,2019-20,618
+1,Public debt transactions,False,2020-21,594
+1,Public debt transactions,False,2021-22,668
+1,Public debt transactions,False,2022-23,955
+1,Public debt transactions,False,2023-24,1116
+1,Public debt transactions,False,2024-25,1253
+2,Other general public services,False,2015-16,352
+2,Other general public services,False,2016-17,501
+2,Other general public services,False,2017-18,688
+2,Other general public services,False,2018-19,754
+2,Other general public services,False,2019-20,799
+2,Other general public services,False,2020-21,880
+2,Other general public services,False,2021-22,1138
+2,Other general public services,False,2022-23,1008
+2,Other general public services,False,2023-24,1067
+2,Other general public services,False,2024-25,923
+3,Total general public services,True,2015-16,974
+3,Total general public services,True,2016-17,1038
+3,Total general public services,True,2017-18,1479
+3,Total general public services,True,2018-19,1437
+3,Total general public services,True,2019-20,1416
+3,Total general public services,True,2020-21,1474
+3,Total general public services,True,2021-22,1806
+3,Total general public services,True,2022-23,1963
+3,Total general public services,True,2023-24,2183
+3,Total general public services,True,2024-25,2176
+4,Police services,False,2015-16,796
+4,Police services,False,2016-17,837
+4,Police services,False,2017-18,862
+4,Police services,False,2018-19,882
+4,Police services,False,2019-20,945
+4,Police services,False,2020-21,956
+4,Police services,False,2021-22,992
+4,Police services,False,2022-23,984
+4,Police services,False,2023-24,1063
+4,Police services,False,2024-25,1155
+5,Civil and fire protection services,False,2015-16,281
+5,Civil and fire protection services,False,2016-17,297
+5,Civil and fire protection services,False,2017-18,276
+5,Civil and fire protection services,False,2018-19,290
+5,Civil and fire protection services,False,2019-20,322
+5,Civil and fire protection services,False,2020-21,325
+5,Civil and fire protection services,False,2021-22,341
+5,Civil and fire protection services,False,2022-23,378
+5,Civil and fire protection services,False,2023-24,391
+5,Civil and fire protection services,False,2024-25,428
+6,"Law courts, prisons and other public order and safety",False,2015-16,672
+6,"Law courts, prisons and other public order and safety",False,2016-17,669
+6,"Law courts, prisons and other public order and safety",False,2017-18,739
+6,"Law courts, prisons and other public order and safety",False,2018-19,851
+6,"Law courts, prisons and other public order and safety",False,2019-20,799
+6,"Law courts, prisons and other public order and safety",False,2020-21,858
+6,"Law courts, prisons and other public order and safety",False,2021-22,921
+6,"Law courts, prisons and other public order and safety",False,2022-23,887
+6,"Law courts, prisons and other public order and safety",False,2023-24,863
+6,"Law courts, prisons and other public order and safety",False,2024-25,938
+7,Total public order and safety,True,2015-16,1750
+7,Total public order and safety,True,2016-17,1803
+7,Total public order and safety,True,2017-18,1877
+7,Total public order and safety,True,2018-19,2023
+7,Total public order and safety,True,2019-20,2066
+7,Total public order and safety,True,2020-21,2139
+7,Total public order and safety,True,2021-22,2254
+7,Total public order and safety,True,2022-23,2248
+7,Total public order and safety,True,2023-24,2317
+7,Total public order and safety,True,2024-25,2520
+8,Economic affairs,False,2015-16,550
+8,Economic affairs,False,2016-17,630
+8,Economic affairs,False,2017-18,765
+8,Economic affairs,False,2018-19,736
+8,Economic affairs,False,2019-20,956
+8,Economic affairs,False,2020-21,900
+8,Economic affairs,False,2021-22,1051
+8,Economic affairs,False,2022-23,815
+8,Economic affairs,False,2023-24,807
+8,Economic affairs,False,2024-25,1275
+9,Environmental protection,False,2015-16,381
+9,Environmental protection,False,2016-17,388
+9,Environmental protection,False,2017-18,437
+9,Environmental protection,False,2018-19,404
+9,Environmental protection,False,2019-20,431
+9,Environmental protection,False,2020-21,466
+9,Environmental protection,False,2021-22,574
+9,Environmental protection,False,2022-23,588
+9,Environmental protection,False,2023-24,543
+9,Environmental protection,False,2024-25,514
+10,Housing and community amenities,False,2015-16,320
+10,Housing and community amenities,False,2016-17,322
+10,Housing and community amenities,False,2017-18,341
+10,Housing and community amenities,False,2018-19,281
+10,Housing and community amenities,False,2019-20,291
+10,Housing and community amenities,False,2020-21,366
+10,Housing and community amenities,False,2021-22,444
+10,Housing and community amenities,False,2022-23,381
+10,Housing and community amenities,False,2023-24,360
+10,Housing and community amenities,False,2024-25,470
+11,"Medical products, appliances and equipment",False,2015-16,16
+11,"Medical products, appliances and equipment",False,2016-17,48
+11,"Medical products, appliances and equipment",False,2017-18,49
+11,"Medical products, appliances and equipment",False,2018-19,75
+11,"Medical products, appliances and equipment",False,2019-20,79
+11,"Medical products, appliances and equipment",False,2020-21,103
+11,"Medical products, appliances and equipment",False,2021-22,109
+11,"Medical products, appliances and equipment",False,2022-23,120
+11,"Medical products, appliances and equipment",False,2023-24,126
+11,"Medical products, appliances and equipment",False,2024-25,154
+12,Outpatient services,False,2015-16,416
+12,Outpatient services,False,2016-17,421
+12,Outpatient services,False,2017-18,551
+12,Outpatient services,False,2018-19,551
+12,Outpatient services,False,2019-20,573
+12,Outpatient services,False,2020-21,591
+12,Outpatient services,False,2021-22,603
+12,Outpatient services,False,2022-23,613
+12,Outpatient services,False,2023-24,657
+12,Outpatient services,False,2024-25,692
+13,Hospital services,False,2015-16,4412
+13,Hospital services,False,2016-17,4487
+13,Hospital services,False,2017-18,4580
+13,Hospital services,False,2018-19,4533
+13,Hospital services,False,2019-20,4837
+13,Hospital services,False,2020-21,5008
+13,Hospital services,False,2021-22,5384
+13,Hospital services,False,2022-23,5455
+13,Hospital services,False,2023-24,5845
+13,Hospital services,False,2024-25,6368
+14,Community health services,False,2015-16,384
+14,Community health services,False,2016-17,360
+14,Community health services,False,2017-18,486
+14,Community health services,False,2018-19,708
+14,Community health services,False,2019-20,744
+14,Community health services,False,2020-21,780
+14,Community health services,False,2021-22,839
+14,Community health services,False,2022-23,929
+14,Community health services,False,2023-24,973
+14,Community health services,False,2024-25,1057
+15,Public health services,False,2015-16,126
+15,Public health services,False,2016-17,143
+15,Public health services,False,2017-18,163
+15,Public health services,False,2018-19,186
+15,Public health services,False,2019-20,186
+15,Public health services,False,2020-21,354
+15,Public health services,False,2021-22,643
+15,Public health services,False,2022-23,676
+15,Public health services,False,2023-24,677
+15,Public health services,False,2024-25,736
+16,Other health,False,2015-16,167
+16,Other health,False,2016-17,160
+16,Other health,False,2017-18,210
+16,Other health,False,2018-19,215
+16,Other health,False,2019-20,231
+16,Other health,False,2020-21,260
+16,Other health,False,2021-22,257
+16,Other health,False,2022-23,271
+16,Other health,False,2023-24,275
+16,Other health,False,2024-25,290
+17,Total health,True,2015-16,5523
+17,Total health,True,2016-17,5619
+17,Total health,True,2017-18,6039
+17,Total health,True,2018-19,6267
+17,Total health,True,2019-20,6650
+17,Total health,True,2020-21,7094
+17,Total health,True,2021-22,7836
+17,Total health,True,2022-23,8065
+17,Total health,True,2023-24,8552
+17,Total health,True,2024-25,9297
+18,"Recreation, culture and religion",False,2015-16,325
+18,"Recreation, culture and religion",False,2016-17,354
+18,"Recreation, culture and religion",False,2017-18,385
+18,"Recreation, culture and religion",False,2018-19,388
+18,"Recreation, culture and religion",False,2019-20,346
+18,"Recreation, culture and religion",False,2020-21,446
+18,"Recreation, culture and religion",False,2021-22,551
+18,"Recreation, culture and religion",False,2022-23,485
+18,"Recreation, culture and religion",False,2023-24,445
+18,"Recreation, culture and religion",False,2024-25,537
+19,"Pre-primary, primary and secondary education",False,2015-16,3014
+19,"Pre-primary, primary and secondary education",False,2016-17,3161
+19,"Pre-primary, primary and secondary education",False,2017-18,3344
+19,"Pre-primary, primary and secondary education",False,2018-19,3533
+19,"Pre-primary, primary and secondary education",False,2019-20,3702
+19,"Pre-primary, primary and secondary education",False,2020-21,3565
+19,"Pre-primary, primary and secondary education",False,2021-22,3970
+19,"Pre-primary, primary and secondary education",False,2022-23,4000
+19,"Pre-primary, primary and secondary education",False,2023-24,4472
+19,"Pre-primary, primary and secondary education",False,2024-25,4737
+20,Tertiary education,False,2015-16,649
+20,Tertiary education,False,2016-17,609
+20,Tertiary education,False,2017-18,522
+20,Tertiary education,False,2018-19,522
+20,Tertiary education,False,2019-20,489
+20,Tertiary education,False,2020-21,418
+20,Tertiary education,False,2021-22,440
+20,Tertiary education,False,2022-23,495
+20,Tertiary education,False,2023-24,553
+20,Tertiary education,False,2024-25,608
+21,Other education,False,2015-16,97
+21,Other education,False,2016-17,107
+21,Other education,False,2017-18,69
+21,Other education,False,2018-19,77
+21,Other education,False,2019-20,74
+21,Other education,False,2020-21,62
+21,Other education,False,2021-22,69
+21,Other education,False,2022-23,59
+21,Other education,False,2023-24,82
+21,Other education,False,2024-25,80
+22,Total education,True,2015-16,3760
+22,Total education,True,2016-17,3876
+22,Total education,True,2017-18,3934
+22,Total education,True,2018-19,4133
+22,Total education,True,2019-20,4265
+22,Total education,True,2020-21,4045
+22,Total education,True,2021-22,4479
+22,Total education,True,2022-23,4554
+22,Total education,True,2023-24,5107
+22,Total education,True,2024-25,5426
+23,Social protection,False,2015-16,1803
+23,Social protection,False,2016-17,2034
+23,Social protection,False,2017-18,2394
+23,Social protection,False,2018-19,2118
+23,Social protection,False,2019-20,2125
+23,Social protection,False,2020-21,2206
+23,Social protection,False,2021-22,2306
+23,Social protection,False,2022-23,2516
+23,Social protection,False,2023-24,2924
+23,Social protection,False,2024-25,3265
+24,Road transport,False,2015-16,503
+24,Road transport,False,2016-17,646
+24,Road transport,False,2017-18,551
+24,Road transport,False,2018-19,556
+24,Road transport,False,2019-20,611
+24,Road transport,False,2020-21,642
+24,Road transport,False,2021-22,675
+24,Road transport,False,2022-23,735
+24,Road transport,False,2023-24,758
+24,Road transport,False,2024-25,799
+25,Railway transport,False,2015-16,224
+25,Railway transport,False,2016-17,267
+25,Railway transport,False,2017-18,247
+25,Railway transport,False,2018-19,249
+25,Railway transport,False,2019-20,244
+25,Railway transport,False,2020-21,229
+25,Railway transport,False,2021-22,224
+25,Railway transport,False,2022-23,257
+25,Railway transport,False,2023-24,270
+25,Railway transport,False,2024-25,260
+26,Other transport,False,2015-16,281
+26,Other transport,False,2016-17,350
+26,Other transport,False,2017-18,287
+26,Other transport,False,2018-19,259
+26,Other transport,False,2019-20,347
+26,Other transport,False,2020-21,402
+26,Other transport,False,2021-22,399
+26,Other transport,False,2022-23,426
+26,Other transport,False,2023-24,470
+26,Other transport,False,2024-25,603
+27,Total transport,True,2015-16,1007
+27,Total transport,True,2016-17,1263
+27,Total transport,True,2017-18,1085
+27,Total transport,True,2018-19,1064
+27,Total transport,True,2019-20,1203
+27,Total transport,True,2020-21,1273
+27,Total transport,True,2021-22,1299
+27,Total transport,True,2022-23,1418
+27,Total transport,True,2023-24,1498
+27,Total transport,True,2024-25,1662
+28,Total Expenses,True,2015-16,16392
+28,Total Expenses,True,2016-17,17327
+28,Total Expenses,True,2017-18,18736
+28,Total Expenses,True,2018-19,18851
+28,Total Expenses,True,2019-20,19750
+28,Total Expenses,True,2020-21,20410
+28,Total Expenses,True,2021-22,22601
+28,Total Expenses,True,2022-23,23034
+28,Total Expenses,True,2023-24,24737
+28,Total Expenses,True,2024-25,27143

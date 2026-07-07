@@ -1,0 +1,6 @@
+table,title,geography,rows,file
+operating_statement,South Australia State General Government Operating Statement,South Australia,300,sa-operating-statement.csv
+cash_flow_statement,South Australia State General Government Cash Flow Statement,South Australia,120,sa-cash-flow-statement.csv
+balance_sheet,South Australia State General Government Balance Sheet,South Australia,230,sa-balance-sheet.csv
+expenses_by_purpose,South Australia State General Government Expenses by Purpose (COFOG),South Australia,280,sa-expenses-by-purpose.csv
+operating_statement,Total State General Government Operating Statement (all states/territories combined),Australia (all states/territories total),300,all-states-total-operating-statement.csv
