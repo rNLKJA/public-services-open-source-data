@@ -1,0 +1,245 @@
+year,age_group,sex,perpetrator_s_relationship_to_victim,unit,value
+2019–20,All ages,Female,All FDV perpetrators,Number,6941
+2020–21,All ages,Female,All FDV perpetrators,Number,7069
+2021–22,All ages,Female,All FDV perpetrators,Number,6030
+2022–23,All ages,Female,All FDV perpetrators,Number,6341
+2023–24,All ages,Female,All FDV perpetrators,Number,7032
+2019–20,All ages,Male,All FDV perpetrators,Number,2393
+2020–21,All ages,Male,All FDV perpetrators,Number,2423
+2021–22,All ages,Male,All FDV perpetrators,Number,2057
+2022–23,All ages,Male,All FDV perpetrators,Number,2088
+2023–24,All ages,Male,All FDV perpetrators,Number,2251
+2019–20,All ages,Persons,All FDV perpetrators,Number,9334
+2020–21,All ages,Persons,All FDV perpetrators,Number,9493
+2021–22,All ages,Persons,All FDV perpetrators,Number,8088
+2022–23,All ages,Persons,All FDV perpetrators,Number,8432
+2023–24,All ages,Persons,All FDV perpetrators,Number,9291
+2019–20,All ages,Female,Other family member,Number,1480
+2020–21,All ages,Female,Other family member,Number,1441
+2021–22,All ages,Female,Other family member,Number,1299
+2022–23,All ages,Female,Other family member,Number,1478
+2023–24,All ages,Female,Other family member,Number,1606
+2019–20,All ages,Male,Other family member,Number,1321
+2020–21,All ages,Male,Other family member,Number,1352
+2021–22,All ages,Male,Other family member,Number,1143
+2022–23,All ages,Male,Other family member,Number,1146
+2023–24,All ages,Male,Other family member,Number,1247
+2019–20,All ages,Persons,Other family member,Number,2801
+2020–21,All ages,Persons,Other family member,Number,2793
+2021–22,All ages,Persons,Other family member,Number,2443
+2022–23,All ages,Persons,Other family member,Number,2626
+2023–24,All ages,Persons,Other family member,Number,2859
+2019–20,0–44,Female,Parent,Number,331
+2020–21,0–44,Female,Parent,Number,382
+2021–22,0–44,Female,Parent,Number,310
+2022–23,0–44,Female,Parent,Number,317
+2023–24,0–44,Female,Parent,Number,404
+2019–20,0–44,Male,Parent,Number,343
+2020–21,0–44,Male,Parent,Number,317
+2021–22,0–44,Male,Parent,Number,261
+2022–23,0–44,Male,Parent,Number,295
+2023–24,0–44,Male,Parent,Number,326
+2019–20,0–44,Persons,Parent,Number,674
+2020–21,0–44,Persons,Parent,Number,699
+2021–22,0–44,Persons,Parent,Number,571
+2022–23,0–44,Persons,Parent,Number,612
+2023–24,0–44,Persons,Parent,Number,730
+2019–20,15+,Female,Spouse or domestic partner,Number,5133
+2020–21,15+,Female,Spouse or domestic partner,Number,5254
+2021–22,15+,Female,Spouse or domestic partner,Number,4416
+2022–23,15+,Female,Spouse or domestic partner,Number,4559
+2023–24,15+,Female,Spouse or domestic partner,Number,5023
+2019–20,15+,Male,Spouse or domestic partner,Number,731
+2020–21,15+,Male,Spouse or domestic partner,Number,750
+2021–22,15+,Male,Spouse or domestic partner,Number,650
+2022–23,15+,Male,Spouse or domestic partner,Number,646
+2023–24,15+,Male,Spouse or domestic partner,Number,683
+2019–20,15+,Persons,Spouse or domestic partner,Number,5864
+2020–21,15+,Persons,Spouse or domestic partner,Number,6005
+2021–22,15+,Persons,Spouse or domestic partner,Number,5066
+2022–23,15+,Persons,Spouse or domestic partner,Number,5206
+2023–24,15+,Persons,Spouse or domestic partner,Number,5708
+2023–24,65+,Female,All FDV perpetrators,Number,380
+2023–24,65+,Male,All FDV perpetrators,Number,226
+2023–24,65+,Female,Other family member,Number,221
+2023–24,65+,Male,Other family member,Number,153
+2023–24,65+,Female,Parent,Number,n.p.
+2023–24,65+,Male,Parent,Number,n.p.
+2023–24,65+,Female,Spouse or domestic partner,Number,n.p.
+2023–24,65+,Male,Spouse or domestic partner,Number,n.p.
+2023–24,55–64,Female,All FDV perpetrators,Number,395
+2023–24,55–64,Male,All FDV perpetrators,Number,201
+2023–24,55–64,Female,Other family member,Number,188
+2023–24,55–64,Male,Other family member,Number,n.p.
+2023–24,55–64,Female,Parent,Number,n.p.
+2023–24,55–64,Male,Parent,Number,n.p.
+2023–24,55–64,Female,Spouse or domestic partner,Number,n.p.
+2023–24,55–64,Male,Spouse or domestic partner,Number,n.p.
+2023–24,45–54,Female,All FDV perpetrators,Number,1047
+2023–24,45–54,Male,All FDV perpetrators,Number,354
+2023–24,45–54,Female,Other family member,Number,261
+2023–24,45–54,Male,Other family member,Number,227
+2023–24,45–54,Female,Parent,Number,15
+2023–24,45–54,Male,Parent,Number,5
+2023–24,45–54,Female,Spouse or domestic partner,Number,777
+2023–24,45–54,Male,Spouse or domestic partner,Number,127
+2023–24,35–44,Female,All FDV perpetrators,Number,1839
+2023–24,35–44,Male,All FDV perpetrators,Number,437
+2023–24,35–44,Female,Other family member,Number,347
+2023–24,35–44,Male,Other family member,Number,236
+2023–24,35–44,Female,Parent,Number,26
+2023–24,35–44,Male,Parent,Number,13
+2023–24,35–44,Female,Spouse or domestic partner,Number,1480
+2023–24,35–44,Male,Spouse or domestic partner,Number,190
+2023–24,25–34,Female,All FDV perpetrators,Number,1994
+2023–24,25–34,Male,All FDV perpetrators,Number,404
+2023–24,25–34,Female,Other family member,Number,316
+2023–24,25–34,Male,Other family member,Number,209
+2023–24,25–34,Female,Parent,Number,53
+2023–24,25–34,Male,Parent,Number,31
+2023–24,25–34,Female,Spouse or domestic partner,Number,1629
+2023–24,25–34,Male,Spouse or domestic partner,Number,165
+2023–24,20–24,Female,All FDV perpetrators,Number,737
+2023–24,20–24,Male,All FDV perpetrators,Number,216
+2023–24,20–24,Female,Other family member,Number,129
+2023–24,20–24,Male,Other family member,Number,143
+2023–24,20–24,Female,Parent,Number,49
+2023–24,20–24,Male,Parent,Number,20
+2023–24,20–24,Female,Spouse or domestic partner,Number,567
+2023–24,20–24,Male,Spouse or domestic partner,Number,53
+2023–24,15–19,Female,All FDV perpetrators,Number,359
+2023–24,15–19,Male,All FDV perpetrators,Number,134
+2023–24,15–19,Female,Other family member,Number,94
+2023–24,15–19,Male,Other family member,Number,69
+2023–24,15–19,Female,Parent,Number,60
+2023–24,15–19,Male,Parent,Number,53
+2023–24,15–19,Female,Spouse or domestic partner,Number,206
+2023–24,15–19,Male,Spouse or domestic partner,Number,14
+2023–24,0–14,Female,All FDV perpetrators,Number,281
+2023–24,0–14,Male,All FDV perpetrators,Number,279
+2023–24,0–14,Female,Other family member,Number,50
+2023–24,0–14,Male,Other family member,Number,n.p.
+2023–24,0–14,Female,Parent,Number,216
+2023–24,0–14,Male,Parent,Number,209
+2019–20,All ages,Female,All FDV perpetrators,"Rate per 100,000 population",54.0
+2020–21,All ages,Female,All FDV perpetrators,"Rate per 100,000 population",54.7
+2021–22,All ages,Female,All FDV perpetrators,"Rate per 100,000 population",46.5
+2022–23,All ages,Female,All FDV perpetrators,"Rate per 100,000 population",47.8
+2023–24,All ages,Female,All FDV perpetrators,"Rate per 100,000 population",51.8
+2019–20,All ages,Male,All FDV perpetrators,"Rate per 100,000 population",18.9
+2020–21,All ages,Male,All FDV perpetrators,"Rate per 100,000 population",19.1
+2021–22,All ages,Male,All FDV perpetrators,"Rate per 100,000 population",16.1
+2022–23,All ages,Male,All FDV perpetrators,"Rate per 100,000 population",16.0
+2023–24,All ages,Male,All FDV perpetrators,"Rate per 100,000 population",16.8
+2019–20,All ages,Persons,All FDV perpetrators,"Rate per 100,000 population",36.6
+2020–21,All ages,Persons,All FDV perpetrators,"Rate per 100,000 population",37.0
+2021–22,All ages,Persons,All FDV perpetrators,"Rate per 100,000 population",31.4
+2022–23,All ages,Persons,All FDV perpetrators,"Rate per 100,000 population",32.0
+2023–24,All ages,Persons,All FDV perpetrators,"Rate per 100,000 population",34.5
+2019–20,All ages,Female,Other family member,"Rate per 100,000 population",11.5
+2020–21,All ages,Female,Other family member,"Rate per 100,000 population",11.2
+2021–22,All ages,Female,Other family member,"Rate per 100,000 population",10.0
+2022–23,All ages,Female,Other family member,"Rate per 100,000 population",11.2
+2023–24,All ages,Female,Other family member,"Rate per 100,000 population",11.8
+2019–20,All ages,Male,Other family member,"Rate per 100,000 population",10.4
+2020–21,All ages,Male,Other family member,"Rate per 100,000 population",10.6
+2021–22,All ages,Male,Other family member,"Rate per 100,000 population",8.9
+2022–23,All ages,Male,Other family member,"Rate per 100,000 population",8.8
+2023–24,All ages,Male,Other family member,"Rate per 100,000 population",9.3
+2019–20,All ages,Persons,Other family member,"Rate per 100,000 population",11.0
+2020–21,All ages,Persons,Other family member,"Rate per 100,000 population",10.9
+2021–22,All ages,Persons,Other family member,"Rate per 100,000 population",9.5
+2022–23,All ages,Persons,Other family member,"Rate per 100,000 population",10.0
+2023–24,All ages,Persons,Other family member,"Rate per 100,000 population",10.6
+2019–20,0–44,Female,Parent,"Rate per 100,000 population",4.4
+2020–21,0–44,Female,Parent,"Rate per 100,000 population",5.1
+2021–22,0–44,Female,Parent,"Rate per 100,000 population",4.2
+2022–23,0–44,Female,Parent,"Rate per 100,000 population",4.1
+2023–24,0–44,Female,Parent,"Rate per 100,000 population",5.1
+2019–20,0–44,Male,Parent,"Rate per 100,000 population",4.5
+2020–21,0–44,Male,Parent,"Rate per 100,000 population",4.1
+2021–22,0–44,Male,Parent,"Rate per 100,000 population",3.4
+2022–23,0–44,Male,Parent,"Rate per 100,000 population",3.8
+2023–24,0–44,Male,Parent,"Rate per 100,000 population",4.0
+2019–20,0–44,Persons,Parent,"Rate per 100,000 population",4.4
+2020–21,0–44,Persons,Parent,"Rate per 100,000 population",4.6
+2021–22,0–44,Persons,Parent,"Rate per 100,000 population",3.8
+2022–23,0–44,Persons,Parent,"Rate per 100,000 population",3.9
+2023–24,0–44,Persons,Parent,"Rate per 100,000 population",4.6
+2019–20,15+,Female,Spouse or domestic partner,"Rate per 100,000 population",48.7
+2020–21,15+,Female,Spouse or domestic partner,"Rate per 100,000 population",49.5
+2021–22,15+,Female,Spouse or domestic partner,"Rate per 100,000 population",41.4
+2022–23,15+,Female,Spouse or domestic partner,"Rate per 100,000 population",41.7
+2023–24,15+,Female,Spouse or domestic partner,"Rate per 100,000 population",44.7
+2019–20,15+,Male,Spouse or domestic partner,"Rate per 100,000 population",7.2
+2020–21,15+,Male,Spouse or domestic partner,"Rate per 100,000 population",7.3
+2021–22,15+,Male,Spouse or domestic partner,"Rate per 100,000 population",6.3
+2022–23,15+,Male,Spouse or domestic partner,"Rate per 100,000 population",6.1
+2023–24,15+,Male,Spouse or domestic partner,"Rate per 100,000 population",6.3
+2019–20,15+,Persons,Spouse or domestic partner,"Rate per 100,000 population",28.2
+2020–21,15+,Persons,Spouse or domestic partner,"Rate per 100,000 population",28.7
+2021–22,15+,Persons,Spouse or domestic partner,"Rate per 100,000 population",24.1
+2022–23,15+,Persons,Spouse or domestic partner,"Rate per 100,000 population",24.2
+2023–24,15+,Persons,Spouse or domestic partner,"Rate per 100,000 population",25.7
+2023–24,65+,Female,All FDV perpetrators,"Rate per 100,000 population",15.4
+2023–24,65+,Male,All FDV perpetrators,"Rate per 100,000 population",10.4
+2023–24,65+,Female,Other family member,"Rate per 100,000 population",9.0
+2023–24,65+,Male,Other family member,"Rate per 100,000 population",7.1
+2023–24,65+,Female,Parent,"Rate per 100,000 population",n.p.
+2023–24,65+,Male,Parent,"Rate per 100,000 population",n.p.
+2023–24,65+,Female,Spouse or domestic partner,"Rate per 100,000 population",n.p.
+2023–24,65+,Male,Spouse or domestic partner,"Rate per 100,000 population",n.p.
+2023–24,55–64,Female,All FDV perpetrators,"Rate per 100,000 population",25.3
+2023–24,55–64,Male,All FDV perpetrators,"Rate per 100,000 population",13.5
+2023–24,55–64,Female,Other family member,"Rate per 100,000 population",12.0
+2023–24,55–64,Male,Other family member,"Rate per 100,000 population",n.p.
+2023–24,55–64,Female,Parent,"Rate per 100,000 population",n.p.
+2023–24,55–64,Male,Parent,"Rate per 100,000 population",n.p.
+2023–24,55–64,Female,Spouse or domestic partner,"Rate per 100,000 population",n.p.
+2023–24,55–64,Male,Spouse or domestic partner,"Rate per 100,000 population",n.p.
+2023–24,45–54,Female,All FDV perpetrators,"Rate per 100,000 population",62.4
+2023–24,45–54,Male,All FDV perpetrators,"Rate per 100,000 population",21.7
+2023–24,45–54,Female,Other family member,"Rate per 100,000 population",15.6
+2023–24,45–54,Male,Other family member,"Rate per 100,000 population",13.9
+2023–24,45–54,Female,Parent,"Rate per 100,000 population",0.9
+2023–24,45–54,Male,Parent,"Rate per 100,000 population",n.p.
+2023–24,45–54,Female,Spouse or domestic partner,"Rate per 100,000 population",46.3
+2023–24,45–54,Male,Spouse or domestic partner,"Rate per 100,000 population",7.8
+2023–24,35–44,Female,All FDV perpetrators,"Rate per 100,000 population",96.5
+2023–24,35–44,Male,All FDV perpetrators,"Rate per 100,000 population",23.3
+2023–24,35–44,Female,Other family member,"Rate per 100,000 population",18.2
+2023–24,35–44,Male,Other family member,"Rate per 100,000 population",12.6
+2023–24,35–44,Female,Parent,"Rate per 100,000 population",1.4
+2023–24,35–44,Male,Parent,"Rate per 100,000 population",0.7
+2023–24,35–44,Female,Spouse or domestic partner,"Rate per 100,000 population",77.7
+2023–24,35–44,Male,Spouse or domestic partner,"Rate per 100,000 population",10.1
+2023–24,25–34,Female,All FDV perpetrators,"Rate per 100,000 population",100.4
+2023–24,25–34,Male,All FDV perpetrators,"Rate per 100,000 population",20.2
+2023–24,25–34,Female,Other family member,"Rate per 100,000 population",15.9
+2023–24,25–34,Male,Other family member,"Rate per 100,000 population",10.4
+2023–24,25–34,Female,Parent,"Rate per 100,000 population",2.7
+2023–24,25–34,Male,Parent,"Rate per 100,000 population",1.5
+2023–24,25–34,Female,Spouse or domestic partner,"Rate per 100,000 population",82.0
+2023–24,25–34,Male,Spouse or domestic partner,"Rate per 100,000 population",8.2
+2023–24,20–24,Female,All FDV perpetrators,"Rate per 100,000 population",86.8
+2023–24,20–24,Male,All FDV perpetrators,"Rate per 100,000 population",23.6
+2023–24,20–24,Female,Other family member,"Rate per 100,000 population",15.2
+2023–24,20–24,Male,Other family member,"Rate per 100,000 population",15.6
+2023–24,20–24,Female,Parent,"Rate per 100,000 population",5.8
+2023–24,20–24,Male,Parent,"Rate per 100,000 population",2.2
+2023–24,20–24,Female,Spouse or domestic partner,"Rate per 100,000 population",66.8
+2023–24,20–24,Male,Spouse or domestic partner,"Rate per 100,000 population",5.8
+2023–24,15–19,Female,All FDV perpetrators,"Rate per 100,000 population",45.3
+2023–24,15–19,Male,All FDV perpetrators,"Rate per 100,000 population",15.9
+2023–24,15–19,Female,Other family member,"Rate per 100,000 population",11.9
+2023–24,15–19,Male,Other family member,"Rate per 100,000 population",8.2
+2023–24,15–19,Female,Parent,"Rate per 100,000 population",7.6
+2023–24,15–19,Male,Parent,"Rate per 100,000 population",6.3
+2023–24,15–19,Female,Spouse or domestic partner,"Rate per 100,000 population",26.0
+2023–24,15–19,Male,Spouse or domestic partner,"Rate per 100,000 population",1.7
+2023–24,0–14,Female,All FDV perpetrators,"Rate per 100,000 population",12.1
+2023–24,0–14,Male,All FDV perpetrators,"Rate per 100,000 population",11.3
+2023–24,0–14,Female,Other family member,"Rate per 100,000 population",2.1
+2023–24,0–14,Male,Other family member,"Rate per 100,000 population",n.p.
+2023–24,0–14,Female,Parent,"Rate per 100,000 population",9.3
+2023–24,0–14,Male,Parent,"Rate per 100,000 population",8.5

@@ -1,0 +1,123 @@
+year,indigenous_status,sex,age_group,perpetrator_s_relationship_to_victim,unit,value
+2023–24,First Nations,Female,All ages,All FDV perpetrators,Number,3429
+2023–24,First Nations,Male,All ages,All FDV perpetrators,Number,997
+2023–24,First Nations,Persons,All ages,All FDV perpetrators,Number,4433
+2022–23,First Nations,Female,All ages,All FDV perpetrators,Number,3143
+2022–23,First Nations,Male,All ages,All FDV perpetrators,Number,957
+2022–23,First Nations,Persons,All ages,All FDV perpetrators,Number,4103
+2021–22,First Nations,Female,All ages,All FDV perpetrators,Number,2897
+2021–22,First Nations,Male,All ages,All FDV perpetrators,Number,865
+2021–22,First Nations,Persons,All ages,All FDV perpetrators,Number,3763
+2020–21,First Nations,Female,All ages,All FDV perpetrators,Number,3446
+2020–21,First Nations,Male,All ages,All FDV perpetrators,Number,1054
+2020–21,First Nations,Persons,All ages,All FDV perpetrators,Number,4500
+2019–20,First Nations,Female,All ages,All FDV perpetrators,Number,3239
+2019–20,First Nations,Male,All ages,All FDV perpetrators,Number,996
+2019–20,First Nations,Persons,All ages,All FDV perpetrators,Number,4235
+2023–24,First Nations,Female,0–14,Other family member,Number,24
+2023–24,First Nations,Female,15–19,Other family member,Number,59
+2023–24,First Nations,Female,20–24,Other family member,Number,99
+2023–24,First Nations,Female,25–34,Other family member,Number,242
+2023–24,First Nations,Female,35–44,Other family member,Number,271
+2023–24,First Nations,Female,45–54,Other family member,Number,159
+2023–24,First Nations,Female,55–64,Other family member,Number,85
+2023–24,First Nations,Female,65+,Other family member,Number,25
+2023–24,First Nations,Male,0–14,Other family member,Number,21
+2023–24,First Nations,Male,15–19,Other family member,Number,29
+2023–24,First Nations,Male,20–24,Other family member,Number,87
+2023–24,First Nations,Male,25–34,Other family member,Number,120
+2023–24,First Nations,Male,35–44,Other family member,Number,137
+2023–24,First Nations,Male,45–54,Other family member,Number,112
+2023–24,First Nations,Male,55–64,Other family member,Number,42
+2023–24,First Nations,Male,65+,Other family member,Number,11
+2023–24,First Nations,Female,0–14,Parent,Number,90
+2023–24,First Nations,Female,15–19,Parent,Number,18
+2023–24,First Nations,Female,20–24,Parent,Number,20
+2023–24,First Nations,Female,25–34,Parent,Number,23
+2023–24,First Nations,Female,35–44,Parent,Number,10
+2023–24,First Nations,Female,45–54,Parent,Number,n.p.
+2023–24,First Nations,Female,55–64,Parent,Number,0
+2023–24,First Nations,Female,65+,Parent,Number,n.p.
+2023–24,First Nations,Male,0–14,Parent,Number,79
+2023–24,First Nations,Male,15–19,Parent,Number,12
+2023–24,First Nations,Male,20–24,Parent,Number,n.p.
+2023–24,First Nations,Male,25–34,Parent,Number,6
+2023–24,First Nations,Male,35–44,Parent,Number,n.p.
+2023–24,First Nations,Male,45–54,Parent,Number,n.p.
+2023–24,First Nations,Male,55–64,Parent,Number,0
+2023–24,First Nations,Male,65+,Parent,Number,0
+2023–24,First Nations,Female,15–19,Spouse or domestic partner,Number,132
+2023–24,First Nations,Female,20–24,Spouse or domestic partner,Number,333
+2023–24,First Nations,Female,25–34,Spouse or domestic partner,Number,805
+2023–24,First Nations,Female,35–44,Spouse or domestic partner,Number,682
+2023–24,First Nations,Female,45–54,Spouse or domestic partner,Number,309
+2023–24,First Nations,Female,55–64,Spouse or domestic partner,Number,46
+2023–24,First Nations,Female,65+,Spouse or domestic partner,Number,n.p.
+2023–24,First Nations,Male,15–19,Spouse or domestic partner,Number,11
+2023–24,First Nations,Male,20–24,Spouse or domestic partner,Number,34
+2023–24,First Nations,Male,25–34,Spouse or domestic partner,Number,94
+2023–24,First Nations,Male,35–44,Spouse or domestic partner,Number,93
+2023–24,First Nations,Male,45–54,Spouse or domestic partner,Number,70
+2023–24,First Nations,Male,55–64,Spouse or domestic partner,Number,27
+2023–24,First Nations,Male,65+,Spouse or domestic partner,Number,n.p.
+2023–24,First Nations,Female,All ages,All FDV perpetrators,"Rate per 100,000 population",667.9
+2023–24,First Nations,Male,All ages,All FDV perpetrators,"Rate per 100,000 population",192.8
+2023–24,First Nations,Persons,All ages,All FDV perpetrators,"Rate per 100,000 population",430.2
+2022–23,First Nations,Female,All ages,All FDV perpetrators,"Rate per 100,000 population",623.5
+2022–23,First Nations,Male,All ages,All FDV perpetrators,"Rate per 100,000 population",188.6
+2022–23,First Nations,Persons,All ages,All FDV perpetrators,"Rate per 100,000 population",405.6
+2021–22,First Nations,Female,All ages,All FDV perpetrators,"Rate per 100,000 population",585.4
+2021–22,First Nations,Male,All ages,All FDV perpetrators,"Rate per 100,000 population",173.7
+2021–22,First Nations,Persons,All ages,All FDV perpetrators,"Rate per 100,000 population",379.0
+2020–21,First Nations,Female,All ages,All FDV perpetrators,"Rate per 100,000 population",708.7
+2020–21,First Nations,Male,All ages,All FDV perpetrators,"Rate per 100,000 population",215.5
+2020–21,First Nations,Persons,All ages,All FDV perpetrators,"Rate per 100,000 population",461.3
+2019–20,First Nations,Female,All ages,All FDV perpetrators,"Rate per 100,000 population",677.7
+2019–20,First Nations,Male,All ages,All FDV perpetrators,"Rate per 100,000 population",207.1
+2019–20,First Nations,Persons,All ages,All FDV perpetrators,"Rate per 100,000 population",441.7
+2023–24,First Nations,Female,0–14,Other family member,"Rate per 100,000 population",15.0
+2023–24,First Nations,Female,15–19,Other family member,"Rate per 100,000 population",114.0
+2023–24,First Nations,Female,20–24,Other family member,"Rate per 100,000 population",226.0
+2023–24,First Nations,Female,25–34,Other family member,"Rate per 100,000 population",315.2
+2023–24,First Nations,Female,35–44,Other family member,"Rate per 100,000 population",475.7
+2023–24,First Nations,Female,45–54,Other family member,"Rate per 100,000 population",315.2
+2023–24,First Nations,Female,55–64,Other family member,"Rate per 100,000 population",207.8
+2023–24,First Nations,Female,65+,Other family member,"Rate per 100,000 population",75.9
+2023–24,First Nations,Male,0–14,Other family member,"Rate per 100,000 population",12.4
+2023–24,First Nations,Male,15–19,Other family member,"Rate per 100,000 population",53.7
+2023–24,First Nations,Male,20–24,Other family member,"Rate per 100,000 population",188.9
+2023–24,First Nations,Male,25–34,Other family member,"Rate per 100,000 population",151.8
+2023–24,First Nations,Male,35–44,Other family member,"Rate per 100,000 population",245.4
+2023–24,First Nations,Male,45–54,Other family member,"Rate per 100,000 population",236.4
+2023–24,First Nations,Male,55–64,Other family member,"Rate per 100,000 population",114.1
+2023–24,First Nations,Male,65+,Other family member,"Rate per 100,000 population",38.8
+2023–24,First Nations,Female,0–14,Parent,"Rate per 100,000 population",56.3
+2023–24,First Nations,Female,15–19,Parent,"Rate per 100,000 population",34.8
+2023–24,First Nations,Female,20–24,Parent,"Rate per 100,000 population",45.7
+2023–24,First Nations,Female,25–34,Parent,"Rate per 100,000 population",30.0
+2023–24,First Nations,Female,35–44,Parent,"Rate per 100,000 population",17.6
+2023–24,First Nations,Female,45–54,Parent,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Female,55–64,Parent,"Rate per 100,000 population",0
+2023–24,First Nations,Female,65+,Parent,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Male,0–14,Parent,"Rate per 100,000 population",46.6
+2023–24,First Nations,Male,15–19,Parent,"Rate per 100,000 population",22.2
+2023–24,First Nations,Male,20–24,Parent,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Male,25–34,Parent,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Male,35–44,Parent,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Male,45–54,Parent,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Male,55–64,Parent,"Rate per 100,000 population",0
+2023–24,First Nations,Male,65+,Parent,"Rate per 100,000 population",0
+2023–24,First Nations,Female,15–19,Spouse or domestic partner,"Rate per 100,000 population",255.1
+2023–24,First Nations,Female,20–24,Spouse or domestic partner,"Rate per 100,000 population",760.2
+2023–24,First Nations,Female,25–34,Spouse or domestic partner,"Rate per 100,000 population",1048.5
+2023–24,First Nations,Female,35–44,Spouse or domestic partner,"Rate per 100,000 population",1197.1
+2023–24,First Nations,Female,45–54,Spouse or domestic partner,"Rate per 100,000 population",612.6
+2023–24,First Nations,Female,55–64,Spouse or domestic partner,"Rate per 100,000 population",112.5
+2023–24,First Nations,Female,65+,Spouse or domestic partner,"Rate per 100,000 population",n.p.
+2023–24,First Nations,Male,15–19,Spouse or domestic partner,"Rate per 100,000 population",20.4
+2023–24,First Nations,Male,20–24,Spouse or domestic partner,"Rate per 100,000 population",73.8
+2023–24,First Nations,Male,25–34,Spouse or domestic partner,"Rate per 100,000 population",118.9
+2023–24,First Nations,Male,35–44,Spouse or domestic partner,"Rate per 100,000 population",166.6
+2023–24,First Nations,Male,45–54,Spouse or domestic partner,"Rate per 100,000 population",147.8
+2023–24,First Nations,Male,55–64,Spouse or domestic partner,"Rate per 100,000 population",73.3
+2023–24,First Nations,Male,65+,Spouse or domestic partner,"Rate per 100,000 population",n.p.

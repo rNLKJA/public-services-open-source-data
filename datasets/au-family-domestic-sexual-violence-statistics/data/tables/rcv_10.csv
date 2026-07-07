@@ -1,0 +1,73 @@
+sex,year,offence,location,unit,value
+Persons,2016,Sexual assault,New South Wales,Number,532
+Persons,2016,Sexual assault,Queensland,Number,556
+Persons,2016,Sexual assault,South Australia,Number,114
+Persons,2016,Sexual assault,Northern Territory,Number,175
+Persons,2017,Sexual assault,New South Wales,Number,816
+Persons,2017,Sexual assault,Queensland,Number,558
+Persons,2017,Sexual assault,South Australia,Number,86
+Persons,2017,Sexual assault,Northern Territory,Number,208
+Persons,2018,Sexual assault,New South Wales,Number,702
+Persons,2018,Sexual assault,Queensland,Number,625
+Persons,2018,Sexual assault,South Australia,Number,124
+Persons,2018,Sexual assault,Northern Territory,Number,174
+Persons,2019,Sexual assault,New South Wales,Number,929
+Persons,2019,Sexual assault,Queensland,Number,563
+Persons,2019,Sexual assault,South Australia,Number,95
+Persons,2019,Sexual assault,Northern Territory,Number,130
+Persons,2020,Sexual assault,New South Wales,Number,873
+Persons,2020,Sexual assault,Queensland,Number,578
+Persons,2020,Sexual assault,South Australia,Number,110
+Persons,2020,Sexual assault,Northern Territory,Number,168
+Persons,2021,Sexual assault,New South Wales,Number,828
+Persons,2021,Sexual assault,Queensland,Number,812
+Persons,2021,Sexual assault,South Australia,Number,119
+Persons,2021,Sexual assault,Northern Territory,Number,130
+Persons,2022,Sexual assault,New South Wales,Number,1116
+Persons,2022,Sexual assault,Queensland,Number,923
+Persons,2022,Sexual assault,South Australia,Number,99
+Persons,2022,Sexual assault,Northern Territory,Number,171
+Persons,2023,Sexual assault,New South Wales,Number,1628
+Persons,2023,Sexual assault,Queensland,Number,1088
+Persons,2023,Sexual assault,South Australia,Number,168
+Persons,2023,Sexual assault,Northern Territory,Number,n.p.
+Persons,2024,Sexual assault,New South Wales,Number,1738
+Persons,2024,Sexual assault,Queensland,Number,988
+Persons,2024,Sexual assault,South Australia,Number,185
+Persons,2024,Sexual assault,Northern Territory,Number,n.p.
+Persons,2016,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",170.6
+Persons,2016,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",226.1
+Persons,2016,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",240.1
+Persons,2016,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",239.5
+Persons,2017,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",256.9
+Persons,2017,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",221.9
+Persons,2017,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",177.5
+Persons,2017,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",281.7
+Persons,2018,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",217.3
+Persons,2018,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",243.4
+Persons,2018,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",251.0
+Persons,2018,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",233.3
+Persons,2019,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",282.7
+Persons,2019,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",214.6
+Persons,2019,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",188.8
+Persons,2019,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",172.7
+Persons,2020,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",261.3
+Persons,2020,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",215.8
+Persons,2020,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",214.9
+Persons,2020,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",221.4
+Persons,2021,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",243.7
+Persons,2021,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",297.3
+Persons,2021,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",228.5
+Persons,2021,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",170.0
+Persons,2022,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",322.8
+Persons,2022,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",330.2
+Persons,2022,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",187.1
+Persons,2022,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",221.8
+Persons,2023,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",462.7
+Persons,2023,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",380.3
+Persons,2023,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",312.5
+Persons,2023,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",n.p.
+Persons,2024,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",485.3
+Persons,2024,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",337.5
+Persons,2024,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",338.7
+Persons,2024,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",n.p.

@@ -1,0 +1,361 @@
+year,characteristic,subcategory,unit,value
+2010,Sex,Females,Number,15909
+2010,Sex,Males,Number,2865
+2010,Sex,Persons,Number,18862
+2010,Jurisdiction,New South Wales,Number,7269
+2010,Jurisdiction,Victoria,Number,3629
+2010,Jurisdiction,Queensland,Number,4239
+2010,Jurisdiction,Western Australia,Number,1654
+2010,Jurisdiction,South Australia,Number,1363
+2010,Jurisdiction,Tasmania,Number,177
+2010,Jurisdiction,Australian Capital Territory,Number,193
+2010,Jurisdiction,Northern Territory,Number,328
+2010,Jurisdiction,Australia,Number,18862
+2011,Sex,Females,Number,15715
+2011,Sex,Males,Number,2837
+2011,Sex,Persons,Number,18616
+2011,Jurisdiction,New South Wales,Number,7024
+2011,Jurisdiction,Victoria,Number,4021
+2011,Jurisdiction,Queensland,Number,3899
+2011,Jurisdiction,Western Australia,Number,1630
+2011,Jurisdiction,South Australia,Number,1355
+2011,Jurisdiction,Tasmania,Number,148
+2011,Jurisdiction,Australian Capital Territory,Number,222
+2011,Jurisdiction,Northern Territory,Number,315
+2011,Jurisdiction,Australia,Number,18616
+2012,Sex,Females,Number,16121
+2012,Sex,Males,Number,3263
+2012,Sex,Persons,Number,19448
+2012,Jurisdiction,New South Wales,Number,7628
+2012,Jurisdiction,Victoria,Number,4149
+2012,Jurisdiction,Queensland,Number,3913
+2012,Jurisdiction,Western Australia,Number,1773
+2012,Jurisdiction,South Australia,Number,1335
+2012,Jurisdiction,Tasmania,Number,123
+2012,Jurisdiction,Australian Capital Territory,Number,202
+2012,Jurisdiction,Northern Territory,Number,325
+2012,Jurisdiction,Australia,Number,19448
+2013,Sex,Females,Number,16562
+2013,Sex,Males,Number,3387
+2013,Sex,Persons,Number,20025
+2013,Jurisdiction,New South Wales,Number,8121
+2013,Jurisdiction,Victoria,Number,3920
+2013,Jurisdiction,Queensland,Number,4019
+2013,Jurisdiction,Western Australia,Number,1825
+2013,Jurisdiction,South Australia,Number,1359
+2013,Jurisdiction,Tasmania,Number,187
+2013,Jurisdiction,Australian Capital Territory,Number,237
+2013,Jurisdiction,Northern Territory,Number,366
+2013,Jurisdiction,Australia,Number,20025
+2014,Sex,Females,Number,17124
+2014,Sex,Males,Number,3538
+2014,Sex,Persons,Number,20741
+2014,Jurisdiction,New South Wales,Number,8192
+2014,Jurisdiction,Victoria,Number,4166
+2014,Jurisdiction,Queensland,Number,4063
+2014,Jurisdiction,Western Australia,Number,1942
+2014,Jurisdiction,South Australia,Number,1545
+2014,Jurisdiction,Tasmania,Number,227
+2014,Jurisdiction,Australian Capital Territory,Number,203
+2014,Jurisdiction,Northern Territory,Number,401
+2014,Jurisdiction,Australia,Number,20741
+2015,Sex,Females,Number,17931
+2015,Sex,Males,Number,3889
+2015,Sex,Persons,Number,21948
+2015,Jurisdiction,New South Wales,Number,8603
+2015,Jurisdiction,Victoria,Number,4719
+2015,Jurisdiction,Queensland,Number,4199
+2015,Jurisdiction,Western Australia,Number,2012
+2015,Jurisdiction,South Australia,Number,1590
+2015,Jurisdiction,Tasmania,Number,186
+2015,Jurisdiction,Australian Capital Territory,Number,240
+2015,Jurisdiction,Northern Territory,Number,401
+2015,Jurisdiction,Australia,Number,21948
+2016,Sex,Females,Number,18855
+2016,Sex,Males,Number,4106
+2016,Sex,Persons,Number,23040
+2016,Jurisdiction,New South Wales,Number,8795
+2016,Jurisdiction,Victoria,Number,5354
+2016,Jurisdiction,Queensland,Number,4349
+2016,Jurisdiction,Western Australia,Number,2157
+2016,Jurisdiction,South Australia,Number,1521
+2016,Jurisdiction,Tasmania,Number,213
+2016,Jurisdiction,Australian Capital Territory,Number,272
+2016,Jurisdiction,Northern Territory,Number,378
+2016,Jurisdiction,Australia,Number,23040
+2017,Sex,Females,Number,21225
+2017,Sex,Males,Number,4522
+2017,Sex,Persons,Number,25837
+2017,Jurisdiction,New South Wales,Number,9847
+2017,Jurisdiction,Victoria,Number,6024
+2017,Jurisdiction,Queensland,Number,4751
+2017,Jurisdiction,Western Australia,Number,2724
+2017,Jurisdiction,South Australia,Number,1584
+2017,Jurisdiction,Tasmania,Number,213
+2017,Jurisdiction,Australian Capital Territory,Number,266
+2017,Jurisdiction,Northern Territory,Number,426
+2017,Jurisdiction,Australia,Number,25837
+2018,Sex,Females,Number,22113
+2018,Sex,Males,Number,4105
+2018,Sex,Persons,Number,26325
+2018,Jurisdiction,New South Wales,Number,10241
+2018,Jurisdiction,Victoria,Number,5911
+2018,Jurisdiction,Queensland,Number,4849
+2018,Jurisdiction,Western Australia,Number,2879
+2018,Jurisdiction,South Australia,Number,1611
+2018,Jurisdiction,Tasmania,Number,199
+2018,Jurisdiction,Australian Capital Territory,Number,278
+2018,Jurisdiction,Northern Territory,Number,360
+2018,Jurisdiction,Australia,Number,26325
+2019,Sex,Females,Number,22308
+2019,Sex,Males,Number,4378
+2019,Sex,Persons,Number,26860
+2019,Jurisdiction,New South Wales,Number,11009
+2019,Jurisdiction,Victoria,Number,5779
+2019,Jurisdiction,Queensland,Number,4859
+2019,Jurisdiction,Western Australia,Number,2769
+2019,Jurisdiction,South Australia,Number,1550
+2019,Jurisdiction,Tasmania,Number,211
+2019,Jurisdiction,Australian Capital Territory,Number,327
+2019,Jurisdiction,Northern Territory,Number,354
+2019,Jurisdiction,Australia,Number,26860
+2020,Sex,Females,Number,23183
+2020,Sex,Males,Number,4265
+2020,Sex,Persons,Number,27538
+2020,Jurisdiction,New South Wales,Number,11276
+2020,Jurisdiction,Victoria,Number,5513
+2020,Jurisdiction,Queensland,Number,5120
+2020,Jurisdiction,Western Australia,Number,3048
+2020,Jurisdiction,South Australia,Number,1625
+2020,Jurisdiction,Tasmania,Number,307
+2020,Jurisdiction,Australian Capital Territory,Number,289
+2020,Jurisdiction,Northern Territory,Number,370
+2020,Jurisdiction,Australia,Number,27538
+2021,Sex,Females,Number,26641
+2021,Sex,Males,Number,4341
+2021,Sex,Persons,Number,31074
+2021,Jurisdiction,New South Wales,Number,11485
+2021,Jurisdiction,Victoria,Number,6164
+2021,Jurisdiction,Queensland,Number,6891
+2021,Jurisdiction,Western Australia,Number,3564
+2021,Jurisdiction,South Australia,Number,1783
+2021,Jurisdiction,Tasmania,Number,493
+2021,Jurisdiction,Australian Capital Territory,Number,341
+2021,Jurisdiction,Northern Territory,Number,355
+2021,Jurisdiction,Australia,Number,31074
+2022,Sex,Females,Number,27508
+2022,Sex,Males,Number,5154
+2022,Sex,Persons,Number,32771
+2022,Jurisdiction,New South Wales,Number,12412
+2022,Jurisdiction,Victoria,Number,6682
+2022,Jurisdiction,Queensland,Number,7431
+2022,Jurisdiction,Western Australia,Number,3158
+2022,Jurisdiction,South Australia,Number,1816
+2022,Jurisdiction,Tasmania,Number,576
+2022,Jurisdiction,Australian Capital Territory,Number,325
+2022,Jurisdiction,Northern Territory,Number,362
+2022,Jurisdiction,Australia,Number,32771
+2023,Sex,Females,Number,30496
+2023,Sex,Males,Number,5697
+2023,Sex,Persons,Number,36352
+2023,Jurisdiction,New South Wales,Number,14708
+2023,Jurisdiction,Victoria,Number,6316
+2023,Jurisdiction,Queensland,Number,8442
+2023,Jurisdiction,Western Australia,Number,3429
+2023,Jurisdiction,South Australia,Number,2014
+2023,Jurisdiction,Tasmania,Number,597
+2023,Jurisdiction,Australian Capital Territory,Number,372
+2023,Jurisdiction,Northern Territory,Number,472
+2023,Jurisdiction,Australia,Number,36352
+2024,Sex,Females,Number,32372
+2024,Sex,Males,Number,6978
+2024,Sex,Persons,Number,40087
+2024,Jurisdiction,New South Wales,Number,16444
+2024,Jurisdiction,Victoria,Number,7121
+2024,Jurisdiction,Queensland,Number,9326
+2024,Jurisdiction,Western Australia,Number,3721
+2024,Jurisdiction,South Australia,Number,1958
+2024,Jurisdiction,Tasmania,Number,567
+2024,Jurisdiction,Australian Capital Territory,Number,428
+2024,Jurisdiction,Northern Territory,Number,516
+2024,Jurisdiction,Australia,Number,40087
+2010,Sex,Females,"Victimisation rate (number per 100,000)",143.8
+2010,Sex,Males,"Victimisation rate (number per 100,000)",26.1
+2010,Sex,Persons,"Victimisation rate (number per 100,000)",85.6
+2010,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",101.7
+2010,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",66.5
+2010,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",96.2
+2010,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",72.2
+2010,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",83.8
+2010,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",34.8
+2010,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",53.3
+2010,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",142.7
+2010,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",85.6
+2011,Sex,Females,"Victimisation rate (number per 100,000)",140.1
+2011,Sex,Males,"Victimisation rate (number per 100,000)",25.5
+2011,Sex,Persons,"Victimisation rate (number per 100,000)",83.3
+2011,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",97.3
+2011,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",72.6
+2011,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",87.1
+2011,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",69.3
+2011,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",82.6
+2011,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",28.9
+2011,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",60.3
+2011,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",136.2
+2011,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",83.3
+2012,Sex,Females,"Victimisation rate (number per 100,000)",141.2
+2012,Sex,Males,"Victimisation rate (number per 100,000)",28.8
+2012,Sex,Persons,"Victimisation rate (number per 100,000)",85.6
+2012,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",104.4
+2012,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",73.4
+2012,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",85.6
+2012,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",73.1
+2012,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",80.6
+2012,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",24.0
+2012,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",53.6
+2012,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",137.8
+2012,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",85.6
+2013,Sex,Females,"Victimisation rate (number per 100,000)",142.5
+2013,Sex,Males,"Victimisation rate (number per 100,000)",29.4
+2013,Sex,Persons,"Victimisation rate (number per 100,000)",86.6
+2013,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",109.7
+2013,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",67.9
+2013,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",86.4
+2013,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",73.4
+2013,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",81.3
+2013,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",36.5
+2013,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",61.8
+2013,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",151.4
+2013,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",86.6
+2014,Sex,Females,"Victimisation rate (number per 100,000)",145.0
+2014,Sex,Males,"Victimisation rate (number per 100,000)",30.3
+2014,Sex,Persons,"Victimisation rate (number per 100,000)",88.4
+2014,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",109.1
+2014,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",70.7
+2014,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",86.1
+2014,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",77.1
+2014,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",91.6
+2014,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",44.2
+2014,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",52.2
+2014,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",165.1
+2014,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",88.4
+2015,Sex,Females,"Victimisation rate (number per 100,000)",149.6
+2015,Sex,Males,"Victimisation rate (number per 100,000)",32.9
+2015,Sex,Persons,"Victimisation rate (number per 100,000)",92.2
+2015,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",113.0
+2015,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",78.4
+2015,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",87.9
+2015,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",79.2
+2015,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",93.5
+2015,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",36.1
+2015,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",60.6
+2015,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",163.9
+2015,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",92.2
+2016,Sex,Females,"Victimisation rate (number per 100,000)",154.7
+2016,Sex,Males,"Victimisation rate (number per 100,000)",34.2
+2016,Sex,Persons,"Victimisation rate (number per 100,000)",95.3
+2016,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",113.7
+2016,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",86.7
+2016,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",89.8
+2016,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",84.4
+2016,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",88.8
+2016,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",41.2
+2016,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",67.5
+2016,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",153.9
+2016,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",95.3
+2017,Sex,Females,"Victimisation rate (number per 100,000)",171.4
+2017,Sex,Males,"Victimisation rate (number per 100,000)",37.1
+2017,Sex,Persons,"Victimisation rate (number per 100,000)",105.1
+2017,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",125.4
+2017,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",95.6
+2017,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",96.4
+2017,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",105.3
+2017,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",91.6
+2017,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",40.4
+2017,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",64.1
+2017,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",172.2
+2017,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",105.1
+2018,Sex,Females,"Victimisation rate (number per 100,000)",175.9
+2018,Sex,Males,"Victimisation rate (number per 100,000)",33.1
+2018,Sex,Persons,"Victimisation rate (number per 100,000)",105.5
+2018,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",128.7
+2018,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",92.0
+2018,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",96.9
+2018,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",110.0
+2018,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",92.3
+2018,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",37.0
+2018,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",65.2
+2018,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",145.7
+2018,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",105.5
+2019,Sex,Females,"Victimisation rate (number per 100,000)",174.9
+2019,Sex,Males,"Victimisation rate (number per 100,000)",34.8
+2019,Sex,Persons,"Victimisation rate (number per 100,000)",106.0
+2019,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",136.8
+2019,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",88.4
+2019,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",95.5
+2019,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",104.1
+2019,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",87.7
+2019,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",38.5
+2019,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",75.0
+2019,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",143.6
+2019,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",106.0
+2020,Sex,Females,"Victimisation rate (number per 100,000)",179.5
+2020,Sex,Males,"Victimisation rate (number per 100,000)",33.5
+2020,Sex,Persons,"Victimisation rate (number per 100,000)",107.4
+2020,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",139.0
+2020,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",83.3
+2020,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",99.1
+2020,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",112.4
+2020,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",90.8
+2020,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",55.1
+2020,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",65.0
+2020,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",149.5
+2020,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",107.4
+2021,Sex,Females,"Victimisation rate (number per 100,000)",206.0
+2021,Sex,Males,"Victimisation rate (number per 100,000)",34.1
+2021,Sex,Persons,"Victimisation rate (number per 100,000)",121.0
+2021,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",141.8
+2021,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",94.1
+2021,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",132.1
+2021,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",129.6
+2021,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",98.9
+2021,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",86.9
+2021,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",75.4
+2021,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",143.1
+2021,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",121.0
+2022,Sex,Females,"Victimisation rate (number per 100,000)",210.1
+2022,Sex,Males,"Victimisation rate (number per 100,000)",40.0
+2022,Sex,Persons,"Victimisation rate (number per 100,000)",126.1
+2022,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",152.2
+2022,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",100.9
+2022,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",139.5
+2022,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",113.3
+2022,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",99.7
+2022,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",100.8
+2022,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",71.2
+2022,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",144.4
+2022,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",126.1
+2023,Sex,Females,"Victimisation rate (number per 100,000)",227.3
+2023,Sex,Males,"Victimisation rate (number per 100,000)",43.1
+2023,Sex,Persons,"Victimisation rate (number per 100,000)",136.4
+2023,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",176.3
+2023,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",92.7
+2023,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",154.6
+2023,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",119.0
+2023,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",108.7
+2023,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",104.2
+2023,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",79.7
+2023,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",186.9
+2023,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",136.4
+2024,Sex,Females,"Victimisation rate (number per 100,000)",236.5
+2024,Sex,Males,"Victimisation rate (number per 100,000)",51.7
+2024,Sex,Persons,"Victimisation rate (number per 100,000)",147.4
+2024,Jurisdiction,New South Wales,"Victimisation rate (number per 100,000)",193.6
+2024,Jurisdiction,Victoria,"Victimisation rate (number per 100,000)",102.4
+2024,Jurisdiction,Queensland,"Victimisation rate (number per 100,000)",167.4
+2024,Jurisdiction,Western Australia,"Victimisation rate (number per 100,000)",125.0
+2024,Jurisdiction,South Australia,"Victimisation rate (number per 100,000)",104.0
+2024,Jurisdiction,Tasmania,"Victimisation rate (number per 100,000)",98.6
+2024,Jurisdiction,Australian Capital Territory,"Victimisation rate (number per 100,000)",89.4
+2024,Jurisdiction,Northern Territory,"Victimisation rate (number per 100,000)",197.8
+2024,Jurisdiction,Australia,"Victimisation rate (number per 100,000)",147.4

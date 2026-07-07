@@ -1,0 +1,85 @@
+sex,year,vulnerability,unit,value
+Females,2011-12,Drug or alcohol misuse,Proportion,9.63454704689433
+Females,2012-13,Drug or alcohol misuse,Proportion,8.97649788064813
+Females,2013-14,Drug or alcohol misuse,Proportion,9.13849342989477
+Females,2014-15,Drug or alcohol misuse,Proportion,9.446990234138863
+Females,2015-16,Drug or alcohol misuse,Proportion,9.801387485063053
+Females,2016-17,Drug or alcohol misuse,Proportion,9.725730792194218
+Females,2017-18,Drug or alcohol misuse,Proportion,9.458772158336744
+Females,2018-19,Drug or alcohol misuse,Proportion,10.683617559982316
+Females,2019-20,Drug or alcohol misuse,Proportion,10.691799354771568
+Females,2020-21,Drug or alcohol misuse,Proportion,10.408482348149413
+Females,2021-22,Drug or alcohol misuse,Proportion,9.821938134916106
+Females,2022-23,Drug or alcohol misuse,Proportion,10.4
+Females,2023-24,Drug or alcohol misuse,Proportion,10.6
+Females,2024-25,Drug or alcohol misuse,Proportion,10.1
+Males,2011-12,Drug or alcohol misuse,Proportion,24.360644535898018
+Males,2012-13,Drug or alcohol misuse,Proportion,24.792708668125478
+Males,2013-14,Drug or alcohol misuse,Proportion,23.479175425078566
+Males,2014-15,Drug or alcohol misuse,Proportion,23.311713302503794
+Males,2015-16,Drug or alcohol misuse,Proportion,22.28110844151472
+Males,2016-17,Drug or alcohol misuse,Proportion,21.557535588990905
+Males,2017-18,Drug or alcohol misuse,Proportion,21.349996258325227
+Males,2018-19,Drug or alcohol misuse,Proportion,20.539795400130593
+Males,2019-20,Drug or alcohol misuse,Proportion,20.00847517480048
+Males,2020-21,Drug or alcohol misuse,Proportion,19.94673586451789
+Males,2021-22,Drug or alcohol misuse,Proportion,18.071058583205662
+Males,2022-23,Drug or alcohol misuse,Proportion,17.9
+Males,2023-24,Drug or alcohol misuse,Proportion,17.5
+Males,2024-25,Drug or alcohol misuse,Proportion,17.2
+Persons,2011-12,Drug or alcohol misuse,Proportion,11.686220710584111
+Persons,2012-13,Drug or alcohol misuse,Proportion,11.13010664599717
+Persons,2013-14,Drug or alcohol misuse,Proportion,11.072091076674702
+Persons,2014-15,Drug or alcohol misuse,Proportion,11.401651879904477
+Persons,2015-16,Drug or alcohol misuse,Proportion,11.601090778516618
+Persons,2016-17,Drug or alcohol misuse,Proportion,11.450518027101959
+Persons,2017-18,Drug or alcohol misuse,Proportion,11.149655231122841
+Persons,2018-19,Drug or alcohol misuse,Proportion,12.219834897659165
+Persons,2019-20,Drug or alcohol misuse,Proportion,12.14091902758401
+Persons,2020-21,Drug or alcohol misuse,Proportion,11.947551099112996
+Persons,2021-22,Drug or alcohol misuse,Proportion,11.171310937406767
+Persons,2022-23,Drug or alcohol misuse,Proportion,11.7
+Persons,2023-24,Drug or alcohol misuse,Proportion,11.8
+Persons,2024-25,Drug or alcohol misuse,Proportion,11.4
+Females,2011-12,Mental health issue,Proportion,23.866914928929475
+Females,2012-13,Mental health issue,Proportion,24.858915959636235
+Females,2013-14,Mental health issue,Proportion,27.4727516097773
+Females,2014-15,Mental health issue,Proportion,29.37283782972503
+Females,2015-16,Mental health issue,Proportion,30.73824685697364
+Females,2016-17,Mental health issue,Proportion,32.405229051207705
+Females,2017-18,Mental health issue,Proportion,32.79743961892002
+Females,2018-19,Mental health issue,Proportion,38.01626321218535
+Females,2019-20,Mental health issue,Proportion,38.344260589031116
+Females,2020-21,Mental health issue,Proportion,39.359619503094166
+Females,2021-22,Mental health issue,Proportion,40.247973975573565
+Females,2022-23,Mental health issue,Proportion,42.3
+Females,2023-24,Mental health issue,Proportion,42
+Females,2024-25,Mental health issue,Proportion,40.4
+Males,2011-12,Mental health issue,Proportion,33.15191856470633
+Males,2012-13,Mental health issue,Proportion,37.03759250040021
+Males,2013-14,Mental health issue,Proportion,38.23079957282049
+Males,2014-15,Mental health issue,Proportion,40.10682580979644
+Males,2015-16,Mental health issue,Proportion,42.16117729101505
+Males,2016-17,Mental health issue,Proportion,41.719188140781824
+Males,2017-18,Mental health issue,Proportion,43.096610042655094
+Males,2018-19,Mental health issue,Proportion,45.360226365812956
+Males,2019-20,Mental health issue,Proportion,44.544106222190834
+Males,2020-21,Mental health issue,Proportion,44.83747609942639
+Males,2021-22,Mental health issue,Proportion,43.40118187787262
+Males,2022-23,Mental health issue,Proportion,43.3
+Males,2023-24,Mental health issue,Proportion,43.4
+Males,2024-25,Mental health issue,Proportion,42.1
+Persons,2011-12,Mental health issue,Proportion,25.16052292253317
+Persons,2012-13,Mental health issue,Proportion,26.51722115668107
+Persons,2013-14,Mental health issue,Proportion,28.923291844354154
+Persons,2014-15,Mental health issue,Proportion,30.88612551007024
+Persons,2015-16,Mental health issue,Proportion,32.3855501576462
+Persons,2016-17,Mental health issue,Proportion,33.76297607470911
+Persons,2017-18,Mental health issue,Proportion,34.26193921852388
+Persons,2018-19,Mental health issue,Proportion,39.16091824041615
+Persons,2019-20,Mental health issue,Proportion,39.30858718458547
+Persons,2020-21,Mental health issue,Proportion,40.243512754118235
+Persons,2021-22,Mental health issue,Proportion,40.76376872128409
+Persons,2022-23,Mental health issue,Proportion,42.5
+Persons,2023-24,Mental health issue,Proportion,42.2
+Persons,2024-25,Mental health issue,Proportion,40.7

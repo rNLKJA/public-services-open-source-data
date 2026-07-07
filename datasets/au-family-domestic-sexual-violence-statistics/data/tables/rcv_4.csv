@@ -1,0 +1,631 @@
+sex,year,characteristic,subcategory,location,unit,value
+Females,2024,Age at report,0–9 years at report,New South Wales,Number,753
+Females,2024,Age at report,10–17 years at report,New South Wales,Number,2428
+Females,2024,Age at report,18–24 years at report,New South Wales,Number,3644
+Females,2024,Age at report,25–34 years at report,New South Wales,Number,5965
+Females,2024,Age at report,35–44 years at report,New South Wales,Number,5202
+Females,2024,Age at report,45–54 years at report,New South Wales,Number,3117
+Females,2024,Age at report,55–64 years at report,New South Wales,Number,1360
+Females,2024,Age at report,65 years and over at report,New South Wales,Number,1006
+Females,2024,Relationship of offender to victim,Intimate partner,New South Wales,Number,13974
+Females,2024,Relationship of offender to victim,Current partner,New South Wales,Number,11246
+Females,2024,Relationship of offender to victim,Ex-partner,New South Wales,Number,2726
+Females,2024,Relationship of offender to victim,Parent,New South Wales,Number,2930
+Females,2024,Relationship of offender to victim,Other,New South Wales,Number,6514
+Females,2024,Setting of offence,Community location,New South Wales,Number,1981
+Females,2024,Setting of offence,Residential location,New South Wales,Number,20498
+Females,2024,Age at report,0–9 years at report,Queensland,Number,347
+Females,2024,Age at report,10–17 years at report,Queensland,Number,2187
+Females,2024,Age at report,18–24 years at report,Queensland,Number,4484
+Females,2024,Age at report,25–34 years at report,Queensland,Number,6797
+Females,2024,Age at report,35–44 years at report,Queensland,Number,5804
+Females,2024,Age at report,45–54 years at report,Queensland,Number,3564
+Females,2024,Age at report,55–64 years at report,Queensland,Number,1294
+Females,2024,Age at report,65 years and over at report,Queensland,Number,671
+Females,2024,Relationship of offender to victim,Intimate partner,Queensland,Number,14843
+Females,2024,Relationship of offender to victim,Current partner,Queensland,Number,11713
+Females,2024,Relationship of offender to victim,Ex-partner,Queensland,Number,3132
+Females,2024,Relationship of offender to victim,Parent,Queensland,Number,2293
+Females,2024,Relationship of offender to victim,Other,Queensland,Number,6750
+Females,2024,Setting of offence,Community location,Queensland,Number,3072
+Females,2024,Setting of offence,Residential location,Queensland,Number,20924
+Females,2024,Age at report,0–9 years at report,Western Australia,Number,266
+Females,2024,Age at report,10–17 years at report,Western Australia,Number,1787
+Females,2024,Age at report,18–24 years at report,Western Australia,Number,3811
+Females,2024,Age at report,25–34 years at report,Western Australia,Number,6418
+Females,2024,Age at report,35–44 years at report,Western Australia,Number,5598
+Females,2024,Age at report,45–54 years at report,Western Australia,Number,2916
+Females,2024,Age at report,55–64 years at report,Western Australia,Number,1003
+Females,2024,Age at report,65 years and over at report,Western Australia,Number,488
+Females,2024,Relationship of offender to victim,Intimate partner,Western Australia,Number,n.a.
+Females,2024,Relationship of offender to victim,Current partner,Western Australia,Number,n.a.
+Females,2024,Relationship of offender to victim,Ex-partner,Western Australia,Number,n.a.
+Females,2024,Relationship of offender to victim,Parent,Western Australia,Number,n.a.
+Females,2024,Relationship of offender to victim,Other,Western Australia,Number,n.a.
+Females,2024,Setting of offence,Community location,Western Australia,Number,2412
+Females,2024,Setting of offence,Residential location,Western Australia,Number,19040
+Females,2024,Age at report,0–9 years at report,South Australia,Number,87
+Females,2024,Age at report,10–17 years at report,South Australia,Number,478
+Females,2024,Age at report,18–24 years at report,South Australia,Number,1119
+Females,2024,Age at report,25–34 years at report,South Australia,Number,2261
+Females,2024,Age at report,35–44 years at report,South Australia,Number,2337
+Females,2024,Age at report,45–54 years at report,South Australia,Number,1272
+Females,2024,Age at report,55–64 years at report,South Australia,Number,516
+Females,2024,Age at report,65 years and over at report,South Australia,Number,344
+Females,2024,Relationship of offender to victim,Intimate partner,South Australia,Number,5587
+Females,2024,Relationship of offender to victim,Current partner,South Australia,Number,3571
+Females,2024,Relationship of offender to victim,Ex-partner,South Australia,Number,2014
+Females,2024,Relationship of offender to victim,Parent,South Australia,Number,1265
+Females,2024,Relationship of offender to victim,Other,South Australia,Number,1541
+Females,2024,Setting of offence,Community location,South Australia,Number,1235
+Females,2024,Setting of offence,Residential location,South Australia,Number,6946
+Females,2024,Age at report,0–9 years at report,Tasmania,Number,27
+Females,2024,Age at report,10–17 years at report,Tasmania,Number,88
+Females,2024,Age at report,18–24 years at report,Tasmania,Number,255
+Females,2024,Age at report,25–34 years at report,Tasmania,Number,465
+Females,2024,Age at report,35–44 years at report,Tasmania,Number,352
+Females,2024,Age at report,45–54 years at report,Tasmania,Number,161
+Females,2024,Age at report,55–64 years at report,Tasmania,Number,64
+Females,2024,Age at report,65 years and over at report,Tasmania,Number,30
+Females,2024,Relationship of offender to victim,Intimate partner,Tasmania,Number,1223
+Females,2024,Relationship of offender to victim,Current partner,Tasmania,Number,706
+Females,2024,Relationship of offender to victim,Ex-partner,Tasmania,Number,517
+Females,2024,Relationship of offender to victim,Parent,Tasmania,Number,78
+Females,2024,Relationship of offender to victim,Other,Tasmania,Number,159
+Females,2024,Setting of offence,Community location,Tasmania,Number,156
+Females,2024,Setting of offence,Residential location,Tasmania,Number,1234
+Females,2024,Age at report,0–9 years at report,Australian Capital Territory,Number,19
+Females,2024,Age at report,10–17 years at report,Australian Capital Territory,Number,71
+Females,2024,Age at report,18–24 years at report,Australian Capital Territory,Number,90
+Females,2024,Age at report,25–34 years at report,Australian Capital Territory,Number,184
+Females,2024,Age at report,35–44 years at report,Australian Capital Territory,Number,174
+Females,2024,Age at report,45–54 years at report,Australian Capital Territory,Number,75
+Females,2024,Age at report,55–64 years at report,Australian Capital Territory,Number,36
+Females,2024,Age at report,65 years and over at report,Australian Capital Territory,Number,28
+Females,2024,Relationship of offender to victim,Intimate partner,Australian Capital Territory,Number,432
+Females,2024,Relationship of offender to victim,Current partner,Australian Capital Territory,Number,311
+Females,2024,Relationship of offender to victim,Ex-partner,Australian Capital Territory,Number,118
+Females,2024,Relationship of offender to victim,Parent,Australian Capital Territory,Number,78
+Females,2024,Relationship of offender to victim,Other,Australian Capital Territory,Number,173
+Females,2024,Setting of offence,Community location,Australian Capital Territory,Number,88
+Females,2024,Setting of offence,Residential location,Australian Capital Territory,Number,578
+Females,2024,Age at report,0–9 years at report,Northern Territory,Number,44
+Females,2024,Age at report,10–17 years at report,Northern Territory,Number,360
+Females,2024,Age at report,18–24 years at report,Northern Territory,Number,1247
+Females,2024,Age at report,25–34 years at report,Northern Territory,Number,1878
+Females,2024,Age at report,35–44 years at report,Northern Territory,Number,1441
+Females,2024,Age at report,45–54 years at report,Northern Territory,Number,722
+Females,2024,Age at report,55–64 years at report,Northern Territory,Number,236
+Females,2024,Age at report,65 years and over at report,Northern Territory,Number,58
+Females,2024,Relationship of offender to victim,Intimate partner,Northern Territory,Number,n.a.
+Females,2024,Relationship of offender to victim,Current partner,Northern Territory,Number,n.a.
+Females,2024,Relationship of offender to victim,Ex-partner,Northern Territory,Number,n.a.
+Females,2024,Relationship of offender to victim,Parent,Northern Territory,Number,n.a.
+Females,2024,Relationship of offender to victim,Other,Northern Territory,Number,n.a.
+Females,2024,Setting of offence,Community location,Northern Territory,Number,2040
+Females,2024,Setting of offence,Residential location,Northern Territory,Number,2799
+Males,2024,Age at report,0–9 years at report,New South Wales,Number,1023
+Males,2024,Age at report,10–17 years at report,New South Wales,Number,1824
+Males,2024,Age at report,18–24 years at report,New South Wales,Number,1723
+Males,2024,Age at report,25–34 years at report,New South Wales,Number,2546
+Males,2024,Age at report,35–44 years at report,New South Wales,Number,2263
+Males,2024,Age at report,45–54 years at report,New South Wales,Number,1856
+Males,2024,Age at report,55–64 years at report,New South Wales,Number,1155
+Males,2024,Age at report,65 years and over at report,New South Wales,Number,853
+Males,2024,Relationship of offender to victim,Intimate partner,New South Wales,Number,4879
+Males,2024,Relationship of offender to victim,Current partner,New South Wales,Number,3966
+Males,2024,Relationship of offender to victim,Ex-partner,New South Wales,Number,910
+Males,2024,Relationship of offender to victim,Parent,New South Wales,Number,2590
+Males,2024,Relationship of offender to victim,Other,New South Wales,Number,5622
+Males,2024,Setting of offence,Community location,New South Wales,Number,1086
+Males,2024,Setting of offence,Residential location,New South Wales,Number,11525
+Males,2024,Age at report,0–9 years at report,Queensland,Number,500
+Males,2024,Age at report,10–17 years at report,Queensland,Number,1411
+Males,2024,Age at report,18–24 years at report,Queensland,Number,1733
+Males,2024,Age at report,25–34 years at report,Queensland,Number,2458
+Males,2024,Age at report,35–44 years at report,Queensland,Number,2289
+Males,2024,Age at report,45–54 years at report,Queensland,Number,1832
+Males,2024,Age at report,55–64 years at report,Queensland,Number,963
+Males,2024,Age at report,65 years and over at report,Queensland,Number,528
+Males,2024,Relationship of offender to victim,Intimate partner,Queensland,Number,4956
+Males,2024,Relationship of offender to victim,Current partner,Queensland,Number,3935
+Males,2024,Relationship of offender to victim,Ex-partner,Queensland,Number,1019
+Males,2024,Relationship of offender to victim,Parent,Queensland,Number,1755
+Males,2024,Relationship of offender to victim,Other,Queensland,Number,4208
+Males,2024,Setting of offence,Community location,Queensland,Number,1320
+Males,2024,Setting of offence,Residential location,Queensland,Number,9854
+Males,2024,Age at report,0–9 years at report,Western Australia,Number,370
+Males,2024,Age at report,10–17 years at report,Western Australia,Number,962
+Males,2024,Age at report,18–24 years at report,Western Australia,Number,976
+Males,2024,Age at report,25–34 years at report,Western Australia,Number,1702
+Males,2024,Age at report,35–44 years at report,Western Australia,Number,1784
+Males,2024,Age at report,45–54 years at report,Western Australia,Number,1299
+Males,2024,Age at report,55–64 years at report,Western Australia,Number,578
+Males,2024,Age at report,65 years and over at report,Western Australia,Number,383
+Males,2024,Relationship of offender to victim,Intimate partner,Western Australia,Number,n.a.
+Males,2024,Relationship of offender to victim,Current partner,Western Australia,Number,n.a.
+Males,2024,Relationship of offender to victim,Ex-partner,Western Australia,Number,n.a.
+Males,2024,Relationship of offender to victim,Parent,Western Australia,Number,n.a.
+Males,2024,Relationship of offender to victim,Other,Western Australia,Number,n.a.
+Males,2024,Setting of offence,Community location,Western Australia,Number,756
+Males,2024,Setting of offence,Residential location,Western Australia,Number,7018
+Males,2024,Age at report,0–9 years at report,South Australia,Number,122
+Males,2024,Age at report,10–17 years at report,South Australia,Number,316
+Males,2024,Age at report,18–24 years at report,South Australia,Number,398
+Males,2024,Age at report,25–34 years at report,South Australia,Number,654
+Males,2024,Age at report,35–44 years at report,South Australia,Number,798
+Males,2024,Age at report,45–54 years at report,South Australia,Number,545
+Males,2024,Age at report,55–64 years at report,South Australia,Number,400
+Males,2024,Age at report,65 years and over at report,South Australia,Number,233
+Males,2024,Relationship of offender to victim,Intimate partner,South Australia,Number,1606
+Males,2024,Relationship of offender to victim,Current partner,South Australia,Number,1026
+Males,2024,Relationship of offender to victim,Ex-partner,South Australia,Number,582
+Males,2024,Relationship of offender to victim,Parent,South Australia,Number,748
+Males,2024,Relationship of offender to victim,Other,South Australia,Number,1106
+Males,2024,Setting of offence,Community location,South Australia,Number,535
+Males,2024,Setting of offence,Residential location,South Australia,Number,2842
+Males,2024,Age at report,0–9 years at report,Tasmania,Number,23
+Males,2024,Age at report,10–17 years at report,Tasmania,Number,46
+Males,2024,Age at report,18–24 years at report,Tasmania,Number,73
+Males,2024,Age at report,25–34 years at report,Tasmania,Number,130
+Males,2024,Age at report,35–44 years at report,Tasmania,Number,108
+Males,2024,Age at report,45–54 years at report,Tasmania,Number,80
+Males,2024,Age at report,55–64 years at report,Tasmania,Number,42
+Males,2024,Age at report,65 years and over at report,Tasmania,Number,25
+Males,2024,Relationship of offender to victim,Intimate partner,Tasmania,Number,379
+Males,2024,Relationship of offender to victim,Current partner,Tasmania,Number,229
+Males,2024,Relationship of offender to victim,Ex-partner,Tasmania,Number,159
+Males,2024,Relationship of offender to victim,Parent,Tasmania,Number,56
+Males,2024,Relationship of offender to victim,Other,Tasmania,Number,89
+Males,2024,Setting of offence,Community location,Tasmania,Number,71
+Males,2024,Setting of offence,Residential location,Tasmania,Number,435
+Males,2024,Age at report,0–9 years at report,Australian Capital Territory,Number,38
+Males,2024,Age at report,10–17 years at report,Australian Capital Territory,Number,40
+Males,2024,Age at report,18–24 years at report,Australian Capital Territory,Number,36
+Males,2024,Age at report,25–34 years at report,Australian Capital Territory,Number,35
+Males,2024,Age at report,35–44 years at report,Australian Capital Territory,Number,55
+Males,2024,Age at report,45–54 years at report,Australian Capital Territory,Number,50
+Males,2024,Age at report,55–64 years at report,Australian Capital Territory,Number,26
+Males,2024,Age at report,65 years and over at report,Australian Capital Territory,Number,12
+Males,2024,Relationship of offender to victim,Intimate partner,Australian Capital Territory,Number,111
+Males,2024,Relationship of offender to victim,Current partner,Australian Capital Territory,Number,78
+Males,2024,Relationship of offender to victim,Ex-partner,Australian Capital Territory,Number,35
+Males,2024,Relationship of offender to victim,Parent,Australian Capital Territory,Number,70
+Males,2024,Relationship of offender to victim,Other,Australian Capital Territory,Number,118
+Males,2024,Setting of offence,Community location,Australian Capital Territory,Number,30
+Males,2024,Setting of offence,Residential location,Australian Capital Territory,Number,263
+Males,2024,Age at report,0–9 years at report,Northern Territory,Number,42
+Males,2024,Age at report,10–17 years at report,Northern Territory,Number,97
+Males,2024,Age at report,18–24 years at report,Northern Territory,Number,204
+Males,2024,Age at report,25–34 years at report,Northern Territory,Number,399
+Males,2024,Age at report,35–44 years at report,Northern Territory,Number,350
+Males,2024,Age at report,45–54 years at report,Northern Territory,Number,241
+Males,2024,Age at report,55–64 years at report,Northern Territory,Number,108
+Males,2024,Age at report,65 years and over at report,Northern Territory,Number,39
+Males,2024,Relationship of offender to victim,Intimate partner,Northern Territory,Number,n.a.
+Males,2024,Relationship of offender to victim,Current partner,Northern Territory,Number,n.a.
+Males,2024,Relationship of offender to victim,Ex-partner,Northern Territory,Number,n.a.
+Males,2024,Relationship of offender to victim,Parent,Northern Territory,Number,n.a.
+Males,2024,Relationship of offender to victim,Other,Northern Territory,Number,n.a.
+Males,2024,Setting of offence,Community location,Northern Territory,Number,465
+Males,2024,Setting of offence,Residential location,Northern Territory,Number,724
+Persons,2024,Age at report,0–9 years at report,New South Wales,Number,1799
+Persons,2024,Age at report,10–17 years at report,New South Wales,Number,4355
+Persons,2024,Age at report,18–24 years at report,New South Wales,Number,5577
+Persons,2024,Age at report,25–34 years at report,New South Wales,Number,8914
+Persons,2024,Age at report,35–44 years at report,New South Wales,Number,7939
+Persons,2024,Age at report,45–54 years at report,New South Wales,Number,5360
+Persons,2024,Age at report,55–64 years at report,New South Wales,Number,2702
+Persons,2024,Age at report,65 years and over at report,New South Wales,Number,2013
+Persons,2024,Relationship of offender to victim,Intimate partner,New South Wales,Number,19916
+Persons,2024,Relationship of offender to victim,Current partner,New South Wales,Number,16071
+Persons,2024,Relationship of offender to victim,Ex-partner,New South Wales,Number,3842
+Persons,2024,Relationship of offender to victim,Parent,New South Wales,Number,5676
+Persons,2024,Relationship of offender to victim,Other,New South Wales,Number,12841
+Persons,2024,Setting of offence,Community location,New South Wales,Number,3224
+Persons,2024,Setting of offence,Residential location,New South Wales,Number,33738
+Persons,2024,Age at report,0–9 years at report,Queensland,Number,844
+Persons,2024,Age at report,10–17 years at report,Queensland,Number,3611
+Persons,2024,Age at report,18–24 years at report,Queensland,Number,6219
+Persons,2024,Age at report,25–34 years at report,Queensland,Number,9261
+Persons,2024,Age at report,35–44 years at report,Queensland,Number,8098
+Persons,2024,Age at report,45–54 years at report,Queensland,Number,5402
+Persons,2024,Age at report,55–64 years at report,Queensland,Number,2256
+Persons,2024,Age at report,65 years and over at report,Queensland,Number,1195
+Persons,2024,Relationship of offender to victim,Intimate partner,Queensland,Number,19816
+Persons,2024,Relationship of offender to victim,Current partner,Queensland,Number,15665
+Persons,2024,Relationship of offender to victim,Ex-partner,Queensland,Number,4151
+Persons,2024,Relationship of offender to victim,Parent,Queensland,Number,4055
+Persons,2024,Relationship of offender to victim,Other,Queensland,Number,10964
+Persons,2024,Setting of offence,Community location,Queensland,Number,4394
+Persons,2024,Setting of offence,Residential location,Queensland,Number,30806
+Persons,2024,Age at report,0–9 years at report,Western Australia,Number,658
+Persons,2024,Age at report,10–17 years at report,Western Australia,Number,2783
+Persons,2024,Age at report,18–24 years at report,Western Australia,Number,4791
+Persons,2024,Age at report,25–34 years at report,Western Australia,Number,8140
+Persons,2024,Age at report,35–44 years at report,Western Australia,Number,7398
+Persons,2024,Age at report,45–54 years at report,Western Australia,Number,4223
+Persons,2024,Age at report,55–64 years at report,Western Australia,Number,1579
+Persons,2024,Age at report,65 years and over at report,Western Australia,Number,874
+Persons,2024,Relationship of offender to victim,Intimate partner,Western Australia,Number,n.a.
+Persons,2024,Relationship of offender to victim,Current partner,Western Australia,Number,n.a.
+Persons,2024,Relationship of offender to victim,Ex-partner,Western Australia,Number,n.a.
+Persons,2024,Relationship of offender to victim,Parent,Western Australia,Number,n.a.
+Persons,2024,Relationship of offender to victim,Other,Western Australia,Number,n.a.
+Persons,2024,Setting of offence,Community location,Western Australia,Number,3182
+Persons,2024,Setting of offence,Residential location,Western Australia,Number,26167
+Persons,2024,Age at report,0–9 years at report,South Australia,Number,210
+Persons,2024,Age at report,10–17 years at report,South Australia,Number,799
+Persons,2024,Age at report,18–24 years at report,South Australia,Number,1524
+Persons,2024,Age at report,25–34 years at report,South Australia,Number,2918
+Persons,2024,Age at report,35–44 years at report,South Australia,Number,3135
+Persons,2024,Age at report,45–54 years at report,South Australia,Number,1815
+Persons,2024,Age at report,55–64 years at report,South Australia,Number,915
+Persons,2024,Age at report,65 years and over at report,South Australia,Number,573
+Persons,2024,Relationship of offender to victim,Intimate partner,South Australia,Number,7198
+Persons,2024,Relationship of offender to victim,Current partner,South Australia,Number,4601
+Persons,2024,Relationship of offender to victim,Ex-partner,South Australia,Number,2595
+Persons,2024,Relationship of offender to victim,Parent,South Australia,Number,2014
+Persons,2024,Relationship of offender to victim,Other,South Australia,Number,2648
+Persons,2024,Setting of offence,Community location,South Australia,Number,1777
+Persons,2024,Setting of offence,Residential location,South Australia,Number,9792
+Persons,2024,Age at report,0–9 years at report,Tasmania,Number,54
+Persons,2024,Age at report,10–17 years at report,Tasmania,Number,136
+Persons,2024,Age at report,18–24 years at report,Tasmania,Number,329
+Persons,2024,Age at report,25–34 years at report,Tasmania,Number,602
+Persons,2024,Age at report,35–44 years at report,Tasmania,Number,459
+Persons,2024,Age at report,45–54 years at report,Tasmania,Number,240
+Persons,2024,Age at report,55–64 years at report,Tasmania,Number,103
+Persons,2024,Age at report,65 years and over at report,Tasmania,Number,61
+Persons,2024,Relationship of offender to victim,Intimate partner,Tasmania,Number,1607
+Persons,2024,Relationship of offender to victim,Current partner,Tasmania,Number,938
+Persons,2024,Relationship of offender to victim,Ex-partner,Tasmania,Number,675
+Persons,2024,Relationship of offender to victim,Parent,Tasmania,Number,134
+Persons,2024,Relationship of offender to victim,Other,Tasmania,Number,253
+Persons,2024,Setting of offence,Community location,Tasmania,Number,231
+Persons,2024,Setting of offence,Residential location,Tasmania,Number,1673
+Persons,2024,Age at report,0–9 years at report,Australian Capital Territory,Number,54
+Persons,2024,Age at report,10–17 years at report,Australian Capital Territory,Number,110
+Persons,2024,Age at report,18–24 years at report,Australian Capital Territory,Number,129
+Persons,2024,Age at report,25–34 years at report,Australian Capital Territory,Number,224
+Persons,2024,Age at report,35–44 years at report,Australian Capital Territory,Number,232
+Persons,2024,Age at report,45–54 years at report,Australian Capital Territory,Number,129
+Persons,2024,Age at report,55–64 years at report,Australian Capital Territory,Number,67
+Persons,2024,Age at report,65 years and over at report,Australian Capital Territory,Number,47
+Persons,2024,Relationship of offender to victim,Intimate partner,Australian Capital Territory,Number,544
+Persons,2024,Relationship of offender to victim,Current partner,Australian Capital Territory,Number,396
+Persons,2024,Relationship of offender to victim,Ex-partner,Australian Capital Territory,Number,145
+Persons,2024,Relationship of offender to victim,Parent,Australian Capital Territory,Number,151
+Persons,2024,Relationship of offender to victim,Other,Australian Capital Territory,Number,282
+Persons,2024,Setting of offence,Community location,Australian Capital Territory,Number,121
+Persons,2024,Setting of offence,Residential location,Australian Capital Territory,Number,863
+Persons,2024,Age at report,0–9 years at report,Northern Territory,Number,95
+Persons,2024,Age at report,10–17 years at report,Northern Territory,Number,460
+Persons,2024,Age at report,18–24 years at report,Northern Territory,Number,1453
+Persons,2024,Age at report,25–34 years at report,Northern Territory,Number,2288
+Persons,2024,Age at report,35–44 years at report,Northern Territory,Number,1795
+Persons,2024,Age at report,45–54 years at report,Northern Territory,Number,966
+Persons,2024,Age at report,55–64 years at report,Northern Territory,Number,349
+Persons,2024,Age at report,65 years and over at report,Northern Territory,Number,97
+Persons,2024,Relationship of offender to victim,Intimate partner,Northern Territory,Number,n.a.
+Persons,2024,Relationship of offender to victim,Current partner,Northern Territory,Number,n.a.
+Persons,2024,Relationship of offender to victim,Ex-partner,Northern Territory,Number,n.a.
+Persons,2024,Relationship of offender to victim,Parent,Northern Territory,Number,n.a.
+Persons,2024,Relationship of offender to victim,Other,Northern Territory,Number,n.a.
+Persons,2024,Setting of offence,Community location,Northern Territory,Number,2513
+Persons,2024,Setting of offence,Residential location,Northern Territory,Number,3529
+Females,2024,Age at report,0–9 years at report,New South Wales,Proportion (%),3.2
+Females,2024,Age at report,10–17 years at report,New South Wales,Proportion (%),10.3
+Females,2024,Age at report,18–24 years at report,New South Wales,Proportion (%),15.5
+Females,2024,Age at report,25–34 years at report,New South Wales,Proportion (%),25.4
+Females,2024,Age at report,35–44 years at report,New South Wales,Proportion (%),22.1
+Females,2024,Age at report,45–54 years at report,New South Wales,Proportion (%),13.3
+Females,2024,Age at report,55–64 years at report,New South Wales,Proportion (%),5.8
+Females,2024,Age at report,65 years and over at report,New South Wales,Proportion (%),4.3
+Females,2024,Relationship of offender to victim,Intimate partner,New South Wales,Proportion (%),59.4
+Females,2024,Relationship of offender to victim,Current partner,New South Wales,Proportion (%),47.8
+Females,2024,Relationship of offender to victim,Ex-partner,New South Wales,Proportion (%),11.6
+Females,2024,Relationship of offender to victim,Parent,New South Wales,Proportion (%),12.5
+Females,2024,Relationship of offender to victim,Other,New South Wales,Proportion (%),27.7
+Females,2024,Setting of offence,Community location,New South Wales,Proportion (%),8.4
+Females,2024,Setting of offence,Residential location,New South Wales,Proportion (%),87.2
+Females,2024,Age at report,0–9 years at report,Queensland,Proportion (%),1.4
+Females,2024,Age at report,10–17 years at report,Queensland,Proportion (%),8.7
+Females,2024,Age at report,18–24 years at report,Queensland,Proportion (%),17.8
+Females,2024,Age at report,25–34 years at report,Queensland,Proportion (%),27.0
+Females,2024,Age at report,35–44 years at report,Queensland,Proportion (%),23.1
+Females,2024,Age at report,45–54 years at report,Queensland,Proportion (%),14.2
+Females,2024,Age at report,55–64 years at report,Queensland,Proportion (%),5.1
+Females,2024,Age at report,65 years and over at report,Queensland,Proportion (%),2.7
+Females,2024,Relationship of offender to victim,Intimate partner,Queensland,Proportion (%),59.0
+Females,2024,Relationship of offender to victim,Current partner,Queensland,Proportion (%),46.6
+Females,2024,Relationship of offender to victim,Ex-partner,Queensland,Proportion (%),12.5
+Females,2024,Relationship of offender to victim,Parent,Queensland,Proportion (%),9.1
+Females,2024,Relationship of offender to victim,Other,Queensland,Proportion (%),26.8
+Females,2024,Setting of offence,Community location,Queensland,Proportion (%),12.2
+Females,2024,Setting of offence,Residential location,Queensland,Proportion (%),83.2
+Females,2024,Age at report,0–9 years at report,Western Australia,Proportion (%),1.2
+Females,2024,Age at report,10–17 years at report,Western Australia,Proportion (%),8.0
+Females,2024,Age at report,18–24 years at report,Western Australia,Proportion (%),17.1
+Females,2024,Age at report,25–34 years at report,Western Australia,Proportion (%),28.8
+Females,2024,Age at report,35–44 years at report,Western Australia,Proportion (%),25.1
+Females,2024,Age at report,45–54 years at report,Western Australia,Proportion (%),13.1
+Females,2024,Age at report,55–64 years at report,Western Australia,Proportion (%),4.5
+Females,2024,Age at report,65 years and over at report,Western Australia,Proportion (%),2.2
+Females,2024,Relationship of offender to victim,Intimate partner,Western Australia,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Current partner,Western Australia,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Ex-partner,Western Australia,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Parent,Western Australia,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Other,Western Australia,Proportion (%),n.a.
+Females,2024,Setting of offence,Community location,Western Australia,Proportion (%),10.8
+Females,2024,Setting of offence,Residential location,Western Australia,Proportion (%),85.5
+Females,2024,Age at report,0–9 years at report,South Australia,Proportion (%),1.0
+Females,2024,Age at report,10–17 years at report,South Australia,Proportion (%),5.7
+Females,2024,Age at report,18–24 years at report,South Australia,Proportion (%),13.3
+Females,2024,Age at report,25–34 years at report,South Australia,Proportion (%),26.9
+Females,2024,Age at report,35–44 years at report,South Australia,Proportion (%),27.8
+Females,2024,Age at report,45–54 years at report,South Australia,Proportion (%),15.1
+Females,2024,Age at report,55–64 years at report,South Australia,Proportion (%),6.1
+Females,2024,Age at report,65 years and over at report,South Australia,Proportion (%),4.1
+Females,2024,Relationship of offender to victim,Intimate partner,South Australia,Proportion (%),66.4
+Females,2024,Relationship of offender to victim,Current partner,South Australia,Proportion (%),42.5
+Females,2024,Relationship of offender to victim,Ex-partner,South Australia,Proportion (%),24.0
+Females,2024,Relationship of offender to victim,Parent,South Australia,Proportion (%),15.0
+Females,2024,Relationship of offender to victim,Other,South Australia,Proportion (%),18.3
+Females,2024,Setting of offence,Community location,South Australia,Proportion (%),14.7
+Females,2024,Setting of offence,Residential location,South Australia,Proportion (%),82.6
+Females,2024,Age at report,0–9 years at report,Tasmania,Proportion (%),1.9
+Females,2024,Age at report,10–17 years at report,Tasmania,Proportion (%),6.0
+Females,2024,Age at report,18–24 years at report,Tasmania,Proportion (%),17.5
+Females,2024,Age at report,25–34 years at report,Tasmania,Proportion (%),32.0
+Females,2024,Age at report,35–44 years at report,Tasmania,Proportion (%),24.2
+Females,2024,Age at report,45–54 years at report,Tasmania,Proportion (%),11.1
+Females,2024,Age at report,55–64 years at report,Tasmania,Proportion (%),4.4
+Females,2024,Age at report,65 years and over at report,Tasmania,Proportion (%),2.1
+Females,2024,Relationship of offender to victim,Intimate partner,Tasmania,Proportion (%),84.1
+Females,2024,Relationship of offender to victim,Current partner,Tasmania,Proportion (%),48.5
+Females,2024,Relationship of offender to victim,Ex-partner,Tasmania,Proportion (%),35.5
+Females,2024,Relationship of offender to victim,Parent,Tasmania,Proportion (%),5.4
+Females,2024,Relationship of offender to victim,Other,Tasmania,Proportion (%),10.9
+Females,2024,Setting of offence,Community location,Tasmania,Proportion (%),10.7
+Females,2024,Setting of offence,Residential location,Tasmania,Proportion (%),84.8
+Females,2024,Age at report,0–9 years at report,Australian Capital Territory,Proportion (%),2.8
+Females,2024,Age at report,10–17 years at report,Australian Capital Territory,Proportion (%),10.4
+Females,2024,Age at report,18–24 years at report,Australian Capital Territory,Proportion (%),13.2
+Females,2024,Age at report,25–34 years at report,Australian Capital Territory,Proportion (%),26.9
+Females,2024,Age at report,35–44 years at report,Australian Capital Territory,Proportion (%),25.4
+Females,2024,Age at report,45–54 years at report,Australian Capital Territory,Proportion (%),11.0
+Females,2024,Age at report,55–64 years at report,Australian Capital Territory,Proportion (%),5.3
+Females,2024,Age at report,65 years and over at report,Australian Capital Territory,Proportion (%),4.1
+Females,2024,Relationship of offender to victim,Intimate partner,Australian Capital Territory,Proportion (%),63.2
+Females,2024,Relationship of offender to victim,Current partner,Australian Capital Territory,Proportion (%),45.5
+Females,2024,Relationship of offender to victim,Ex-partner,Australian Capital Territory,Proportion (%),17.3
+Females,2024,Relationship of offender to victim,Parent,Australian Capital Territory,Proportion (%),11.4
+Females,2024,Relationship of offender to victim,Other,Australian Capital Territory,Proportion (%),25.3
+Females,2024,Setting of offence,Community location,Australian Capital Territory,Proportion (%),12.9
+Females,2024,Setting of offence,Residential location,Australian Capital Territory,Proportion (%),84.5
+Females,2024,Age at report,0–9 years at report,Northern Territory,Proportion (%),0.7
+Females,2024,Age at report,10–17 years at report,Northern Territory,Proportion (%),6.0
+Females,2024,Age at report,18–24 years at report,Northern Territory,Proportion (%),20.8
+Females,2024,Age at report,25–34 years at report,Northern Territory,Proportion (%),31.3
+Females,2024,Age at report,35–44 years at report,Northern Territory,Proportion (%),24.0
+Females,2024,Age at report,45–54 years at report,Northern Territory,Proportion (%),12.0
+Females,2024,Age at report,55–64 years at report,Northern Territory,Proportion (%),3.9
+Females,2024,Age at report,65 years and over at report,Northern Territory,Proportion (%),1.0
+Females,2024,Relationship of offender to victim,Intimate partner,Northern Territory,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Current partner,Northern Territory,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Ex-partner,Northern Territory,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Parent,Northern Territory,Proportion (%),n.a.
+Females,2024,Relationship of offender to victim,Other,Northern Territory,Proportion (%),n.a.
+Females,2024,Setting of offence,Community location,Northern Territory,Proportion (%),34.0
+Females,2024,Setting of offence,Residential location,Northern Territory,Proportion (%),46.7
+Males,2024,Age at report,0–9 years at report,New South Wales,Proportion (%),7.7
+Males,2024,Age at report,10–17 years at report,New South Wales,Proportion (%),13.7
+Males,2024,Age at report,18–24 years at report,New South Wales,Proportion (%),13.0
+Males,2024,Age at report,25–34 years at report,New South Wales,Proportion (%),19.2
+Males,2024,Age at report,35–44 years at report,New South Wales,Proportion (%),17.1
+Males,2024,Age at report,45–54 years at report,New South Wales,Proportion (%),14.0
+Males,2024,Age at report,55–64 years at report,New South Wales,Proportion (%),8.7
+Males,2024,Age at report,65 years and over at report,New South Wales,Proportion (%),6.4
+Males,2024,Relationship of offender to victim,Intimate partner,New South Wales,Proportion (%),36.8
+Males,2024,Relationship of offender to victim,Current partner,New South Wales,Proportion (%),29.9
+Males,2024,Relationship of offender to victim,Ex-partner,New South Wales,Proportion (%),6.9
+Males,2024,Relationship of offender to victim,Parent,New South Wales,Proportion (%),19.5
+Males,2024,Relationship of offender to victim,Other,New South Wales,Proportion (%),42.4
+Males,2024,Setting of offence,Community location,New South Wales,Proportion (%),8.2
+Males,2024,Setting of offence,Residential location,New South Wales,Proportion (%),86.9
+Males,2024,Age at report,0–9 years at report,Queensland,Proportion (%),4.3
+Males,2024,Age at report,10–17 years at report,Queensland,Proportion (%),12.0
+Males,2024,Age at report,18–24 years at report,Queensland,Proportion (%),14.8
+Males,2024,Age at report,25–34 years at report,Queensland,Proportion (%),21.0
+Males,2024,Age at report,35–44 years at report,Queensland,Proportion (%),19.5
+Males,2024,Age at report,45–54 years at report,Queensland,Proportion (%),15.6
+Males,2024,Age at report,55–64 years at report,Queensland,Proportion (%),8.2
+Males,2024,Age at report,65 years and over at report,Queensland,Proportion (%),4.5
+Males,2024,Relationship of offender to victim,Intimate partner,Queensland,Proportion (%),42.3
+Males,2024,Relationship of offender to victim,Current partner,Queensland,Proportion (%),33.6
+Males,2024,Relationship of offender to victim,Ex-partner,Queensland,Proportion (%),8.7
+Males,2024,Relationship of offender to victim,Parent,Queensland,Proportion (%),15.0
+Males,2024,Relationship of offender to victim,Other,Queensland,Proportion (%),35.9
+Males,2024,Setting of offence,Community location,Queensland,Proportion (%),11.3
+Males,2024,Setting of offence,Residential location,Queensland,Proportion (%),84.1
+Males,2024,Age at report,0–9 years at report,Western Australia,Proportion (%),4.6
+Males,2024,Age at report,10–17 years at report,Western Australia,Proportion (%),11.9
+Males,2024,Age at report,18–24 years at report,Western Australia,Proportion (%),12.1
+Males,2024,Age at report,25–34 years at report,Western Australia,Proportion (%),21.1
+Males,2024,Age at report,35–44 years at report,Western Australia,Proportion (%),22.2
+Males,2024,Age at report,45–54 years at report,Western Australia,Proportion (%),16.1
+Males,2024,Age at report,55–64 years at report,Western Australia,Proportion (%),7.2
+Males,2024,Age at report,65 years and over at report,Western Australia,Proportion (%),4.8
+Males,2024,Relationship of offender to victim,Intimate partner,Western Australia,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Current partner,Western Australia,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Ex-partner,Western Australia,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Parent,Western Australia,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Other,Western Australia,Proportion (%),n.a.
+Males,2024,Setting of offence,Community location,Western Australia,Proportion (%),9.4
+Males,2024,Setting of offence,Residential location,Western Australia,Proportion (%),87.1
+Males,2024,Age at report,0–9 years at report,South Australia,Proportion (%),3.5
+Males,2024,Age at report,10–17 years at report,South Australia,Proportion (%),9.1
+Males,2024,Age at report,18–24 years at report,South Australia,Proportion (%),11.5
+Males,2024,Age at report,25–34 years at report,South Australia,Proportion (%),18.8
+Males,2024,Age at report,35–44 years at report,South Australia,Proportion (%),23.0
+Males,2024,Age at report,45–54 years at report,South Australia,Proportion (%),15.7
+Males,2024,Age at report,55–64 years at report,South Australia,Proportion (%),11.5
+Males,2024,Age at report,65 years and over at report,South Australia,Proportion (%),6.7
+Males,2024,Relationship of offender to victim,Intimate partner,South Australia,Proportion (%),46.3
+Males,2024,Relationship of offender to victim,Current partner,South Australia,Proportion (%),29.6
+Males,2024,Relationship of offender to victim,Ex-partner,South Australia,Proportion (%),16.8
+Males,2024,Relationship of offender to victim,Parent,South Australia,Proportion (%),21.5
+Males,2024,Relationship of offender to victim,Other,South Australia,Proportion (%),31.9
+Males,2024,Setting of offence,Community location,South Australia,Proportion (%),15.4
+Males,2024,Setting of offence,Residential location,South Australia,Proportion (%),81.9
+Males,2024,Age at report,0–9 years at report,Tasmania,Proportion (%),4.3
+Males,2024,Age at report,10–17 years at report,Tasmania,Proportion (%),8.7
+Males,2024,Age at report,18–24 years at report,Tasmania,Proportion (%),13.8
+Males,2024,Age at report,25–34 years at report,Tasmania,Proportion (%),24.5
+Males,2024,Age at report,35–44 years at report,Tasmania,Proportion (%),20.4
+Males,2024,Age at report,45–54 years at report,Tasmania,Proportion (%),15.1
+Males,2024,Age at report,55–64 years at report,Tasmania,Proportion (%),7.9
+Males,2024,Age at report,65 years and over at report,Tasmania,Proportion (%),4.7
+Males,2024,Relationship of offender to victim,Intimate partner,Tasmania,Proportion (%),71.5
+Males,2024,Relationship of offender to victim,Current partner,Tasmania,Proportion (%),43.2
+Males,2024,Relationship of offender to victim,Ex-partner,Tasmania,Proportion (%),30.0
+Males,2024,Relationship of offender to victim,Parent,Tasmania,Proportion (%),10.6
+Males,2024,Relationship of offender to victim,Other,Tasmania,Proportion (%),16.8
+Males,2024,Setting of offence,Community location,Tasmania,Proportion (%),13.4
+Males,2024,Setting of offence,Residential location,Tasmania,Proportion (%),82.1
+Males,2024,Age at report,0–9 years at report,Australian Capital Territory,Proportion (%),12.3
+Males,2024,Age at report,10–17 years at report,Australian Capital Territory,Proportion (%),12.9
+Males,2024,Age at report,18–24 years at report,Australian Capital Territory,Proportion (%),11.7
+Males,2024,Age at report,25–34 years at report,Australian Capital Territory,Proportion (%),11.3
+Males,2024,Age at report,35–44 years at report,Australian Capital Territory,Proportion (%),17.8
+Males,2024,Age at report,45–54 years at report,Australian Capital Territory,Proportion (%),16.2
+Males,2024,Age at report,55–64 years at report,Australian Capital Territory,Proportion (%),8.4
+Males,2024,Age at report,65 years and over at report,Australian Capital Territory,Proportion (%),3.9
+Males,2024,Relationship of offender to victim,Intimate partner,Australian Capital Territory,Proportion (%),35.9
+Males,2024,Relationship of offender to victim,Current partner,Australian Capital Territory,Proportion (%),25.2
+Males,2024,Relationship of offender to victim,Ex-partner,Australian Capital Territory,Proportion (%),11.3
+Males,2024,Relationship of offender to victim,Parent,Australian Capital Territory,Proportion (%),22.7
+Males,2024,Relationship of offender to victim,Other,Australian Capital Territory,Proportion (%),38.2
+Males,2024,Setting of offence,Community location,Australian Capital Territory,Proportion (%),9.7
+Males,2024,Setting of offence,Residential location,Australian Capital Territory,Proportion (%),85.1
+Males,2024,Age at report,0–9 years at report,Northern Territory,Proportion (%),2.8
+Males,2024,Age at report,10–17 years at report,Northern Territory,Proportion (%),6.5
+Males,2024,Age at report,18–24 years at report,Northern Territory,Proportion (%),13.7
+Males,2024,Age at report,25–34 years at report,Northern Territory,Proportion (%),26.9
+Males,2024,Age at report,35–44 years at report,Northern Territory,Proportion (%),23.6
+Males,2024,Age at report,45–54 years at report,Northern Territory,Proportion (%),16.2
+Males,2024,Age at report,55–64 years at report,Northern Territory,Proportion (%),7.3
+Males,2024,Age at report,65 years and over at report,Northern Territory,Proportion (%),2.6
+Males,2024,Relationship of offender to victim,Intimate partner,Northern Territory,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Current partner,Northern Territory,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Ex-partner,Northern Territory,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Parent,Northern Territory,Proportion (%),n.a.
+Males,2024,Relationship of offender to victim,Other,Northern Territory,Proportion (%),n.a.
+Males,2024,Setting of offence,Community location,Northern Territory,Proportion (%),31.3
+Males,2024,Setting of offence,Residential location,Northern Territory,Proportion (%),48.8
+Persons,2024,Age at report,0–9 years at report,New South Wales,Proportion (%),4.6
+Persons,2024,Age at report,10–17 years at report,New South Wales,Proportion (%),11.2
+Persons,2024,Age at report,18–24 years at report,New South Wales,Proportion (%),14.4
+Persons,2024,Age at report,25–34 years at report,New South Wales,Proportion (%),23.0
+Persons,2024,Age at report,35–44 years at report,New South Wales,Proportion (%),20.5
+Persons,2024,Age at report,45–54 years at report,New South Wales,Proportion (%),13.8
+Persons,2024,Age at report,55–64 years at report,New South Wales,Proportion (%),7.0
+Persons,2024,Age at report,65 years and over at report,New South Wales,Proportion (%),5.2
+Persons,2024,Relationship of offender to victim,Intimate partner,New South Wales,Proportion (%),51.4
+Persons,2024,Relationship of offender to victim,Current partner,New South Wales,Proportion (%),41.5
+Persons,2024,Relationship of offender to victim,Ex-partner,New South Wales,Proportion (%),9.9
+Persons,2024,Relationship of offender to victim,Parent,New South Wales,Proportion (%),14.7
+Persons,2024,Relationship of offender to victim,Other,New South Wales,Proportion (%),33.2
+Persons,2024,Setting of offence,Community location,New South Wales,Proportion (%),8.3
+Persons,2024,Setting of offence,Residential location,New South Wales,Proportion (%),87.1
+Persons,2024,Age at report,0–9 years at report,Queensland,Proportion (%),2.3
+Persons,2024,Age at report,10–17 years at report,Queensland,Proportion (%),9.8
+Persons,2024,Age at report,18–24 years at report,Queensland,Proportion (%),16.9
+Persons,2024,Age at report,25–34 years at report,Queensland,Proportion (%),25.1
+Persons,2024,Age at report,35–44 years at report,Queensland,Proportion (%),21.9
+Persons,2024,Age at report,45–54 years at report,Queensland,Proportion (%),14.6
+Persons,2024,Age at report,55–64 years at report,Queensland,Proportion (%),6.1
+Persons,2024,Age at report,65 years and over at report,Queensland,Proportion (%),3.2
+Persons,2024,Relationship of offender to victim,Intimate partner,Queensland,Proportion (%),53.7
+Persons,2024,Relationship of offender to victim,Current partner,Queensland,Proportion (%),42.4
+Persons,2024,Relationship of offender to victim,Ex-partner,Queensland,Proportion (%),11.2
+Persons,2024,Relationship of offender to victim,Parent,Queensland,Proportion (%),11.0
+Persons,2024,Relationship of offender to victim,Other,Queensland,Proportion (%),29.7
+Persons,2024,Setting of offence,Community location,Queensland,Proportion (%),11.9
+Persons,2024,Setting of offence,Residential location,Queensland,Proportion (%),83.5
+Persons,2024,Age at report,0–9 years at report,Western Australia,Proportion (%),2.2
+Persons,2024,Age at report,10–17 years at report,Western Australia,Proportion (%),9.1
+Persons,2024,Age at report,18–24 years at report,Western Australia,Proportion (%),15.7
+Persons,2024,Age at report,25–34 years at report,Western Australia,Proportion (%),26.7
+Persons,2024,Age at report,35–44 years at report,Western Australia,Proportion (%),24.3
+Persons,2024,Age at report,45–54 years at report,Western Australia,Proportion (%),13.9
+Persons,2024,Age at report,55–64 years at report,Western Australia,Proportion (%),5.2
+Persons,2024,Age at report,65 years and over at report,Western Australia,Proportion (%),2.9
+Persons,2024,Relationship of offender to victim,Intimate partner,Western Australia,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Current partner,Western Australia,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Ex-partner,Western Australia,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Parent,Western Australia,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Other,Western Australia,Proportion (%),n.a.
+Persons,2024,Setting of offence,Community location,Western Australia,Proportion (%),10.4
+Persons,2024,Setting of offence,Residential location,Western Australia,Proportion (%),85.9
+Persons,2024,Age at report,0–9 years at report,South Australia,Proportion (%),1.8
+Persons,2024,Age at report,10–17 years at report,South Australia,Proportion (%),6.7
+Persons,2024,Age at report,18–24 years at report,South Australia,Proportion (%),12.8
+Persons,2024,Age at report,25–34 years at report,South Australia,Proportion (%),24.5
+Persons,2024,Age at report,35–44 years at report,South Australia,Proportion (%),26.4
+Persons,2024,Age at report,45–54 years at report,South Australia,Proportion (%),15.3
+Persons,2024,Age at report,55–64 years at report,South Australia,Proportion (%),7.7
+Persons,2024,Age at report,65 years and over at report,South Australia,Proportion (%),4.8
+Persons,2024,Relationship of offender to victim,Intimate partner,South Australia,Proportion (%),60.6
+Persons,2024,Relationship of offender to victim,Current partner,South Australia,Proportion (%),38.7
+Persons,2024,Relationship of offender to victim,Ex-partner,South Australia,Proportion (%),21.8
+Persons,2024,Relationship of offender to victim,Parent,South Australia,Proportion (%),16.9
+Persons,2024,Relationship of offender to victim,Other,South Australia,Proportion (%),22.3
+Persons,2024,Setting of offence,Community location,South Australia,Proportion (%),15.0
+Persons,2024,Setting of offence,Residential location,South Australia,Proportion (%),82.4
+Persons,2024,Age at report,0–9 years at report,Tasmania,Proportion (%),2.7
+Persons,2024,Age at report,10–17 years at report,Tasmania,Proportion (%),6.8
+Persons,2024,Age at report,18–24 years at report,Tasmania,Proportion (%),16.5
+Persons,2024,Age at report,25–34 years at report,Tasmania,Proportion (%),30.1
+Persons,2024,Age at report,35–44 years at report,Tasmania,Proportion (%),23.0
+Persons,2024,Age at report,45–54 years at report,Tasmania,Proportion (%),12.0
+Persons,2024,Age at report,55–64 years at report,Tasmania,Proportion (%),5.2
+Persons,2024,Age at report,65 years and over at report,Tasmania,Proportion (%),3.1
+Persons,2024,Relationship of offender to victim,Intimate partner,Tasmania,Proportion (%),80.5
+Persons,2024,Relationship of offender to victim,Current partner,Tasmania,Proportion (%),47.0
+Persons,2024,Relationship of offender to victim,Ex-partner,Tasmania,Proportion (%),33.8
+Persons,2024,Relationship of offender to victim,Parent,Tasmania,Proportion (%),6.7
+Persons,2024,Relationship of offender to victim,Other,Tasmania,Proportion (%),12.7
+Persons,2024,Setting of offence,Community location,Tasmania,Proportion (%),11.6
+Persons,2024,Setting of offence,Residential location,Tasmania,Proportion (%),83.8
+Persons,2024,Age at report,0–9 years at report,Australian Capital Territory,Proportion (%),5.3
+Persons,2024,Age at report,10–17 years at report,Australian Capital Territory,Proportion (%),10.8
+Persons,2024,Age at report,18–24 years at report,Australian Capital Territory,Proportion (%),12.7
+Persons,2024,Age at report,25–34 years at report,Australian Capital Territory,Proportion (%),22.0
+Persons,2024,Age at report,35–44 years at report,Australian Capital Territory,Proportion (%),22.8
+Persons,2024,Age at report,45–54 years at report,Australian Capital Territory,Proportion (%),12.7
+Persons,2024,Age at report,55–64 years at report,Australian Capital Territory,Proportion (%),6.6
+Persons,2024,Age at report,65 years and over at report,Australian Capital Territory,Proportion (%),4.6
+Persons,2024,Relationship of offender to victim,Intimate partner,Australian Capital Territory,Proportion (%),53.4
+Persons,2024,Relationship of offender to victim,Current partner,Australian Capital Territory,Proportion (%),38.9
+Persons,2024,Relationship of offender to victim,Ex-partner,Australian Capital Territory,Proportion (%),14.2
+Persons,2024,Relationship of offender to victim,Parent,Australian Capital Territory,Proportion (%),14.8
+Persons,2024,Relationship of offender to victim,Other,Australian Capital Territory,Proportion (%),27.7
+Persons,2024,Setting of offence,Community location,Australian Capital Territory,Proportion (%),11.9
+Persons,2024,Setting of offence,Residential location,Australian Capital Territory,Proportion (%),84.7
+Persons,2024,Age at report,0–9 years at report,Northern Territory,Proportion (%),1.3
+Persons,2024,Age at report,10–17 years at report,Northern Territory,Proportion (%),6.1
+Persons,2024,Age at report,18–24 years at report,Northern Territory,Proportion (%),19.4
+Persons,2024,Age at report,25–34 years at report,Northern Territory,Proportion (%),30.5
+Persons,2024,Age at report,35–44 years at report,Northern Territory,Proportion (%),23.9
+Persons,2024,Age at report,45–54 years at report,Northern Territory,Proportion (%),12.9
+Persons,2024,Age at report,55–64 years at report,Northern Territory,Proportion (%),4.7
+Persons,2024,Age at report,65 years and over at report,Northern Territory,Proportion (%),1.3
+Persons,2024,Relationship of offender to victim,Intimate partner,Northern Territory,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Current partner,Northern Territory,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Ex-partner,Northern Territory,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Parent,Northern Territory,Proportion (%),n.a.
+Persons,2024,Relationship of offender to victim,Other,Northern Territory,Proportion (%),n.a.
+Persons,2024,Setting of offence,Community location,Northern Territory,Proportion (%),33.5
+Persons,2024,Setting of offence,Residential location,Northern Territory,Proportion (%),47.0

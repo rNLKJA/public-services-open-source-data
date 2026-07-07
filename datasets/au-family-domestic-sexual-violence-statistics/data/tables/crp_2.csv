@@ -1,0 +1,181 @@
+gender,year,crisis_payment_sub_category,unit,value
+Females,2015–16,Victim remains in home,Number,1475
+Females,2016–17,Victim remains in home,Number,1673
+Females,2017–18,Victim remains in home,Number,1707
+Females,2018–19,Victim remains in home,Number,1906
+Females,2019–20,Victim remains in home,Number,2044
+Females,2020–21,Victim remains in home,Number,2970
+Females,2021–22,Victim remains in home,Number,3977
+Females,2022–23,Victim remains in home,Number,4588
+Females,2023–24,Victim remains in home,Number,5257
+Females,2024–25,Victim remains in home,Number,6345
+Females,2015–16,Victim left home,Number,13449
+Females,2016–17,Victim left home,Number,13872
+Females,2017–18,Victim left home,Number,13355
+Females,2018–19,Victim left home,Number,14590
+Females,2019–20,Victim left home,Number,14972
+Females,2020–21,Victim left home,Number,17030
+Females,2021–22,Victim left home,Number,16681
+Females,2022–23,Victim left home,Number,17426
+Females,2023–24,Victim left home,Number,19570
+Females,2024–25,Victim left home,Number,23314
+Females,2015–16,Perpetrator left home,Number,167
+Females,2016–17,Perpetrator left home,Number,155
+Females,2017–18,Perpetrator left home,Number,171
+Females,2018–19,Perpetrator left home,Number,158
+Females,2019–20,Perpetrator left home,Number,228
+Females,2020–21,Perpetrator left home,Number,551
+Females,2021–22,Perpetrator left home,Number,478
+Females,2022–23,Perpetrator left home,Number,497
+Females,2023–24,Perpetrator left home,Number,494
+Females,2024–25,Perpetrator left home,Number,558
+Males,2015–16,Victim remains in home,Number,81
+Males,2016–17,Victim remains in home,Number,90
+Males,2017–18,Victim remains in home,Number,99
+Males,2018–19,Victim remains in home,Number,123
+Males,2019–20,Victim remains in home,Number,122
+Males,2020–21,Victim remains in home,Number,328
+Males,2021–22,Victim remains in home,Number,401
+Males,2022–23,Victim remains in home,Number,407
+Males,2023–24,Victim remains in home,Number,525
+Males,2024–25,Victim remains in home,Number,729
+Males,2015–16,Victim left home,Number,1648
+Males,2016–17,Victim left home,Number,1530
+Males,2017–18,Victim left home,Number,1495
+Males,2018–19,Victim left home,Number,1847
+Males,2019–20,Victim left home,Number,2229
+Males,2020–21,Victim left home,Number,3477
+Males,2021–22,Victim left home,Number,3524
+Males,2022–23,Victim left home,Number,3711
+Males,2023–24,Victim left home,Number,4788
+Males,2024–25,Victim left home,Number,6367
+Males,2015–16,Perpetrator left home,Number,532
+Males,2016–17,Perpetrator left home,Number,596
+Males,2017–18,Perpetrator left home,Number,485
+Males,2018–19,Perpetrator left home,Number,527
+Males,2019–20,Perpetrator left home,Number,577
+Males,2020–21,Perpetrator left home,Number,1219
+Males,2021–22,Perpetrator left home,Number,1025
+Males,2022–23,Perpetrator left home,Number,1080
+Males,2023–24,Perpetrator left home,Number,1188
+Males,2024–25,Perpetrator left home,Number,1360
+Persons,2015–16,Victim remains in home,Number,1556
+Persons,2016–17,Victim remains in home,Number,1763
+Persons,2017–18,Victim remains in home,Number,1806
+Persons,2018–19,Victim remains in home,Number,2029
+Persons,2019–20,Victim remains in home,Number,2166
+Persons,2020–21,Victim remains in home,Number,3298
+Persons,2021–22,Victim remains in home,Number,4378
+Persons,2022–23,Victim remains in home,Number,4995
+Persons,2023–24,Victim remains in home,Number,5782
+Persons,2024–25,Victim remains in home,Number,7074
+Persons,2015–16,Victim left home,Number,15097
+Persons,2016–17,Victim left home,Number,15402
+Persons,2017–18,Victim left home,Number,14850
+Persons,2018–19,Victim left home,Number,16437
+Persons,2019–20,Victim left home,Number,17201
+Persons,2020–21,Victim left home,Number,20507
+Persons,2021–22,Victim left home,Number,20205
+Persons,2022–23,Victim left home,Number,21137
+Persons,2023–24,Victim left home,Number,24358
+Persons,2024–25,Victim left home,Number,29681
+Persons,2015–16,Perpetrator left home,Number,699
+Persons,2016–17,Perpetrator left home,Number,751
+Persons,2017–18,Perpetrator left home,Number,656
+Persons,2018–19,Perpetrator left home,Number,685
+Persons,2019–20,Perpetrator left home,Number,805
+Persons,2020–21,Perpetrator left home,Number,1770
+Persons,2021–22,Perpetrator left home,Number,1503
+Persons,2022–23,Perpetrator left home,Number,1577
+Persons,2023–24,Perpetrator left home,Number,1682
+Persons,2024–25,Perpetrator left home,Number,1918
+Females,2015–16,Victim remains in home,Proportion,9.8
+Females,2016–17,Victim remains in home,Proportion,10.7
+Females,2017–18,Victim remains in home,Proportion,11.2
+Females,2018–19,Victim remains in home,Proportion,11.4
+Females,2019–20,Victim remains in home,Proportion,11.9
+Females,2020–21,Victim remains in home,Proportion,14.5
+Females,2021–22,Victim remains in home,Proportion,18.8
+Females,2022–23,Victim remains in home,Proportion,20.4
+Females,2023–24,Victim remains in home,Proportion,20.8
+Females,2024–25,Victim remains in home,Proportion,21.0
+Females,2015–16,Victim left home,Proportion,89.1
+Females,2016–17,Victim left home,Proportion,88.4
+Females,2017–18,Victim left home,Proportion,87.7
+Females,2018–19,Victim left home,Proportion,87.6
+Females,2019–20,Victim left home,Proportion,86.8
+Females,2020–21,Victim left home,Proportion,82.9
+Females,2021–22,Victim left home,Proportion,78.9
+Females,2022–23,Victim left home,Proportion,77.4
+Females,2023–24,Victim left home,Proportion,77.3
+Females,2024–25,Victim left home,Proportion,77.2
+Females,2015–16,Perpetrator left home,Proportion,1.1
+Females,2016–17,Perpetrator left home,Proportion,1.0
+Females,2017–18,Perpetrator left home,Proportion,1.1
+Females,2018–19,Perpetrator left home,Proportion,0.9
+Females,2019–20,Perpetrator left home,Proportion,1.3
+Females,2020–21,Perpetrator left home,Proportion,2.7
+Females,2021–22,Perpetrator left home,Proportion,2.3
+Females,2022–23,Perpetrator left home,Proportion,2.2
+Females,2023–24,Perpetrator left home,Proportion,2.0
+Females,2024–25,Perpetrator left home,Proportion,1.8
+Males,2015–16,Victim remains in home,Proportion,3.6
+Males,2016–17,Victim remains in home,Proportion,4.1
+Males,2017–18,Victim remains in home,Proportion,4.8
+Males,2018–19,Victim remains in home,Proportion,4.9
+Males,2019–20,Victim remains in home,Proportion,4.2
+Males,2020–21,Victim remains in home,Proportion,6.5
+Males,2021–22,Victim remains in home,Proportion,8.1
+Males,2022–23,Victim remains in home,Proportion,7.8
+Males,2023–24,Victim remains in home,Proportion,8.1
+Males,2024–25,Victim remains in home,Proportion,8.6
+Males,2015–16,Victim left home,Proportion,72.9
+Males,2016–17,Victim left home,Proportion,69.0
+Males,2017–18,Victim left home,Proportion,71.9
+Males,2018–19,Victim left home,Proportion,74.0
+Males,2019–20,Victim left home,Proportion,76.1
+Males,2020–21,Victim left home,Proportion,69.2
+Males,2021–22,Victim left home,Proportion,71.2
+Males,2022–23,Victim left home,Proportion,71.4
+Males,2023–24,Victim left home,Proportion,73.7
+Males,2024–25,Victim left home,Proportion,75.3
+Males,2015–16,Perpetrator left home,Proportion,23.5
+Males,2016–17,Perpetrator left home,Proportion,26.9
+Males,2017–18,Perpetrator left home,Proportion,23.3
+Males,2018–19,Perpetrator left home,Proportion,21.1
+Males,2019–20,Perpetrator left home,Proportion,19.7
+Males,2020–21,Perpetrator left home,Proportion,24.3
+Males,2021–22,Perpetrator left home,Proportion,20.7
+Males,2022–23,Perpetrator left home,Proportion,20.8
+Males,2023–24,Perpetrator left home,Proportion,18.3
+Males,2024–25,Perpetrator left home,Proportion,16.1
+Persons,2015–16,Victim remains in home,Proportion,9.0
+Persons,2016–17,Victim remains in home,Proportion,9.8
+Persons,2017–18,Victim remains in home,Proportion,10.4
+Persons,2018–19,Victim remains in home,Proportion,10.6
+Persons,2019–20,Victim remains in home,Proportion,10.7
+Persons,2020–21,Victim remains in home,Proportion,12.9
+Persons,2021–22,Victim remains in home,Proportion,16.8
+Persons,2022–23,Victim remains in home,Proportion,18.0
+Persons,2023–24,Victim remains in home,Proportion,18.2
+Persons,2024–25,Victim remains in home,Proportion,18.3
+Persons,2015–16,Victim left home,Proportion,87.0
+Persons,2016–17,Victim left home,Proportion,86.0
+Persons,2017–18,Victim left home,Proportion,85.8
+Persons,2018–19,Victim left home,Proportion,85.8
+Persons,2019–20,Victim left home,Proportion,85.3
+Persons,2020–21,Victim left home,Proportion,80.2
+Persons,2021–22,Victim left home,Proportion,77.5
+Persons,2022–23,Victim left home,Proportion,76.3
+Persons,2023–24,Victim left home,Proportion,76.5
+Persons,2024–25,Victim left home,Proportion,76.7
+Persons,2015–16,Perpetrator left home,Proportion,4.0
+Persons,2016–17,Perpetrator left home,Proportion,4.2
+Persons,2017–18,Perpetrator left home,Proportion,3.8
+Persons,2018–19,Perpetrator left home,Proportion,3.6
+Persons,2019–20,Perpetrator left home,Proportion,4.0
+Persons,2020–21,Perpetrator left home,Proportion,6.9
+Persons,2021–22,Perpetrator left home,Proportion,5.8
+Persons,2022–23,Perpetrator left home,Proportion,5.7
+Persons,2023–24,Perpetrator left home,Proportion,5.3
+Persons,2024–25,Perpetrator left home,Proportion,5.0

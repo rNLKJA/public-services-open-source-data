@@ -1,0 +1,38 @@
+age_group,sex,geography,subcategory,unit,value
+All ages,Persons,Remoteness of area,Inner regional,Number,993
+All ages,Persons,Remoteness of area,Outer regional,Number,1172
+All ages,Persons,Remoteness of area,Remote,Number,991
+All ages,Persons,Remoteness of area,Very remote,Number,1665
+All ages,Persons,Remoteness of area,Major city,Number,3960
+All ages,Persons,SEIFA,1-most disadvantaged,Number,3779
+All ages,Persons,SEIFA,2,Number,1869
+All ages,Persons,SEIFA,3,Number,1455
+All ages,Persons,SEIFA,4,Number,1076
+All ages,Persons,SEIFA,5-least disadvantaged,Number,598
+All ages,Persons,State/territory,NSW,Number,1228
+All ages,Persons,State/territory,Vic,Number,1297
+All ages,Persons,State/territory,Qld,Number,2218
+All ages,Persons,State/territory,WA,Number,1612
+All ages,Persons,State/territory,SA,Number,670
+All ages,Persons,State/territory,Tas,Number,80
+All ages,Persons,State/territory,ACT,Number,111
+All ages,Persons,State/territory,NT,Number,1799
+All ages,Persons,Remoteness of area,Inner regional,"Rate per 100,000 population",21.2
+All ages,Persons,Remoteness of area,Outer regional,"Rate per 100,000 population",55.3
+All ages,Persons,Remoteness of area,Remote,"Rate per 100,000 population",326.0
+All ages,Persons,Remoteness of area,Very remote,"Rate per 100,000 population",840.8
+All ages,Persons,Remoteness of area,Major city,"Rate per 100,000 population",20.5
+All ages,Persons,Remoteness of area,Total FDV for age group and sex,"Rate per 100,000 population",34.9
+All ages,Persons,SEIFA,1-most disadvantaged,"Rate per 100,000 population",79.4
+All ages,Persons,SEIFA,2,"Rate per 100,000 population",37.8
+All ages,Persons,SEIFA,3,"Rate per 100,000 population",25.5
+All ages,Persons,SEIFA,4,"Rate per 100,000 population",19.2
+All ages,Persons,SEIFA,5-least disadvantaged,"Rate per 100,000 population",10.6
+All ages,Persons,State/territory,NSW,"Rate per 100,000 population",14.6
+All ages,Persons,State/territory,Vic,"Rate per 100,000 population",18.8
+All ages,Persons,State/territory,Qld,"Rate per 100,000 population",40.1
+All ages,Persons,State/territory,WA,"Rate per 100,000 population",55
+All ages,Persons,State/territory,SA,"Rate per 100,000 population",35.9
+All ages,Persons,State/territory,Tas,"Rate per 100,000 population",13.9
+All ages,Persons,State/territory,ACT,"Rate per 100,000 population",23.6
+All ages,Persons,State/territory,NT,"Rate per 100,000 population",708.5

@@ -1,0 +1,433 @@
+year,offence,location,unit,value
+2016,Assault,New South Wales,Number,2689
+2016,Assault,Queensland,Number,n.p.
+2016,Assault,South Australia,Number,1464
+2016,Assault,Northern Territory,Number,3497
+2016,Homicide and related offences,New South Wales,Number,0
+2016,Homicide and related offences,Queensland,Number,3
+2016,Homicide and related offences,South Australia,Number,3
+2016,Homicide and related offences,Northern Territory,Number,0
+2016,Kidnapping/abduction,New South Wales,Number,3
+2016,Kidnapping/abduction,Queensland,Number,0
+2016,Kidnapping/abduction,South Australia,Number,7
+2016,Kidnapping/abduction,Northern Territory,Number,0
+2016,Sexual assault,New South Wales,Number,225
+2016,Sexual assault,Queensland,Number,211
+2016,Sexual assault,South Australia,Number,55
+2016,Sexual assault,Northern Territory,Number,68
+2017,Assault,New South Wales,Number,2740
+2017,Assault,Queensland,Number,n.p.
+2017,Assault,South Australia,Number,1393
+2017,Assault,Northern Territory,Number,3962
+2017,Homicide and related offences,New South Wales,Number,3
+2017,Homicide and related offences,Queensland,Number,7
+2017,Homicide and related offences,South Australia,Number,6
+2017,Homicide and related offences,Northern Territory,Number,7
+2017,Kidnapping/abduction,New South Wales,Number,4
+2017,Kidnapping/abduction,Queensland,Number,0
+2017,Kidnapping/abduction,South Australia,Number,3
+2017,Kidnapping/abduction,Northern Territory,Number,0
+2017,Sexual assault,New South Wales,Number,324
+2017,Sexual assault,Queensland,Number,198
+2017,Sexual assault,South Australia,Number,36
+2017,Sexual assault,Northern Territory,Number,84
+2018,Assault,New South Wales,Number,2805
+2018,Assault,Queensland,Number,n.p.
+2018,Assault,South Australia,Number,1550
+2018,Assault,Northern Territory,Number,3862
+2018,Homicide and related offences,New South Wales,Number,9
+2018,Homicide and related offences,Queensland,Number,8
+2018,Homicide and related offences,South Australia,Number,0
+2018,Homicide and related offences,Northern Territory,Number,3
+2018,Kidnapping/abduction,New South Wales,Number,7
+2018,Kidnapping/abduction,Queensland,Number,0
+2018,Kidnapping/abduction,South Australia,Number,3
+2018,Kidnapping/abduction,Northern Territory,Number,0
+2018,Sexual assault,New South Wales,Number,303
+2018,Sexual assault,Queensland,Number,271
+2018,Sexual assault,South Australia,Number,54
+2018,Sexual assault,Northern Territory,Number,63
+2019,Assault,New South Wales,Number,2943
+2019,Assault,Queensland,Number,n.p.
+2019,Assault,South Australia,Number,1660
+2019,Assault,Northern Territory,Number,3599
+2019,Homicide and related offences,New South Wales,Number,0
+2019,Homicide and related offences,Queensland,Number,3
+2019,Homicide and related offences,South Australia,Number,0
+2019,Homicide and related offences,Northern Territory,Number,3
+2019,Kidnapping/abduction,New South Wales,Number,9
+2019,Kidnapping/abduction,Queensland,Number,0
+2019,Kidnapping/abduction,South Australia,Number,5
+2019,Kidnapping/abduction,Northern Territory,Number,0
+2019,Sexual assault,New South Wales,Number,436
+2019,Sexual assault,Queensland,Number,224
+2019,Sexual assault,South Australia,Number,40
+2019,Sexual assault,Northern Territory,Number,42
+2020,Assault,New South Wales,Number,2925
+2020,Assault,Queensland,Number,n.p.
+2020,Assault,South Australia,Number,1898
+2020,Assault,Northern Territory,Number,4584
+2020,Homicide and related offences,New South Wales,Number,0
+2020,Homicide and related offences,Queensland,Number,4
+2020,Homicide and related offences,South Australia,Number,0
+2020,Homicide and related offences,Northern Territory,Number,3
+2020,Kidnapping/abduction,New South Wales,Number,10
+2020,Kidnapping/abduction,Queensland,Number,0
+2020,Kidnapping/abduction,South Australia,Number,0
+2020,Kidnapping/abduction,Northern Territory,Number,0
+2020,Sexual assault,New South Wales,Number,379
+2020,Sexual assault,Queensland,Number,238
+2020,Sexual assault,South Australia,Number,43
+2020,Sexual assault,Northern Territory,Number,64
+2021,Assault,New South Wales,Number,3146
+2021,Assault,Queensland,Number,n.p.
+2021,Assault,South Australia,Number,1857
+2021,Assault,Northern Territory,Number,5053
+2021,Homicide and related offences,New South Wales,Number,4
+2021,Homicide and related offences,Queensland,Number,3
+2021,Homicide and related offences,South Australia,Number,3
+2021,Homicide and related offences,Northern Territory,Number,7
+2021,Kidnapping/abduction,New South Wales,Number,10
+2021,Kidnapping/abduction,Queensland,Number,0
+2021,Kidnapping/abduction,South Australia,Number,3
+2021,Kidnapping/abduction,Northern Territory,Number,0
+2021,Sexual assault,New South Wales,Number,388
+2021,Sexual assault,Queensland,Number,300
+2021,Sexual assault,South Australia,Number,48
+2021,Sexual assault,Northern Territory,Number,59
+2022,Assault,New South Wales,Number,5054
+2022,Assault,Queensland,Number,n.p.
+2022,Assault,South Australia,Number,2271
+2022,Assault,Northern Territory,Number,6066
+2022,Homicide and related offences,New South Wales,Number,3
+2022,Homicide and related offences,Queensland,Number,4
+2022,Homicide and related offences,South Australia,Number,3
+2022,Homicide and related offences,Northern Territory,Number,8
+2022,Kidnapping/abduction,New South Wales,Number,26
+2022,Kidnapping/abduction,Queensland,Number,4
+2022,Kidnapping/abduction,South Australia,Number,0
+2022,Kidnapping/abduction,Northern Territory,Number,0
+2022,Sexual assault,New South Wales,Number,465
+2022,Sexual assault,Queensland,Number,366
+2022,Sexual assault,South Australia,Number,47
+2022,Sexual assault,Northern Territory,Number,70
+2023,Assault,New South Wales,Number,5631
+2023,Assault,Queensland,Number,10946
+2023,Assault,South Australia,Number,2513
+2023,Assault,Northern Territory,Number,6779
+2023,Homicide and related offences,New South Wales,Number,5
+2023,Homicide and related offences,Queensland,Number,5
+2023,Homicide and related offences,South Australia,Number,0
+2023,Homicide and related offences,Northern Territory,Number,7
+2023,Kidnapping/abduction,New South Wales,Number,20
+2023,Kidnapping/abduction,Queensland,Number,0
+2023,Kidnapping/abduction,South Australia,Number,0
+2023,Kidnapping/abduction,Northern Territory,Number,0
+2023,Sexual assault,New South Wales,Number,776
+2023,Sexual assault,Queensland,Number,476
+2023,Sexual assault,South Australia,Number,76
+2023,Sexual assault,Northern Territory,Number,73
+2024,Assault,New South Wales,Number,5640
+2024,Assault,Queensland,Number,6971
+2024,Assault,South Australia,Number,2951
+2024,Assault,Northern Territory,Number,n.p.
+2024,Homicide and related offences,New South Wales,Number,0
+2024,Homicide and related offences,Queensland,Number,n.p.
+2024,Homicide and related offences,South Australia,Number,3
+2024,Homicide and related offences,Northern Territory,Number,n.p.
+2024,Kidnapping/abduction,New South Wales,Number,17
+2024,Kidnapping/abduction,Queensland,Number,n.p.
+2024,Kidnapping/abduction,South Australia,Number,3
+2024,Kidnapping/abduction,Northern Territory,Number,n.p.
+2024,Sexual assault,New South Wales,Number,820
+2024,Sexual assault,Queensland,Number,444
+2024,Sexual assault,South Australia,Number,66
+2024,Sexual assault,Northern Territory,Number,n.p.
+2016,Assault,New South Wales,Proportion,64.7
+2016,Assault,Queensland,Proportion,n.p.
+2016,Assault,South Australia,Proportion,68.8
+2016,Assault,Northern Territory,Proportion,75.1
+2016,Homicide and related offences,New South Wales,Proportion,n.p.
+2016,Homicide and related offences,Queensland,Proportion,n.p.
+2016,Homicide and related offences,South Australia,Proportion,n.p.
+2016,Homicide and related offences,Northern Territory,Proportion,n.p.
+2016,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2016,Kidnapping/abduction,Queensland,Proportion,n.p.
+2016,Kidnapping/abduction,South Australia,Proportion,n.p.
+2016,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2016,Sexual assault,New South Wales,Proportion,42.3
+2016,Sexual assault,Queensland,Proportion,37.9
+2016,Sexual assault,South Australia,Proportion,48.2
+2016,Sexual assault,Northern Territory,Proportion,38.9
+2017,Assault,New South Wales,Proportion,64.1
+2017,Assault,Queensland,Proportion,n.p.
+2017,Assault,South Australia,Proportion,68.4
+2017,Assault,Northern Territory,Proportion,73.6
+2017,Homicide and related offences,New South Wales,Proportion,n.p.
+2017,Homicide and related offences,Queensland,Proportion,n.p.
+2017,Homicide and related offences,South Australia,Proportion,n.p.
+2017,Homicide and related offences,Northern Territory,Proportion,n.p.
+2017,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2017,Kidnapping/abduction,Queensland,Proportion,n.p.
+2017,Kidnapping/abduction,South Australia,Proportion,n.p.
+2017,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2017,Sexual assault,New South Wales,Proportion,39.7
+2017,Sexual assault,Queensland,Proportion,35.5
+2017,Sexual assault,South Australia,Proportion,41.9
+2017,Sexual assault,Northern Territory,Proportion,40.4
+2018,Assault,New South Wales,Proportion,63.1
+2018,Assault,Queensland,Proportion,n.p.
+2018,Assault,South Australia,Proportion,68.1
+2018,Assault,Northern Territory,Proportion,75.3
+2018,Homicide and related offences,New South Wales,Proportion,n.p.
+2018,Homicide and related offences,Queensland,Proportion,n.p.
+2018,Homicide and related offences,South Australia,Proportion,n.p.
+2018,Homicide and related offences,Northern Territory,Proportion,n.p.
+2018,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2018,Kidnapping/abduction,Queensland,Proportion,n.p.
+2018,Kidnapping/abduction,South Australia,Proportion,n.p.
+2018,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2018,Sexual assault,New South Wales,Proportion,43.2
+2018,Sexual assault,Queensland,Proportion,43.4
+2018,Sexual assault,South Australia,Proportion,43.5
+2018,Sexual assault,Northern Territory,Proportion,36.2
+2019,Assault,New South Wales,Proportion,66.4
+2019,Assault,Queensland,Proportion,n.p.
+2019,Assault,South Australia,Proportion,71.5
+2019,Assault,Northern Territory,Proportion,76.7
+2019,Homicide and related offences,New South Wales,Proportion,n.p.
+2019,Homicide and related offences,Queensland,Proportion,n.p.
+2019,Homicide and related offences,South Australia,Proportion,n.p.
+2019,Homicide and related offences,Northern Territory,Proportion,n.p.
+2019,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2019,Kidnapping/abduction,Queensland,Proportion,n.p.
+2019,Kidnapping/abduction,South Australia,Proportion,n.p.
+2019,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2019,Sexual assault,New South Wales,Proportion,46.9
+2019,Sexual assault,Queensland,Proportion,39.8
+2019,Sexual assault,South Australia,Proportion,42.1
+2019,Sexual assault,Northern Territory,Proportion,32.3
+2020,Assault,New South Wales,Proportion,68.4
+2020,Assault,Queensland,Proportion,n.p.
+2020,Assault,South Australia,Proportion,72.4
+2020,Assault,Northern Territory,Proportion,78.0
+2020,Homicide and related offences,New South Wales,Proportion,n.p.
+2020,Homicide and related offences,Queensland,Proportion,n.p.
+2020,Homicide and related offences,South Australia,Proportion,n.p.
+2020,Homicide and related offences,Northern Territory,Proportion,n.p.
+2020,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2020,Kidnapping/abduction,Queensland,Proportion,n.p.
+2020,Kidnapping/abduction,South Australia,Proportion,n.p.
+2020,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2020,Sexual assault,New South Wales,Proportion,43.4
+2020,Sexual assault,Queensland,Proportion,41.2
+2020,Sexual assault,South Australia,Proportion,39.1
+2020,Sexual assault,Northern Territory,Proportion,38.1
+2021,Assault,New South Wales,Proportion,69.7
+2021,Assault,Queensland,Proportion,n.p.
+2021,Assault,South Australia,Proportion,71.4
+2021,Assault,Northern Territory,Proportion,79.2
+2021,Homicide and related offences,New South Wales,Proportion,n.p.
+2021,Homicide and related offences,Queensland,Proportion,n.p.
+2021,Homicide and related offences,South Australia,Proportion,n.p.
+2021,Homicide and related offences,Northern Territory,Proportion,n.p.
+2021,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2021,Kidnapping/abduction,Queensland,Proportion,n.p.
+2021,Kidnapping/abduction,South Australia,Proportion,n.p.
+2021,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2021,Sexual assault,New South Wales,Proportion,46.9
+2021,Sexual assault,Queensland,Proportion,36.9
+2021,Sexual assault,South Australia,Proportion,40.3
+2021,Sexual assault,Northern Territory,Proportion,45.4
+2022,Assault,New South Wales,Proportion,65.0
+2022,Assault,Queensland,Proportion,n.p.
+2022,Assault,South Australia,Proportion,73.1
+2022,Assault,Northern Territory,Proportion,79.5
+2022,Homicide and related offences,New South Wales,Proportion,n.p.
+2022,Homicide and related offences,Queensland,Proportion,n.p.
+2022,Homicide and related offences,South Australia,Proportion,n.p.
+2022,Homicide and related offences,Northern Territory,Proportion,n.p.
+2022,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2022,Kidnapping/abduction,Queensland,Proportion,n.p.
+2022,Kidnapping/abduction,South Australia,Proportion,n.p.
+2022,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2022,Sexual assault,New South Wales,Proportion,41.7
+2022,Sexual assault,Queensland,Proportion,39.7
+2022,Sexual assault,South Australia,Proportion,47.5
+2022,Sexual assault,Northern Territory,Proportion,40.9
+2023,Assault,New South Wales,Proportion,65.5
+2023,Assault,Queensland,Proportion,80.8
+2023,Assault,South Australia,Proportion,71.1
+2023,Assault,Northern Territory,Proportion,81.5
+2023,Homicide and related offences,New South Wales,Proportion,n.p.
+2023,Homicide and related offences,Queensland,Proportion,n.p.
+2023,Homicide and related offences,South Australia,Proportion,n.p.
+2023,Homicide and related offences,Northern Territory,Proportion,n.p.
+2023,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2023,Kidnapping/abduction,Queensland,Proportion,n.p.
+2023,Kidnapping/abduction,South Australia,Proportion,n.p.
+2023,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2023,Sexual assault,New South Wales,Proportion,47.7
+2023,Sexual assault,Queensland,Proportion,43.8
+2023,Sexual assault,South Australia,Proportion,45.2
+2023,Sexual assault,Northern Territory,Proportion,34.1
+2024,Assault,New South Wales,Proportion,67.1
+2024,Assault,Queensland,Proportion,73.1
+2024,Assault,South Australia,Proportion,74.4
+2024,Assault,Northern Territory,Proportion,n.p.
+2024,Homicide and related offences,New South Wales,Proportion,n.p.
+2024,Homicide and related offences,Queensland,Proportion,n.p.
+2024,Homicide and related offences,South Australia,Proportion,n.p.
+2024,Homicide and related offences,Northern Territory,Proportion,n.p.
+2024,Kidnapping/abduction,New South Wales,Proportion,n.p.
+2024,Kidnapping/abduction,Queensland,Proportion,n.p.
+2024,Kidnapping/abduction,South Australia,Proportion,n.p.
+2024,Kidnapping/abduction,Northern Territory,Proportion,n.p.
+2024,Sexual assault,New South Wales,Proportion,47.2
+2024,Sexual assault,Queensland,Proportion,44.9
+2024,Sexual assault,South Australia,Proportion,35.7
+2024,Sexual assault,Northern Territory,Proportion,n.p.
+2016,Assault,New South Wales,"Victimisation rate (number per 100,000)",1012.1
+2016,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2016,Assault,South Australia,"Victimisation rate (number per 100,000)",3463.9
+2016,Assault,Northern Territory,"Victimisation rate (number per 100,000)",4691.1
+2016,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",0.0
+2016,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",1.4
+2016,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",7.1
+2016,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2016,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",1.1
+2016,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2016,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",16.6
+2016,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2016,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",84.7
+2016,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",95.4
+2016,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",130.1
+2016,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",91.2
+2017,Assault,New South Wales,"Victimisation rate (number per 100,000)",1012.6
+2017,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2017,Assault,South Australia,"Victimisation rate (number per 100,000)",3233.1
+2017,Assault,Northern Territory,"Victimisation rate (number per 100,000)",5261.1
+2017,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",1.1
+2017,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",3.1
+2017,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",13.9
+2017,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",9.3
+2017,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",1.5
+2017,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2017,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",7.0
+2017,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2017,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",119.7
+2017,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",87.5
+2017,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",83.6
+2017,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",111.5
+2018,Assault,New South Wales,"Victimisation rate (number per 100,000)",1017.6
+2018,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2018,Assault,South Australia,"Victimisation rate (number per 100,000)",3529.1
+2018,Assault,Northern Territory,"Victimisation rate (number per 100,000)",5077.2
+2018,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",3.3
+2018,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",3.5
+2018,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",0.0
+2018,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",3.9
+2018,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",2.5
+2018,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2018,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",6.8
+2018,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2018,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",109.9
+2018,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",117.2
+2018,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",123.0
+2018,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",82.8
+2019,Assault,New South Wales,"Victimisation rate (number per 100,000)",1047.9
+2019,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2019,Assault,South Australia,"Victimisation rate (number per 100,000)",3707.8
+2019,Assault,Northern Territory,"Victimisation rate (number per 100,000)",4685.3
+2019,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",0.0
+2019,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",1.3
+2019,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",0.0
+2019,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",3.9
+2019,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",3.2
+2019,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2019,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",11.2
+2019,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2019,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",155.2
+2019,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",94.7
+2019,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",89.3
+2019,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",54.7
+2020,Assault,New South Wales,"Victimisation rate (number per 100,000)",1021.9
+2020,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2020,Assault,South Australia,"Victimisation rate (number per 100,000)",4158.5
+2020,Assault,Northern Territory,"Victimisation rate (number per 100,000)",5910.9
+2020,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",0.0
+2020,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",1.7
+2020,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",0.0
+2020,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",3.9
+2020,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",3.5
+2020,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2020,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",0.0
+2020,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2020,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",132.4
+2020,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",98.4
+2020,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",94.2
+2020,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",82.5
+2021,Assault,New South Wales,"Victimisation rate (number per 100,000)",1078.4
+2021,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2021,Assault,South Australia,"Victimisation rate (number per 100,000)",3991.2
+2021,Assault,Northern Territory,"Victimisation rate (number per 100,000)",6455.0
+2021,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",1.4
+2021,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",1.2
+2021,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",6.4
+2021,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",8.9
+2021,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",3.4
+2021,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2021,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",6.4
+2021,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2021,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",133.0
+2021,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",121.4
+2021,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",103.2
+2021,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",75.4
+2022,Assault,New South Wales,"Victimisation rate (number per 100,000)",1699.5
+2022,Assault,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2022,Assault,South Australia,"Victimisation rate (number per 100,000)",4788.5
+2022,Assault,Northern Territory,"Victimisation rate (number per 100,000)",7679.1
+2022,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",1.0
+2022,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",1.6
+2022,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",6.3
+2022,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",10.1
+2022,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",8.7
+2022,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",1.6
+2022,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",0.0
+2022,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2022,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",156.4
+2022,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",144.8
+2022,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",99.1
+2022,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",88.6
+2023,Assault,New South Wales,"Victimisation rate (number per 100,000)",1857.3
+2023,Assault,Queensland,"Victimisation rate (number per 100,000)",4235.9
+2023,Assault,South Australia,"Victimisation rate (number per 100,000)",5198.8
+2023,Assault,Northern Territory,"Victimisation rate (number per 100,000)",8506.2
+2023,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",1.6
+2023,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",1.9
+2023,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",0.0
+2023,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",8.8
+2023,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",6.6
+2023,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",0.0
+2023,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",0.0
+2023,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",0.0
+2023,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",255.9
+2023,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",184.2
+2023,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",157.2
+2023,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",91.6
+2024,Assault,New South Wales,"Victimisation rate (number per 100,000)",1574.9
+2024,Assault,Queensland,"Victimisation rate (number per 100,000)",2381.3
+2024,Assault,South Australia,"Victimisation rate (number per 100,000)",5402.2
+2024,Assault,Northern Territory,"Victimisation rate (number per 100,000)",n.p.
+2024,Homicide and related offences,New South Wales,"Victimisation rate (number per 100,000)",0.0
+2024,Homicide and related offences,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2024,Homicide and related offences,South Australia,"Victimisation rate (number per 100,000)",5.5
+2024,Homicide and related offences,Northern Territory,"Victimisation rate (number per 100,000)",n.p.
+2024,Kidnapping/abduction,New South Wales,"Victimisation rate (number per 100,000)",4.7
+2024,Kidnapping/abduction,Queensland,"Victimisation rate (number per 100,000)",n.p.
+2024,Kidnapping/abduction,South Australia,"Victimisation rate (number per 100,000)",5.5
+2024,Kidnapping/abduction,Northern Territory,"Victimisation rate (number per 100,000)",n.p.
+2024,Sexual assault,New South Wales,"Victimisation rate (number per 100,000)",229.0
+2024,Sexual assault,Queensland,"Victimisation rate (number per 100,000)",151.7
+2024,Sexual assault,South Australia,"Victimisation rate (number per 100,000)",120.8
+2024,Sexual assault,Northern Territory,"Victimisation rate (number per 100,000)",n.p.

@@ -1,0 +1,46 @@
+year,characteristic,subcategory,unit,value
+2020,Age at report,Under 18 at report,Number,25
+2020,Age at report,18–34 years at report,Number,42
+2020,Age at report,35–54 years at report,Number,42
+2020,Age at report,55 years and over at report,Number,34
+2020,Setting of offence,Residential location,Number,124
+2020,Setting of offence,Community location,Number,15
+2020,Sex,Females,Number,86
+2020,Sex,Males,Number,59
+2020,Sex,Persons,Number,145
+2021,Age at report,Under 18 at report,Number,26
+2021,Age at report,18–34 years at report,Number,30
+2021,Age at report,35–54 years at report,Number,40
+2021,Age at report,55 years and over at report,Number,18
+2021,Setting of offence,Residential location,Number,86
+2021,Setting of offence,Community location,Number,17
+2021,Sex,Females,Number,59
+2021,Sex,Males,Number,45
+2021,Sex,Persons,Number,106
+2022,Age at report,Under 18 at report,Number,37
+2022,Age at report,18–34 years at report,Number,25
+2022,Age at report,35–54 years at report,Number,40
+2022,Age at report,55 years and over at report,Number,22
+2022,Setting of offence,Residential location,Number,112
+2022,Setting of offence,Community location,Number,20
+2022,Sex,Females,Number,71
+2022,Sex,Males,Number,57
+2022,Sex,Persons,Number,131
+2023,Age at report,Under 18 at report,Number,15
+2023,Age at report,18–34 years at report,Number,33
+2023,Age at report,35–54 years at report,Number,54
+2023,Age at report,55 years and over at report,Number,57
+2023,Setting of offence,Residential location,Number,130
+2023,Setting of offence,Community location,Number,32
+2023,Sex,Females,Number,94
+2023,Sex,Males,Number,63
+2023,Sex,Persons,Number,161
+2024,Age at report,Under 18 years at report,Number,31
+2024,Age at report,18–34 years at report,Number,31
+2024,Age at report,35–54 years at report,Number,53
+2024,Age at report,55 years and over at report,Number,54
+2024,Setting of offence,Residential location,Number,144
+2024,Setting of offence,Community  location,Number,21
+2024,Sex,Females,Number,99
+2024,Sex,Males,Number,73
+2024,Sex,Persons,Number,175

@@ -1,0 +1,811 @@
+sex,year,age_group,unit,value
+Females,2010,0–9 years,Number,1721
+Females,2010,10–17 years,Number,7051
+Females,2010,18–24 years,Number,2937
+Females,2010,25–34 years,Number,1946
+Females,2010,35–44 years,Number,1188
+Females,2010,45–54 years,Number,614
+Females,2010,55–64 years,Number,222
+Females,2010,65 years and over,Number,160
+Females,2010,Total,Number,15909
+Males,2010,0–9 years,Number,843
+Males,2010,10–17 years,Number,1146
+Males,2010,18–24 years,Number,274
+Males,2010,25–34 years,Number,205
+Males,2010,35–44 years,Number,228
+Males,2010,45–54 years,Number,106
+Males,2010,55–64 years,Number,35
+Males,2010,65 years and over,Number,13
+Males,2010,Total,Number,2865
+Persons,2010,0–9 years,Number,2572
+Persons,2010,10–17 years,Number,8199
+Persons,2010,18–24 years,Number,3214
+Persons,2010,25–34 years,Number,2151
+Persons,2010,35–44 years,Number,1416
+Persons,2010,45–54 years,Number,720
+Persons,2010,55–64 years,Number,253
+Persons,2010,65 years and over,Number,184
+Persons,2010,Total,Number,18862
+Females,2011,0–9 years,Number,1678
+Females,2011,10–17 years,Number,6750
+Females,2011,18–24 years,Number,2944
+Females,2011,25–34 years,Number,2058
+Females,2011,35–44 years,Number,1250
+Females,2011,45–54 years,Number,627
+Females,2011,55–64 years,Number,212
+Females,2011,65 years and over,Number,131
+Females,2011,Total,Number,15715
+Males,2011,0–9 years,Number,849
+Males,2011,10–17 years,Number,1066
+Males,2011,18–24 years,Number,280
+Males,2011,25–34 years,Number,233
+Males,2011,35–44 years,Number,210
+Males,2011,45–54 years,Number,114
+Males,2011,55–64 years,Number,36
+Males,2011,65 years and over,Number,25
+Males,2011,Total,Number,2837
+Persons,2011,0–9 years,Number,2535
+Persons,2011,10–17 years,Number,7818
+Persons,2011,18–24 years,Number,3231
+Persons,2011,25–34 years,Number,2297
+Persons,2011,35–44 years,Number,1461
+Persons,2011,45–54 years,Number,741
+Persons,2011,55–64 years,Number,247
+Persons,2011,65 years and over,Number,158
+Persons,2011,Total,Number,18616
+Females,2012,0–9 years,Number,1747
+Females,2012,10–17 years,Number,6946
+Females,2012,18–24 years,Number,2966
+Females,2012,25–34 years,Number,2056
+Females,2012,35–44 years,Number,1291
+Females,2012,45–54 years,Number,678
+Females,2012,55–64 years,Number,226
+Females,2012,65 years and over,Number,153
+Females,2012,Total,Number,16121
+Males,2012,0–9 years,Number,1056
+Males,2012,10–17 years,Number,1117
+Males,2012,18–24 years,Number,308
+Males,2012,25–34 years,Number,285
+Males,2012,35–44 years,Number,225
+Males,2012,45–54 years,Number,142
+Males,2012,55–64 years,Number,68
+Males,2012,65 years and over,Number,32
+Males,2012,Total,Number,3263
+Persons,2012,0–9 years,Number,2805
+Persons,2012,10–17 years,Number,8064
+Persons,2012,18–24 years,Number,3277
+Persons,2012,25–34 years,Number,2349
+Persons,2012,35–44 years,Number,1522
+Persons,2012,45–54 years,Number,819
+Persons,2012,55–64 years,Number,300
+Persons,2012,65 years and over,Number,187
+Persons,2012,Total,Number,19448
+Females,2013,0–9 years,Number,1874
+Females,2013,10–17 years,Number,6917
+Females,2013,18–24 years,Number,3020
+Females,2013,25–34 years,Number,2206
+Females,2013,35–44 years,Number,1414
+Females,2013,45–54 years,Number,701
+Females,2013,55–64 years,Number,218
+Females,2013,65 years and over,Number,173
+Females,2013,Total,Number,16562
+Males,2013,0–9 years,Number,957
+Males,2013,10–17 years,Number,1230
+Males,2013,18–24 years,Number,316
+Males,2013,25–34 years,Number,273
+Males,2013,35–44 years,Number,257
+Males,2013,45–54 years,Number,229
+Males,2013,55–64 years,Number,80
+Males,2013,65 years and over,Number,33
+Males,2013,Total,Number,3387
+Persons,2013,0–9 years,Number,2834
+Persons,2013,10–17 years,Number,8151
+Persons,2013,18–24 years,Number,3343
+Persons,2013,25–34 years,Number,2484
+Persons,2013,35–44 years,Number,1671
+Persons,2013,45–54 years,Number,926
+Persons,2013,55–64 years,Number,297
+Persons,2013,65 years and over,Number,208
+Persons,2013,Total,Number,20025
+Females,2014,0–9 years,Number,1927
+Females,2014,10–17 years,Number,7140
+Females,2014,18–24 years,Number,2950
+Females,2014,25–34 years,Number,2272
+Females,2014,35–44 years,Number,1412
+Females,2014,45–54 years,Number,800
+Females,2014,55–64 years,Number,321
+Females,2014,65 years and over,Number,186
+Females,2014,Total,Number,17124
+Males,2014,0–9 years,Number,1023
+Males,2014,10–17 years,Number,1203
+Males,2014,18–24 years,Number,319
+Males,2014,25–34 years,Number,330
+Males,2014,35–44 years,Number,321
+Males,2014,45–54 years,Number,213
+Males,2014,55–64 years,Number,76
+Males,2014,65 years and over,Number,29
+Males,2014,Total,Number,3538
+Persons,2014,0–9 years,Number,2953
+Persons,2014,10–17 years,Number,8346
+Persons,2014,18–24 years,Number,3282
+Persons,2014,25–34 years,Number,2608
+Persons,2014,35–44 years,Number,1736
+Persons,2014,45–54 years,Number,1020
+Persons,2014,55–64 years,Number,393
+Persons,2014,65 years and over,Number,216
+Persons,2014,Total,Number,20741
+Females,2015,0–9 years,Number,1980
+Females,2015,10–17 years,Number,7218
+Females,2015,18–24 years,Number,3015
+Females,2015,25–34 years,Number,2414
+Females,2015,35–44 years,Number,1594
+Females,2015,45–54 years,Number,990
+Females,2015,55–64 years,Number,404
+Females,2015,65 years and over,Number,199
+Females,2015,Total,Number,17931
+Males,2015,0–9 years,Number,1039
+Males,2015,10–17 years,Number,1238
+Males,2015,18–24 years,Number,334
+Males,2015,25–34 years,Number,309
+Males,2015,35–44 years,Number,379
+Males,2015,45–54 years,Number,341
+Males,2015,55–64 years,Number,148
+Males,2015,65 years and over,Number,69
+Males,2015,Total,Number,3889
+Persons,2015,0–9 years,Number,3028
+Persons,2015,10–17 years,Number,8467
+Persons,2015,18–24 years,Number,3347
+Persons,2015,25–34 years,Number,2733
+Persons,2015,35–44 years,Number,1965
+Persons,2015,45–54 years,Number,1336
+Persons,2015,55–64 years,Number,553
+Persons,2015,65 years and over,Number,268
+Persons,2015,Total,Number,21948
+Females,2016,0–9 years,Number,1823
+Females,2016,10–17 years,Number,7439
+Females,2016,18–24 years,Number,3288
+Females,2016,25–34 years,Number,2710
+Females,2016,35–44 years,Number,1753
+Females,2016,45–54 years,Number,1163
+Females,2016,55–64 years,Number,364
+Females,2016,65 years and over,Number,234
+Females,2016,Total,Number,18855
+Males,2016,0–9 years,Number,1044
+Males,2016,10–17 years,Number,1329
+Males,2016,18–24 years,Number,377
+Males,2016,25–34 years,Number,369
+Males,2016,35–44 years,Number,369
+Males,2016,45–54 years,Number,357
+Males,2016,55–64 years,Number,173
+Males,2016,65 years and over,Number,73
+Males,2016,Total,Number,4106
+Persons,2016,0–9 years,Number,2878
+Persons,2016,10–17 years,Number,8768
+Persons,2016,18–24 years,Number,3668
+Persons,2016,25–34 years,Number,3084
+Persons,2016,35–44 years,Number,2124
+Persons,2016,45–54 years,Number,1518
+Persons,2016,55–64 years,Number,538
+Persons,2016,65 years and over,Number,304
+Persons,2016,Total,Number,23040
+Females,2017,0–9 years,Number,1926
+Females,2017,10–17 years,Number,8468
+Females,2017,18–24 years,Number,3728
+Females,2017,25–34 years,Number,3124
+Females,2017,35–44 years,Number,1907
+Females,2017,45–54 years,Number,1224
+Females,2017,55–64 years,Number,494
+Females,2017,65 years and over,Number,249
+Females,2017,Total,Number,21225
+Males,2017,0–9 years,Number,965
+Males,2017,10–17 years,Number,1427
+Males,2017,18–24 years,Number,426
+Males,2017,25–34 years,Number,394
+Males,2017,35–44 years,Number,418
+Males,2017,45–54 years,Number,464
+Males,2017,55–64 years,Number,290
+Males,2017,65 years and over,Number,107
+Males,2017,Total,Number,4522
+Persons,2017,0–9 years,Number,2900
+Persons,2017,10–17 years,Number,9906
+Persons,2017,18–24 years,Number,4154
+Persons,2017,25–34 years,Number,3520
+Persons,2017,35–44 years,Number,2323
+Persons,2017,45–54 years,Number,1695
+Persons,2017,55–64 years,Number,783
+Persons,2017,65 years and over,Number,353
+Persons,2017,Total,Number,25837
+Females,2018,0–9 years,Number,1829
+Females,2018,10–17 years,Number,8876
+Females,2018,18–24 years,Number,4066
+Females,2018,25–34 years,Number,3211
+Females,2018,35–44 years,Number,1943
+Females,2018,45–54 years,Number,1263
+Females,2018,55–64 years,Number,522
+Females,2018,65 years and over,Number,293
+Females,2018,Total,Number,22113
+Males,2018,0–9 years,Number,886
+Males,2018,10–17 years,Number,1367
+Males,2018,18–24 years,Number,416
+Males,2018,25–34 years,Number,399
+Males,2018,35–44 years,Number,329
+Males,2018,45–54 years,Number,404
+Males,2018,55–64 years,Number,204
+Males,2018,65 years and over,Number,82
+Males,2018,Total,Number,4105
+Persons,2018,0–9 years,Number,2732
+Persons,2018,10–17 years,Number,10268
+Persons,2018,18–24 years,Number,4508
+Persons,2018,25–34 years,Number,3610
+Persons,2018,35–44 years,Number,2282
+Persons,2018,45–54 years,Number,1666
+Persons,2018,55–64 years,Number,729
+Persons,2018,65 years and over,Number,377
+Persons,2018,Total,Number,26325
+Females,2019,0–9 years,Number,1794
+Females,2019,10–17 years,Number,8764
+Females,2019,18–24 years,Number,4110
+Females,2019,25–34 years,Number,3477
+Females,2019,35–44 years,Number,1892
+Females,2019,45–54 years,Number,1240
+Females,2019,55–64 years,Number,547
+Females,2019,65 years and over,Number,336
+Females,2019,Total,Number,22308
+Males,2019,0–9 years,Number,952
+Males,2019,10–17 years,Number,1580
+Males,2019,18–24 years,Number,405
+Males,2019,25–34 years,Number,410
+Males,2019,35–44 years,Number,367
+Males,2019,45–54 years,Number,360
+Males,2019,55–64 years,Number,206
+Males,2019,65 years and over,Number,62
+Males,2019,Total,Number,4378
+Persons,2019,0–9 years,Number,2760
+Persons,2019,10–17 years,Number,10368
+Persons,2019,18–24 years,Number,4523
+Persons,2019,25–34 years,Number,3886
+Persons,2019,35–44 years,Number,2266
+Persons,2019,45–54 years,Number,1605
+Persons,2019,55–64 years,Number,751
+Persons,2019,65 years and over,Number,402
+Persons,2019,Total,Number,26860
+Females,2020,0–9 years,Number,1750
+Females,2020,10–17 years,Number,9747
+Females,2020,18–24 years,Number,4203
+Females,2020,25–34 years,Number,3360
+Females,2020,35–44 years,Number,1991
+Females,2020,45–54 years,Number,1259
+Females,2020,55–64 years,Number,473
+Females,2020,65 years and over,Number,318
+Females,2020,Total,Number,23183
+Males,2020,0–9 years,Number,891
+Males,2020,10–17 years,Number,1503
+Males,2020,18–24 years,Number,412
+Males,2020,25–34 years,Number,481
+Males,2020,35–44 years,Number,398
+Males,2020,45–54 years,Number,314
+Males,2020,55–64 years,Number,184
+Males,2020,65 years and over,Number,70
+Males,2020,Total,Number,4265
+Persons,2020,0–9 years,Number,2653
+Persons,2020,10–17 years,Number,11277
+Persons,2020,18–24 years,Number,4621
+Persons,2020,25–34 years,Number,3847
+Persons,2020,35–44 years,Number,2390
+Persons,2020,45–54 years,Number,1578
+Persons,2020,55–64 years,Number,660
+Persons,2020,65 years and over,Number,388
+Persons,2020,Total,Number,27538
+Females,2021,0–9 years,Number,1555
+Females,2021,10–17 years,Number,11310
+Females,2021,18–24 years,Number,4881
+Females,2021,25–34 years,Number,3908
+Females,2021,35–44 years,Number,2422
+Females,2021,45–54 years,Number,1481
+Females,2021,55–64 years,Number,649
+Females,2021,65 years and over,Number,358
+Females,2021,Total,Number,26641
+Males,2021,0–9 years,Number,760
+Males,2021,10–17 years,Number,1558
+Males,2021,18–24 years,Number,447
+Males,2021,25–34 years,Number,518
+Males,2021,35–44 years,Number,437
+Males,2021,45–54 years,Number,339
+Males,2021,55–64 years,Number,182
+Males,2021,65 years and over,Number,82
+Males,2021,Total,Number,4341
+Persons,2021,0–9 years,Number,2334
+Persons,2021,10–17 years,Number,12897
+Persons,2021,18–24 years,Number,5344
+Persons,2021,25–34 years,Number,4433
+Persons,2021,35–44 years,Number,2857
+Persons,2021,45–54 years,Number,1827
+Persons,2021,55–64 years,Number,829
+Persons,2021,65 years and over,Number,446
+Persons,2021,Total,Number,31074
+Females,2022,0–9 years,Number,1464
+Females,2022,10–17 years,Number,11030
+Females,2022,18–24 years,Number,5150
+Females,2022,25–34 years,Number,4368
+Females,2022,35–44 years,Number,2701
+Females,2022,45–54 years,Number,1643
+Females,2022,55–64 years,Number,676
+Females,2022,65 years and over,Number,393
+Females,2022,Total,Number,27508
+Males,2022,0–9 years,Number,731
+Males,2022,10–17 years,Number,1723
+Males,2022,18–24 years,Number,477
+Males,2022,25–34 years,Number,712
+Males,2022,35–44 years,Number,649
+Males,2022,45–54 years,Number,458
+Males,2022,55–64 years,Number,276
+Males,2022,65 years and over,Number,116
+Males,2022,Total,Number,5154
+Persons,2022,0–9 years,Number,2206
+Persons,2022,10–17 years,Number,12803
+Persons,2022,18–24 years,Number,5628
+Persons,2022,25–34 years,Number,5079
+Persons,2022,35–44 years,Number,3350
+Persons,2022,45–54 years,Number,2105
+Persons,2022,55–64 years,Number,952
+Persons,2022,65 years and over,Number,509
+Persons,2022,Total,Number,32771
+Females,2023,0–9 years,Number,1620
+Females,2023,10–17 years,Number,11645
+Females,2023,18–24 years,Number,5282
+Females,2023,25–34 years,Number,5131
+Females,2023,35–44 years,Number,3412
+Females,2023,45–54 years,Number,2001
+Females,2023,55–64 years,Number,791
+Females,2023,65 years and over,Number,530
+Females,2023,Total,Number,30496
+Males,2023,0–9 years,Number,866
+Males,2023,10–17 years,Number,1959
+Males,2023,18–24 years,Number,539
+Males,2023,25–34 years,Number,764
+Males,2023,35–44 years,Number,674
+Males,2023,45–54 years,Number,488
+Males,2023,55–64 years,Number,268
+Males,2023,65 years and over,Number,111
+Males,2023,Total,Number,5697
+Persons,2023,0–9 years,Number,2506
+Persons,2023,10–17 years,Number,13684
+Persons,2023,18–24 years,Number,5833
+Persons,2023,25–34 years,Number,5902
+Persons,2023,35–44 years,Number,4092
+Persons,2023,45–54 years,Number,2493
+Persons,2023,55–64 years,Number,1069
+Persons,2023,65 years and over,Number,641
+Persons,2023,Total,Number,36352
+Females,2024,0–9 years,Number,1701
+Females,2024,10–17 years,Number,11489
+Females,2024,18–24 years,Number,5506
+Females,2024,25–34 years,Number,5897
+Females,2024,35–44 years,Number,3933
+Females,2024,45–54 years,Number,2322
+Females,2024,55–64 years,Number,911
+Females,2024,65 years and over,Number,539
+Females,2024,Total,Number,32372
+Males,2024,0–9 years,Number,955
+Males,2024,10–17 years,Number,2203
+Males,2024,18–24 years,Number,645
+Males,2024,25–34 years,Number,1177
+Males,2024,35–44 years,Number,967
+Males,2024,45–54 years,Number,592
+Males,2024,55–64 years,Number,292
+Males,2024,65 years and over,Number,137
+Males,2024,Total,Number,6978
+Persons,2024,0–9 years,Number,2693
+Persons,2024,10–17 years,Number,13870
+Persons,2024,18–24 years,Number,6229
+Persons,2024,25–34 years,Number,7221
+Persons,2024,35–44 years,Number,5018
+Persons,2024,45–54 years,Number,2998
+Persons,2024,55–64 years,Number,1241
+Persons,2024,65 years and over,Number,697
+Persons,2024,Total,Number,40087
+Females,2010,0–9 years,"Victimisation rate (number per 100,000)",125.6
+Females,2010,10–17 years,"Victimisation rate (number per 100,000)",645.3
+Females,2010,18–24 years,"Victimisation rate (number per 100,000)",273.6
+Females,2010,25–34 years,"Victimisation rate (number per 100,000)",125.6
+Females,2010,35–44 years,"Victimisation rate (number per 100,000)",75.2
+Females,2010,45–54 years,"Victimisation rate (number per 100,000)",40.4
+Females,2010,55–64 years,"Victimisation rate (number per 100,000)",17.7
+Females,2010,65 years and over,"Victimisation rate (number per 100,000)",9.9
+Females,2010,Total,"Victimisation rate (number per 100,000)",143.8
+Males,2010,0–9 years,"Victimisation rate (number per 100,000)",58.4
+Males,2010,10–17 years,"Victimisation rate (number per 100,000)",99.5
+Males,2010,18–24 years,"Victimisation rate (number per 100,000)",24.2
+Males,2010,25–34 years,"Victimisation rate (number per 100,000)",13.0
+Males,2010,35–44 years,"Victimisation rate (number per 100,000)",14.6
+Males,2010,45–54 years,"Victimisation rate (number per 100,000)",7.1
+Males,2010,55–64 years,"Victimisation rate (number per 100,000)",2.8
+Males,2010,65 years and over,"Victimisation rate (number per 100,000)",1.0
+Males,2010,Total,"Victimisation rate (number per 100,000)",26.1
+Persons,2010,0–9 years,"Victimisation rate (number per 100,000)",91.4
+Persons,2010,10–17 years,"Victimisation rate (number per 100,000)",365.2
+Persons,2010,18–24 years,"Victimisation rate (number per 100,000)",145.8
+Persons,2010,25–34 years,"Victimisation rate (number per 100,000)",68.8
+Persons,2010,35–44 years,"Victimisation rate (number per 100,000)",45.1
+Persons,2010,45–54 years,"Victimisation rate (number per 100,000)",23.9
+Persons,2010,55–64 years,"Victimisation rate (number per 100,000)",10.1
+Persons,2010,65 years and over,"Victimisation rate (number per 100,000)",6.2
+Persons,2010,Total,"Victimisation rate (number per 100,000)",85.6
+Females,2011,0–9 years,"Victimisation rate (number per 100,000)",121.2
+Females,2011,10–17 years,"Victimisation rate (number per 100,000)",616.8
+Females,2011,18–24 years,"Victimisation rate (number per 100,000)",273.4
+Females,2011,25–34 years,"Victimisation rate (number per 100,000)",129.9
+Females,2011,35–44 years,"Victimisation rate (number per 100,000)",78.5
+Females,2011,45–54 years,"Victimisation rate (number per 100,000)",40.9
+Females,2011,55–64 years,"Victimisation rate (number per 100,000)",16.5
+Females,2011,65 years and over,"Victimisation rate (number per 100,000)",7.9
+Females,2011,Total,"Victimisation rate (number per 100,000)",140.1
+Males,2011,0–9 years,"Victimisation rate (number per 100,000)",58.1
+Males,2011,10–17 years,"Victimisation rate (number per 100,000)",92.4
+Males,2011,18–24 years,"Victimisation rate (number per 100,000)",24.8
+Males,2011,25–34 years,"Victimisation rate (number per 100,000)",14.5
+Males,2011,35–44 years,"Victimisation rate (number per 100,000)",13.4
+Males,2011,45–54 years,"Victimisation rate (number per 100,000)",7.6
+Males,2011,55–64 years,"Victimisation rate (number per 100,000)",2.8
+Males,2011,65 years and over,"Victimisation rate (number per 100,000)",1.8
+Males,2011,Total,"Victimisation rate (number per 100,000)",25.5
+Persons,2011,0–9 years,"Victimisation rate (number per 100,000)",89.1
+Persons,2011,10–17 years,"Victimisation rate (number per 100,000)",347.7
+Persons,2011,18–24 years,"Victimisation rate (number per 100,000)",146.6
+Persons,2011,25–34 years,"Victimisation rate (number per 100,000)",71.9
+Persons,2011,35–44 years,"Victimisation rate (number per 100,000)",46.2
+Persons,2011,45–54 years,"Victimisation rate (number per 100,000)",24.4
+Persons,2011,55–64 years,"Victimisation rate (number per 100,000)",9.6
+Persons,2011,65 years and over,"Victimisation rate (number per 100,000)",5.1
+Persons,2011,Total,"Victimisation rate (number per 100,000)",83.3
+Females,2012,0–9 years,"Victimisation rate (number per 100,000)",123.2
+Females,2012,10–17 years,"Victimisation rate (number per 100,000)",633.0
+Females,2012,18–24 years,"Victimisation rate (number per 100,000)",272.6
+Females,2012,25–34 years,"Victimisation rate (number per 100,000)",126.1
+Females,2012,35–44 years,"Victimisation rate (number per 100,000)",80.4
+Females,2012,45–54 years,"Victimisation rate (number per 100,000)",43.9
+Females,2012,55–64 years,"Victimisation rate (number per 100,000)",17.3
+Females,2012,65 years and over,"Victimisation rate (number per 100,000)",8.8
+Females,2012,Total,"Victimisation rate (number per 100,000)",141.2
+Males,2012,0–9 years,"Victimisation rate (number per 100,000)",70.6
+Males,2012,10–17 years,"Victimisation rate (number per 100,000)",96.7
+Males,2012,18–24 years,"Victimisation rate (number per 100,000)",27.1
+Males,2012,25–34 years,"Victimisation rate (number per 100,000)",17.2
+Males,2012,35–44 years,"Victimisation rate (number per 100,000)",14.2
+Males,2012,45–54 years,"Victimisation rate (number per 100,000)",9.4
+Males,2012,55–64 years,"Victimisation rate (number per 100,000)",5.3
+Males,2012,65 years and over,"Victimisation rate (number per 100,000)",2.2
+Males,2012,Total,"Victimisation rate (number per 100,000)",28.8
+Persons,2012,0–9 years,"Victimisation rate (number per 100,000)",96.3
+Persons,2012,10–17 years,"Victimisation rate (number per 100,000)",357.9
+Persons,2012,18–24 years,"Victimisation rate (number per 100,000)",147.2
+Persons,2012,25–34 years,"Victimisation rate (number per 100,000)",71.4
+Persons,2012,35–44 years,"Victimisation rate (number per 100,000)",47.7
+Persons,2012,45–54 years,"Victimisation rate (number per 100,000)",26.8
+Persons,2012,55–64 years,"Victimisation rate (number per 100,000)",11.6
+Persons,2012,65 years and over,"Victimisation rate (number per 100,000)",5.8
+Persons,2012,Total,"Victimisation rate (number per 100,000)",85.6
+Females,2013,0–9 years,"Victimisation rate (number per 100,000)",129.2
+Females,2013,10–17 years,"Victimisation rate (number per 100,000)",629.9
+Females,2013,18–24 years,"Victimisation rate (number per 100,000)",274.1
+Females,2013,25–34 years,"Victimisation rate (number per 100,000)",131.3
+Females,2013,35–44 years,"Victimisation rate (number per 100,000)",87.5
+Females,2013,45–54 years,"Victimisation rate (number per 100,000)",45.1
+Females,2013,55–64 years,"Victimisation rate (number per 100,000)",16.4
+Females,2013,65 years and over,"Victimisation rate (number per 100,000)",9.7
+Females,2013,Total,"Victimisation rate (number per 100,000)",142.5
+Males,2013,0–9 years,"Victimisation rate (number per 100,000)",62.5
+Males,2013,10–17 years,"Victimisation rate (number per 100,000)",106.5
+Males,2013,18–24 years,"Victimisation rate (number per 100,000)",27.4
+Males,2013,25–34 years,"Victimisation rate (number per 100,000)",16.0
+Males,2013,35–44 years,"Victimisation rate (number per 100,000)",16.1
+Males,2013,45–54 years,"Victimisation rate (number per 100,000)",15.0
+Males,2013,55–64 years,"Victimisation rate (number per 100,000)",6.2
+Males,2013,65 years and over,"Victimisation rate (number per 100,000)",2.1
+Males,2013,Total,"Victimisation rate (number per 100,000)",29.4
+Persons,2013,0–9 years,"Victimisation rate (number per 100,000)",95.0
+Persons,2013,10–17 years,"Victimisation rate (number per 100,000)",361.8
+Persons,2013,18–24 years,"Victimisation rate (number per 100,000)",148.4
+Persons,2013,25–34 years,"Victimisation rate (number per 100,000)",73.4
+Persons,2013,35–44 years,"Victimisation rate (number per 100,000)",52.0
+Persons,2013,45–54 years,"Victimisation rate (number per 100,000)",30.1
+Persons,2013,55–64 years,"Victimisation rate (number per 100,000)",11.3
+Persons,2013,65 years and over,"Victimisation rate (number per 100,000)",6.2
+Persons,2013,Total,"Victimisation rate (number per 100,000)",86.6
+Females,2014,0–9 years,"Victimisation rate (number per 100,000)",130.4
+Females,2014,10–17 years,"Victimisation rate (number per 100,000)",648.5
+Females,2014,18–24 years,"Victimisation rate (number per 100,000)",265.5
+Females,2014,25–34 years,"Victimisation rate (number per 100,000)",131.8
+Females,2014,35–44 years,"Victimisation rate (number per 100,000)",87.2
+Females,2014,45–54 years,"Victimisation rate (number per 100,000)",50.9
+Females,2014,55–64 years,"Victimisation rate (number per 100,000)",23.6
+Females,2014,65 years and over,"Victimisation rate (number per 100,000)",10.1
+Females,2014,Total,"Victimisation rate (number per 100,000)",145.0
+Males,2014,0–9 years,"Victimisation rate (number per 100,000)",65.6
+Males,2014,10–17 years,"Victimisation rate (number per 100,000)",103.8
+Males,2014,18–24 years,"Victimisation rate (number per 100,000)",27.4
+Males,2014,25–34 years,"Victimisation rate (number per 100,000)",19.0
+Males,2014,35–44 years,"Victimisation rate (number per 100,000)",20.1
+Males,2014,45–54 years,"Victimisation rate (number per 100,000)",13.9
+Males,2014,55–64 years,"Victimisation rate (number per 100,000)",5.8
+Males,2014,65 years and over,"Victimisation rate (number per 100,000)",1.8
+Males,2014,Total,"Victimisation rate (number per 100,000)",30.3
+Persons,2014,0–9 years,"Victimisation rate (number per 100,000)",97.2
+Persons,2014,10–17 years,"Victimisation rate (number per 100,000)",369.3
+Persons,2014,18–24 years,"Victimisation rate (number per 100,000)",144.4
+Persons,2014,25–34 years,"Victimisation rate (number per 100,000)",75.4
+Persons,2014,35–44 years,"Victimisation rate (number per 100,000)",53.9
+Persons,2014,45–54 years,"Victimisation rate (number per 100,000)",32.9
+Persons,2014,55–64 years,"Victimisation rate (number per 100,000)",14.7
+Persons,2014,65 years and over,"Victimisation rate (number per 100,000)",6.3
+Persons,2014,Total,"Victimisation rate (number per 100,000)",88.4
+Females,2015,0–9 years,"Victimisation rate (number per 100,000)",131.7
+Females,2015,10–17 years,"Victimisation rate (number per 100,000)",652.6
+Females,2015,18–24 years,"Victimisation rate (number per 100,000)",269.9
+Females,2015,25–34 years,"Victimisation rate (number per 100,000)",136.6
+Females,2015,35–44 years,"Victimisation rate (number per 100,000)",98.2
+Females,2015,45–54 years,"Victimisation rate (number per 100,000)",62.5
+Females,2015,55–64 years,"Victimisation rate (number per 100,000)",29.1
+Females,2015,65 years and over,"Victimisation rate (number per 100,000)",10.5
+Females,2015,Total,"Victimisation rate (number per 100,000)",149.6
+Males,2015,0–9 years,"Victimisation rate (number per 100,000)",65.5
+Males,2015,10–17 years,"Victimisation rate (number per 100,000)",106.2
+Males,2015,18–24 years,"Victimisation rate (number per 100,000)",28.6
+Males,2015,25–34 years,"Victimisation rate (number per 100,000)",17.5
+Males,2015,35–44 years,"Victimisation rate (number per 100,000)",23.6
+Males,2015,45–54 years,"Victimisation rate (number per 100,000)",22.2
+Males,2015,55–64 years,"Victimisation rate (number per 100,000)",11.1
+Males,2015,65 years and over,"Victimisation rate (number per 100,000)",4.2
+Males,2015,Total,"Victimisation rate (number per 100,000)",32.9
+Persons,2015,0–9 years,"Victimisation rate (number per 100,000)",98.0
+Persons,2015,10–17 years,"Victimisation rate (number per 100,000)",372.7
+Persons,2015,18–24 years,"Victimisation rate (number per 100,000)",146.5
+Persons,2015,25–34 years,"Victimisation rate (number per 100,000)",77.3
+Persons,2015,35–44 years,"Victimisation rate (number per 100,000)",60.9
+Persons,2015,45–54 years,"Victimisation rate (number per 100,000)",42.8
+Persons,2015,55–64 years,"Victimisation rate (number per 100,000)",20.3
+Persons,2015,65 years and over,"Victimisation rate (number per 100,000)",7.5
+Persons,2015,Total,"Victimisation rate (number per 100,000)",92.2
+Females,2016,0–9 years,"Victimisation rate (number per 100,000)",119.3
+Females,2016,10–17 years,"Victimisation rate (number per 100,000)",665.2
+Females,2016,18–24 years,"Victimisation rate (number per 100,000)",291.9
+Females,2016,25–34 years,"Victimisation rate (number per 100,000)",149.9
+Females,2016,35–44 years,"Victimisation rate (number per 100,000)",107.9
+Females,2016,45–54 years,"Victimisation rate (number per 100,000)",72.5
+Females,2016,55–64 years,"Victimisation rate (number per 100,000)",25.6
+Females,2016,65 years and over,"Victimisation rate (number per 100,000)",12.0
+Females,2016,Total,"Victimisation rate (number per 100,000)",154.7
+Males,2016,0–9 years,"Victimisation rate (number per 100,000)",64.8
+Males,2016,10–17 years,"Victimisation rate (number per 100,000)",112.7
+Males,2016,18–24 years,"Victimisation rate (number per 100,000)",32.1
+Males,2016,25–34 years,"Victimisation rate (number per 100,000)",20.5
+Males,2016,35–44 years,"Victimisation rate (number per 100,000)",22.9
+Males,2016,45–54 years,"Victimisation rate (number per 100,000)",23.1
+Males,2016,55–64 years,"Victimisation rate (number per 100,000)",12.7
+Males,2016,65 years and over,"Victimisation rate (number per 100,000)",4.3
+Males,2016,Total,"Victimisation rate (number per 100,000)",34.2
+Persons,2016,0–9 years,"Victimisation rate (number per 100,000)",91.6
+Persons,2016,10–17 years,"Victimisation rate (number per 100,000)",381.6
+Persons,2016,18–24 years,"Victimisation rate (number per 100,000)",159.3
+Persons,2016,25–34 years,"Victimisation rate (number per 100,000)",85.5
+Persons,2016,35–44 years,"Victimisation rate (number per 100,000)",65.7
+Persons,2016,45–54 years,"Victimisation rate (number per 100,000)",48.1
+Persons,2016,55–64 years,"Victimisation rate (number per 100,000)",19.4
+Persons,2016,65 years and over,"Victimisation rate (number per 100,000)",8.3
+Persons,2016,Total,"Victimisation rate (number per 100,000)",95.3
+Females,2017,0–9 years,"Victimisation rate (number per 100,000)",125.2
+Females,2017,10–17 years,"Victimisation rate (number per 100,000)",744.2
+Females,2017,18–24 years,"Victimisation rate (number per 100,000)",327.8
+Females,2017,25–34 years,"Victimisation rate (number per 100,000)",169.4
+Females,2017,35–44 years,"Victimisation rate (number per 100,000)",116.2
+Females,2017,45–54 years,"Victimisation rate (number per 100,000)",75.5
+Females,2017,55–64 years,"Victimisation rate (number per 100,000)",34.0
+Females,2017,65 years and over,"Victimisation rate (number per 100,000)",12.4
+Females,2017,Total,"Victimisation rate (number per 100,000)",171.4
+Males,2017,0–9 years,"Victimisation rate (number per 100,000)",59.4
+Males,2017,10–17 years,"Victimisation rate (number per 100,000)",118.7
+Males,2017,18–24 years,"Victimisation rate (number per 100,000)",35.8
+Males,2017,25–34 years,"Victimisation rate (number per 100,000)",21.5
+Males,2017,35–44 years,"Victimisation rate (number per 100,000)",25.7
+Males,2017,45–54 years,"Victimisation rate (number per 100,000)",29.6
+Males,2017,55–64 years,"Victimisation rate (number per 100,000)",20.9
+Males,2017,65 years and over,"Victimisation rate (number per 100,000)",6.0
+Males,2017,Total,"Victimisation rate (number per 100,000)",37.1
+Persons,2017,0–9 years,"Victimisation rate (number per 100,000)",91.7
+Persons,2017,10–17 years,"Victimisation rate (number per 100,000)",423.3
+Persons,2017,18–24 years,"Victimisation rate (number per 100,000)",178.5
+Persons,2017,25–34 years,"Victimisation rate (number per 100,000)",95.7
+Persons,2017,35–44 years,"Victimisation rate (number per 100,000)",71.1
+Persons,2017,45–54 years,"Victimisation rate (number per 100,000)",53.2
+Persons,2017,55–64 years,"Victimisation rate (number per 100,000)",27.6
+Persons,2017,65 years and over,"Victimisation rate (number per 100,000)",9.3
+Persons,2017,Total,"Victimisation rate (number per 100,000)",105.1
+Females,2018,0–9 years,"Victimisation rate (number per 100,000)",118.8
+Females,2018,10–17 years,"Victimisation rate (number per 100,000)",767.1
+Females,2018,18–24 years,"Victimisation rate (number per 100,000)",354.3
+Females,2018,25–34 years,"Victimisation rate (number per 100,000)",171.7
+Females,2018,35–44 years,"Victimisation rate (number per 100,000)",116.4
+Females,2018,45–54 years,"Victimisation rate (number per 100,000)",77.5
+Females,2018,55–64 years,"Victimisation rate (number per 100,000)",35.3
+Females,2018,65 years and over,"Victimisation rate (number per 100,000)",14.1
+Females,2018,Total,"Victimisation rate (number per 100,000)",175.9
+Males,2018,0–9 years,"Victimisation rate (number per 100,000)",54.4
+Males,2018,10–17 years,"Victimisation rate (number per 100,000)",111.6
+Males,2018,18–24 years,"Victimisation rate (number per 100,000)",34.5
+Males,2018,25–34 years,"Victimisation rate (number per 100,000)",21.5
+Males,2018,35–44 years,"Victimisation rate (number per 100,000)",19.9
+Males,2018,45–54 years,"Victimisation rate (number per 100,000)",25.6
+Males,2018,55–64 years,"Victimisation rate (number per 100,000)",14.4
+Males,2018,65 years and over,"Victimisation rate (number per 100,000)",4.5
+Males,2018,Total,"Victimisation rate (number per 100,000)",33.1
+Persons,2018,0–9 years,"Victimisation rate (number per 100,000)",86.2
+Persons,2018,10–17 years,"Victimisation rate (number per 100,000)",431.0
+Persons,2018,18–24 years,"Victimisation rate (number per 100,000)",191.5
+Persons,2018,25–34 years,"Victimisation rate (number per 100,000)",96.8
+Persons,2018,35–44 years,"Victimisation rate (number per 100,000)",68.7
+Persons,2018,45–54 years,"Victimisation rate (number per 100,000)",51.9
+Persons,2018,55–64 years,"Victimisation rate (number per 100,000)",25.2
+Persons,2018,65 years and over,"Victimisation rate (number per 100,000)",9.6
+Persons,2018,Total,"Victimisation rate (number per 100,000)",105.5
+Females,2019,0–9 years,"Victimisation rate (number per 100,000)",116.4
+Females,2019,10–17 years,"Victimisation rate (number per 100,000)",743.6
+Females,2019,18–24 years,"Victimisation rate (number per 100,000)",357.6
+Females,2019,25–34 years,"Victimisation rate (number per 100,000)",183.6
+Females,2019,35–44 years,"Victimisation rate (number per 100,000)",111.0
+Females,2019,45–54 years,"Victimisation rate (number per 100,000)",75.8
+Females,2019,55–64 years,"Victimisation rate (number per 100,000)",36.3
+Females,2019,65 years and over,"Victimisation rate (number per 100,000)",15.7
+Females,2019,Total,"Victimisation rate (number per 100,000)",174.9
+Males,2019,0–9 years,"Victimisation rate (number per 100,000)",58.4
+Males,2019,10–17 years,"Victimisation rate (number per 100,000)",126.5
+Males,2019,18–24 years,"Victimisation rate (number per 100,000)",33.2
+Males,2019,25–34 years,"Victimisation rate (number per 100,000)",21.8
+Males,2019,35–44 years,"Victimisation rate (number per 100,000)",21.8
+Males,2019,45–54 years,"Victimisation rate (number per 100,000)",22.7
+Males,2019,55–64 years,"Victimisation rate (number per 100,000)",14.3
+Males,2019,65 years and over,"Victimisation rate (number per 100,000)",3.3
+Males,2019,Total,"Victimisation rate (number per 100,000)",34.8
+Persons,2019,0–9 years,"Victimisation rate (number per 100,000)",87.1
+Persons,2019,10–17 years,"Victimisation rate (number per 100,000)",427.1
+Persons,2019,18–24 years,"Victimisation rate (number per 100,000)",191.0
+Persons,2019,25–34 years,"Victimisation rate (number per 100,000)",102.9
+Persons,2019,35–44 years,"Victimisation rate (number per 100,000)",67.0
+Persons,2019,45–54 years,"Victimisation rate (number per 100,000)",49.8
+Persons,2019,55–64 years,"Victimisation rate (number per 100,000)",25.5
+Persons,2019,65 years and over,"Victimisation rate (number per 100,000)",10.0
+Persons,2019,Total,"Victimisation rate (number per 100,000)",106.0
+Females,2020,0–9 years,"Victimisation rate (number per 100,000)",114.2
+Females,2020,10–17 years,"Victimisation rate (number per 100,000)",809.6
+Females,2020,18–24 years,"Victimisation rate (number per 100,000)",374.9
+Females,2020,25–34 years,"Victimisation rate (number per 100,000)",176.9
+Females,2020,35–44 years,"Victimisation rate (number per 100,000)",114.1
+Females,2020,45–54 years,"Victimisation rate (number per 100,000)",76.4
+Females,2020,55–64 years,"Victimisation rate (number per 100,000)",30.7
+Females,2020,65 years and over,"Victimisation rate (number per 100,000)",14.3
+Females,2020,Total,"Victimisation rate (number per 100,000)",179.5
+Males,2020,0–9 years,"Victimisation rate (number per 100,000)",54.9
+Males,2020,10–17 years,"Victimisation rate (number per 100,000)",117.7
+Males,2020,18–24 years,"Victimisation rate (number per 100,000)",34.6
+Males,2020,25–34 years,"Victimisation rate (number per 100,000)",25.4
+Males,2020,35–44 years,"Victimisation rate (number per 100,000)",23.2
+Males,2020,45–54 years,"Victimisation rate (number per 100,000)",19.6
+Males,2020,55–64 years,"Victimisation rate (number per 100,000)",12.6
+Males,2020,65 years and over,"Victimisation rate (number per 100,000)",3.6
+Males,2020,Total,"Victimisation rate (number per 100,000)",33.5
+Persons,2020,0–9 years,"Victimisation rate (number per 100,000)",84.1
+Persons,2020,10–17 years,"Victimisation rate (number per 100,000)",454.6
+Persons,2020,18–24 years,"Victimisation rate (number per 100,000)",199.9
+Persons,2020,25–34 years,"Victimisation rate (number per 100,000)",101.4
+Persons,2020,35–44 years,"Victimisation rate (number per 100,000)",69.1
+Persons,2020,45–54 years,"Victimisation rate (number per 100,000)",48.5
+Persons,2020,55–64 years,"Victimisation rate (number per 100,000)",22.0
+Persons,2020,65 years and over,"Victimisation rate (number per 100,000)",9.3
+Persons,2020,Total,"Victimisation rate (number per 100,000)",107.4
+Females,2021,0–9 years,"Victimisation rate (number per 100,000)",102.5
+Females,2021,10–17 years,"Victimisation rate (number per 100,000)",925.1
+Females,2021,18–24 years,"Victimisation rate (number per 100,000)",456.8
+Females,2021,25–34 years,"Victimisation rate (number per 100,000)",210.0
+Females,2021,35–44 years,"Victimisation rate (number per 100,000)",136.3
+Females,2021,45–54 years,"Victimisation rate (number per 100,000)",89.8
+Females,2021,55–64 years,"Victimisation rate (number per 100,000)",42.1
+Females,2021,65 years and over,"Victimisation rate (number per 100,000)",15.6
+Females,2021,Total,"Victimisation rate (number per 100,000)",206.0
+Males,2021,0–9 years,"Victimisation rate (number per 100,000)",47.3
+Males,2021,10–17 years,"Victimisation rate (number per 100,000)",120.0
+Males,2021,18–24 years,"Victimisation rate (number per 100,000)",39.4
+Males,2021,25–34 years,"Victimisation rate (number per 100,000)",27.9
+Males,2021,35–44 years,"Victimisation rate (number per 100,000)",25.1
+Males,2021,45–54 years,"Victimisation rate (number per 100,000)",21.0
+Males,2021,55–64 years,"Victimisation rate (number per 100,000)",12.4
+Males,2021,65 years and over,"Victimisation rate (number per 100,000)",4.1
+Males,2021,Total,"Victimisation rate (number per 100,000)",34.1
+Persons,2021,0–9 years,"Victimisation rate (number per 100,000)",74.7
+Persons,2021,10–17 years,"Victimisation rate (number per 100,000)",511.7
+Persons,2021,18–24 years,"Victimisation rate (number per 100,000)",242.4
+Persons,2021,25–34 years,"Victimisation rate (number per 100,000)",119.2
+Persons,2021,35–44 years,"Victimisation rate (number per 100,000)",81.1
+Persons,2021,45–54 years,"Victimisation rate (number per 100,000)",56.0
+Persons,2021,55–64 years,"Victimisation rate (number per 100,000)",27.5
+Persons,2021,65 years and over,"Victimisation rate (number per 100,000)",10.3
+Persons,2021,Total,"Victimisation rate (number per 100,000)",121.0
+Females,2022,0–9 years,"Victimisation rate (number per 100,000)",96.5
+Females,2022,10–17 years,"Victimisation rate (number per 100,000)",883.6
+Females,2022,18–24 years,"Victimisation rate (number per 100,000)",476.2
+Females,2022,25–34 years,"Victimisation rate (number per 100,000)",233.9
+Females,2022,35–44 years,"Victimisation rate (number per 100,000)",148.7
+Females,2022,45–54 years,"Victimisation rate (number per 100,000)",99.1
+Females,2022,55–64 years,"Victimisation rate (number per 100,000)",43.8
+Females,2022,65 years and over,"Victimisation rate (number per 100,000)",16.7
+Females,2022,Total,"Victimisation rate (number per 100,000)",210.1
+Males,2022,0–9 years,"Victimisation rate (number per 100,000)",45.5
+Males,2022,10–17 years,"Victimisation rate (number per 100,000)",130.2
+Males,2022,18–24 years,"Victimisation rate (number per 100,000)",41.4
+Males,2022,25–34 years,"Victimisation rate (number per 100,000)",38.1
+Males,2022,35–44 years,"Victimisation rate (number per 100,000)",36.4
+Males,2022,45–54 years,"Victimisation rate (number per 100,000)",28.3
+Males,2022,55–64 years,"Victimisation rate (number per 100,000)",18.7
+Males,2022,65 years and over,"Victimisation rate (number per 100,000)",5.6
+Males,2022,Total,"Victimisation rate (number per 100,000)",40.0
+Persons,2022,0–9 years,"Victimisation rate (number per 100,000)",70.6
+Persons,2022,10–17 years,"Victimisation rate (number per 100,000)",497.9
+Persons,2022,18–24 years,"Victimisation rate (number per 100,000)",251.8
+Persons,2022,25–34 years,"Victimisation rate (number per 100,000)",136.0
+Persons,2022,35–44 years,"Victimisation rate (number per 100,000)",93.1
+Persons,2022,45–54 years,"Victimisation rate (number per 100,000)",64.3
+Persons,2022,55–64 years,"Victimisation rate (number per 100,000)",31.5
+Persons,2022,65 years and over,"Victimisation rate (number per 100,000)",11.5
+Persons,2022,Total,"Victimisation rate (number per 100,000)",126.1
+Females,2023,0–9 years,"Victimisation rate (number per 100,000)",106.6
+Females,2023,10–17 years,"Victimisation rate (number per 100,000)",912.4
+Females,2023,18–24 years,"Victimisation rate (number per 100,000)",462.7
+Females,2023,25–34 years,"Victimisation rate (number per 100,000)",263.1
+Females,2023,35–44 years,"Victimisation rate (number per 100,000)",181.9
+Females,2023,45–54 years,"Victimisation rate (number per 100,000)",119.8
+Females,2023,55–64 years,"Victimisation rate (number per 100,000)",50.9
+Females,2023,65 years and over,"Victimisation rate (number per 100,000)",21.8
+Females,2023,Total,"Victimisation rate (number per 100,000)",227.3
+Males,2023,0–9 years,"Victimisation rate (number per 100,000)",53.9
+Males,2023,10–17 years,"Victimisation rate (number per 100,000)",144.9
+Males,2023,18–24 years,"Victimisation rate (number per 100,000)",44.0
+Males,2023,25–34 years,"Victimisation rate (number per 100,000)",39.0
+Males,2023,35–44 years,"Victimisation rate (number per 100,000)",36.6
+Males,2023,45–54 years,"Victimisation rate (number per 100,000)",30.0
+Males,2023,55–64 years,"Victimisation rate (number per 100,000)",18.0
+Males,2023,65 years and over,"Victimisation rate (number per 100,000)",5.2
+Males,2023,Total,"Victimisation rate (number per 100,000)",43.1
+Persons,2023,0–9 years,"Victimisation rate (number per 100,000)",80.2
+Persons,2023,10–17 years,"Victimisation rate (number per 100,000)",520.7
+Persons,2023,18–24 years,"Victimisation rate (number per 100,000)",246.3
+Persons,2023,25–34 years,"Victimisation rate (number per 100,000)",151.0
+Persons,2023,35–44 years,"Victimisation rate (number per 100,000)",110.0
+Persons,2023,45–54 years,"Victimisation rate (number per 100,000)",75.7
+Persons,2023,55–64 years,"Victimisation rate (number per 100,000)",35.2
+Persons,2023,65 years and over,"Victimisation rate (number per 100,000)",14.1
+Persons,2023,Total,"Victimisation rate (number per 100,000)",136.4
+Females,2024,0–9 years,"Victimisation rate (number per 100,000)",112.2
+Females,2024,10–17 years,"Victimisation rate (number per 100,000)",884.7
+Females,2024,18–24 years,"Victimisation rate (number per 100,000)",466.8
+Females,2024,25–34 years,"Victimisation rate (number per 100,000)",293.9
+Females,2024,35–44 years,"Victimisation rate (number per 100,000)",203.6
+Females,2024,45–54 years,"Victimisation rate (number per 100,000)",138.0
+Females,2024,55–64 years,"Victimisation rate (number per 100,000)",58.1
+Females,2024,65 years and over,"Victimisation rate (number per 100,000)",21.5
+Females,2024,Total,"Victimisation rate (number per 100,000)",236.5
+Males,2024,0–9 years,"Victimisation rate (number per 100,000)",59.6
+Males,2024,10–17 years,"Victimisation rate (number per 100,000)",160.3
+Males,2024,18–24 years,"Victimisation rate (number per 100,000)",50.8
+Males,2024,25–34 years,"Victimisation rate (number per 100,000)",58.1
+Males,2024,35–44 years,"Victimisation rate (number per 100,000)",50.8
+Males,2024,45–54 years,"Victimisation rate (number per 100,000)",36.2
+Males,2024,55–64 years,"Victimisation rate (number per 100,000)",19.5
+Males,2024,65 years and over,"Victimisation rate (number per 100,000)",6.2
+Males,2024,Total,"Victimisation rate (number per 100,000)",51.7
+Persons,2024,0–9 years,"Victimisation rate (number per 100,000)",86.3
+Persons,2024,10–17 years,"Victimisation rate (number per 100,000)",518.9
+Persons,2024,18–24 years,"Victimisation rate (number per 100,000)",254.2
+Persons,2024,25–34 years,"Victimisation rate (number per 100,000)",179.1
+Persons,2024,35–44 years,"Victimisation rate (number per 100,000)",130.8
+Persons,2024,45–54 years,"Victimisation rate (number per 100,000)",90.4
+Persons,2024,55–64 years,"Victimisation rate (number per 100,000)",40.5
+Persons,2024,65 years and over,"Victimisation rate (number per 100,000)",14.8
+Persons,2024,Total,"Victimisation rate (number per 100,000)",147.4

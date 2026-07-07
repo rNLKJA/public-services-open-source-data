@@ -1,0 +1,75 @@
+gender,crisis_payment_claims,demographic_factor,population_group,unit,value
+Females,Claims granted,Indigenous status,Indigenous Australians,Number,10933
+Females,Claims granted,Indigenous status,Other Australians,Number,19284
+Females,Claims granted,Country of birth,Born in Australia,Number,27436
+Females,Claims granted,Country of birth,Born outside Australia (MESC),Number,1152
+Females,Claims granted,Country of birth,Born outside Australia (non-MESC),Number,1629
+Females,Claims granted,Disability Support Pension,Does not receive DSP,Number,25708
+Females,Claims granted,Disability Support Pension,Receives DSP,Number,4509
+Males,Claims granted,Indigenous status,Indigenous Australians,Number,2345
+Males,Claims granted,Indigenous status,Other Australians,Number,6111
+Males,Claims granted,Country of birth,Born in Australia,Number,7730
+Males,Claims granted,Country of birth,Born outside Australia (MESC),Number,280
+Males,Claims granted,Country of birth,Born outside Australia (non-MESC),Number,446
+Males,Claims granted,Disability Support Pension,Does not receive DSP,Number,6776
+Males,Claims granted,Disability Support Pension,Receives DSP,Number,1680
+Persons,Claims granted,Age group,0–17,Number,n.p.
+Persons,Claims granted,Age group,18–24,Number,5149
+Persons,Claims granted,Age group,25–34,Number,14043
+Persons,Claims granted,Age group,35–44,Number,11793
+Persons,Claims granted,Age group,45–54,Number,5462
+Persons,Claims granted,Age group,55–64,Number,1388
+Persons,Claims granted,Age group,65+,Number,n.p.
+Persons,Claims granted,Indigenous status,Indigenous Australians,Number,13278
+Persons,Claims granted,Indigenous status,Other Australians,Number,25395
+Persons,Claims granted,Country of birth,Born in Australia,Number,35166
+Persons,Claims granted,Country of birth,Born outside Australia (MESC),Number,1432
+Persons,Claims granted,Country of birth,Born outside Australia (non-MESC),Number,2075
+Persons,Claims granted,State or territory,ACT,Number,396
+Persons,Claims granted,State or territory,NSW,Number,9991
+Persons,Claims granted,State or territory,NT,Number,814
+Persons,Claims granted,State or territory,Qld,Number,11501
+Persons,Claims granted,State or territory,SA,Number,2662
+Persons,Claims granted,State or territory,Tas,Number,864
+Persons,Claims granted,State or territory,UNK,Number,10
+Persons,Claims granted,State or territory,Vic,Number,7146
+Persons,Claims granted,State or territory,WA,Number,5289
+Persons,Claims granted,Disability Support Pension,Does not receive DSP,Number,32484
+Persons,Claims granted,Disability Support Pension,Receives DSP,Number,6189
+Females,Total claims,Indigenous status,Indigenous Australians,Number,21727
+Females,Total claims,Indigenous status,Other Australians,Number,36923
+Females,Total claims,Country of birth,Born in Australia,Number,53545
+Females,Total claims,Country of birth,Born outside Australia (MESC),Number,2180
+Females,Total claims,Country of birth,Born outside Australia (non-MESC),Number,2925
+Females,Total claims,Disability Support Pension,Does not receive DSP,Number,50062
+Females,Total claims,Disability Support Pension,Receives DSP,Number,8588
+Males,Total claims,Indigenous status,Indigenous Australians,Number,5614
+Males,Total claims,Indigenous status,Other Australians,Number,13914
+Males,Total claims,Country of birth,Born in Australia,Number,17787
+Males,Total claims,Country of birth,Born outside Australia (MESC),Number,634
+Males,Total claims,Country of birth,Born outside Australia (non-MESC),Number,1107
+Males,Total claims,Disability Support Pension,Does not receive DSP,Number,15905
+Males,Total claims,Disability Support Pension,Receives DSP,Number,3623
+Persons,Total claims,Age group,0–17,Number,n.p.
+Persons,Total claims,Age group,18–24,Number,10265
+Persons,Total claims,Age group,25–34,Number,29030
+Persons,Total claims,Age group,35–44,Number,24482
+Persons,Total claims,Age group,45–54,Number,10596
+Persons,Total claims,Age group,55–64,Number,2418
+Persons,Total claims,Age group,65+,Number,n.p.
+Persons,Total claims,Indigenous status,Indigenous Australians,Number,27341
+Persons,Total claims,Indigenous status,Other Australians,Number,50837
+Persons,Total claims,Country of birth,Born in Australia,Number,71332
+Persons,Total claims,Country of birth,Born outside Australia (MESC),Number,2814
+Persons,Total claims,Country of birth,Born outside Australia (non-MESC),Number,4032
+Persons,Total claims,State or territory,ACT,Number,770
+Persons,Total claims,State or territory,NSW,Number,20855
+Persons,Total claims,State or territory,NT,Number,1409
+Persons,Total claims,State or territory,Qld,Number,22302
+Persons,Total claims,State or territory,SA,Number,5387
+Persons,Total claims,State or territory,Tas,Number,1820
+Persons,Total claims,State or territory,UNK,Number,38
+Persons,Total claims,State or territory,Vic,Number,14771
+Persons,Total claims,State or territory,WA,Number,10826
+Persons,Total claims,Disability Support Pension,Does not receive DSP,Number,65967
+Persons,Total claims,Disability Support Pension,Receives DSP,Number,12211

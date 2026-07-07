@@ -1,0 +1,17 @@
+gender,year,scale,value,data_flag,data_notes
+Women,2009,UVAWS,64,^,Statistically significant difference to the 2021 mean score. 
+Women,2013,UVAWS,64,^,Statistically significant difference to the 2021 mean score. 
+Women,2017,UVAWS,67,^,Statistically significant difference to the 2021 mean score. 
+Women,2021,UVAWS,70,~,Statistically significant difference to the 2021 mean score for men. 
+Men,2009,UVAWS,60,^,Statistically significant difference to the 2021 mean score. 
+Men,2013,UVAWS,61,^,Statistically significant difference to the 2021 mean score. 
+Men,2017,UVAWS,63,^,Statistically significant difference to the 2021 mean score. 
+Men,2021,UVAWS,67,,
+Non-binary respondents,2009,UVAWS,—,,
+Non-binary respondents,2013,UVAWS,—,,
+Non-binary respondents,2017,UVAWS,—,,
+Non-binary respondents,2021,UVAWS,70,,
+Persons,2009,UVAWS,62,^,Statistically significant difference to the 2021 mean score. 
+Persons,2013,UVAWS,63,^,Statistically significant difference to the 2021 mean score. 
+Persons,2017,UVAWS,65,^,Statistically significant difference to the 2021 mean score. 
+Persons,2021,UVAWS,69,,

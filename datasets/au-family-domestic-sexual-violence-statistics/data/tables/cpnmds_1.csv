@@ -1,0 +1,217 @@
+sex,year,primary_type_of_abuse_or_neglect,state_or_territory,unit,value
+Girls,2023–24,Physical,Australia,Number,2513
+Girls,2023–24,Sexual,Australia,Number,2680
+Girls,2023–24,Emotional,Australia,Number,11730
+Girls,2023–24,Neglect,Australia,Number,4132
+Girls,2023–24,Not stated,Australia,Number,99
+Girls,2023–24,Total,Australia,Number,21154
+Girls,2023–24,Physical,NSW,Number,870
+Girls,2023–24,Sexual,NSW,Number,1495
+Girls,2023–24,Emotional,NSW,Number,1970
+Girls,2023–24,Neglect,NSW,Number,1893
+Girls,2023–24,Not stated,NSW,Number,5
+Girls,2023–24,Total,NSW,Number,6233
+Girls,2023–24,Physical,Vic,Number,696
+Girls,2023–24,Sexual,Vic,Number,452
+Girls,2023–24,Emotional,Vic,Number,5365
+Girls,2023–24,Neglect,Vic,Number,380
+Girls,2023–24,Not stated,Vic,Number,0
+Girls,2023–24,Total,Vic,Number,6893
+Girls,2023–24,Physical,Qld,Number,474
+Girls,2023–24,Sexual,Qld,Number,350
+Girls,2023–24,Emotional,Qld,Number,1848
+Girls,2023–24,Neglect,Qld,Number,937
+Girls,2023–24,Not stated,Qld,Number,0
+Girls,2023–24,Total,Qld,Number,3609
+Girls,2023–24,Physical,WA,Number,224
+Girls,2023–24,Sexual,WA,Number,173
+Girls,2023–24,Emotional,WA,Number,1262
+Girls,2023–24,Neglect,WA,Number,484
+Girls,2023–24,Not stated,WA,Number,0
+Girls,2023–24,Total,WA,Number,2143
+Girls,2023–24,Physical,SA,Number,150
+Girls,2023–24,Sexual,SA,Number,138
+Girls,2023–24,Emotional,SA,Number,947
+Girls,2023–24,Neglect,SA,Number,265
+Girls,2023–24,Not stated,SA,Number,36
+Girls,2023–24,Total,SA,Number,1536
+Girls,2023–24,Physical,Tas,Number,n.a.
+Girls,2023–24,Sexual,Tas,Number,n.a.
+Girls,2023–24,Emotional,Tas,Number,65
+Girls,2023–24,Neglect,Tas,Number,67
+Girls,2023–24,Not stated,Tas,Number,15
+Girls,2023–24,Total,Tas,Number,188
+Girls,2023–24,Physical,ACT,Number,n.a.
+Girls,2023–24,Sexual,ACT,Number,n.a.
+Girls,2023–24,Emotional,ACT,Number,39
+Girls,2023–24,Neglect,ACT,Number,32
+Girls,2023–24,Not stated,ACT,Number,43
+Girls,2023–24,Total,ACT,Number,130
+Girls,2023–24,Physical,NT,Number,57
+Girls,2023–24,Sexual,NT,Number,57
+Girls,2023–24,Emotional,NT,Number,234
+Girls,2023–24,Neglect,NT,Number,74
+Girls,2023–24,Not stated,NT,Number,0
+Girls,2023–24,Total,NT,Number,422
+Boys,2023–24,Physical,Australia,Number,2628
+Boys,2023–24,Sexual,Australia,Number,1089
+Boys,2023–24,Emotional,Australia,Number,11669
+Boys,2023–24,Neglect,Australia,Number,4431
+Boys,2023–24,Not stated,Australia,Number,118
+Boys,2023–24,Total,Australia,Number,19935
+Boys,2023–24,Physical,NSW,Number,818
+Boys,2023–24,Sexual,NSW,Number,481
+Boys,2023–24,Emotional,NSW,Number,1940
+Boys,2023–24,Neglect,NSW,Number,1978
+Boys,2023–24,Not stated,NSW,Number,11
+Boys,2023–24,Total,NSW,Number,5228
+Boys,2023–24,Physical,Vic,Number,779
+Boys,2023–24,Sexual,Vic,Number,287
+Boys,2023–24,Emotional,Vic,Number,5336
+Boys,2023–24,Neglect,Vic,Number,433
+Boys,2023–24,Not stated,Vic,Number,0
+Boys,2023–24,Total,Vic,Number,6835
+Boys,2023–24,Physical,Qld,Number,533
+Boys,2023–24,Sexual,Qld,Number,134
+Boys,2023–24,Emotional,Qld,Number,1760
+Boys,2023–24,Neglect,Qld,Number,997
+Boys,2023–24,Not stated,Qld,Number,0
+Boys,2023–24,Total,Qld,Number,3424
+Boys,2023–24,Physical,WA,Number,217
+Boys,2023–24,Sexual,WA,Number,72
+Boys,2023–24,Emotional,WA,Number,1285
+Boys,2023–24,Neglect,WA,Number,530
+Boys,2023–24,Not stated,WA,Number,1
+Boys,2023–24,Total,WA,Number,2105
+Boys,2023–24,Physical,SA,Number,177
+Boys,2023–24,Sexual,SA,Number,99
+Boys,2023–24,Emotional,SA,Number,998
+Boys,2023–24,Neglect,SA,Number,300
+Boys,2023–24,Not stated,SA,Number,43
+Boys,2023–24,Total,SA,Number,1617
+Boys,2023–24,Physical,Tas,Number,n.a.
+Boys,2023–24,Sexual,Tas,Number,n.a.
+Boys,2023–24,Emotional,Tas,Number,60
+Boys,2023–24,Neglect,Tas,Number,74
+Boys,2023–24,Not stated,Tas,Number,10
+Boys,2023–24,Total,Tas,Number,191
+Boys,2023–24,Physical,ACT,Number,n.a.
+Boys,2023–24,Sexual,ACT,Number,n.a.
+Boys,2023–24,Emotional,ACT,Number,27
+Boys,2023–24,Neglect,ACT,Number,39
+Boys,2023–24,Not stated,ACT,Number,53
+Boys,2023–24,Total,ACT,Number,137
+Boys,2023–24,Physical,NT,Number,47
+Boys,2023–24,Sexual,NT,Number,8
+Boys,2023–24,Emotional,NT,Number,263
+Boys,2023–24,Neglect,NT,Number,80
+Boys,2023–24,Not stated,NT,Number,0
+Boys,2023–24,Total,NT,Number,398
+Girls,2023–24,Physical,Australia,Proportion,11.9
+Girls,2023–24,Sexual,Australia,Proportion,12.7
+Girls,2023–24,Emotional,Australia,Proportion,55.5
+Girls,2023–24,Neglect,Australia,Proportion,19.5
+Girls,2023–24,Not stated,Australia,Proportion,0.5
+Girls,2023–24,Total,Australia,Proportion,100
+Girls,2023–24,Physical,NSW,Proportion,14
+Girls,2023–24,Sexual,NSW,Proportion,24
+Girls,2023–24,Emotional,NSW,Proportion,31.6
+Girls,2023–24,Neglect,NSW,Proportion,30.4
+Girls,2023–24,Not stated,NSW,Proportion,0.1
+Girls,2023–24,Total,NSW,Proportion,100
+Girls,2023–24,Physical,Vic,Proportion,10.1
+Girls,2023–24,Sexual,Vic,Proportion,6.6
+Girls,2023–24,Emotional,Vic,Proportion,77.8
+Girls,2023–24,Neglect,Vic,Proportion,5.5
+Girls,2023–24,Not stated,Vic,Proportion,0
+Girls,2023–24,Total,Vic,Proportion,100
+Girls,2023–24,Physical,Qld,Proportion,13.1
+Girls,2023–24,Sexual,Qld,Proportion,9.7
+Girls,2023–24,Emotional,Qld,Proportion,51.2
+Girls,2023–24,Neglect,Qld,Proportion,26
+Girls,2023–24,Not stated,Qld,Proportion,0
+Girls,2023–24,Total,Qld,Proportion,100
+Girls,2023–24,Physical,WA,Proportion,10.5
+Girls,2023–24,Sexual,WA,Proportion,8.1
+Girls,2023–24,Emotional,WA,Proportion,58.9
+Girls,2023–24,Neglect,WA,Proportion,22.6
+Girls,2023–24,Not stated,WA,Proportion,0
+Girls,2023–24,Total,WA,Proportion,100
+Girls,2023–24,Physical,SA,Proportion,9.8
+Girls,2023–24,Sexual,SA,Proportion,9
+Girls,2023–24,Emotional,SA,Proportion,61.7
+Girls,2023–24,Neglect,SA,Proportion,17.3
+Girls,2023–24,Not stated,SA,Proportion,2.3
+Girls,2023–24,Total,SA,Proportion,100
+Girls,2023–24,Physical,Tas,Proportion,n.a.
+Girls,2023–24,Sexual,Tas,Proportion,n.a.
+Girls,2023–24,Emotional,Tas,Proportion,34.6
+Girls,2023–24,Neglect,Tas,Proportion,35.6
+Girls,2023–24,Not stated,Tas,Proportion,8
+Girls,2023–24,Total,Tas,Proportion,100
+Girls,2023–24,Physical,ACT,Proportion,n.a.
+Girls,2023–24,Sexual,ACT,Proportion,n.a.
+Girls,2023–24,Emotional,ACT,Proportion,30
+Girls,2023–24,Neglect,ACT,Proportion,24.6
+Girls,2023–24,Not stated,ACT,Proportion,33.1
+Girls,2023–24,Total,ACT,Proportion,100
+Girls,2023–24,Physical,NT,Proportion,13.5
+Girls,2023–24,Sexual,NT,Proportion,13.5
+Girls,2023–24,Emotional,NT,Proportion,55.5
+Girls,2023–24,Neglect,NT,Proportion,17.5
+Girls,2023–24,Not stated,NT,Proportion,0
+Girls,2023–24,Total,NT,Proportion,100
+Boys,2023–24,Physical,Australia,Proportion,13.2
+Boys,2023–24,Sexual,Australia,Proportion,5.5
+Boys,2023–24,Emotional,Australia,Proportion,58.5
+Boys,2023–24,Neglect,Australia,Proportion,22.2
+Boys,2023–24,Not stated,Australia,Proportion,0.6
+Boys,2023–24,Total,Australia,Proportion,100
+Boys,2023–24,Physical,NSW,Proportion,15.6
+Boys,2023–24,Sexual,NSW,Proportion,9.2
+Boys,2023–24,Emotional,NSW,Proportion,37.1
+Boys,2023–24,Neglect,NSW,Proportion,37.8
+Boys,2023–24,Not stated,NSW,Proportion,0.2
+Boys,2023–24,Total,NSW,Proportion,100
+Boys,2023–24,Physical,Vic,Proportion,11.4
+Boys,2023–24,Sexual,Vic,Proportion,4.2
+Boys,2023–24,Emotional,Vic,Proportion,78.1
+Boys,2023–24,Neglect,Vic,Proportion,6.3
+Boys,2023–24,Not stated,Vic,Proportion,0
+Boys,2023–24,Total,Vic,Proportion,100
+Boys,2023–24,Physical,Qld,Proportion,15.6
+Boys,2023–24,Sexual,Qld,Proportion,3.9
+Boys,2023–24,Emotional,Qld,Proportion,51.4
+Boys,2023–24,Neglect,Qld,Proportion,29.1
+Boys,2023–24,Not stated,Qld,Proportion,0
+Boys,2023–24,Total,Qld,Proportion,100
+Boys,2023–24,Physical,WA,Proportion,10.3
+Boys,2023–24,Sexual,WA,Proportion,3.4
+Boys,2023–24,Emotional,WA,Proportion,61
+Boys,2023–24,Neglect,WA,Proportion,25.2
+Boys,2023–24,Not stated,WA,Proportion,0
+Boys,2023–24,Total,WA,Proportion,100
+Boys,2023–24,Physical,SA,Proportion,10.9
+Boys,2023–24,Sexual,SA,Proportion,6.1
+Boys,2023–24,Emotional,SA,Proportion,61.7
+Boys,2023–24,Neglect,SA,Proportion,18.6
+Boys,2023–24,Not stated,SA,Proportion,2.7
+Boys,2023–24,Total,SA,Proportion,100
+Boys,2023–24,Physical,Tas,Proportion,n.a.
+Boys,2023–24,Sexual,Tas,Proportion,n.a.
+Boys,2023–24,Emotional,Tas,Proportion,31.4
+Boys,2023–24,Neglect,Tas,Proportion,38.7
+Boys,2023–24,Not stated,Tas,Proportion,5.2
+Boys,2023–24,Total,Tas,Proportion,100
+Boys,2023–24,Physical,ACT,Proportion,n.a.
+Boys,2023–24,Sexual,ACT,Proportion,n.a.
+Boys,2023–24,Emotional,ACT,Proportion,19.7
+Boys,2023–24,Neglect,ACT,Proportion,28.5
+Boys,2023–24,Not stated,ACT,Proportion,38.7
+Boys,2023–24,Total,ACT,Proportion,100
+Boys,2023–24,Physical,NT,Proportion,11.8
+Boys,2023–24,Sexual,NT,Proportion,2
+Boys,2023–24,Emotional,NT,Proportion,66.1
+Boys,2023–24,Neglect,NT,Proportion,20.1
+Boys,2023–24,Not stated,NT,Proportion,0
+Boys,2023–24,Total,NT,Proportion,100

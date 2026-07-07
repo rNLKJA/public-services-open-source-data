@@ -1,0 +1,403 @@
+sex,year,characteristic,subcategory,unit,value
+Persons,2010,Aggravated sexual assault,Yes,Number,15317
+Persons,2010,Aggravated sexual assault,No,Number,3538
+Persons,2010,Finalised investigation,Yes,Number,8297
+Persons,2010,Finalised investigation,No,Number,10558
+Persons,2010,Setting of offence,Residential,Number,12532
+Persons,2010,Setting of offence,Community,Number,3574
+Persons,2010,Setting of offence,Other location,Number,1768
+Persons,2010,Weapon used,Yes,Number,313
+Persons,2010,Weapon used,No,Number,18451
+Persons,2011,Aggravated sexual assault,Yes,Number,15139
+Persons,2011,Aggravated sexual assault,No,Number,3476
+Persons,2011,Finalised investigation,Yes,Number,8033
+Persons,2011,Finalised investigation,No,Number,10581
+Persons,2011,Setting of offence,Residential,Number,12131
+Persons,2011,Setting of offence,Community,Number,3605
+Persons,2011,Setting of offence,Other location,Number,1755
+Persons,2011,Weapon used,Yes,Number,286
+Persons,2011,Weapon used,No,Number,18215
+Persons,2012,Aggravated sexual assault,Yes,Number,15780
+Persons,2012,Aggravated sexual assault,No,Number,3670
+Persons,2012,Finalised investigation,Yes,Number,8229
+Persons,2012,Finalised investigation,No,Number,11218
+Persons,2012,Setting of offence,Residential,Number,12534
+Persons,2012,Setting of offence,Community,Number,3710
+Persons,2012,Setting of offence,Other location,Number,1789
+Persons,2012,Weapon used,Yes,Number,299
+Persons,2012,Weapon used,No,Number,18772
+Persons,2013,Aggravated sexual assault,Yes,Number,16251
+Persons,2013,Aggravated sexual assault,No,Number,3773
+Persons,2013,Finalised investigation,Yes,Number,8414
+Persons,2013,Finalised investigation,No,Number,11608
+Persons,2013,Setting of offence,Residential,Number,13328
+Persons,2013,Setting of offence,Community,Number,3867
+Persons,2013,Setting of offence,Other location,Number,1785
+Persons,2013,Weapon used,Yes,Number,276
+Persons,2013,Weapon used,No,Number,19347
+Persons,2014,Aggravated sexual assault,Yes,Number,16697
+Persons,2014,Aggravated sexual assault,No,Number,4042
+Persons,2014,Finalised investigation,Yes,Number,8533
+Persons,2014,Finalised investigation,No,Number,12211
+Persons,2014,Setting of offence,Residential,Number,14148
+Persons,2014,Setting of offence,Community,Number,3645
+Persons,2014,Setting of offence,Other location,Number,2185
+Persons,2014,Time to report,Less than 1 year,Number,15955
+Persons,2014,Time to report,1 to less than 2 years,Number,874
+Persons,2014,Time to report,2 to less than 5 years,Number,1009
+Persons,2014,Time to report,5 to less than 10 years,Number,869
+Persons,2014,Time to report,10 to less than 20 years,Number,796
+Persons,2014,Time to report,20 years and over,Number,1213
+Persons,2014,Weapon used,Yes,Number,413
+Persons,2014,Weapon used,No,Number,19706
+Persons,2015,Aggravated sexual assault,Yes,Number,17685
+Persons,2015,Aggravated sexual assault,No,Number,4260
+Persons,2015,Finalised investigation,Yes,Number,7609
+Persons,2015,Finalised investigation,No,Number,14341
+Persons,2015,Setting of offence,Residential,Number,14041
+Persons,2015,Setting of offence,Community,Number,3731
+Persons,2015,Setting of offence,Other location,Number,2213
+Persons,2015,Time to report,Less than 1 year,Number,16269
+Persons,2015,Time to report,1 to less than 2 years,Number,889
+Persons,2015,Time to report,2 to less than 5 years,Number,1042
+Persons,2015,Time to report,5 to less than 10 years,Number,873
+Persons,2015,Time to report,10 to less than 20 years,Number,930
+Persons,2015,Time to report,20 years and over,Number,1917
+Persons,2015,Weapon used,Yes,Number,961
+Persons,2015,Weapon used,No,Number,20530
+Persons,2016,Aggravated sexual assault,Yes,Number,18549
+Persons,2016,Aggravated sexual assault,No,Number,4495
+Persons,2016,Finalised investigation,Yes,Number,8462
+Persons,2016,Finalised investigation,No,Number,14575
+Persons,2016,Setting of offence,Residential,Number,15342
+Persons,2016,Setting of offence,Community,Number,4091
+Persons,2016,Setting of offence,Other location,Number,2345
+Persons,2016,Time to report,Less than 1 year,Number,16659
+Persons,2016,Time to report,1 to less than 2 years,Number,1005
+Persons,2016,Time to report,2 to less than 5 years,Number,1300
+Persons,2016,Time to report,5 to less than 10 years,Number,1020
+Persons,2016,Time to report,10 to less than 20 years,Number,992
+Persons,2016,Time to report,20 years and over,Number,2042
+Persons,2016,Weapon used,Yes,Number,1025
+Persons,2016,Weapon used,No,Number,21465
+Persons,2017,Aggravated sexual assault,Yes,Number,20616
+Persons,2017,Aggravated sexual assault,No,Number,5226
+Persons,2017,Finalised investigation,Yes,Number,10010
+Persons,2017,Finalised investigation,No,Number,15827
+Persons,2017,Setting of offence,Residential,Number,17022
+Persons,2017,Setting of offence,Community,Number,4787
+Persons,2017,Setting of offence,Other location,Number,2703
+Persons,2017,Time to report,Less than 1 year,Number,18497
+Persons,2017,Time to report,1 to less than 2 years,Number,1285
+Persons,2017,Time to report,2 to less than 5 years,Number,1436
+Persons,2017,Time to report,5 to less than 10 years,Number,1165
+Persons,2017,Time to report,10 to less than 20 years,Number,1100
+Persons,2017,Time to report,20 years and over,Number,2346
+Persons,2017,Weapon used,Yes,Number,777
+Persons,2017,Weapon used,No,Number,24224
+Persons,2018,Aggravated sexual assault,Yes,Number,20774
+Persons,2018,Aggravated sexual assault,No,Number,5554
+Persons,2018,Finalised investigation,Yes,Number,9545
+Persons,2018,Finalised investigation,No,Number,16782
+Persons,2018,Setting of offence,Residential,Number,17022
+Persons,2018,Setting of offence,Community,Number,4375
+Persons,2018,Setting of offence,Other location,Number,2922
+Persons,2018,Time to report,Less than 1 year,Number,19368
+Persons,2018,Time to report,1 to less than 2 years,Number,1350
+Persons,2018,Time to report,2 to less than 5 years,Number,1423
+Persons,2018,Time to report,5 to less than 10 years,Number,1165
+Persons,2018,Time to report,10 to less than 20 years,Number,927
+Persons,2018,Time to report,20 years and over,Number,2068
+Persons,2018,Weapon used,Yes,Number,730
+Persons,2018,Weapon used,No,Number,24635
+Persons,2019,Aggravated sexual assault,Yes,Number,21136
+Persons,2019,Aggravated sexual assault,No,Number,5727
+Persons,2019,Finalised investigation,Yes,Number,9071
+Persons,2019,Finalised investigation,No,Number,17791
+Persons,2019,Setting of offence,Residential,Number,17378
+Persons,2019,Setting of offence,Community,Number,4310
+Persons,2019,Setting of offence,Other location,Number,2714
+Persons,2019,Time to report,Less than 1 year,Number,19571
+Persons,2019,Time to report,1 to less than 2 years,Number,1549
+Persons,2019,Time to report,2 to less than 5 years,Number,1519
+Persons,2019,Time to report,5 to less than 10 years,Number,1167
+Persons,2019,Time to report,10 to less than 20 years,Number,1002
+Persons,2019,Time to report,20 years and over,Number,2042
+Persons,2019,Weapon used,Yes,Number,763
+Persons,2019,Weapon used,No,Number,25554
+Persons,2020,Aggravated sexual assault,Yes,Number,22287
+Persons,2020,Aggravated sexual assault,No,Number,5249
+Persons,2020,Finalised investigation,Yes,Number,9613
+Persons,2020,Finalised investigation,No,Number,17930
+Persons,2020,Setting of offence,Residential,Number,18081
+Persons,2020,Setting of offence,Community,Number,4048
+Persons,2020,Setting of offence,Other location,Number,2490
+Persons,2020,Time to report,Less than 1 year,Number,18824
+Persons,2020,Time to report,1 to less than 2 years,Number,1889
+Persons,2020,Time to report,2 to less than 5 years,Number,2025
+Persons,2020,Time to report,5 to less than 10 years,Number,1619
+Persons,2020,Time to report,10 to less than 20 years,Number,1220
+Persons,2020,Time to report,20 years and over,Number,1950
+Persons,2020,Weapon used,Yes,Number,415
+Persons,2020,Weapon used,No,Number,26020
+Persons,2021,Aggravated sexual assault,Yes,Number,24665
+Persons,2021,Aggravated sexual assault,No,Number,6409
+Persons,2021,Finalised investigation,Yes,Number,10543
+Persons,2021,Finalised investigation,No,Number,20534
+Persons,2021,Setting of offence,Residential,Number,20945
+Persons,2021,Setting of offence,Community,Number,4859
+Persons,2021,Setting of offence,Other location,Number,3236
+Persons,2021,Time to report,Less than 1 year,Number,21343
+Persons,2021,Time to report,1 to less than 2 years,Number,1896
+Persons,2021,Time to report,2 to less than 5 years,Number,2341
+Persons,2021,Time to report,5 to less than 10 years,Number,1835
+Persons,2021,Time to report,10 to less than 20 years,Number,1386
+Persons,2021,Time to report,20 years and over,Number,2252
+Persons,2021,Weapon used,Yes,Number,433
+Persons,2021,Weapon used,No,Number,29077
+Persons,2022,Aggravated sexual assault,Yes,Number,26261
+Persons,2022,Aggravated sexual assault,No,Number,6507
+Persons,2022,Finalised investigation,Yes,Number,10680
+Persons,2022,Finalised investigation,No,Number,22093
+Persons,2022,Setting of offence,Residential,Number,21360
+Persons,2022,Setting of offence,Community,Number,6073
+Persons,2022,Setting of offence,Other location,Number,3637
+Persons,2022,Time to report,Less than 1 year,Number,22537
+Persons,2022,Time to report,1 to less than 2 years,Number,1809
+Persons,2022,Time to report,2 to less than 5 years,Number,2378
+Persons,2022,Time to report,5 to less than 10 years,Number,1724
+Persons,2022,Time to report,10 to less than 20 years,Number,1499
+Persons,2022,Time to report,20 years and over,Number,2804
+Persons,2022,Weapon used,Yes,Number,483
+Persons,2022,Weapon used,No,Number,30796
+Persons,2023,Aggravated sexual assault,Yes,Number,29114
+Persons,2023,Aggravated sexual assault,No,Number,7207
+Persons,2023,Finalised investigation,Yes,Number,11839
+Persons,2023,Finalised investigation,No,Number,24452
+Persons,2023,Setting of offence,Residential,Number,25022
+Persons,2023,Setting of offence,Community,Number,6387
+Persons,2023,Setting of offence,Other location,Number,3938
+Persons,2023,Time to report,Less than 1 year,Number,24973
+Persons,2023,Time to report,1 to less than 2 years,Number,1996
+Persons,2023,Time to report,2 to less than 5 years,Number,2403
+Persons,2023,Time to report,5 to less than 10 years,Number,2096
+Persons,2023,Time to report,10 to less than 20 years,Number,1632
+Persons,2023,Time to report,20 years and over,Number,3238
+Persons,2023,Weapon used,Yes,Number,471
+Persons,2023,Weapon used,No,Number,34157
+Persons,2024,Aggravated sexual assault,Yes,Number,32125
+Persons,2024,Aggravated sexual assault,No,Number,7958
+Persons,2024,Finalised investigation,Yes,Number,n.p.
+Persons,2024,Finalised investigation,No,Number,n.p.
+Persons,2024,Setting of offence,Residential,Number,27778
+Persons,2024,Setting of offence,Community,Number,7112
+Persons,2024,Setting of offence,Other location,Number,4173
+Persons,2024,Time to report,Less than 1 year,Number,27015
+Persons,2024,Time to report,1 to less than 2 years,Number,2291
+Persons,2024,Time to report,2 to less than 5 years,Number,2625
+Persons,2024,Time to report,5 to less than 10 years,Number,2183
+Persons,2024,Time to report,10 to less than 20 years,Number,1999
+Persons,2024,Time to report,20 years and over,Number,3960
+Persons,2024,Weapon used,Yes,Number,n.p.
+Persons,2024,Weapon used,No,Number,n.p.
+Persons,2010,Aggravated sexual assault,Yes,Proportion (%),81.2
+Persons,2010,Aggravated sexual assault,No,Proportion (%),18.8
+Persons,2010,Finalised investigation,Yes,Proportion (%),44.0
+Persons,2010,Finalised investigation,No,Proportion (%),56.0
+Persons,2010,Setting of offence,Residential,Proportion (%),66.4
+Persons,2010,Setting of offence,Community,Proportion (%),18.9
+Persons,2010,Setting of offence,Other location,Proportion (%),9.4
+Persons,2010,Weapon used,Yes,Proportion (%),1.7
+Persons,2010,Weapon used,No,Proportion (%),97.8
+Persons,2011,Aggravated sexual assault,Yes,Proportion (%),81.3
+Persons,2011,Aggravated sexual assault,No,Proportion (%),18.7
+Persons,2011,Finalised investigation,Yes,Proportion (%),43.2
+Persons,2011,Finalised investigation,No,Proportion (%),56.8
+Persons,2011,Setting of offence,Residential,Proportion (%),65.2
+Persons,2011,Setting of offence,Community,Proportion (%),19.4
+Persons,2011,Setting of offence,Other location,Proportion (%),9.4
+Persons,2011,Weapon used,Yes,Proportion (%),1.5
+Persons,2011,Weapon used,No,Proportion (%),97.8
+Persons,2012,Aggravated sexual assault,Yes,Proportion (%),81.1
+Persons,2012,Aggravated sexual assault,No,Proportion (%),18.9
+Persons,2012,Finalised investigation,Yes,Proportion (%),42.3
+Persons,2012,Finalised investigation,No,Proportion (%),57.7
+Persons,2012,Setting of offence,Residential,Proportion (%),64.4
+Persons,2012,Setting of offence,Community,Proportion (%),19.1
+Persons,2012,Setting of offence,Other location,Proportion (%),9.2
+Persons,2012,Weapon used,Yes,Proportion (%),1.5
+Persons,2012,Weapon used,No,Proportion (%),96.5
+Persons,2013,Aggravated sexual assault,Yes,Proportion (%),81.2
+Persons,2013,Aggravated sexual assault,No,Proportion (%),18.8
+Persons,2013,Finalised investigation,Yes,Proportion (%),42.0
+Persons,2013,Finalised investigation,No,Proportion (%),58.0
+Persons,2013,Setting of offence,Residential,Proportion (%),66.6
+Persons,2013,Setting of offence,Community,Proportion (%),19.3
+Persons,2013,Setting of offence,Other location,Proportion (%),8.9
+Persons,2013,Weapon used,Yes,Proportion (%),1.4
+Persons,2013,Weapon used,No,Proportion (%),96.6
+Persons,2014,Aggravated sexual assault,Yes,Proportion (%),80.5
+Persons,2014,Aggravated sexual assault,No,Proportion (%),19.5
+Persons,2014,Finalised investigation,Yes,Proportion (%),41.1
+Persons,2014,Finalised investigation,No,Proportion (%),58.9
+Persons,2014,Setting of offence,Residential,Proportion (%),68.2
+Persons,2014,Setting of offence,Community,Proportion (%),17.6
+Persons,2014,Setting of offence,Other location,Proportion (%),10.5
+Persons,2014,Time to report,Less than 1 year,Proportion (%),76.9
+Persons,2014,Time to report,1 to less than 2 years,Proportion (%),4.2
+Persons,2014,Time to report,2 to less than 5 years,Proportion (%),4.9
+Persons,2014,Time to report,5 to less than 10 years,Proportion (%),4.2
+Persons,2014,Time to report,10 to less than 20 years,Proportion (%),3.8
+Persons,2014,Time to report,20 years and over,Proportion (%),5.8
+Persons,2014,Weapon used,Yes,Proportion (%),2.0
+Persons,2014,Weapon used,No,Proportion (%),95.0
+Persons,2015,Aggravated sexual assault,Yes,Proportion (%),80.6
+Persons,2015,Aggravated sexual assault,No,Proportion (%),19.4
+Persons,2015,Finalised investigation,Yes,Proportion (%),34.7
+Persons,2015,Finalised investigation,No,Proportion (%),65.3
+Persons,2015,Setting of offence,Residential,Proportion (%),64.0
+Persons,2015,Setting of offence,Community,Proportion (%),17.0
+Persons,2015,Setting of offence,Other location,Proportion (%),10.1
+Persons,2015,Time to report,Less than 1 year,Proportion (%),74.1
+Persons,2015,Time to report,1 to less than 2 years,Proportion (%),4.1
+Persons,2015,Time to report,2 to less than 5 years,Proportion (%),4.7
+Persons,2015,Time to report,5 to less than 10 years,Proportion (%),4.0
+Persons,2015,Time to report,10 to less than 20 years,Proportion (%),4.2
+Persons,2015,Time to report,20 years and over,Proportion (%),8.7
+Persons,2015,Weapon used,Yes,Proportion (%),4.4
+Persons,2015,Weapon used,No,Proportion (%),93.5
+Persons,2016,Aggravated sexual assault,Yes,Proportion (%),80.5
+Persons,2016,Aggravated sexual assault,No,Proportion (%),19.5
+Persons,2016,Finalised investigation,Yes,Proportion (%),36.7
+Persons,2016,Finalised investigation,No,Proportion (%),63.3
+Persons,2016,Setting of offence,Residential,Proportion (%),66.6
+Persons,2016,Setting of offence,Community,Proportion (%),17.8
+Persons,2016,Setting of offence,Other location,Proportion (%),10.2
+Persons,2016,Time to report,Less than 1 year,Proportion (%),72.3
+Persons,2016,Time to report,1 to less than 2 years,Proportion (%),4.4
+Persons,2016,Time to report,2 to less than 5 years,Proportion (%),5.6
+Persons,2016,Time to report,5 to less than 10 years,Proportion (%),4.4
+Persons,2016,Time to report,10 to less than 20 years,Proportion (%),4.3
+Persons,2016,Time to report,20 years and over,Proportion (%),8.9
+Persons,2016,Weapon used,Yes,Proportion (%),4.4
+Persons,2016,Weapon used,No,Proportion (%),93.2
+Persons,2017,Aggravated sexual assault,Yes,Proportion (%),79.8
+Persons,2017,Aggravated sexual assault,No,Proportion (%),20.2
+Persons,2017,Finalised investigation,Yes,Proportion (%),38.7
+Persons,2017,Finalised investigation,No,Proportion (%),61.3
+Persons,2017,Setting of offence,Residential,Proportion (%),65.9
+Persons,2017,Setting of offence,Community,Proportion (%),18.5
+Persons,2017,Setting of offence,Other location,Proportion (%),10.5
+Persons,2017,Time to report,Less than 1 year,Proportion (%),71.6
+Persons,2017,Time to report,1 to less than 2 years,Proportion (%),5.0
+Persons,2017,Time to report,2 to less than 5 years,Proportion (%),5.6
+Persons,2017,Time to report,5 to less than 10 years,Proportion (%),4.5
+Persons,2017,Time to report,10 to less than 20 years,Proportion (%),4.3
+Persons,2017,Time to report,20 years and over,Proportion (%),9.1
+Persons,2017,Weapon used,Yes,Proportion (%),3.0
+Persons,2017,Weapon used,No,Proportion (%),93.8
+Persons,2018,Aggravated sexual assault,Yes,Proportion (%),78.9
+Persons,2018,Aggravated sexual assault,No,Proportion (%),21.1
+Persons,2018,Finalised investigation,Yes,Proportion (%),36.3
+Persons,2018,Finalised investigation,No,Proportion (%),63.7
+Persons,2018,Setting of offence,Residential,Proportion (%),64.7
+Persons,2018,Setting of offence,Community,Proportion (%),16.6
+Persons,2018,Setting of offence,Other location,Proportion (%),11.1
+Persons,2018,Time to report,Less than 1 year,Proportion (%),73.6
+Persons,2018,Time to report,1 to less than 2 years,Proportion (%),5.1
+Persons,2018,Time to report,2 to less than 5 years,Proportion (%),5.4
+Persons,2018,Time to report,5 to less than 10 years,Proportion (%),4.4
+Persons,2018,Time to report,10 to less than 20 years,Proportion (%),3.5
+Persons,2018,Time to report,20 years and over,Proportion (%),7.9
+Persons,2018,Weapon used,Yes,Proportion (%),2.8
+Persons,2018,Weapon used,No,Proportion (%),93.6
+Persons,2019,Aggravated sexual assault,Yes,Proportion (%),78.7
+Persons,2019,Aggravated sexual assault,No,Proportion (%),21.3
+Persons,2019,Finalised investigation,Yes,Proportion (%),33.8
+Persons,2019,Finalised investigation,No,Proportion (%),66.2
+Persons,2019,Setting of offence,Residential,Proportion (%),64.7
+Persons,2019,Setting of offence,Community,Proportion (%),16.0
+Persons,2019,Setting of offence,Other location,Proportion (%),10.1
+Persons,2019,Time to report,Less than 1 year,Proportion (%),72.9
+Persons,2019,Time to report,1 to less than 2 years,Proportion (%),5.8
+Persons,2019,Time to report,2 to less than 5 years,Proportion (%),5.7
+Persons,2019,Time to report,5 to less than 10 years,Proportion (%),4.3
+Persons,2019,Time to report,10 to less than 20 years,Proportion (%),3.7
+Persons,2019,Time to report,20 years and over,Proportion (%),7.6
+Persons,2019,Weapon used,Yes,Proportion (%),2.8
+Persons,2019,Weapon used,No,Proportion (%),95.1
+Persons,2020,Aggravated sexual assault,Yes,Proportion (%),80.9
+Persons,2020,Aggravated sexual assault,No,Proportion (%),19.1
+Persons,2020,Finalised investigation,Yes,Proportion (%),34.9
+Persons,2020,Finalised investigation,No,Proportion (%),65.1
+Persons,2020,Setting of offence,Residential,Proportion (%),65.7
+Persons,2020,Setting of offence,Community,Proportion (%),14.7
+Persons,2020,Setting of offence,Other location,Proportion (%),9.0
+Persons,2020,Time to report,Less than 1 year,Proportion (%),68.4
+Persons,2020,Time to report,1 to less than 2 years,Proportion (%),6.9
+Persons,2020,Time to report,2 to less than 5 years,Proportion (%),7.4
+Persons,2020,Time to report,5 to less than 10 years,Proportion (%),5.9
+Persons,2020,Time to report,10 to less than 20 years,Proportion (%),4.4
+Persons,2020,Time to report,20 years and over,Proportion (%),7.1
+Persons,2020,Weapon used,Yes,Proportion (%),1.5
+Persons,2020,Weapon used,No,Proportion (%),94.5
+Persons,2021,Aggravated sexual assault,Yes,Proportion (%),79.4
+Persons,2021,Aggravated sexual assault,No,Proportion (%),20.6
+Persons,2021,Finalised investigation,Yes,Proportion (%),33.9
+Persons,2021,Finalised investigation,No,Proportion (%),66.1
+Persons,2021,Setting of offence,Residential,Proportion (%),67.4
+Persons,2021,Setting of offence,Community,Proportion (%),15.6
+Persons,2021,Setting of offence,Other location,Proportion (%),10.4
+Persons,2021,Time to report,Less than 1 year,Proportion (%),68.7
+Persons,2021,Time to report,1 to less than 2 years,Proportion (%),6.1
+Persons,2021,Time to report,2 to less than 5 years,Proportion (%),7.5
+Persons,2021,Time to report,5 to less than 10 years,Proportion (%),5.9
+Persons,2021,Time to report,10 to less than 20 years,Proportion (%),4.5
+Persons,2021,Time to report,20 years and over,Proportion (%),7.2
+Persons,2021,Weapon used,Yes,Proportion (%),1.4
+Persons,2021,Weapon used,No,Proportion (%),93.6
+Persons,2022,Aggravated sexual assault,Yes,Proportion (%),80.1
+Persons,2022,Aggravated sexual assault,No,Proportion (%),19.9
+Persons,2022,Finalised investigation,Yes,Proportion (%),32.6
+Persons,2022,Finalised investigation,No,Proportion (%),67.4
+Persons,2022,Setting of offence,Residential,Proportion (%),65.2
+Persons,2022,Setting of offence,Community,Proportion (%),18.5
+Persons,2022,Setting of offence,Other location,Proportion (%),11.1
+Persons,2022,Time to report,Less than 1 year,Proportion (%),68.8
+Persons,2022,Time to report,1 to less than 2 years,Proportion (%),5.5
+Persons,2022,Time to report,2 to less than 5 years,Proportion (%),7.3
+Persons,2022,Time to report,5 to less than 10 years,Proportion (%),5.3
+Persons,2022,Time to report,10 to less than 20 years,Proportion (%),4.6
+Persons,2022,Time to report,20 years and over,Proportion (%),8.6
+Persons,2022,Weapon used,Yes,Proportion (%),1.5
+Persons,2022,Weapon used,No,Proportion (%),94.0
+Persons,2023,Aggravated sexual assault,Yes,Proportion (%),80.2
+Persons,2023,Aggravated sexual assault,No,Proportion (%),19.8
+Persons,2023,Finalised investigation,Yes,Proportion (%),32.6
+Persons,2023,Finalised investigation,No,Proportion (%),67.3
+Persons,2023,Setting of offence,Residential,Proportion (%),68.8
+Persons,2023,Setting of offence,Community,Proportion (%),17.6
+Persons,2023,Setting of offence,Other location,Proportion (%),10.8
+Persons,2023,Time to report,Less than 1 year,Proportion (%),68.7
+Persons,2023,Time to report,1 to less than 2 years,Proportion (%),5.5
+Persons,2023,Time to report,2 to less than 5 years,Proportion (%),6.6
+Persons,2023,Time to report,5 to less than 10 years,Proportion (%),5.8
+Persons,2023,Time to report,10 to less than 20 years,Proportion (%),4.5
+Persons,2023,Time to report,20 years and over,Proportion (%),8.9
+Persons,2023,Weapon used,Yes,Proportion (%),1.3
+Persons,2023,Weapon used,No,Proportion (%),94.0
+Persons,2024,Aggravated sexual assault,Yes,Proportion (%),80.1
+Persons,2024,Aggravated sexual assault,No,Proportion (%),19.9
+Persons,2024,Finalised investigation,Yes,Proportion (%),n.p.
+Persons,2024,Finalised investigation,No,Proportion (%),n.p.
+Persons,2024,Setting of offence,Residential,Proportion (%),69.3
+Persons,2024,Setting of offence,Community,Proportion (%),17.7
+Persons,2024,Setting of offence,Other location,Proportion (%),10.4
+Persons,2024,Time to report,Less than 1 year,Proportion (%),67.4
+Persons,2024,Time to report,1 to less than 2 years,Proportion (%),5.7
+Persons,2024,Time to report,2 to less than 5 years,Proportion (%),6.5
+Persons,2024,Time to report,5 to less than 10 years,Proportion (%),5.4
+Persons,2024,Time to report,10 to less than 20 years,Proportion (%),5.0
+Persons,2024,Time to report,20 years and over,Proportion (%),9.9
+Persons,2024,Weapon used,Yes,Proportion (%),n.p.
+Persons,2024,Weapon used,No,Proportion (%),n.p.

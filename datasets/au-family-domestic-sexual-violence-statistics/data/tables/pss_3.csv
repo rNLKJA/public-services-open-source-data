@@ -1,0 +1,395 @@
+sex,year,experience_of_violence,type_of_violence,sex_of_perpetrator,relationship_with_perpetrator,unit,value,rse,95_moe,lower_ci,upper_ci,data_flag
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Intimate partner or family member,Number,144.9,12.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Intimate partner,Number,131.4,14.0,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Cohabiting partner,Number,84.8,15.5,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Boyfriend or date,Number,61.7,20.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Family member,Number,10.9,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Intimate partner or family member,Number,37.0,25.8,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Intimate partner,Number,24.8,26.3,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Cohabiting partner,Number,17.7,31.8,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Boyfriend or date,Number,11.2,40.0,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Family member,Number,16.2,47.0,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Intimate partner or family member,Number,169.3,11.5,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Intimate partner,Number,141.8,12.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Cohabiting partner,Number,86.7,15.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Boyfriend or date,Number,67.0,18.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Family member,Number,27.6,30.7,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner or family member,Number,186.2,11.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner,Number,147.6,13.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Cohabiting partner,Number,92.7,16.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Boyfriend/girlfriend/date,Number,67.0,18.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Family member,Number,39.9,22.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Intimate partner or family member,Number,85.9,14.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Intimate partner,Number,72.2,17.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Cohabiting partner,Number,61.2,16.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Boyfriend or date,Number,15.7,43.3,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Family member,Number,13.6,36.8,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a female,Intimate partner or family member,Number,25.9,25.2,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a female,Family member,Number,16.2,30.1,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Intimate partner or family member,Number,26.9,30.0,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Intimate partner,Number,15.5,29.5,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Cohabiting partner,Number,9.2,47.1,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Boyfriend or date,Number,3.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Family member,Number,16.2,47.0,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Intimate partner or family member,Number,104.2,13.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Intimate partner,Number,81.6,15.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Cohabiting partner,Number,61.3,16.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Boyfriend or date,Number,17.8,38.6,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Family member,Number,22.3,36.1,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Intimate partner or family member,Number,86.1,15.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Intimate partner,Number,75.8,17.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Cohabiting partner,Number,38.3,23.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Boyfriend or date,Number,44.5,22.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Family member,Number,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Intimate partner or family member,Number,7.6,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Intimate partner,Number,7.6,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Cohabiting partner,Number,2.9,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Boyfriend or date,Number,8.1,40.8,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Family member,Number,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Intimate partner or family member,Number,81.7,15.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Intimate partner,Number,78.6,16.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Cohabiting partner,Number,40.4,22.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Boyfriend or date,Number,52.3,19.0,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Family member,Number,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Intimate partner or family member,Number,2447.8,2.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Intimate partner,Number,2151.1,2.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Cohabiting partner,Number,1561.7,2.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Boyfriend or date,Number,832.5,4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Family member,Number,521.0,5.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Father,Number,282.1,8.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Son,Number,30.2,23.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Brother,Number,100.0,11.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Other relative or in-law,Number,154.8,10.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Intimate partner or family member,Number,682.9,5.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Intimate partner,Number,562.6,6.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Cohabiting partner,Number,411.2,6.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Boyfriend or date,Number,172.7,11.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Family member,Number,165.1,10.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Father,Number,89.5,14.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Son,Number,14.1,31.4,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Brother,Number,25.5,31.1,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Other relative or in-law,Number,44.3,19.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner or family member,Number,2717.3,2.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner,Number,2313.3,2.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Cohabiting partner,Number,1670.4,2.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Boyfriend/girlfriend or date,Number,920.3,4.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Family member,Number,806.0,4.0,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Intimate partner or family member,Number,2607.1,2.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Intimate partner,Number,2275.5,2.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Cohabiting partner,Number,1649.1,2.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Boyfriend or date,Number,905.7,4.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Family member,Number,610.9,5.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Father,Number,325.7,8.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Son,Number,45.4,17.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Brother,Number,126.0,9.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Other relative or in-law,Number,180.9,9.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner or family member,Number,302.0,7.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner,Number,41.6,24.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Cohabiting partner,Number,21.8,29.0,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Family member,Number,269.7,7.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Mother,Number,173.4,11.0,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Daughter,Number,16.1,36.9,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Sister,Number,60.7,14.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Other relative or in-law,Number,28.0,23.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner or family member,Number,1922.4,2.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner,Number,1665.3,2.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Cohabiting partner,Number,1366.4,3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Boyfriend or date,Number,374.6,7.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Family member,Number,384.0,6.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Father,Number,250.0,8.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Son,Number,34.1,20.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Brother,Number,84.8,14,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Other relative or in-law,Number,49.1,17.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Intimate partner or family member,Number,91.2,13.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Intimate partner,Number,5.8,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Cohabiting partner,Number,3.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Family member,Number,76.6,16.0,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Mother,Number,38.8,23.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Daughter,Number,6.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Sister,Number,20.3,29.4,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Other relative or in-law,Number,19.6,33.6,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Intimate partner or family member,Number,536.6,5.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Intimate partner,Number,430.9,6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Cohabiting partner,Number,347.5,6.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Boyfriend or date,Number,88.8,17,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Family member,Number,143.8,11.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Father,Number,86.1,13.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Son,Number,15.0,28.7,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Brother,Number,26.7,29.7,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Other relative or in-law,Number,21.7,28.9,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Intimate partner or family member,Number,352.6,6.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Intimate partner,Number,46.1,21.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Cohabiting partner,Number,21.9,29.5,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Family member,Number,312.6,7.4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Mother,Number,191.6,10.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Daughter,Number,20.8,30.7,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Sister,Number,71.4,13.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Other relative or in-law,Number,41.9,20.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Intimate partner or family member,Number,2085.7,2.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Intimate partner,Number,1772.7,2.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Cohabiting partner,Number,1452.5,2.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Boyfriend or date,Number,419.5,7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Family member,Number,465.9,5.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Father,Number,295.2,8.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Son,Number,40.5,19.6,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Brother,Number,101.0,12.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Other relative or in-law,Number,60.1,15.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Intimate partner or family member,Number,1154.8,3.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Intimate partner,Number,1040.9,4,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Cohabiting partner,Number,563.3,5.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Boyfriend or date,Number,580.0,5.1,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Family member,Number,186.6,9.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Father,Number,46.3,17,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Son,Number,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Brother,Number,35.4,21.5,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Other relative or in-law,Number,121.5,11.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Intimate partner or family member,Number,206.1,10.2,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Intimate partner,Number,179.7,10.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Cohabiting partner,Number,97.7,14.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Boyfriend or date,Number,86.8,13.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Family member,Number,29.1,27.7,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Father,Number,8.1,44,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Son,Number,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Brother,Number,2.9,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Other relative or in-law,Number,22.0,31.3,n.a.,n.a.,n.a.,*
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Intimate partner or family member,Number,1256.0,3.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Intimate partner,Number,1128.8,3.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Cohabiting partner,Number,608.8,5,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Boyfriend or date,Number,625.9,4.8,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Family member,Number,203.3,9.3,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Father,Number,51.9,16.7,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Son,Number,6.8,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Brother,Number,35.4,21.5,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Other relative or in-law,Number,137.4,11.2,n.a.,n.a.,n.a.,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards both mother and father,By a person,Partner of parent,Number,300.6,6.1,n.a.,n.a.,n.a.,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards father,By a person,Partner of parent,Number,498.3,4.6,n.a.,n.a.,n.a.,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother,By a person,Partner of parent,Number,1377.7,3.3,n.a.,n.a.,n.a.,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother and/or father,By a person,Partner of parent,Number,1575.4,3.0,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner or family member,Number,71.4,37.9,n.a.,n.a.,n.a.,*
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner,Number,55.0,44.4,n.a.,n.a.,n.a.,*
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Cohabiting partner,Number,45.9,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Boyfriend/girlfriend/date,Number,8.6,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Family member,Number,8.4,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner or family member,Number,1131.2,11.6,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner,Number,692.6,13.0,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Cohabiting partner,Number,526.6,14.5,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Boyfriend/girlfriend or date,Number,224.0,26.4,n.a.,n.a.,n.a.,*
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Family member,Number,560.6,18.3,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner or family member,Number,374.5,22,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner,Number,35.7,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence since age 15,Physical assault,By a male,Family member,Number,356.6,23,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner or family member,Number,643.5,14.1,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner,Number,560.5,15.1,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Cohabiting partner,Number,459.6,16.8,n.a.,n.a.,n.a.,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Girlfriend/date,Number,114.6,34.7,n.a.,n.a.,n.a.,*
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Family member,Number,103.9,31.6,n.a.,n.a.,n.a.,*
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards both mother and father,By a person,Partner of parent,Number,168.6,29.0,n.a.,n.a.,n.a.,*
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards father,By a person,Partner of parent,Number,350.0,19.3,n.a.,n.a.,n.a.,
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother,By a person,Partner of parent,Number,853.8,12.5,n.a.,n.a.,n.a.,
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother and/or father,By a person,Partner of parent,Number,1010.3,11.4,n.a.,n.a.,n.a.,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner or family member,Number,3848.3,3.6,n.a.,n.a.,n.a.,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner,Number,3010.3,3.3,n.a.,n.a.,n.a.,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Cohabiting partner,Number,2204.2,3.7,n.a.,n.a.,n.a.,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Boyfriend/girlfriend or date,Number,1137.9,6.7,n.a.,n.a.,n.a.,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Family member,Number,1360.4,7.9,n.a.,n.a.,n.a.,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards both mother and father,By a person,Partner of parent,Number,476.1,10.8,n.a.,n.a.,n.a.,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards father,By a person,Partner of parent,Number,837.2,8.7,n.a.,n.a.,n.a.,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother,By a person,Partner of parent,Number,2234.6,5.1,n.a.,n.a.,n.a.,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother and/or father,By a person,Partner of parent,Number,2594.6,4.9,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Intimate partner or family member,Proportion,1.5,12.9,0.4,1.1,1.9,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Intimate partner,Proportion,1.3,14.0,0.4,0.9,1.7,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Cohabiting partner,Proportion,0.9,15.5,0.3,0.6,1.2,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Boyfriend or date,Proportion,0.6,20.6,0.2,0.4,0.8,
+Females,2021-22,Experienced violence in the last 12 months,All assault,By a male,Family member,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Intimate partner or family member,Proportion,0.4,25.8,0.2,0.2,0.6,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Intimate partner,Proportion,0.3,26.3,0.2,0.1,0.5,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Cohabiting partner,Proportion,0.2,31.8,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Boyfriend or date,Proportion,0.1,40.0,0.1,0.0,0.2,*
+Females,2021-22,Experienced violence in the last 12 months,All threat,By a male,Family member,Proportion,0.2,47.0,0.2,0.0,0.4,*
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Intimate partner or family member,Proportion,1.7,11.5,0.4,1.3,2.1,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Intimate partner,Proportion,1.4,12.8,0.4,1.0,1.8,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Cohabiting partner,Proportion,0.9,15.3,0.3,0.6,1.2,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Boyfriend or date,Proportion,0.7,18.9,0.3,0.4,1.0,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a male,Family member,Proportion,0.3,30.7,0.2,0.1,0.5,*
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner or family member,Proportion,1.9,11.6,0.4,1.5,2.3,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner,Proportion,1.5,13.2,0.4,1.1,1.9,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Cohabiting partner,Proportion,0.9,16.1,0.3,0.6,1.2,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Boyfriend/girlfriend/date,Proportion,0.7,18.9,0.3,0.4,1.0,
+Females,2021-22,Experienced violence in the last 12 months,All violence,By a person,Family member,Proportion,0.4,22.7,0.2,0.2,0.6,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Intimate partner or family member,Proportion,0.9,14.7,0.3,0.6,1.2,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Intimate partner,Proportion,0.7,17.3,0.2,0.5,0.9,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Cohabiting partner,Proportion,0.6,16.1,0.2,0.4,0.8,
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Boyfriend or date,Proportion,0.2,43.3,0.2,0.0,0.4,*
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a male,Family member,Proportion,0.1,36.8,0.1,0.0,0.2,*
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a female,Intimate partner or family member,Proportion,0.3,25.2,0.1,0.2,0.4,*
+Females,2021-22,Experienced violence in the last 12 months,Physical assault,By a female,Family member,Proportion,0.2,30.1,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Intimate partner or family member,Proportion,0.3,30.0,0.2,0.1,0.5,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Intimate partner,Proportion,0.2,29.5,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Cohabiting partner,Proportion,0.1,47.1,0.1,0.0,0.2,*
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Boyfriend or date,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Physical threat,By a male,Family member,Proportion,0.2,47.0,0.2,0.0,0.4,*
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Intimate partner or family member,Proportion,1.1,13.7,0.3,0.8,1.4,
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Intimate partner,Proportion,0.8,15.3,0.2,0.6,1.0,
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Cohabiting partner,Proportion,0.6,16.3,0.2,0.4,0.8,
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Boyfriend or date,Proportion,0.2,38.6,0.2,0.0,0.4,*
+Females,2021-22,Experienced violence in the last 12 months,Physical violence,By a male,Family member,Proportion,0.2,36.1,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Intimate partner or family member,Proportion,0.9,15.1,0.3,0.6,1.2,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Intimate partner,Proportion,0.8,17.1,0.3,0.5,1.1,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Cohabiting partner,Proportion,0.4,23.7,0.2,0.2,0.6,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Boyfriend or date,Proportion,0.4,22.7,0.2,0.2,0.6,
+Females,2021-22,Experienced violence in the last 12 months,Sexual assault,By a male,Family member,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Intimate partner or family member,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Intimate partner,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Cohabiting partner,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Boyfriend or date,Proportion,0.1,40.8,0.1,0.0,0.2,*
+Females,2021-22,Experienced violence in the last 12 months,Sexual threat,By a male,Family member,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Intimate partner or family member,Proportion,0.8,15.8,0.2,0.6,1.0,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Intimate partner,Proportion,0.8,16.4,0.3,0.5,1.1,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Cohabiting partner,Proportion,0.4,22.4,0.2,0.2,0.6,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Boyfriend or date,Proportion,0.5,19.0,0.2,0.3,0.7,
+Females,2021-22,Experienced violence in the last 12 months,Sexual violence,By a male,Family member,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Intimate partner or family member,Proportion,24.7,2.3,1.1,23.6,25.8,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Intimate partner,Proportion,21.7,2.4,1.0,20.7,22.7,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Cohabiting partner,Proportion,15.8,2.8,0.9,14.9,16.7,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Boyfriend or date,Proportion,8.4,4,0.7,7.7,9.1,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Family member,Proportion,5.3,5.6,0.6,4.7,5.9,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Father,Proportion,2.8,8.3,0.5,2.3,3.3,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Son,Proportion,0.3,23.7,0.1,0.2,0.4,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Brother,Proportion,1,11.7,0.2,0.8,1.2,
+Females,2021-22,Experienced violence since age 15,All assault,By a male,Other relative or in-law,Proportion,1.6,10.4,0.3,1.3,1.9,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Intimate partner or family member,Proportion,6.9,5.4,0.7,6.2,7.6,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Intimate partner,Proportion,5.7,6.1,0.7,5.0,6.4,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Cohabiting partner,Proportion,4.1,6.8,0.5,3.6,4.6,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Boyfriend or date,Proportion,1.7,11.8,0.4,1.3,2.1,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Family member,Proportion,1.7,10.4,0.3,1.4,2.0,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Father,Proportion,0.9,14.2,0.3,0.6,1.2,
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Son,Proportion,0.1,31.4,0.1,0.0,0.2,*
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Brother,Proportion,0.3,31.1,0.2,0.1,0.5,*
+Females,2021-22,Experienced violence since age 15,All threat,By a male,Other relative or in-law,Proportion,0.4,19.1,0.1,0.3,0.5,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner or family member,Proportion,27.4,2.1,1.1,26.3,28.5,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner,Proportion,23.3,2.4,1.1,22.2,24.4,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Cohabiting partner,Proportion,16.9,2.7,0.9,16.0,17.8,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Boyfriend/girlfriend or date,Proportion,9.3,4.1,0.7,8.6,10.0,
+Females,2021-22,Experienced violence since age 15,All violence,By a person,Family member,Proportion,8.1,4.0,0.6,7.5,8.7,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Intimate partner or family member,Proportion,26.3,2.2,1.1,25.2,27.4,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Intimate partner,Proportion,23,2.4,1.1,21.9,24.1,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Cohabiting partner,Proportion,16.6,2.7,0.9,15.7,17.5,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Boyfriend or date,Proportion,9.1,4.1,0.7,8.4,9.8,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Family member,Proportion,6.2,5.1,0.6,5.6,6.8,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Father,Proportion,3.3,8.2,0.5,2.8,3.8,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Son,Proportion,0.5,17.9,0.2,0.3,0.7,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Brother,Proportion,1.3,9.7,0.2,1.1,1.5,
+Females,2021-22,Experienced violence since age 15,All violence,By a male,Other relative or in-law,Proportion,1.8,9.6,0.3,1.5,2.1,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner or family member,Proportion,3.0,7.3,0.4,2.6,3.4,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner,Proportion,0.4,24.3,0.2,0.2,0.6,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Cohabiting partner,Proportion,0.2,29.0,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Family member,Proportion,2.7,7.9,0.4,2.3,3.1,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Mother,Proportion,1.7,11.0,0.4,1.3,2.1,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Daughter,Proportion,0.2,36.9,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Sister,Proportion,0.6,14.4,0.2,0.4,0.8,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a female,Other relative or in-law,Proportion,0.3,23.9,0.1,0.2,0.4,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner or family member,Proportion,19.4,2.6,1.0,18.4,20.4,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner,Proportion,16.8,2.7,0.9,15.9,17.7,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Cohabiting partner,Proportion,13.8,3,0.8,13.0,14.6,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Boyfriend or date,Proportion,3.8,7.2,0.5,3.3,4.3,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Family member,Proportion,3.9,6.4,0.5,3.4,4.4,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Father,Proportion,2.5,8.4,0.4,2.1,2.9,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Son,Proportion,0.3,20.9,0.1,0.2,0.4,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Brother,Proportion,0.9,14,0.2,0.7,1.1,
+Females,2021-22,Experienced violence since age 15,Physical assault,By a male,Other relative or in-law,Proportion,0.5,17.7,0.2,0.3,0.7,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Intimate partner or family member,Proportion,0.9,13.9,0.2,0.7,1.1,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Intimate partner,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Cohabiting partner,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Family member,Proportion,0.8,16.0,0.3,0.5,1.1,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Mother,Proportion,0.4,23.2,0.2,0.2,0.6,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Daughter,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Sister,Proportion,0.2,29.4,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a female,Other relative or in-law,Proportion,0.2,33.6,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Intimate partner or family member,Proportion,5.4,5.4,0.6,4.8,6.0,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Intimate partner,Proportion,4.3,6,0.5,3.8,4.8,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Cohabiting partner,Proportion,3.5,6.8,0.5,3.0,4.0,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Boyfriend or date,Proportion,0.9,17,0.3,0.6,1.2,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Family member,Proportion,1.5,11.2,0.3,1.2,1.8,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Father,Proportion,0.9,13.9,0.2,0.7,1.1,
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Son,Proportion,0.2,28.7,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Brother,Proportion,0.3,29.7,0.2,0.1,0.5,*
+Females,2021-22,Experienced violence since age 15,Physical threat,By a male,Other relative or in-law,Proportion,0.2,28.9,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Intimate partner or family member,Proportion,3.6,6.9,0.5,3.1,4.1,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Intimate partner,Proportion,0.5,21.8,0.2,0.3,0.7,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Cohabiting partner,Proportion,0.2,29.5,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Family member,Proportion,3.2,7.4,0.5,2.7,3.7,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Mother,Proportion,1.9,10.1,0.4,1.5,2.3,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Daughter,Proportion,0.2,30.7,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Sister,Proportion,0.7,13.7,0.2,0.5,0.9,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a female,Other relative or in-law,Proportion,0.4,20.6,0.2,0.2,0.6,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Intimate partner or family member,Proportion,21,2.6,1.1,19.9,22.1,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Intimate partner,Proportion,17.9,2.7,0.9,17.0,18.8,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Cohabiting partner,Proportion,14.7,2.7,0.8,13.9,15.5,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Boyfriend or date,Proportion,4.2,7,0.6,3.6,4.8,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Family member,Proportion,4.7,5.7,0.5,4.2,5.2,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Father,Proportion,3,8.1,0.5,2.5,3.5,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Son,Proportion,0.4,19.6,0.2,0.2,0.6,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Brother,Proportion,1,12.9,0.3,0.7,1.3,
+Females,2021-22,Experienced violence since age 15,Physical violence,By a male,Other relative or in-law,Proportion,0.6,15.7,0.2,0.4,0.8,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Intimate partner or family member,Proportion,11.7,3.9,0.9,10.8,12.6,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Intimate partner,Proportion,10.5,4,0.8,9.7,11.3,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Cohabiting partner,Proportion,5.7,5.1,0.6,5.1,6.3,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Boyfriend or date,Proportion,5.9,5.1,0.6,5.3,6.5,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Family member,Proportion,1.9,9.2,0.3,1.6,2.2,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Father,Proportion,0.5,17,0.2,0.3,0.7,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Son,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Brother,Proportion,0.4,21.5,0.2,0.2,0.6,
+Females,2021-22,Experienced violence since age 15,Sexual assault,By a male,Other relative or in-law,Proportion,1.2,11.9,0.3,0.9,1.5,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Intimate partner or family member,Proportion,2.1,10.2,0.4,1.7,2.5,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Intimate partner,Proportion,1.8,10.9,0.4,1.4,2.2,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Cohabiting partner,Proportion,1,14.3,0.3,0.7,1.3,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Boyfriend or date,Proportion,0.9,13.7,0.2,0.7,1.1,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Family member,Proportion,0.3,27.7,0.2,0.1,0.5,*
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Father,Proportion,0.1,44,0.1,0.0,0.2,*
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Son,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Brother,Proportion,—,n.p.,n.a.,n.a.,n.a.,
+Females,2021-22,Experienced violence since age 15,Sexual threat,By a male,Other relative or in-law,Proportion,0.2,31.3,0.1,0.1,0.3,*
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Intimate partner or family member,Proportion,12.7,3.9,1.0,11.7,13.7,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Intimate partner,Proportion,11.4,3.9,0.9,10.5,12.3,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Cohabiting partner,Proportion,6.1,5,0.6,5.5,6.7,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Boyfriend or date,Proportion,6.3,4.8,0.6,5.7,6.9,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Family member,Proportion,2.1,9.3,0.4,1.7,2.5,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Father,Proportion,0.5,16.7,0.2,0.3,0.7,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Son,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Brother,Proportion,0.4,21.5,0.2,0.2,0.6,
+Females,2021-22,Experienced violence since age 15,Sexual violence,By a male,Other relative or in-law,Proportion,1.4,11.2,0.3,1.1,1.7,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards both mother and father,By a person,Partner of parent,Proportion,3.0,6.1,0.4,2.6,3.4,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards father,By a person,Partner of parent,Proportion,5.0,4.6,0.5,4.5,5.5,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother,By a person,Partner of parent,Proportion,13.9,3.3,0.9,13.0,14.8,
+Females,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother and/or father,By a person,Partner of parent,Proportion,15.9,3.0,0.9,15.0,16.8,
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner or family member,Proportion,0.7,37.9,0.5,0.2,1.2,*
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Intimate partner,Proportion,0.6,44.4,0.5,0.1,1.1,*
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Cohabiting partner,Proportion,0.5,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Boyfriend/girlfriend/date,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence in the last 12 months,All violence,By a person,Family member,Proportion,0.1,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner or family member,Proportion,11.9,11.6,2.7,9.2,14.6,
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner,Proportion,7.3,13.0,1.9,5.4,9.2,
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Cohabiting partner,Proportion,5.5,14.5,1.6,3.9,7.1,
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Boyfriend/girlfriend or date,Proportion,2.3,26.4,1.2,1.1,3.5,*
+Males,2021-22,Experienced violence since age 15,All violence,By a person,Family member,Proportion,5.9,18.3,2.1,3.8,8.0,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner or family member,Proportion,3.9,22.0,1.7,2.2,5.6,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a male,Intimate partner,Proportion,0.4,n.p.,n.a.,n.a.,n.a.,**
+Males,2021-22,Experienced violence since age 15,Physical assault,By a male,Family member,Proportion,3.7,23.0,1.7,2.0,5.4,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner or family member,Proportion,6.7,14.1,1.9,4.8,8.6,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Intimate partner,Proportion,5.9,15.1,1.7,4.2,7.6,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Cohabiting partner,Proportion,4.8,16.8,1.6,3.2,6.4,
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Girlfriend/date,Proportion,1.2,34.7,0.8,0.4,2.0,*
+Males,2021-22,Experienced violence since age 15,Physical assault,By a female,Family member,Proportion,1.1,31.6,0.7,0.4,1.8,*
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards both mother and father,By a person,Partner of parent,Proportion,1.8,29.0,1.0,0.8,2.8,*
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards father,By a person,Partner of parent,Proportion,3.7,19.3,1.4,2.3,5.1,
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother,By a person,Partner of parent,Proportion,8.9,12.5,2.2,6.7,11.1,
+Males,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother and/or father,By a person,Partner of parent,Proportion,10.6,11.4,2.4,8.2,13.0,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner or family member,Proportion,19.8,3.6,1.4,18.4,21.2,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Intimate partner,Proportion,15.5,3.3,1.0,14.5,16.5,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Cohabiting partner,Proportion,11.3,3.7,0.8,10.5,12.1,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Boyfriend/girlfriend or date,Proportion,5.9,6.7,0.8,5.1,6.7,
+Persons,2021-22,Experienced violence since age 15,All violence,By a person,Family member,Proportion,7.0,7.9,1.1,5.9,8.1,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards both mother and father,By a person,Partner of parent,Proportion,2.4,10.8,0.5,1.9,2.9,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards father,By a person,Partner of parent,Proportion,4.3,8.7,0.7,3.6,5.0,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother,By a person,Partner of parent,Proportion,11.5,5.1,1.1,10.4,12.6,
+Persons,2021-22,Witnessed violence towards mother and/or father by a partner before age 15,Violence towards mother and/or father,By a person,Partner of parent,Proportion,13.3,4.9,1.3,12.0,14.6,

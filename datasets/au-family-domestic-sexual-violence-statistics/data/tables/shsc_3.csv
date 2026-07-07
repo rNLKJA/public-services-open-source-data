@@ -1,0 +1,109 @@
+sex,year,age_group,unit,value
+Females,2016-17,Total,Number,18343
+Females,2017-18,Total,Number,19327
+Females,2018-19,Total,Number,20144
+Females,2019-20,Total,Number,20661
+Females,2020-21,Total,Number,21605
+Females,2021-22,Total,Number,21190
+Females,2022-23,Total,Number,22111
+Females,2023-24,Total,Number,23534
+Females,2024-25,0-9,Number,4414
+Females,2024-25,10-14,Number,1486
+Females,2024-25,15-19,Number,2293
+Females,2024-25,20-24,Number,3211
+Females,2024-25,25-34,Number,6214
+Females,2024-25,35-44,Number,4524
+Females,2024-25,45-54,Number,2293
+Females,2024-25,55-64,Number,799
+Females,2024-25,65+,Number,241
+Females,2024-25,Total,Number,25479
+Males,2016-17,Total,Number,6568
+Males,2017-18,Total,Number,6941
+Males,2018-19,Total,Number,7083
+Males,2019-20,Total,Number,7209
+Males,2020-21,Total,Number,7447
+Males,2021-22,Total,Number,6901
+Males,2022-23,Total,Number,7285
+Males,2023-24,Total,Number,7699
+Males,2024-25,0-9,Number,4448
+Males,2024-25,10-14,Number,1173
+Males,2024-25,15-19,Number,886
+Males,2024-25,20-24,Number,467
+Males,2024-25,25-34,Number,617
+Males,2024-25,35-44,Number,566
+Males,2024-25,45-54,Number,310
+Males,2024-25,55-64,Number,81
+Males,2024-25,65+,Number,32
+Males,2024-25,Total,Number,8583
+Persons,2016-17,Total,Number,24911
+Persons,2017-18,Total,Number,26268
+Persons,2018-19,Total,Number,27227
+Persons,2019-20,Total,Number,27870
+Persons,2020-21,Total,Number,29052
+Persons,2021-22,Total,Number,28091
+Persons,2022-23,Total,Number,29400
+Persons,2023-24,Total,Number,31232
+Persons,2024-25,0-9,Number,8861
+Persons,2024-25,10-14,Number,2659
+Persons,2024-25,15-19,Number,3183
+Persons,2024-25,20-24,Number,3679
+Persons,2024-25,25-34,Number,6825
+Persons,2024-25,35-44,Number,5090
+Persons,2024-25,45-54,Number,2603
+Persons,2024-25,55-64,Number,881
+Persons,2024-25,65+,Number,273
+Persons,2024-25,Total,Number,34058
+Females,2016-17,Total,"Rate (number per 10,000)",409.0
+Females,2017-18,Total,"Rate (number per 10,000)",422.8
+Females,2018-19,Total,"Rate (number per 10,000)",432.8
+Females,2019-20,Total,"Rate (number per 10,000)",436.1
+Females,2020-21,Total,"Rate (number per 10,000)",448.2
+Females,2021-22,Total,"Rate (number per 10,000)",432.1
+Females,2022-23,Total,"Rate (number per 10,000)",442.7
+Females,2023-24,Total,"Rate (number per 10,000)",462.6
+Females,2024-25,0-9,"Rate (number per 10,000)",413.2
+Females,2024-25,10-14,"Rate (number per 10,000)",278.4
+Females,2024-25,15-19,"Rate (number per 10,000)",435.4
+Females,2024-25,20-24,"Rate (number per 10,000)",727.9
+Females,2024-25,25-34,"Rate (number per 10,000)",799.9
+Females,2024-25,35-44,"Rate (number per 10,000)",784.8
+Females,2024-25,45-54,"Rate (number per 10,000)",455.1
+Females,2024-25,55-64,"Rate (number per 10,000)",192.4
+Females,2024-25,65+,"Rate (number per 10,000)",71.2
+Females,2024-25,Total,"Rate (number per 10,000)",491.8
+Males,2016-17,Total,"Rate (number per 10,000)",145.9
+Males,2017-18,Total,"Rate (number per 10,000)",151.2
+Males,2018-19,Total,"Rate (number per 10,000)",151.4
+Males,2019-20,Total,"Rate (number per 10,000)",151.3
+Males,2020-21,Total,"Rate (number per 10,000)",153.5
+Males,2021-22,Total,"Rate (number per 10,000)",139.9
+Males,2022-23,Total,"Rate (number per 10,000)",144.9
+Males,2023-24,Total,"Rate (number per 10,000)",150.3
+Males,2024-25,0-9,"Rate (number per 10,000)",391.5
+Males,2024-25,10-14,"Rate (number per 10,000)",207.7
+Males,2024-25,15-19,"Rate (number per 10,000)",161.3
+Males,2024-25,20-24,"Rate (number per 10,000)",100.7
+Males,2024-25,25-34,"Rate (number per 10,000)",77.1
+Males,2024-25,35-44,"Rate (number per 10,000)",99.7
+Males,2024-25,45-54,"Rate (number per 10,000)",65.4
+Males,2024-25,55-64,"Rate (number per 10,000)",21.8
+Males,2024-25,65+,"Rate (number per 10,000)",11.0
+Males,2024-25,Total,"Rate (number per 10,000)",164.5
+Persons,2016-17,Total,"Rate (number per 10,000)",277.2
+Persons,2017-18,Total,"Rate (number per 10,000)",286.7
+Persons,2018-19,Total,"Rate (number per 10,000)",291.8
+Persons,2019-20,Total,"Rate (number per 10,000)",293.2
+Persons,2020-21,Total,"Rate (number per 10,000)",300.4
+Persons,2021-22,Total,"Rate (number per 10,000)",285.6
+Persons,2022-23,Total,"Rate (number per 10,000)",293.4
+Persons,2023-24,Total,"Rate (number per 10,000)",305.9
+Persons,2024-25,0-9,"Rate (number per 10,000)",402.0
+Persons,2024-25,10-14,"Rate (number per 10,000)",242.1
+Persons,2024-25,15-19,"Rate (number per 10,000)",295.9
+Persons,2024-25,20-24,"Rate (number per 10,000)",406.5
+Persons,2024-25,25-34,"Rate (number per 10,000)",432.7
+Persons,2024-25,35-44,"Rate (number per 10,000)",445.0
+Persons,2024-25,45-54,"Rate (number per 10,000)",266.3
+Persons,2024-25,55-64,"Rate (number per 10,000)",111.9
+Persons,2024-25,65+,"Rate (number per 10,000)",43.4
+Persons,2024-25,Total,"Rate (number per 10,000)",327.5

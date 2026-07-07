@@ -1,0 +1,65 @@
+sex,year,demographic_factor,population_group,unit,value
+All children,2023–24,"Age groups, all Australian children",Unborn,Number,1355
+All children,2023–24,"Age groups, all Australian children",1–4,Number,9521
+All children,2023–24,"Age groups, all Australian children",5–9,Number,11658
+All children,2023–24,"Age groups, all Australian children",10–14,Number,11572
+All children,2023–24,"Age groups, all Australian children",15–17,Number,3975
+All children,2023–24,"Age groups, all Australian children",Not stated,Number,125
+All children,2023–24,"Age groups, all Australian children",<1,Number,3911
+All children,2023–24,"Age groups, First Nations children",Unborn,Number,650
+All children,2023–24,"Age groups, First Nations children",1–4,Number,3421
+All children,2023–24,"Age groups, First Nations children",5–9,Number,3370
+All children,2023–24,"Age groups, First Nations children",10–14,Number,3027
+All children,2023–24,"Age groups, First Nations children",15–17,Number,1017
+All children,2023–24,"Age groups, First Nations children",Not stated,Number,35
+All children,2023–24,"Age groups, First Nations children",<1,Number,1445
+All children,2023–24,Remoteness area,Major cities,Number,25059
+All children,2023–24,Remoteness area,Inner regional,Number,9361
+All children,2023–24,Remoteness area,Outer regional,Number,4530
+All children,2023–24,Remoteness area,Remote,Number,941
+All children,2023–24,Remoteness area,Very remote,Number,974
+All children,2023–24,Socioeconomic area (SEIFA),1st (most disadvantaged),Number,14286
+All children,2023–24,Socioeconomic area (SEIFA),2nd,Number,10306
+All children,2023–24,Socioeconomic area (SEIFA),3rd,Number,8152
+All children,2023–24,Socioeconomic area (SEIFA),4th,Number,5054
+All children,2023–24,Socioeconomic area (SEIFA),5th (least disadvantaged),Number,2951
+All children,2023–24,State or territory,NSW,Number,11896
+All children,2023–24,State or territory,Vic,Number,13822
+All children,2023–24,State or territory,Qld,Number,7115
+All children,2023–24,State or territory,WA,Number,4649
+All children,2023–24,State or territory,SA,Number,3161
+All children,2023–24,State or territory,Tas,Number,387
+All children,2023–24,State or territory,ACT,Number,267
+All children,2023–24,State or territory,NT,Number,820
+All children,2023–24,"Age groups, all Australian children",Unborn,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,"Age groups, all Australian children",1–4,"Rate (number per 1,000 children)",7.8
+All children,2023–24,"Age groups, all Australian children",5–9,"Rate (number per 1,000 children)",7.2
+All children,2023–24,"Age groups, all Australian children",10–14,"Rate (number per 1,000 children)",6.9
+All children,2023–24,"Age groups, all Australian children",15–17,"Rate (number per 1,000 children)",4.0
+All children,2023–24,"Age groups, all Australian children",Not stated,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,"Age groups, all Australian children",<1,"Rate (number per 1,000 children)",13.6
+All children,2023–24,"Age groups, First Nations children",Unborn,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,"Age groups, First Nations children",1–4,"Rate (number per 1,000 children)",38.9
+All children,2023–24,"Age groups, First Nations children",5–9,"Rate (number per 1,000 children)",31.5
+All children,2023–24,"Age groups, First Nations children",10–14,"Rate (number per 1,000 children)",27.5
+All children,2023–24,"Age groups, First Nations children",15–17,"Rate (number per 1,000 children)",15.4
+All children,2023–24,"Age groups, First Nations children",Not stated,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,"Age groups, First Nations children",<1,"Rate (number per 1,000 children)",60.1
+All children,2023–24,Remoteness area,Major cities,"Rate (number per 1,000 children)",6.0
+All children,2023–24,Remoteness area,Inner regional,"Rate (number per 1,000 children)",9.3
+All children,2023–24,Remoteness area,Outer regional,"Rate (number per 1,000 children)",9.9
+All children,2023–24,Remoteness area,Remote,"Rate (number per 1,000 children)",13.3
+All children,2023–24,Remoteness area,Very remote,"Rate (number per 1,000 children)",19.6
+All children,2023–24,Socioeconomic area (SEIFA),1st (most disadvantaged),"Rate (number per 1,000 children)",n.a.
+All children,2023–24,Socioeconomic area (SEIFA),2nd,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,Socioeconomic area (SEIFA),3rd,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,Socioeconomic area (SEIFA),4th,"Rate (number per 1,000 children)",n.a.
+All children,2023–24,Socioeconomic area (SEIFA),5th (least disadvantaged),"Rate (number per 1,000 children)",n.a.
+All children,2023–24,State or territory,NSW,"Rate (number per 1,000 children)",6.6
+All children,2023–24,State or territory,Vic,"Rate (number per 1,000 children)",9.5
+All children,2023–24,State or territory,Qld,"Rate (number per 1,000 children)",5.8
+All children,2023–24,State or territory,WA,"Rate (number per 1,000 children)",7.2
+All children,2023–24,State or territory,SA,"Rate (number per 1,000 children)",8.4
+All children,2023–24,State or territory,Tas,"Rate (number per 1,000 children)",3.4
+All children,2023–24,State or territory,ACT,"Rate (number per 1,000 children)",2.7
+All children,2023–24,State or territory,NT,"Rate (number per 1,000 children)",13.4

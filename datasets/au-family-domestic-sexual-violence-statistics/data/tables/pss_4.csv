@@ -1,0 +1,242 @@
+sex,year,experience_of_violence,sex_of_perpetrator,relationship_with_perpetrator,police_contact,unit,value,rse,95_moe,lower_ci,upper_ci,data_flag
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted,Number,485.8,4.4,n.a.,n.a.,n.a.,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted,Number,47.9,20.2,n.a.,n.a.,n.a.,
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by respondent,Number,447.9,4.8,n.a.,n.a.,n.a.,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by respondent,Number,43.5,20.8,n.a.,n.a.,n.a.,
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by someone else,Number,36.9,16.9,n.a.,n.a.,n.a.,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by someone else,Number,7.3,36.1,n.a.,n.a.,n.a.,*
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police not contacted,Number,888.1,2.9,n.a.,n.a.,n.a.,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police not contacted,Number,225.7,6.7,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because felt ashamed or embarrassed,Number,6.7,39.1,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not want person responsible arrested,Number,22.2,32.9,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not regard the incident as a serious offence,Number,29.5,29.4,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not know or think the incident was a crime,Number,30.2,40.0,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not think there was anything the police could do,Number,6.0,44.4,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted reason not known,Number,4.3,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because other reason,Number,6.8,38.7,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because felt they could deal with it themselves,Number,59.1,25.4,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not want to ask for help,Number,9.5,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because workplace/on the job incident - internal reporting procedures followed,Number,n.p.,n.p.,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because cultural/language reasons,Number,n.p.,n.p.,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because fear of the person responsible,Number,5.1,42.8,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because fear of legal processes,Number,7.8,40.8,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because felt they would not be believed,Number,6.5,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not think the police would be able to do anything,Number,4.1,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not trust the police,Number,4.9,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Intimate partner,Police not contacted,Number,9.6,38.3,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Intimate partner,Police contacted,Number,n.p.,n.p.,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Other family member,Police not contacted,Number,78.0,20.1,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Other family member,Police contacted,Number,18.1,29.8,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted,Number,91.6,16.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police contacted,Number,18.1,29.8,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt ashamed or embarrassed,Number,113.3,10.6,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want person responsible arrested,Number,141.7,9.6,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not regard the incident as a serious offence,Number,194.9,7.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not know or think the incident was a crime,Number,82.6,12.5,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think there was anything the police could do,Number,81.2,13.3,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted reason not known,Number,14.6,29.3,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because other reason,Number,37.5,16.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they could deal with it themselves,Number,234.1,7.0,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want to ask for help,Number,63.6,14.6,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because workplace/on the job incident - internal reporting procedures followed,Number,4.9,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because cultural/language reasons,Number,4.3,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of the person responsible,Number,124.1,10.7,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of legal processes,Number,41.7,17.3,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they would not be believed,Number,40.3,22.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think the police would be able to do anything,Number,58.6,14.5,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not trust the police,Number,20.4,22.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Intimate partner,Police not contacted,Number,506.2,4.2,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Intimate partner,Police contacted,Number,251.9,7.9,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Other family member,Police not contacted,Number,79.4,15.1,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Other family member,Police contacted,Number,23.7,24.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted,Number,584.3,4.3,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police contacted,Number,277.9,7.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted,Number,85.7,12.1,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted,Number,553.9,5.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt they could deal with it themselves,Number,189.4,8.1,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not regard the incident as a serious offence,Number,187.4,10.7,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt ashamed or embarrassed,Number,142.7,9.0,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think there was anything the police could do,Number,122.0,11.6,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not know or think the incident was a crime,Number,118.9,12.0,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of the person responsible,Number,102.1,13.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want person responsible arrested,Number,92.1,n.a.,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt would not be believed,Number,89.3,11.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think the police would be able to do anything,Number,80.3,12.1,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of legal processes,Number,54.3,15.3,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want to ask for help,Number,49.2,14.9,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not trust the police,Number,32.1,24.2,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because workplace/on the job incident,Number,10.3,29.8,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because cultural/language reasons,Number,18.3,28.4,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because other reason,Number,39.7,24.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted reason not known,Number,16.1,28.6,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt ashamed or embarrassed,Number,77.2,12.5,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want person responsible arrested,Number,55.9,15.4,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not regard the incident as a serious offence,Number,106.7,14.9,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not know or think the incident was a crime,Number,62.5,13.0,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think there was anything the police could do,Number,53.7,15.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted reason not known,Number,6.6,48.4,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because other reason,Number,18.3,28.5,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they could deal with it themselves,Number,101.7,12.6,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want to ask for help,Number,34.6,19.2,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because workplace/on the job incident - internal reporting procedures followed,Number,2.7,n.p.,n.a.,n.a.,n.a.,**
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because cultural/language reasons,Number,6.9,42.4,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of the person responsible,Number,66.1,15.7,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of legal processes,Number,25.9,20.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they would not be believed,Number,45.2,17.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think the police would be able to do anything,Number,41.9,16.8,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not trust the police,Number,20.3,25.3,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Intimate partner,Police not contacted,Number,289.1,8.3,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Intimate partner,Police contacted,Number,40.3,19.1,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Other family member,Police not contacted,Number,12.3,32.0,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Other family member,Police contacted,Number,9.2,38.8,n.a.,n.a.,n.a.,*
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted,Number,304.5,7.9,n.a.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police contacted,Number,50.1,16.2,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted,Number,61.1,16.3,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted by respondent,Number,56.5,17.6,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted by someone else,Number,6.2,46.6,n.a.,n.a.,n.a.,*
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted,Number,680.3,5.2,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt ashamed or embarrassed,Number,212.3,10.2,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want person responsible arrested,Number,108.9,14.2,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not regard the incident as a serious offence,Number,223.3,8.8,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not know or think the incident was a crime,Number,185.7,10.3,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think there was anything the police could do,Number,194.4,11,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not trust the police,Number,96.7,13.5,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think the police would be able to do anything,Number,193.7,11.1,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt they would not be believed,Number,175,9.5,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of the person responsible,Number,143,12.8,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of legal processes,Number,89.2,15.7,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because cultural/language reasons,Number,32,20.5,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because workplace/on the job incident,Number,14.1,33.8,n.a.,n.a.,n.a.,*
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want to ask for help,Number,73.3,17.2,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt they could deal with it themselves,Number,228.1,8.8,n.a.,n.a.,n.a.,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because other reason,Number,51.3,21.6,n.a.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted,Number,6.6,n.p.,n.a.,n.a.,n.a.,**
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted,Number,99.1,14.3,n.a.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by respondent,Number,n.p.,n.p.,n.a.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by respondent,Number,84.9,16.0,n.a.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by someone else,Number,n.p.,n.p.,n.a.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by someone else,Number,8.9,n.p.,n.a.,n.a.,n.a.,**
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police not contacted,Number,146.1,15.1,n.a.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police not contacted,Number,299.9,8.4,n.a.,n.a.,n.a.,
+Females,2005,Most recent incident of sexual assault in the last 12 months,By a male,Any person - all relationships,Police contacted,Proportion,18.9,n.a.,9.0,9.9,27.9,
+Females,2012,Most recent incident of sexual assault in the last 12 months,By a male,Any person - all relationships,Police contacted,Proportion,16.8,n.a.,9.8,7.0,26.6,
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted,Proportion,35.4,n.a.,2.5,32.9,37.9,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted,Proportion,17.4,n.a.,6.5,10.9,23.9,
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by respondent,Proportion,32.6,n.a.,2.6,30.0,35.2,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by respondent,Proportion,15.8,n.a.,6.1,9.7,21.9,
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by someone else,Proportion,2.7,n.a.,0.9,1.8,3.6,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by someone else,Proportion,2.7,n.a.,1.9,0.8,4.6,
+Females,2016,Any incident of violence by a partner,By a person,Previous partner,Police not contacted,Proportion,64.7,n.a.,1.9,62.8,66.6,
+Females,2016,Any incident of violence by a partner,By a person,Current partner ,Police not contacted,Proportion,82.1,n.a.,3.7,78.4,85.8,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because felt ashamed or embarrassed,Proportion,7.3,n.a.,5.1,2.2,12.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not want person responsible arrested,Proportion,24.2,n.a.,13.4,10.8,37.6,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not regard the incident as a serious offence,Proportion,32.2,n.a.,15.2,17.0,47.4,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not know or think the incident was a crime,Proportion,33.0,n.a.,23.4,9.6,56.4,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not think there was anything the police could do,Proportion,6.6,n.a.,5.3,1.3,11.9,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted reason not known,Proportion,4.7,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because other reason,Proportion,7.4,n.a.,5.1,2.3,12.5,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because felt they could deal with it themselves,Proportion,64.5,n.a.,24.1,40.4,88.6,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not want to ask for help,Proportion,10.4,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because workplace/on the job incident - internal reporting procedures followed,Proportion,n.p.,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because cultural/language reasons,Proportion,n.p.,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because fear of the person responsible,Proportion,5.6,n.a.,4.3,1.3,9.9,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because fear of legal processes,Proportion,8.5,n.a.,6.2,2.3,14.7,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because felt they would not be believed,Proportion,7.1,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not think the police would be able to do anything,Proportion,4.5,n.a.,n.p.,n.a.,n.a.,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted because did not trust the police,Proportion,5.3,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Intimate partner,Police not contacted,Proportion,n.p.,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Intimate partner,Police contacted,Proportion,n.p.,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Other family member,Police not contacted,Proportion,77.9,n.a.,19.4,58.5,97.3,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Other family member,Police contacted,Proportion,18.1,n.a.,9.0,9.1,27.1,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police not contacted,Proportion,85.3,n.a.,14.3,71.0,99.6,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a female,Family and domestic total,Police contacted,Proportion,16.9,n.a.,8.6,8.3,25.5,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt ashamed or embarrassed,Proportion,19.4,n.a.,3.7,15.7,23.1,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want person responsible arrested,Proportion,24.3,n.a.,4.1,20.2,28.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not regard the incident as a serious offence,Proportion,33.4,n.a.,4.3,29.1,37.7,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not know or think the incident was a crime,Proportion,14.1,n.a.,3.3,10.8,17.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think there was anything the police could do,Proportion,13.9,n.a.,3.4,10.5,17.3,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted reason not known,Proportion,2.5,n.a.,1.4,1.1,3.9,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because other reason,Proportion,6.4,n.a.,2.0,4.4,8.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they could deal with it themselves,Proportion,40.1,n.a.,4.3,35.8,44.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want to ask for help,Proportion,10.9,n.a.,3.0,7.9,13.9,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because workplace/on the job incident - internal reporting procedures followed,Proportion,0.8,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because cultural/language reasons,Proportion,0.7,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of the person responsible,Proportion,21.2,n.a.,4.1,17.1,25.3,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of legal processes,Proportion,7.1,n.a.,2.3,4.8,9.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they would not be believed,Proportion,6.9,n.a.,3.0,3.9,9.9,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think the police would be able to do anything,Proportion,10.0,n.a.,2.7,7.3,12.7,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not trust the police,Proportion,3.5,n.a.,1.5,2.0,5.0,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Intimate partner,Police not contacted,Proportion,66.6,n.a.,2.8,63.8,69.4,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Intimate partner,Police contacted,Proportion,33.1,n.a.,4.6,28.5,37.7,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Other family member,Police not contacted,Proportion,76.3,n.a.,11.1,65.2,87.4,#
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Other family member,Police contacted,Proportion,22.8,n.a.,9.4,13.4,32.2,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police not contacted,Proportion,67.9,n.a.,3.1,64.8,71.0,
+Females,2016,Most recent incident of physical assault in the last 10 years,By a male,Family and domestic total,Police contacted,Proportion,32.3,n.a.,4.1,28.2,36.4,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted,Proportion,13.4,n.a.,2.9,10.5,16.3,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted,Proportion,86.8,n.a.,3.4,83.4,90.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt they could deal with it themselves,Proportion,34.2,n.a.,4.0,30.2,38.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not regard the incident as a serious offence,Proportion,33.8,n.a.,6.1,27.7,39.9,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt ashamed or embarrassed,Proportion,25.8,n.a.,3.6,22.2,29.4,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think there was anything the police could do,Proportion,22.0,n.a.,4.4,17.6,26.4,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not know or think the incident was a crime,Proportion,21.5,n.a.,4.5,17.0,26.0,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of the person responsible,Proportion,18.4,n.a.,4.4,14.0,22.8,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want person responsible arrested,Proportion,16.6,n.a.,4.0,12.6,20.6,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt would not be believed,Proportion,16.1,n.a.,3.2,12.9,19.3,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think the police would be able to do anything,Proportion,14.5,n.a.,3.1,11.4,17.6,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of legal processes,Proportion,9.8,n.a.,2.7,7.1,12.5,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want to ask for help,Proportion,8.9,n.a.,2.4,6.5,11.3,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not trust the police,Proportion,5.8,n.a.,2.7,3.1,8.5,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because workplace/on the job incident,Proportion,1.9,n.a.,1.1,0.8,3.0,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because cultural/language reasons,Proportion,3.3,n.a.,1.8,1.5,5.1,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because other reason,Proportion,7.2,n.a.,3.4,3.8,10.6,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted reason not known,Proportion,2.9,n.a.,1.6,1.3,4.5,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt ashamed or embarrassed,Proportion,25.4,n.a.,4.8,20.6,30.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want person responsible arrested,Proportion,18.4,n.a.,4.8,13.6,23.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not regard the incident as a serious offence,Proportion,35.0,n.a.,8.7,26.3,43.7,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not know or think the incident was a crime,Proportion,20.5,n.a.,4.1,16.4,24.6,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think there was anything the police could do,Proportion,17.6,n.a.,4.7,12.9,22.3,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted reason not known,Proportion,2.2,n.a.,2.0,0.2,4.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because other reason,Proportion,6.0,n.a.,3.2,2.8,9.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they could deal with it themselves,Proportion,33.4,n.a.,6.4,27.0,39.8,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not want to ask for help,Proportion,11.4,n.a.,3.9,7.5,15.3,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because workplace/on the job incident - internal reporting procedures followed,Proportion,0.9,n.a.,n.p.,n.a.,n.a.,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because cultural/language reasons,Proportion,2.3,n.a.,1.9,0.4,4.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of the person responsible,Proportion,21.7,n.a.,5.8,15.9,27.5,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because fear of legal processes,Proportion,8.5,n.a.,3.2,5.3,11.7,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because felt they would not be believed,Proportion,14.8,n.a.,4.6,10.2,19.4,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not think the police would be able to do anything,Proportion,13.8,n.a.,4.0,9.8,17.8,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted because did not trust the police,Proportion,6.7,n.a.,3.1,3.6,9.8,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Intimate partner,Police not contacted,Proportion,87.0,n.a.,7.2,79.8,94.2,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Intimate partner,Police contacted,Proportion,12.1,n.a.,4.2,7.9,16.3,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Other family member,Police not contacted,Proportion,50.8,n.a.,25.8,25.0,76.6,#
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Other family member,Police contacted,Proportion,38.0,n.a.,25.3,12.7,63.3,#
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police not contacted,Proportion,86.0,n.a.,6.8,79.2,92.8,
+Females,2016,Most recent incident of sexual assault in the last 10 years,By a male,Family and domestic total,Police contacted,Proportion,14.2,n.a.,4.1,10.1,18.3,
+Females,2016,Most recent incident of sexual assault in the last 12 months,By a male,Any person - all relationships,Police contacted,Proportion,15.2,n.a.,8.8,6.4,24.0,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted,Proportion,8.3,15.6,2.5,5.8,10.8,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted by respondent,Proportion,7.7,16.9,2.6,5.1,10.3,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police contacted by someone else,Proportion,0.8,46.4,0.7,0.1,1.5,*
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted,Proportion,92.3,2,3.6,88.7,95.9,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt ashamed or embarrassed,Proportion,31.2,8.8,5.4,25.8,36.6,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want person responsible arrested,Proportion,16,13.2,4.1,11.9,20.1,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not regard the incident as a serious offence,Proportion,32.8,7.1,4.6,28.2,37.4,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not know or think the incident was a crime,Proportion,27.3,8.9,4.8,22.5,32.1,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think there was anything the police could do,Proportion,28.6,9.7,5.4,23.2,34.0,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not trust the police,Proportion,14.2,12.5,3.5,10.7,17.7,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not think the police would be able to do anything,Proportion,28.5,9.8,5.5,23.0,34.0,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt they would not be believed,Proportion,25.7,8,4.0,21.7,29.7,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of the person responsible,Proportion,21,11.7,4.8,16.2,25.8,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because fear of legal processes,Proportion,13.1,14.8,3.8,9.3,16.9,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because cultural/language reasons,Proportion,4.7,19.8,1.8,2.9,6.5,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because workplace/on the job incident,Proportion,2.1,33.4,1.4,0.7,3.5,*
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because did not want to ask for help,Proportion,10.8,16.4,3.5,7.3,14.3,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because felt they could deal with it themselves,Proportion,33.5,7.1,4.7,28.8,38.2,
+Females,2021-22,Most recent incident of sexual assault in the last 10 years,By a male,Any person - all relationships,Police not contacted because other reason,Proportion,7.5,21,3.1,4.4,10.6,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted,Proportion,4.4,n.a.,n.p.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted,Proportion,24.9,n.a.,6.1,18.8,31.0,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by respondent,Proportion,n.p.,n.a.,n.p.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by respondent,Proportion,21.4,n.a.,6.1,15.3,27.5,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police contacted by someone else,Proportion,n.p.,n.a.,n.p.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police contacted by someone else,Proportion,2.2,n.a.,n.p.,n.a.,n.a.,
+Males,2016,Any incident of violence by a partner,By a person,Current partner ,Police not contacted,Proportion,97.2,n.a.,5.9,91.3,103.1,
+Males,2016,Any incident of violence by a partner,By a person,Previous partner,Police not contacted,Proportion,75.5,n.a.,7.5,68.0,83.0,

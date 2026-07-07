@@ -1,0 +1,41 @@
+table_code,collection,title,data_custodian,type,frequency,coverage,row_count
+PSS 1,PSS,"Sexual violence, 1996, 2005, 2012, 2016 and 2021-22",Australian Bureau of Statistics,Survey,Every 4 years,National,300
+PSS 2,PSS,"Intimate partner violence, 2005, 2012, 2016 and 2021-22",Australian Bureau of Statistics,Survey,Every 4 years,National,238
+PSS 3,PSS,"Family violence, 2021-22",Australian Bureau of Statistics,Survey,Every 4 years,National,394
+PSS 4,PSS,"Police contact after violence, 2005, 2012, 2016 and 2021-22",Australian Bureau of Statistics,Survey,Every 4 years,National,241
+PSS 5,PSS,"People with disability, 2016 and 2021-22",Australian Bureau of Statistics,Survey,Every 4 years,National,154
+PSS 6,PSS,"Type of violence experienced by women, by age group, 2021-22",Australian Bureau of Statistics,Survey,Every 4 years,National,52
+RCV 1,RCV,"Victims of family and domestic violence crimes, by sex, 2014 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",3564
+RCV 2,RCV,"Characteristics of family and domestic violence-related sexual assaults, 2020 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",2922
+RCV 3,RCV,"Victims of family and domestic violence-related sexual assault, by sex and age at report, 2014 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",990
+RCV 4,RCV,"Characteristics of family and domestic violence-related assaults, 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",630
+RCV 5,RCV,"Characteristics of family and domestic violence-related homicide and related offences, 2020 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",45
+RCV 6,RCV,"Victims of sexual assault, by sex and Jurisdiction, 2010 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",360
+RCV 7,RCV,"Victims of sexual assault, by age at report, 2010 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",810
+RCV 8,RCV,"Characteristics of sexual assault, 2010 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",402
+RCV 9,RCV,"First Nations victims of crimes perpetrated by a family member, for selected states and territories, 2016 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",432
+RCV 10,RCV,"First Nations victims of sexual assault, for selected states and territories, 2016 to 2024",Australian Bureau of Statistics (ABS),Administrative,Annual,"National, state/territory",72
+NHMP 1,NHMP,"Domestic homicide victims, by relationship with offender and sex, 2024–25",Australian Institute of Criminology (AIC),Administrative,Annual,National,36
+NHMP 2,NHMP,"Domestic homicide victims, by sex, 1989–90 to 2024–25",Australian Institute of Criminology (AIC),Administrative,Annual,National,648
+CPNMDS 1,CPNMDS,"Children who were the subject of substantiations, by primary type of abuse and neglect, by sex, 2023–24",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,216
+CPNMDS 2,CPNMDS,"Children who were the subject of substantiations, by sex, 2019–20 to 2023–24",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,30
+CPNMDS 3,CPNMDS,"Children who were the subject of substantiations, for select population groups, 2023–24",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,64
+CPNMDS 4,CPNMDS,"First Nations children who were the subject of substantiations, 2019–20 to 2023–24",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,10
+NHMD 1,NHMD,"Family and domestic violence hospitalisations, by relationship to perpetrator and age group, 2019–20 to 2023–24",Australian Institute of Health and Welfare,Administrative,Annual,National,244
+NHMD 2,NHMD,"Family and domestic violence hospitalisations, by geography, 2023–24",Australian Institute of Health and Welfare,Administrative,Annual,National,37
+NHMD 3,NHMD,"Family violence hospitalisations among First Nations people, by sex, age group and relationship to perpetrator, 2019–20 to 2023–24",Australian Institute of Health and Welfare,Administrative,Annual,National,122
+SHSC 1,SHSC,"Specialist homelessness services clients aged 10 and over who have experienced family and domestic violence, by select vulnerabilities, 2011–12 to 2024–25",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,84
+SHSC 2,SHSC,"Specialist homelessness services clients who have experienced FDV, for select population groups, 2024–25",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,156
+SHSC 3,SHSC,"First Nations specialist homelessness services clients who have experienced family and domestic violence, by sex and age group, 2016–17 to 2024–25",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,108
+SHSC 4,SHSC,"Female clients aged 18 and over who presented to specialist homelessness services as single with child/ren and identified FDV as the main reason for seeking assistance, 2011–12 to 2024–25",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,28
+SHSC 5,SHSC,"Proportion (%) of male and female specialist homelessness services clients aged 65 years and older who experienced family and domestic violence, 2011–12 to 2024–25",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,56
+SHSC 6,SHSC,"Main reasons SHS clients with and without disability who have experienced domestic and family violence sought support, 2024–25",Australian Institute of Health and Welfare (AIHW),Administrative,Annual,National,630
+NCAS 1,NCAS,"Mean scores on the Understanding of Violence against Women Scale (UVAWS), 2009, 2013, 2017, 2021",Australia's National Research Organisation for Women's Safety Limited (ANROWS),Survey,Every 4 years,National,16
+NCAS 2,NCAS,"Mean scores on the Attitudes towards Gender Inequality Scale (AGIS), 2009, 2013, 2017, 2021",Australia's National Research Organisation for Women's Safety Limited (ANROWS),Survey,Every 4 years,National,16
+NCAS 3,NCAS,"Mean scores on the Attitudes towards Violence against Women Scale (AVAWS), 2009, 2013, 2017, 2021",Australia's National Research Organisation for Women's Safety Limited (ANROWS),Survey,Every 4 years,National,16
+CRP 1,CRP,"Claims for family and domestic violence Crisis Payments by gender, 2015–16 to 2024–25",Services Australia,Administrative,Annual,"National, state/territory",60
+CRP 2,CRP,"Claims granted for family and domestic violence Crisis Payments by gender and sub-category, 2015–16 to 2024–25",Services Australia,Administrative,Annual,"National, state/territory",180
+CRP 3,CRP,"Claims for family and domestic violence Crisis Payments by select population groups, 2024–25",Services Australia,Administrative,Annual,"National, state/territory",74
+Kids Helpline 1,Kids Helpline,"Number of concern types discussed during Kids Helpline counselling contacts, 2012 to 2024",Kids Helpline (operated by yourtown),Administrative (service data),Annual,National,65
+Kids Helpline 2,Kids Helpline,"Number of crisis interventions by Kids Helpline counsellors, by concern, 2012 to 2024",Kids Helpline (operated by yourtown),Administrative (service data),Annual,National,429
+1800RESPECT 1,1800RESPECT,"1800RESPECT answered contacts by gender and method of contact, 2019–20 to 2023–24",Australian Government Department of Social Services (unpublished data),Administrative (service data),Annual,National,40
