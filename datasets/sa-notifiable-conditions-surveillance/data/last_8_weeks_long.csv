@@ -1,0 +1,505 @@
+disease_condition,week_ending,notification_count
+Barmah Forest virus,2026-05-16,0
+Barmah Forest virus,2026-05-23,0
+Barmah Forest virus,2026-05-30,0
+Barmah Forest virus,2026-06-06,1
+Barmah Forest virus,2026-06-13,0
+Barmah Forest virus,2026-06-20,1
+Barmah Forest virus,2026-06-27,0
+Barmah Forest virus,2026-07-04,0
+Botulism,2026-05-16,0
+Botulism,2026-05-23,0
+Botulism,2026-05-30,0
+Botulism,2026-06-06,0
+Botulism,2026-06-13,0
+Botulism,2026-06-20,0
+Botulism,2026-06-27,0
+Botulism,2026-07-04,0
+Brucellosis,2026-05-16,0
+Brucellosis,2026-05-23,0
+Brucellosis,2026-05-30,0
+Brucellosis,2026-06-06,0
+Brucellosis,2026-06-13,0
+Brucellosis,2026-06-20,0
+Brucellosis,2026-06-27,0
+Brucellosis,2026-07-04,0
+Campylobacter,2026-05-16,46
+Campylobacter,2026-05-23,63
+Campylobacter,2026-05-30,54
+Campylobacter,2026-06-06,56
+Campylobacter,2026-06-13,45
+Campylobacter,2026-06-20,55
+Campylobacter,2026-06-27,43
+Campylobacter,2026-07-04,58
+Candida auris,2026-05-16,0
+Candida auris,2026-05-23,0
+Candida auris,2026-05-30,0
+Candida auris,2026-06-06,0
+Candida auris,2026-06-13,0
+Candida auris,2026-06-20,0
+Candida auris,2026-06-27,0
+Candida auris,2026-07-04,1
+Carbapenemase-producing Enterobacterales (CPE),2026-05-16,3
+Carbapenemase-producing Enterobacterales (CPE),2026-05-23,1
+Carbapenemase-producing Enterobacterales (CPE),2026-05-30,0
+Carbapenemase-producing Enterobacterales (CPE),2026-06-06,4
+Carbapenemase-producing Enterobacterales (CPE),2026-06-13,2
+Carbapenemase-producing Enterobacterales (CPE),2026-06-20,8
+Carbapenemase-producing Enterobacterales (CPE),2026-06-27,2
+Carbapenemase-producing Enterobacterales (CPE),2026-07-04,0
+Chikungunya virus,2026-05-16,0
+Chikungunya virus,2026-05-23,0
+Chikungunya virus,2026-05-30,0
+Chikungunya virus,2026-06-06,0
+Chikungunya virus,2026-06-13,0
+Chikungunya virus,2026-06-20,0
+Chikungunya virus,2026-06-27,0
+Chikungunya virus,2026-07-04,0
+Chlamydia,2026-05-16,125
+Chlamydia,2026-05-23,94
+Chlamydia,2026-05-30,105
+Chlamydia,2026-06-06,99
+Chlamydia,2026-06-13,73
+Chlamydia,2026-06-20,97
+Chlamydia,2026-06-27,102
+Chlamydia,2026-07-04,98
+Chlamydia (Lymphogranuloma venereum),2026-05-16,0
+Chlamydia (Lymphogranuloma venereum),2026-05-23,0
+Chlamydia (Lymphogranuloma venereum),2026-05-30,0
+Chlamydia (Lymphogranuloma venereum),2026-06-06,0
+Chlamydia (Lymphogranuloma venereum),2026-06-13,0
+Chlamydia (Lymphogranuloma venereum),2026-06-20,0
+Chlamydia (Lymphogranuloma venereum),2026-06-27,0
+Chlamydia (Lymphogranuloma venereum),2026-07-04,0
+Cholera,2026-05-16,0
+Cholera,2026-05-23,0
+Cholera,2026-05-30,0
+Cholera,2026-06-06,0
+Cholera,2026-06-13,0
+Cholera,2026-06-20,0
+Cholera,2026-06-27,0
+Cholera,2026-07-04,0
+COVID-19,2026-05-16,117
+COVID-19,2026-05-23,130
+COVID-19,2026-05-30,159
+COVID-19,2026-06-06,134
+COVID-19,2026-06-13,93
+COVID-19,2026-06-20,89
+COVID-19,2026-06-27,81
+COVID-19,2026-07-04,110
+Creutzfeldt-Jakob disease,2026-05-16,0
+Creutzfeldt-Jakob disease,2026-05-23,0
+Creutzfeldt-Jakob disease,2026-05-30,0
+Creutzfeldt-Jakob disease,2026-06-06,1
+Creutzfeldt-Jakob disease,2026-06-13,0
+Creutzfeldt-Jakob disease,2026-06-20,0
+Creutzfeldt-Jakob disease,2026-06-27,0
+Creutzfeldt-Jakob disease,2026-07-04,0
+Cryptosporidiosis,2026-05-16,2
+Cryptosporidiosis,2026-05-23,4
+Cryptosporidiosis,2026-05-30,7
+Cryptosporidiosis,2026-06-06,5
+Cryptosporidiosis,2026-06-13,1
+Cryptosporidiosis,2026-06-20,5
+Cryptosporidiosis,2026-06-27,6
+Cryptosporidiosis,2026-07-04,2
+Dengue Fever,2026-05-16,0
+Dengue Fever,2026-05-23,0
+Dengue Fever,2026-05-30,0
+Dengue Fever,2026-06-06,1
+Dengue Fever,2026-06-13,1
+Dengue Fever,2026-06-20,2
+Dengue Fever,2026-06-27,1
+Dengue Fever,2026-07-04,1
+Diphtheria,2026-05-16,2
+Diphtheria,2026-05-23,0
+Diphtheria,2026-05-30,1
+Diphtheria,2026-06-06,0
+Diphtheria,2026-06-13,1
+Diphtheria,2026-06-20,0
+Diphtheria,2026-06-27,1
+Diphtheria,2026-07-04,2
+Donovanosis,2026-05-16,0
+Donovanosis,2026-05-23,0
+Donovanosis,2026-05-30,0
+Donovanosis,2026-06-06,0
+Donovanosis,2026-06-13,0
+Donovanosis,2026-06-20,0
+Donovanosis,2026-06-27,0
+Donovanosis,2026-07-04,0
+Gonorrhoea,2026-05-16,52
+Gonorrhoea,2026-05-23,40
+Gonorrhoea,2026-05-30,45
+Gonorrhoea,2026-06-06,50
+Gonorrhoea,2026-06-13,57
+Gonorrhoea,2026-06-20,32
+Gonorrhoea,2026-06-27,57
+Gonorrhoea,2026-07-04,44
+"Group A Streptococcal, Invasive",2026-05-16,1
+"Group A Streptococcal, Invasive",2026-05-23,0
+"Group A Streptococcal, Invasive",2026-05-30,2
+"Group A Streptococcal, Invasive",2026-06-06,0
+"Group A Streptococcal, Invasive",2026-06-13,1
+"Group A Streptococcal, Invasive",2026-06-20,3
+"Group A Streptococcal, Invasive",2026-06-27,1
+"Group A Streptococcal, Invasive",2026-07-04,1
+Haemolytic uraemic syndrome (HUS),2026-05-16,0
+Haemolytic uraemic syndrome (HUS),2026-05-23,0
+Haemolytic uraemic syndrome (HUS),2026-05-30,0
+Haemolytic uraemic syndrome (HUS),2026-06-06,0
+Haemolytic uraemic syndrome (HUS),2026-06-13,0
+Haemolytic uraemic syndrome (HUS),2026-06-20,0
+Haemolytic uraemic syndrome (HUS),2026-06-27,0
+Haemolytic uraemic syndrome (HUS),2026-07-04,0
+"Haemophilus influenzae, Invasive",2026-05-16,0
+"Haemophilus influenzae, Invasive",2026-05-23,0
+"Haemophilus influenzae, Invasive",2026-05-30,1
+"Haemophilus influenzae, Invasive",2026-06-06,1
+"Haemophilus influenzae, Invasive",2026-06-13,0
+"Haemophilus influenzae, Invasive",2026-06-20,0
+"Haemophilus influenzae, Invasive",2026-06-27,2
+"Haemophilus influenzae, Invasive",2026-07-04,0
+Hepatitis A,2026-05-16,0
+Hepatitis A,2026-05-23,0
+Hepatitis A,2026-05-30,0
+Hepatitis A,2026-06-06,0
+Hepatitis A,2026-06-13,1
+Hepatitis A,2026-06-20,0
+Hepatitis A,2026-06-27,0
+Hepatitis A,2026-07-04,0
+Hepatitis B - Newly acquired,2026-05-16,0
+Hepatitis B - Newly acquired,2026-05-23,1
+Hepatitis B - Newly acquired,2026-05-30,0
+Hepatitis B - Newly acquired,2026-06-06,0
+Hepatitis B - Newly acquired,2026-06-13,0
+Hepatitis B - Newly acquired,2026-06-20,1
+Hepatitis B - Newly acquired,2026-06-27,0
+Hepatitis B - Newly acquired,2026-07-04,0
+Hepatitis B - Unspecified,2026-05-16,5
+Hepatitis B - Unspecified,2026-05-23,10
+Hepatitis B - Unspecified,2026-05-30,4
+Hepatitis B - Unspecified,2026-06-06,3
+Hepatitis B - Unspecified,2026-06-13,5
+Hepatitis B - Unspecified,2026-06-20,7
+Hepatitis B - Unspecified,2026-06-27,8
+Hepatitis B - Unspecified,2026-07-04,4
+Hepatitis C - Newly acquired,2026-05-16,1
+Hepatitis C - Newly acquired,2026-05-23,2
+Hepatitis C - Newly acquired,2026-05-30,1
+Hepatitis C - Newly acquired,2026-06-06,1
+Hepatitis C - Newly acquired,2026-06-13,0
+Hepatitis C - Newly acquired,2026-06-20,0
+Hepatitis C - Newly acquired,2026-06-27,0
+Hepatitis C - Newly acquired,2026-07-04,0
+Hepatitis C - Unspecified,2026-05-16,3
+Hepatitis C - Unspecified,2026-05-23,4
+Hepatitis C - Unspecified,2026-05-30,3
+Hepatitis C - Unspecified,2026-06-06,1
+Hepatitis C - Unspecified,2026-06-13,0
+Hepatitis C - Unspecified,2026-06-20,2
+Hepatitis C - Unspecified,2026-06-27,4
+Hepatitis C - Unspecified,2026-07-04,1
+Hepatitis D,2026-05-16,0
+Hepatitis D,2026-05-23,0
+Hepatitis D,2026-05-30,0
+Hepatitis D,2026-06-06,1
+Hepatitis D,2026-06-13,0
+Hepatitis D,2026-06-20,0
+Hepatitis D,2026-06-27,0
+Hepatitis D,2026-07-04,0
+Hepatitis E,2026-05-16,0
+Hepatitis E,2026-05-23,0
+Hepatitis E,2026-05-30,0
+Hepatitis E,2026-06-06,0
+Hepatitis E,2026-06-13,0
+Hepatitis E,2026-06-20,0
+Hepatitis E,2026-06-27,0
+Hepatitis E,2026-07-04,0
+Influenza,2026-05-16,28
+Influenza,2026-05-23,34
+Influenza,2026-05-30,49
+Influenza,2026-06-06,40
+Influenza,2026-06-13,43
+Influenza,2026-06-20,46
+Influenza,2026-06-27,42
+Influenza,2026-07-04,44
+Japanese encephalitis virus,2026-05-16,0
+Japanese encephalitis virus,2026-05-23,0
+Japanese encephalitis virus,2026-05-30,0
+Japanese encephalitis virus,2026-06-06,0
+Japanese encephalitis virus,2026-06-13,0
+Japanese encephalitis virus,2026-06-20,0
+Japanese encephalitis virus,2026-06-27,0
+Japanese encephalitis virus,2026-07-04,0
+Legionella longbeachae,2026-05-16,2
+Legionella longbeachae,2026-05-23,3
+Legionella longbeachae,2026-05-30,1
+Legionella longbeachae,2026-06-06,1
+Legionella longbeachae,2026-06-13,2
+Legionella longbeachae,2026-06-20,4
+Legionella longbeachae,2026-06-27,0
+Legionella longbeachae,2026-07-04,1
+Legionella pneumophila,2026-05-16,0
+Legionella pneumophila,2026-05-23,0
+Legionella pneumophila,2026-05-30,0
+Legionella pneumophila,2026-06-06,0
+Legionella pneumophila,2026-06-13,1
+Legionella pneumophila,2026-06-20,0
+Legionella pneumophila,2026-06-27,0
+Legionella pneumophila,2026-07-04,0
+Leprosy,2026-05-16,0
+Leprosy,2026-05-23,0
+Leprosy,2026-05-30,0
+Leprosy,2026-06-06,0
+Leprosy,2026-06-13,0
+Leprosy,2026-06-20,0
+Leprosy,2026-06-27,0
+Leprosy,2026-07-04,0
+Leptospirosis,2026-05-16,0
+Leptospirosis,2026-05-23,0
+Leptospirosis,2026-05-30,1
+Leptospirosis,2026-06-06,0
+Leptospirosis,2026-06-13,0
+Leptospirosis,2026-06-20,0
+Leptospirosis,2026-06-27,0
+Leptospirosis,2026-07-04,0
+Listeria,2026-05-16,0
+Listeria,2026-05-23,0
+Listeria,2026-05-30,0
+Listeria,2026-06-06,0
+Listeria,2026-06-13,0
+Listeria,2026-06-20,0
+Listeria,2026-06-27,0
+Listeria,2026-07-04,0
+Malaria,2026-05-16,0
+Malaria,2026-05-23,0
+Malaria,2026-05-30,1
+Malaria,2026-06-06,2
+Malaria,2026-06-13,0
+Malaria,2026-06-20,0
+Malaria,2026-06-27,0
+Malaria,2026-07-04,0
+Measles,2026-05-16,0
+Measles,2026-05-23,0
+Measles,2026-05-30,0
+Measles,2026-06-06,0
+Measles,2026-06-13,0
+Measles,2026-06-20,0
+Measles,2026-06-27,0
+Measles,2026-07-04,0
+"Meningococcal disease, Invasive",2026-05-16,1
+"Meningococcal disease, Invasive",2026-05-23,0
+"Meningococcal disease, Invasive",2026-05-30,0
+"Meningococcal disease, Invasive",2026-06-06,0
+"Meningococcal disease, Invasive",2026-06-13,0
+"Meningococcal disease, Invasive",2026-06-20,1
+"Meningococcal disease, Invasive",2026-06-27,1
+"Meningococcal disease, Invasive",2026-07-04,0
+Mpox,2026-05-16,1
+Mpox,2026-05-23,2
+Mpox,2026-05-30,0
+Mpox,2026-06-06,1
+Mpox,2026-06-13,0
+Mpox,2026-06-20,0
+Mpox,2026-06-27,0
+Mpox,2026-07-04,0
+Mumps,2026-05-16,0
+Mumps,2026-05-23,0
+Mumps,2026-05-30,0
+Mumps,2026-06-06,0
+Mumps,2026-06-13,1
+Mumps,2026-06-20,0
+Mumps,2026-06-27,0
+Mumps,2026-07-04,0
+Murray Valley encephalitis,2026-05-16,0
+Murray Valley encephalitis,2026-05-23,0
+Murray Valley encephalitis,2026-05-30,0
+Murray Valley encephalitis,2026-06-06,0
+Murray Valley encephalitis,2026-06-13,0
+Murray Valley encephalitis,2026-06-20,0
+Murray Valley encephalitis,2026-06-27,0
+Murray Valley encephalitis,2026-07-04,0
+Paratyphoid,2026-05-16,0
+Paratyphoid,2026-05-23,0
+Paratyphoid,2026-05-30,0
+Paratyphoid,2026-06-06,0
+Paratyphoid,2026-06-13,0
+Paratyphoid,2026-06-20,0
+Paratyphoid,2026-06-27,0
+Paratyphoid,2026-07-04,0
+Pertussis,2026-05-16,32
+Pertussis,2026-05-23,22
+Pertussis,2026-05-30,27
+Pertussis,2026-06-06,27
+Pertussis,2026-06-13,18
+Pertussis,2026-06-20,30
+Pertussis,2026-06-27,20
+Pertussis,2026-07-04,24
+"Pneumococcal, Invasive",2026-05-16,3
+"Pneumococcal, Invasive",2026-05-23,3
+"Pneumococcal, Invasive",2026-05-30,4
+"Pneumococcal, Invasive",2026-06-06,5
+"Pneumococcal, Invasive",2026-06-13,4
+"Pneumococcal, Invasive",2026-06-20,5
+"Pneumococcal, Invasive",2026-06-27,3
+"Pneumococcal, Invasive",2026-07-04,9
+Psittacosis/Ornithosis,2026-05-16,0
+Psittacosis/Ornithosis,2026-05-23,0
+Psittacosis/Ornithosis,2026-05-30,0
+Psittacosis/Ornithosis,2026-06-06,0
+Psittacosis/Ornithosis,2026-06-13,0
+Psittacosis/Ornithosis,2026-06-20,0
+Psittacosis/Ornithosis,2026-06-27,0
+Psittacosis/Ornithosis,2026-07-04,0
+Q Fever,2026-05-16,0
+Q Fever,2026-05-23,0
+Q Fever,2026-05-30,0
+Q Fever,2026-06-06,0
+Q Fever,2026-06-13,0
+Q Fever,2026-06-20,0
+Q Fever,2026-06-27,1
+Q Fever,2026-07-04,0
+Respiratory Syncytial Virus,2026-05-16,102
+Respiratory Syncytial Virus,2026-05-23,135
+Respiratory Syncytial Virus,2026-05-30,145
+Respiratory Syncytial Virus,2026-06-06,166
+Respiratory Syncytial Virus,2026-06-13,238
+Respiratory Syncytial Virus,2026-06-20,233
+Respiratory Syncytial Virus,2026-06-27,408
+Respiratory Syncytial Virus,2026-07-04,528
+RF/RHD,2026-05-16,0
+RF/RHD,2026-05-23,0
+RF/RHD,2026-05-30,1
+RF/RHD,2026-06-06,1
+RF/RHD,2026-06-13,0
+RF/RHD,2026-06-20,0
+RF/RHD,2026-06-27,0
+RF/RHD,2026-07-04,1
+Ross River Virus,2026-05-16,1
+Ross River Virus,2026-05-23,2
+Ross River Virus,2026-05-30,7
+Ross River Virus,2026-06-06,1
+Ross River Virus,2026-06-13,1
+Ross River Virus,2026-06-20,3
+Ross River Virus,2026-06-27,4
+Ross River Virus,2026-07-04,2
+Rotavirus,2026-05-16,11
+Rotavirus,2026-05-23,6
+Rotavirus,2026-05-30,9
+Rotavirus,2026-06-06,4
+Rotavirus,2026-06-13,9
+Rotavirus,2026-06-20,5
+Rotavirus,2026-06-27,7
+Rotavirus,2026-07-04,8
+Rubella,2026-05-16,0
+Rubella,2026-05-23,0
+Rubella,2026-05-30,0
+Rubella,2026-06-06,0
+Rubella,2026-06-13,0
+Rubella,2026-06-20,0
+Rubella,2026-06-27,0
+Rubella,2026-07-04,0
+Rubella Syndrome - Congenital,2026-05-16,0
+Rubella Syndrome - Congenital,2026-05-23,0
+Rubella Syndrome - Congenital,2026-05-30,0
+Rubella Syndrome - Congenital,2026-06-06,0
+Rubella Syndrome - Congenital,2026-06-13,0
+Rubella Syndrome - Congenital,2026-06-20,0
+Rubella Syndrome - Congenital,2026-06-27,0
+Rubella Syndrome - Congenital,2026-07-04,0
+Salmonella,2026-05-16,20
+Salmonella,2026-05-23,14
+Salmonella,2026-05-30,25
+Salmonella,2026-06-06,21
+Salmonella,2026-06-13,15
+Salmonella,2026-06-20,10
+Salmonella,2026-06-27,19
+Salmonella,2026-07-04,13
+Shiga toxin producing E. coli (STEC),2026-05-16,4
+Shiga toxin producing E. coli (STEC),2026-05-23,8
+Shiga toxin producing E. coli (STEC),2026-05-30,1
+Shiga toxin producing E. coli (STEC),2026-06-06,7
+Shiga toxin producing E. coli (STEC),2026-06-13,4
+Shiga toxin producing E. coli (STEC),2026-06-20,4
+Shiga toxin producing E. coli (STEC),2026-06-27,4
+Shiga toxin producing E. coli (STEC),2026-07-04,5
+Shigella,2026-05-16,7
+Shigella,2026-05-23,3
+Shigella,2026-05-30,1
+Shigella,2026-06-06,3
+Shigella,2026-06-13,1
+Shigella,2026-06-20,2
+Shigella,2026-06-27,1
+Shigella,2026-07-04,2
+Suspected Food Poisoning,2026-05-16,0
+Suspected Food Poisoning,2026-05-23,0
+Suspected Food Poisoning,2026-05-30,0
+Suspected Food Poisoning,2026-06-06,0
+Suspected Food Poisoning,2026-06-13,0
+Suspected Food Poisoning,2026-06-20,0
+Suspected Food Poisoning,2026-06-27,0
+Suspected Food Poisoning,2026-07-04,1
+Syphilis - Congenital,2026-05-16,0
+Syphilis - Congenital,2026-05-23,0
+Syphilis - Congenital,2026-05-30,0
+Syphilis - Congenital,2026-06-06,0
+Syphilis - Congenital,2026-06-13,0
+Syphilis - Congenital,2026-06-20,0
+Syphilis - Congenital,2026-06-27,0
+Syphilis - Congenital,2026-07-04,0
+Syphilis (<2 years),2026-05-16,4
+Syphilis (<2 years),2026-05-23,4
+Syphilis (<2 years),2026-05-30,1
+Syphilis (<2 years),2026-06-06,5
+Syphilis (<2 years),2026-06-13,6
+Syphilis (<2 years),2026-06-20,3
+Syphilis (<2 years),2026-06-27,2
+Syphilis (<2 years),2026-07-04,0
+Syphilis (>2 years or unspecified),2026-05-16,2
+Syphilis (>2 years or unspecified),2026-05-23,1
+Syphilis (>2 years or unspecified),2026-05-30,2
+Syphilis (>2 years or unspecified),2026-06-06,0
+Syphilis (>2 years or unspecified),2026-06-13,0
+Syphilis (>2 years or unspecified),2026-06-20,1
+Syphilis (>2 years or unspecified),2026-06-27,3
+Syphilis (>2 years or unspecified),2026-07-04,1
+Tetanus,2026-05-16,0
+Tetanus,2026-05-23,0
+Tetanus,2026-05-30,0
+Tetanus,2026-06-06,0
+Tetanus,2026-06-13,0
+Tetanus,2026-06-20,0
+Tetanus,2026-06-27,0
+Tetanus,2026-07-04,0
+Typhoid Fever (S Typhi),2026-05-16,0
+Typhoid Fever (S Typhi),2026-05-23,0
+Typhoid Fever (S Typhi),2026-05-30,0
+Typhoid Fever (S Typhi),2026-06-06,0
+Typhoid Fever (S Typhi),2026-06-13,0
+Typhoid Fever (S Typhi),2026-06-20,0
+Typhoid Fever (S Typhi),2026-06-27,0
+Typhoid Fever (S Typhi),2026-07-04,0
+Varicella virus,2026-05-16,63
+Varicella virus,2026-05-23,77
+Varicella virus,2026-05-30,61
+Varicella virus,2026-06-06,70
+Varicella virus,2026-06-13,51
+Varicella virus,2026-06-20,66
+Varicella virus,2026-06-27,70
+Varicella virus,2026-07-04,64
+Vibrio parahaemolyticus,2026-05-16,1
+Vibrio parahaemolyticus,2026-05-23,1
+Vibrio parahaemolyticus,2026-05-30,0
+Vibrio parahaemolyticus,2026-06-06,1
+Vibrio parahaemolyticus,2026-06-13,0
+Vibrio parahaemolyticus,2026-06-20,0
+Vibrio parahaemolyticus,2026-06-27,0
+Vibrio parahaemolyticus,2026-07-04,0
+Yersinia,2026-05-16,0
+Yersinia,2026-05-23,0
+Yersinia,2026-05-30,1
+Yersinia,2026-06-06,0
+Yersinia,2026-06-13,2
+Yersinia,2026-06-20,5
+Yersinia,2026-06-27,0
+Yersinia,2026-07-04,3

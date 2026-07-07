@@ -1,0 +1,64 @@
+disease_condition,2026-05-16,2026-05-23,2026-05-30,2026-06-06,2026-06-13,2026-06-20,2026-06-27,2026-07-04
+Barmah Forest virus,0,0,0,1,0,1,0,0
+Botulism,0,0,0,0,0,0,0,0
+Brucellosis,0,0,0,0,0,0,0,0
+Campylobacter,46,63,54,56,45,55,43,58
+Candida auris,0,0,0,0,0,0,0,1
+Carbapenemase-producing Enterobacterales (CPE),3,1,0,4,2,8,2,0
+Chikungunya virus,0,0,0,0,0,0,0,0
+Chlamydia,125,94,105,99,73,97,102,98
+Chlamydia (Lymphogranuloma venereum),0,0,0,0,0,0,0,0
+Cholera,0,0,0,0,0,0,0,0
+COVID-19,117,130,159,134,93,89,81,110
+Creutzfeldt-Jakob disease,0,0,0,1,0,0,0,0
+Cryptosporidiosis,2,4,7,5,1,5,6,2
+Dengue Fever,0,0,0,1,1,2,1,1
+Diphtheria,2,0,1,0,1,0,1,2
+Donovanosis,0,0,0,0,0,0,0,0
+Gonorrhoea,52,40,45,50,57,32,57,44
+"Group A Streptococcal, Invasive",1,0,2,0,1,3,1,1
+Haemolytic uraemic syndrome (HUS),0,0,0,0,0,0,0,0
+"Haemophilus influenzae, Invasive",0,0,1,1,0,0,2,0
+Hepatitis A,0,0,0,0,1,0,0,0
+Hepatitis B - Newly acquired,0,1,0,0,0,1,0,0
+Hepatitis B - Unspecified,5,10,4,3,5,7,8,4
+Hepatitis C - Newly acquired,1,2,1,1,0,0,0,0
+Hepatitis C - Unspecified,3,4,3,1,0,2,4,1
+Hepatitis D,0,0,0,1,0,0,0,0
+Hepatitis E,0,0,0,0,0,0,0,0
+Influenza,28,34,49,40,43,46,42,44
+Japanese encephalitis virus,0,0,0,0,0,0,0,0
+Legionella longbeachae,2,3,1,1,2,4,0,1
+Legionella pneumophila,0,0,0,0,1,0,0,0
+Leprosy,0,0,0,0,0,0,0,0
+Leptospirosis,0,0,1,0,0,0,0,0
+Listeria,0,0,0,0,0,0,0,0
+Malaria,0,0,1,2,0,0,0,0
+Measles,0,0,0,0,0,0,0,0
+"Meningococcal disease, Invasive",1,0,0,0,0,1,1,0
+Mpox,1,2,0,1,0,0,0,0
+Mumps,0,0,0,0,1,0,0,0
+Murray Valley encephalitis,0,0,0,0,0,0,0,0
+Paratyphoid,0,0,0,0,0,0,0,0
+Pertussis,32,22,27,27,18,30,20,24
+"Pneumococcal, Invasive",3,3,4,5,4,5,3,9
+Psittacosis/Ornithosis,0,0,0,0,0,0,0,0
+Q Fever,0,0,0,0,0,0,1,0
+Respiratory Syncytial Virus,102,135,145,166,238,233,408,528
+RF/RHD,0,0,1,1,0,0,0,1
+Ross River Virus,1,2,7,1,1,3,4,2
+Rotavirus,11,6,9,4,9,5,7,8
+Rubella,0,0,0,0,0,0,0,0
+Rubella Syndrome - Congenital,0,0,0,0,0,0,0,0
+Salmonella,20,14,25,21,15,10,19,13
+Shiga toxin producing E. coli (STEC),4,8,1,7,4,4,4,5
+Shigella,7,3,1,3,1,2,1,2
+Suspected Food Poisoning,0,0,0,0,0,0,0,1
+Syphilis - Congenital,0,0,0,0,0,0,0,0
+Syphilis (<2 years),4,4,1,5,6,3,2,0
+Syphilis (>2 years or unspecified),2,1,2,0,0,1,3,1
+Tetanus,0,0,0,0,0,0,0,0
+Typhoid Fever (S Typhi),0,0,0,0,0,0,0,0
+Varicella virus,63,77,61,70,51,66,70,64
+Vibrio parahaemolyticus,1,1,0,1,0,0,0,0
+Yersinia,0,0,1,0,2,5,0,3
