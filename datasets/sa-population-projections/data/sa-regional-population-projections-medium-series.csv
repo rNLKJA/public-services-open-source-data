@@ -1,0 +1,313 @@
+region,year,population_persons,is_total_row
+Inner Metro PPR,2016,224454,False
+Inner Metro PPR,2017,225898,False
+Inner Metro PPR,2018,227454,False
+Inner Metro PPR,2019,228881,False
+Inner Metro PPR,2020,230452,False
+Inner Metro PPR,2021,232125,False
+Inner Metro PPR,2022,233775,False
+Inner Metro PPR,2023,235491,False
+Inner Metro PPR,2024,237191,False
+Inner Metro PPR,2025,238894,False
+Inner Metro PPR,2026,240594,False
+Inner Metro PPR,2027,242295,False
+Inner Metro PPR,2028,244003,False
+Inner Metro PPR,2029,245714,False
+Inner Metro PPR,2030,247422,False
+Inner Metro PPR,2031,249131,False
+Inner Metro PPR,2032,250819,False
+Inner Metro PPR,2033,252463,False
+Inner Metro PPR,2034,254088,False
+Inner Metro PPR,2035,255696,False
+Inner Metro PPR,2036,257296,False
+Inner Metro PPR,2037,258893,False
+Inner Metro PPR,2038,260497,False
+Inner Metro PPR,2039,262118,False
+Inner Metro PPR,2040,263762,False
+Inner Metro PPR,2041,265435,False
+Adelaide - North PPR,2016,429924,False
+Adelaide - North PPR,2017,434361,False
+Adelaide - North PPR,2018,439575,False
+Adelaide - North PPR,2019,444948,False
+Adelaide - North PPR,2020,450383,False
+Adelaide - North PPR,2021,455954,False
+Adelaide - North PPR,2022,461482,False
+Adelaide - North PPR,2023,466971,False
+Adelaide - North PPR,2024,472417,False
+Adelaide - North PPR,2025,477815,False
+Adelaide - North PPR,2026,483164,False
+Adelaide - North PPR,2027,488450,False
+Adelaide - North PPR,2028,493661,False
+Adelaide - North PPR,2029,498796,False
+Adelaide - North PPR,2030,503856,False
+Adelaide - North PPR,2031,508837,False
+Adelaide - North PPR,2032,513750,False
+Adelaide - North PPR,2033,518607,False
+Adelaide - North PPR,2034,523401,False
+Adelaide - North PPR,2035,528148,False
+Adelaide - North PPR,2036,532847,False
+Adelaide - North PPR,2037,537502,False
+Adelaide - North PPR,2038,542116,False
+Adelaide - North PPR,2039,546692,False
+Adelaide - North PPR,2040,551228,False
+Adelaide - North PPR,2041,555724,False
+Adelaide - South PPR,2016,362685,False
+Adelaide - South PPR,2017,364894,False
+Adelaide - South PPR,2018,367372,False
+Adelaide - South PPR,2019,369838,False
+Adelaide - South PPR,2020,372316,False
+Adelaide - South PPR,2021,374903,False
+Adelaide - South PPR,2022,377509,False
+Adelaide - South PPR,2023,380076,False
+Adelaide - South PPR,2024,382635,False
+Adelaide - South PPR,2025,385173,False
+Adelaide - South PPR,2026,387677,False
+Adelaide - South PPR,2027,390135,False
+Adelaide - South PPR,2028,392537,False
+Adelaide - South PPR,2029,394870,False
+Adelaide - South PPR,2030,397125,False
+Adelaide - South PPR,2031,399274,False
+Adelaide - South PPR,2032,401317,False
+Adelaide - South PPR,2033,403271,False
+Adelaide - South PPR,2034,405132,False
+Adelaide - South PPR,2035,406895,False
+Adelaide - South PPR,2036,408563,False
+Adelaide - South PPR,2037,410137,False
+Adelaide - South PPR,2038,411616,False
+Adelaide - South PPR,2039,412999,False
+Adelaide - South PPR,2040,414283,False
+Adelaide - South PPR,2041,415463,False
+Adelaide - West PPR,2016,233831,False
+Adelaide - West PPR,2017,234985,False
+Adelaide - West PPR,2018,236767,False
+Adelaide - West PPR,2019,238572,False
+Adelaide - West PPR,2020,240396,False
+Adelaide - West PPR,2021,242432,False
+Adelaide - West PPR,2022,244500,False
+Adelaide - West PPR,2023,246596,False
+Adelaide - West PPR,2024,248718,False
+Adelaide - West PPR,2025,250865,False
+Adelaide - West PPR,2026,253034,False
+Adelaide - West PPR,2027,255236,False
+Adelaide - West PPR,2028,257472,False
+Adelaide - West PPR,2029,259741,False
+Adelaide - West PPR,2030,262046,False
+Adelaide - West PPR,2031,264395,False
+Adelaide - West PPR,2032,266781,False
+Adelaide - West PPR,2033,269191,False
+Adelaide - West PPR,2034,271616,False
+Adelaide - West PPR,2035,274058,False
+Adelaide - West PPR,2036,276518,False
+Adelaide - West PPR,2037,278993,False
+Adelaide - West PPR,2038,281483,False
+Adelaide - West PPR,2039,283993,False
+Adelaide - West PPR,2040,286523,False
+Adelaide - West PPR,2041,289074,False
+Adelaide Hills PPR,2016,73164,False
+Adelaide Hills PPR,2017,73757,False
+Adelaide Hills PPR,2018,74354,False
+Adelaide Hills PPR,2019,74959,False
+Adelaide Hills PPR,2020,75572,False
+Adelaide Hills PPR,2021,76195,False
+Adelaide Hills PPR,2022,76825,False
+Adelaide Hills PPR,2023,77459,False
+Adelaide Hills PPR,2024,78098,False
+Adelaide Hills PPR,2025,78741,False
+Adelaide Hills PPR,2026,79387,False
+Adelaide Hills PPR,2027,80035,False
+Adelaide Hills PPR,2028,80685,False
+Adelaide Hills PPR,2029,81335,False
+Adelaide Hills PPR,2030,81984,False
+Adelaide Hills PPR,2031,82637,False
+Adelaide Hills PPR,2032,83293,False
+Adelaide Hills PPR,2033,83952,False
+Adelaide Hills PPR,2034,84613,False
+Adelaide Hills PPR,2035,85271,False
+Adelaide Hills PPR,2036,85926,False
+Adelaide Hills PPR,2037,86578,False
+Adelaide Hills PPR,2038,87229,False
+Adelaide Hills PPR,2039,87877,False
+Adelaide Hills PPR,2040,88524,False
+Adelaide Hills PPR,2041,89169,False
+Barossa - Yorke - Mid North PPR,2016,113147,False
+Barossa - Yorke - Mid North PPR,2017,113635,False
+Barossa - Yorke - Mid North PPR,2018,114238,False
+Barossa - Yorke - Mid North PPR,2019,114916,False
+Barossa - Yorke - Mid North PPR,2020,115671,False
+Barossa - Yorke - Mid North PPR,2021,116404,False
+Barossa - Yorke - Mid North PPR,2022,117127,False
+Barossa - Yorke - Mid North PPR,2023,117839,False
+Barossa - Yorke - Mid North PPR,2024,118547,False
+Barossa - Yorke - Mid North PPR,2025,119250,False
+Barossa - Yorke - Mid North PPR,2026,119948,False
+Barossa - Yorke - Mid North PPR,2027,120628,False
+Barossa - Yorke - Mid North PPR,2028,121289,False
+Barossa - Yorke - Mid North PPR,2029,121930,False
+Barossa - Yorke - Mid North PPR,2030,122549,False
+Barossa - Yorke - Mid North PPR,2031,123145,False
+Barossa - Yorke - Mid North PPR,2032,123718,False
+Barossa - Yorke - Mid North PPR,2033,124268,False
+Barossa - Yorke - Mid North PPR,2034,124796,False
+Barossa - Yorke - Mid North PPR,2035,125291,False
+Barossa - Yorke - Mid North PPR,2036,125756,False
+Barossa - Yorke - Mid North PPR,2037,126190,False
+Barossa - Yorke - Mid North PPR,2038,126593,False
+Barossa - Yorke - Mid North PPR,2039,126968,False
+Barossa - Yorke - Mid North PPR,2040,127326,False
+Barossa - Yorke - Mid North PPR,2041,127669,False
+Fleurieu - Kangaroo Island PPR,2016,51685,False
+Fleurieu - Kangaroo Island PPR,2017,52234,False
+Fleurieu - Kangaroo Island PPR,2018,52923,False
+Fleurieu - Kangaroo Island PPR,2019,53696,False
+Fleurieu - Kangaroo Island PPR,2020,54478,False
+Fleurieu - Kangaroo Island PPR,2021,55242,False
+Fleurieu - Kangaroo Island PPR,2022,55998,False
+Fleurieu - Kangaroo Island PPR,2023,56745,False
+Fleurieu - Kangaroo Island PPR,2024,57506,False
+Fleurieu - Kangaroo Island PPR,2025,58255,False
+Fleurieu - Kangaroo Island PPR,2026,58993,False
+Fleurieu - Kangaroo Island PPR,2027,59717,False
+Fleurieu - Kangaroo Island PPR,2028,60427,False
+Fleurieu - Kangaroo Island PPR,2029,61122,False
+Fleurieu - Kangaroo Island PPR,2030,61801,False
+Fleurieu - Kangaroo Island PPR,2031,62474,False
+Fleurieu - Kangaroo Island PPR,2032,63146,False
+Fleurieu - Kangaroo Island PPR,2033,63816,False
+Fleurieu - Kangaroo Island PPR,2034,64484,False
+Fleurieu - Kangaroo Island PPR,2035,65150,False
+Fleurieu - Kangaroo Island PPR,2036,65815,False
+Fleurieu - Kangaroo Island PPR,2037,66479,False
+Fleurieu - Kangaroo Island PPR,2038,67143,False
+Fleurieu - Kangaroo Island PPR,2039,67808,False
+Fleurieu - Kangaroo Island PPR,2040,68470,False
+Fleurieu - Kangaroo Island PPR,2041,69130,False
+Limestone Coast PPR,2016,66689,False
+Limestone Coast PPR,2017,66757,False
+Limestone Coast PPR,2018,66958,False
+Limestone Coast PPR,2019,67253,False
+Limestone Coast PPR,2020,67544,False
+Limestone Coast PPR,2021,67830,False
+Limestone Coast PPR,2022,68105,False
+Limestone Coast PPR,2023,68368,False
+Limestone Coast PPR,2024,68619,False
+Limestone Coast PPR,2025,68858,False
+Limestone Coast PPR,2026,69085,False
+Limestone Coast PPR,2027,69305,False
+Limestone Coast PPR,2028,69517,False
+Limestone Coast PPR,2029,69722,False
+Limestone Coast PPR,2030,69919,False
+Limestone Coast PPR,2031,70107,False
+Limestone Coast PPR,2032,70286,False
+Limestone Coast PPR,2033,70455,False
+Limestone Coast PPR,2034,70614,False
+Limestone Coast PPR,2035,70762,False
+Limestone Coast PPR,2036,70900,False
+Limestone Coast PPR,2037,71027,False
+Limestone Coast PPR,2038,71144,False
+Limestone Coast PPR,2039,71251,False
+Limestone Coast PPR,2040,71345,False
+Limestone Coast PPR,2041,71424,False
+Murray and Mallee PPR,2016,71511,False
+Murray and Mallee PPR,2017,71764,False
+Murray and Mallee PPR,2018,72061,False
+Murray and Mallee PPR,2019,72465,False
+Murray and Mallee PPR,2020,72902,False
+Murray and Mallee PPR,2021,73322,False
+Murray and Mallee PPR,2022,73729,False
+Murray and Mallee PPR,2023,74122,False
+Murray and Mallee PPR,2024,74499,False
+Murray and Mallee PPR,2025,74859,False
+Murray and Mallee PPR,2026,75202,False
+Murray and Mallee PPR,2027,75527,False
+Murray and Mallee PPR,2028,75834,False
+Murray and Mallee PPR,2029,76123,False
+Murray and Mallee PPR,2030,76392,False
+Murray and Mallee PPR,2031,76642,False
+Murray and Mallee PPR,2032,76872,False
+Murray and Mallee PPR,2033,77083,False
+Murray and Mallee PPR,2034,77273,False
+Murray and Mallee PPR,2035,77444,False
+Murray and Mallee PPR,2036,77596,False
+Murray and Mallee PPR,2037,77730,False
+Murray and Mallee PPR,2038,77847,False
+Murray and Mallee PPR,2039,77949,False
+Murray and Mallee PPR,2040,78036,False
+Murray and Mallee PPR,2041,78109,False
+Eyre Peninsula and South West PPR,2016,58415,False
+Eyre Peninsula and South West PPR,2017,58037,False
+Eyre Peninsula and South West PPR,2018,57774,False
+Eyre Peninsula and South West PPR,2019,57621,False
+Eyre Peninsula and South West PPR,2020,57600,False
+Eyre Peninsula and South West PPR,2021,57630,False
+Eyre Peninsula and South West PPR,2022,57690,False
+Eyre Peninsula and South West PPR,2023,57748,False
+Eyre Peninsula and South West PPR,2024,57805,False
+Eyre Peninsula and South West PPR,2025,57860,False
+Eyre Peninsula and South West PPR,2026,57914,False
+Eyre Peninsula and South West PPR,2027,57965,False
+Eyre Peninsula and South West PPR,2028,58015,False
+Eyre Peninsula and South West PPR,2029,58063,False
+Eyre Peninsula and South West PPR,2030,58109,False
+Eyre Peninsula and South West PPR,2031,58152,False
+Eyre Peninsula and South West PPR,2032,58193,False
+Eyre Peninsula and South West PPR,2033,58232,False
+Eyre Peninsula and South West PPR,2034,58267,False
+Eyre Peninsula and South West PPR,2035,58300,False
+Eyre Peninsula and South West PPR,2036,58331,False
+Eyre Peninsula and South West PPR,2037,58359,False
+Eyre Peninsula and South West PPR,2038,58385,False
+Eyre Peninsula and South West PPR,2039,58408,False
+Eyre Peninsula and South West PPR,2040,58429,False
+Eyre Peninsula and South West PPR,2041,58448,False
+Outback - North and East PPR,2016,27339,False
+Outback - North and East PPR,2017,27055,False
+Outback - North and East PPR,2018,26887,False
+Outback - North and East PPR,2019,26782,False
+Outback - North and East PPR,2020,26779,False
+Outback - North and East PPR,2021,26801,False
+Outback - North and East PPR,2022,26848,False
+Outback - North and East PPR,2023,26888,False
+Outback - North and East PPR,2024,26922,False
+Outback - North and East PPR,2025,26952,False
+Outback - North and East PPR,2026,26977,False
+Outback - North and East PPR,2027,26997,False
+Outback - North and East PPR,2028,27013,False
+Outback - North and East PPR,2029,27026,False
+Outback - North and East PPR,2030,27035,False
+Outback - North and East PPR,2031,27042,False
+Outback - North and East PPR,2032,27048,False
+Outback - North and East PPR,2033,27055,False
+Outback - North and East PPR,2034,27062,False
+Outback - North and East PPR,2035,27069,False
+Outback - North and East PPR,2036,27078,False
+Outback - North and East PPR,2037,27087,False
+Outback - North and East PPR,2038,27094,False
+Outback - North and East PPR,2039,27099,False
+Outback - North and East PPR,2040,27102,False
+Outback - North and East PPR,2041,27102,False
+SOUTH AUSTRALIA,2016,1712844,True
+SOUTH AUSTRALIA,2017,1723378,True
+SOUTH AUSTRALIA,2018,1736364,True
+SOUTH AUSTRALIA,2019,1749929,True
+SOUTH AUSTRALIA,2020,1764094,True
+SOUTH AUSTRALIA,2021,1778840,True
+SOUTH AUSTRALIA,2022,1793587,True
+SOUTH AUSTRALIA,2023,1808303,True
+SOUTH AUSTRALIA,2024,1822957,True
+SOUTH AUSTRALIA,2025,1837523,True
+SOUTH AUSTRALIA,2026,1851975,True
+SOUTH AUSTRALIA,2027,1866292,True
+SOUTH AUSTRALIA,2028,1880453,True
+SOUTH AUSTRALIA,2029,1894440,True
+SOUTH AUSTRALIA,2030,1908238,True
+SOUTH AUSTRALIA,2031,1921835,True
+SOUTH AUSTRALIA,2032,1935222,True
+SOUTH AUSTRALIA,2033,1948392,True
+SOUTH AUSTRALIA,2034,1961345,True
+SOUTH AUSTRALIA,2035,1974086,True
+SOUTH AUSTRALIA,2036,1986625,True
+SOUTH AUSTRALIA,2037,1998974,True
+SOUTH AUSTRALIA,2038,2011148,True
+SOUTH AUSTRALIA,2039,2023162,True
+SOUTH AUSTRALIA,2040,2035027,True
+SOUTH AUSTRALIA,2041,2046747,True

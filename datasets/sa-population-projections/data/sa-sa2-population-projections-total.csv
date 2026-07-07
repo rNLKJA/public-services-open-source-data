@@ -1,0 +1,2686 @@
+region_code,sa2_code,sa2_name,sex,year,population,is_total_row
+IM,41001,Adelaide,Persons,2016,16285,False
+IM,41001,Adelaide,Persons,2021,20354,False
+IM,41001,Adelaide,Persons,2026,22882,False
+IM,41001,Adelaide,Persons,2031,25849,False
+IM,41001,Adelaide,Persons,2036,29148,False
+IM,41002,North Adelaide,Persons,2016,7267,False
+IM,41002,North Adelaide,Persons,2021,7264,False
+IM,41002,North Adelaide,Persons,2026,7489,False
+IM,41002,North Adelaide,Persons,2031,7756,False
+IM,41002,North Adelaide,Persons,2036,7968,False
+IM,41011,Burnside - Wattle Park,Persons,2016,19125,False
+IM,41011,Burnside - Wattle Park,Persons,2021,19148,False
+IM,41011,Burnside - Wattle Park,Persons,2026,19220,False
+IM,41011,Burnside - Wattle Park,Persons,2031,19419,False
+IM,41011,Burnside - Wattle Park,Persons,2036,19659,False
+IM,41012,Glenside - Beaumont,Persons,2016,9862,False
+IM,41012,Glenside - Beaumont,Persons,2021,9957,False
+IM,41012,Glenside - Beaumont,Persons,2026,10014,False
+IM,41012,Glenside - Beaumont,Persons,2031,10143,False
+IM,41012,Glenside - Beaumont,Persons,2036,10283,False
+IM,41013,Toorak Gardens,Persons,2016,16229,False
+IM,41013,Toorak Gardens,Persons,2021,16527,False
+IM,41013,Toorak Gardens,Persons,2026,17546,False
+IM,41013,Toorak Gardens,Persons,2031,17926,False
+IM,41013,Toorak Gardens,Persons,2036,18117,False
+IM,41014,Athelstone,Persons,2016,9326,False
+IM,41014,Athelstone,Persons,2021,9469,False
+IM,41014,Athelstone,Persons,2026,9672,False
+IM,41014,Athelstone,Persons,2031,9921,False
+IM,41014,Athelstone,Persons,2036,10176,False
+IM,41015,Paradise - Newton,Persons,2016,20034,False
+IM,41015,Paradise - Newton,Persons,2021,20900,False
+IM,41015,Paradise - Newton,Persons,2026,21845,False
+IM,41015,Paradise - Newton,Persons,2031,22679,False
+IM,41015,Paradise - Newton,Persons,2036,23344,False
+IM,41016,Rostrevor - Magill,Persons,2016,22085,False
+IM,41016,Rostrevor - Magill,Persons,2021,23072,False
+IM,41016,Rostrevor - Magill,Persons,2026,23888,False
+IM,41016,Rostrevor - Magill,Persons,2031,24671,False
+IM,41016,Rostrevor - Magill,Persons,2036,25334,False
+IM,41017,Norwood (SA),Persons,2016,10397,False
+IM,41017,Norwood (SA),Persons,2021,11055,False
+IM,41017,Norwood (SA),Persons,2026,11727,False
+IM,41017,Norwood (SA),Persons,2031,12342,False
+IM,41017,Norwood (SA),Persons,2036,12826,False
+IM,41018,Payneham - Felixstow,Persons,2016,12632,False
+IM,41018,Payneham - Felixstow,Persons,2021,12692,False
+IM,41018,Payneham - Felixstow,Persons,2026,12906,False
+IM,41018,Payneham - Felixstow,Persons,2031,13136,False
+IM,41018,Payneham - Felixstow,Persons,2036,13341,False
+IM,41019,St Peters - Marden,Persons,2016,13367,False
+IM,41019,St Peters - Marden,Persons,2021,13403,False
+IM,41019,St Peters - Marden,Persons,2026,13618,False
+IM,41019,St Peters - Marden,Persons,2031,13756,False
+IM,41019,St Peters - Marden,Persons,2036,13895,False
+IM,41020,Nailsworth - Broadview,Persons,2016,6277,False
+IM,41020,Nailsworth - Broadview,Persons,2021,6209,False
+IM,41020,Nailsworth - Broadview,Persons,2026,6336,False
+IM,41020,Nailsworth - Broadview,Persons,2031,6474,False
+IM,41020,Nailsworth - Broadview,Persons,2036,6587,False
+IM,41021,Prospect,Persons,2016,14847,False
+IM,41021,Prospect,Persons,2021,15312,False
+IM,41021,Prospect,Persons,2026,15973,False
+IM,41021,Prospect,Persons,2031,16547,False
+IM,41021,Prospect,Persons,2036,17063,False
+IM,41022,Walkerville,Persons,2016,7781,False
+IM,41022,Walkerville,Persons,2021,7969,False
+IM,41022,Walkerville,Persons,2026,8225,False
+IM,41022,Walkerville,Persons,2031,8439,False
+IM,41022,Walkerville,Persons,2036,8622,False
+IM,41023,Goodwood - Millswood,Persons,2016,18104,False
+IM,41023,Goodwood - Millswood,Persons,2021,18003,False
+IM,41023,Goodwood - Millswood,Persons,2026,18176,False
+IM,41023,Goodwood - Millswood,Persons,2031,18563,False
+IM,41023,Goodwood - Millswood,Persons,2036,18965,False
+IM,41024,Unley - Parkside,Persons,2016,20835,False
+IM,41024,Unley - Parkside,Persons,2021,20789,False
+IM,41024,Unley - Parkside,Persons,2026,21064,False
+IM,41024,Unley - Parkside,Persons,2031,21514,False
+IM,41024,Unley - Parkside,Persons,2036,21967,False
+IM,,TOTAL Inner Metro,Persons,2016,224453,True
+IM,,TOTAL Inner Metro,Persons,2021,232122,True
+IM,,TOTAL Inner Metro,Persons,2026,240582,True
+IM,,TOTAL Inner Metro,Persons,2031,249134,True
+IM,,TOTAL Inner Metro,Persons,2036,257296,True
+AIN,41036,Enfield - Blair Athol,Persons,2016,23761,False
+AIN,41036,Enfield - Blair Athol,Persons,2021,25241,False
+AIN,41036,Enfield - Blair Athol,Persons,2026,26914,False
+AIN,41036,Enfield - Blair Athol,Persons,2031,28358,False
+AIN,41036,Enfield - Blair Athol,Persons,2036,29400,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Persons,2016,25130,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Persons,2021,28013,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Persons,2026,30559,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Persons,2031,32888,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Persons,2036,34801,False
+AIN,41038,Windsor Gardens,Persons,2016,20696,False
+AIN,41038,Windsor Gardens,Persons,2021,21825,False
+AIN,41038,Windsor Gardens,Persons,2026,23422,False
+AIN,41038,Windsor Gardens,Persons,2031,24651,False
+AIN,41038,Windsor Gardens,Persons,2036,25525,False
+AIN,41040,Ingle Farm,Persons,2016,15135,False
+AIN,41040,Ingle Farm,Persons,2021,15287,False
+AIN,41040,Ingle Farm,Persons,2026,15861,False
+AIN,41040,Ingle Farm,Persons,2031,16360,False
+AIN,41040,Ingle Farm,Persons,2036,16758,False
+AIN,41041,Para Hills,Persons,2016,14853,False
+AIN,41041,Para Hills,Persons,2021,15163,False
+AIN,41041,Para Hills,Persons,2026,15694,False
+AIN,41041,Para Hills,Persons,2031,16147,False
+AIN,41041,Para Hills,Persons,2036,16532,False
+AIN,41044,Paralowie,Persons,2016,16989,False
+AIN,41044,Paralowie,Persons,2021,17905,False
+AIN,41044,Paralowie,Persons,2026,18267,False
+AIN,41044,Paralowie,Persons,2031,18566,False
+AIN,41044,Paralowie,Persons,2036,18891,False
+AIN,41046,Salisbury,Persons,2016,17811,False
+AIN,41046,Salisbury,Persons,2021,18408,False
+AIN,41046,Salisbury,Persons,2026,19115,False
+AIN,41046,Salisbury,Persons,2031,19692,False
+AIN,41046,Salisbury,Persons,2036,20134,False
+AIN,41047,Salisbury East,Persons,2016,17731,False
+AIN,41047,Salisbury East,Persons,2021,18070,False
+AIN,41047,Salisbury East,Persons,2026,18570,False
+AIN,41047,Salisbury East,Persons,2031,18963,False
+AIN,41047,Salisbury East,Persons,2036,19306,False
+AIN,41048,Salisbury North,Persons,2016,17512,False
+AIN,41048,Salisbury North,Persons,2021,18199,False
+AIN,41048,Salisbury North,Persons,2026,18700,False
+AIN,41048,Salisbury North,Persons,2031,19108,False
+AIN,41048,Salisbury North,Persons,2036,19464,False
+AIN,41049,Golden Grove,Persons,2016,10459,False
+AIN,41049,Golden Grove,Persons,2021,10545,False
+AIN,41049,Golden Grove,Persons,2026,10795,False
+AIN,41049,Golden Grove,Persons,2031,10969,False
+AIN,41049,Golden Grove,Persons,2036,11114,False
+AIN,41050,Greenwith,Persons,2016,9127,False
+AIN,41050,Greenwith,Persons,2021,9070,False
+AIN,41050,Greenwith,Persons,2026,9209,False
+AIN,41050,Greenwith,Persons,2031,9316,False
+AIN,41050,Greenwith,Persons,2036,9416,False
+AIN,41051,Highbury - Dernancourt,Persons,2016,10648,False
+AIN,41051,Highbury - Dernancourt,Persons,2021,10971,False
+AIN,41051,Highbury - Dernancourt,Persons,2026,11465,False
+AIN,41051,Highbury - Dernancourt,Persons,2031,11907,False
+AIN,41051,Highbury - Dernancourt,Persons,2036,12250,False
+AIN,41052,Hope Valley - Modbury,Persons,2016,16710,False
+AIN,41052,Hope Valley - Modbury,Persons,2021,17341,False
+AIN,41052,Hope Valley - Modbury,Persons,2026,18301,False
+AIN,41052,Hope Valley - Modbury,Persons,2031,19067,False
+AIN,41052,Hope Valley - Modbury,Persons,2036,19646,False
+AIN,41053,Modbury Heights,Persons,2016,19205,False
+AIN,41053,Modbury Heights,Persons,2021,19349,False
+AIN,41053,Modbury Heights,Persons,2026,19777,False
+AIN,41053,Modbury Heights,Persons,2031,20082,False
+AIN,41053,Modbury Heights,Persons,2036,20341,False
+AIN,41054,Redwood Park,Persons,2016,16212,False
+AIN,41054,Redwood Park,Persons,2021,16498,False
+AIN,41054,Redwood Park,Persons,2026,16985,False
+AIN,41054,Redwood Park,Persons,2031,17356,False
+AIN,41054,Redwood Park,Persons,2036,17663,False
+AIN,41055,St Agnes - Ridgehaven,Persons,2016,12572,False
+AIN,41055,St Agnes - Ridgehaven,Persons,2021,13158,False
+AIN,41055,St Agnes - Ridgehaven,Persons,2026,13916,False
+AIN,41055,St Agnes - Ridgehaven,Persons,2031,14548,False
+AIN,41055,St Agnes - Ridgehaven,Persons,2036,15066,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Persons,2016,13650,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Persons,2021,14325,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Persons,2026,14833,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Persons,2031,15030,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Persons,2036,15186,False
+AIN,41172,Pooraka - Cavan,Persons,2016,7863,False
+AIN,41172,Pooraka - Cavan,Persons,2021,8075,False
+AIN,41172,Pooraka - Cavan,Persons,2026,8365,False
+AIN,41172,Pooraka - Cavan,Persons,2031,8579,False
+AIN,41172,Pooraka - Cavan,Persons,2036,8750,False
+AIN,48004,Parafield Gardens - Parafield,Persons,2016,17421,False
+AIN,48004,Parafield Gardens - Parafield,Persons,2021,17923,False
+AIN,48004,Parafield Gardens - Parafield,Persons,2026,18439,False
+AIN,48004,Parafield Gardens - Parafield,Persons,2031,18863,False
+AIN,48004,Parafield Gardens - Parafield,Persons,2036,19251,False
+AIN,,SUBTOTAL Adelaide - Inner North,Persons,2016,303485,True
+AIN,,SUBTOTAL Adelaide - Inner North,Persons,2021,315367,True
+AIN,,SUBTOTAL Adelaide - Inner North,Persons,2026,329188,True
+AIN,,SUBTOTAL Adelaide - Inner North,Persons,2031,340452,True
+AIN,,SUBTOTAL Adelaide - Inner North,Persons,2036,349495,True
+AON,41025,Gawler - North,Persons,2016,9343,False
+AON,41025,Gawler - North,Persons,2021,9733,False
+AON,41025,Gawler - North,Persons,2026,10423,False
+AON,41025,Gawler - North,Persons,2031,11183,False
+AON,41025,Gawler - North,Persons,2036,11971,False
+AON,41026,Gawler - South,Persons,2016,20062,False
+AON,41026,Gawler - South,Persons,2021,23563,False
+AON,41026,Gawler - South,Persons,2026,26768,False
+AON,41026,Gawler - South,Persons,2031,30323,False
+AON,41026,Gawler - South,Persons,2036,33978,False
+AON,41027,Lewiston - Two Wells,Persons,2016,5686,False
+AON,41027,Lewiston - Two Wells,Persons,2021,6102,False
+AON,41027,Lewiston - Two Wells,Persons,2026,6212,False
+AON,41027,Lewiston - Two Wells,Persons,2031,6281,False
+AON,41027,Lewiston - Two Wells,Persons,2036,6378,False
+AON,41028,Craigmore - Blakeview,Persons,2016,18365,False
+AON,41028,Craigmore - Blakeview,Persons,2021,20789,False
+AON,41028,Craigmore - Blakeview,Persons,2026,23364,False
+AON,41028,Craigmore - Blakeview,Persons,2031,26131,False
+AON,41028,Craigmore - Blakeview,Persons,2036,29204,False
+AON,41029,Davoren Park,Persons,2016,17966,False
+AON,41029,Davoren Park,Persons,2021,18382,False
+AON,41029,Davoren Park,Persons,2026,19096,False
+AON,41029,Davoren Park,Persons,2031,19559,False
+AON,41029,Davoren Park,Persons,2036,19946,False
+AON,41030,Elizabeth,Persons,2016,10463,False
+AON,41030,Elizabeth,Persons,2021,10612,False
+AON,41030,Elizabeth,Persons,2026,10972,False
+AON,41030,Elizabeth,Persons,2031,11250,False
+AON,41030,Elizabeth,Persons,2036,11449,False
+AON,41031,Elizabeth East,Persons,2016,13066,False
+AON,41031,Elizabeth East,Persons,2021,13625,False
+AON,41031,Elizabeth East,Persons,2026,14177,False
+AON,41031,Elizabeth East,Persons,2031,14588,False
+AON,41031,Elizabeth East,Persons,2036,14913,False
+AON,41032,Munno Para West - Angle Vale,Persons,2016,12336,False
+AON,41032,Munno Para West - Angle Vale,Persons,2021,16784,False
+AON,41032,Munno Para West - Angle Vale,Persons,2026,20551,False
+AON,41032,Munno Para West - Angle Vale,Persons,2031,25142,False
+AON,41032,Munno Para West - Angle Vale,Persons,2036,29829,False
+AON,41033,One Tree Hill,Persons,2016,2537,False
+AON,41033,One Tree Hill,Persons,2021,2617,False
+AON,41033,One Tree Hill,Persons,2026,2667,False
+AON,41033,One Tree Hill,Persons,2031,2700,False
+AON,41033,One Tree Hill,Persons,2036,2734,False
+AON,41034,Smithfield - Elizabeth North,Persons,2016,12337,False
+AON,41034,Smithfield - Elizabeth North,Persons,2021,12675,False
+AON,41034,Smithfield - Elizabeth North,Persons,2026,13115,False
+AON,41034,Smithfield - Elizabeth North,Persons,2031,13482,False
+AON,41034,Smithfield - Elizabeth North,Persons,2036,13799,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Persons,2016,4278,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Persons,2021,5699,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Persons,2026,6582,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Persons,2031,7684,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Persons,2036,9107,False
+AON,,SUBTOTAL Adelaide - Outer North,Persons,2016,126439,True
+AON,,SUBTOTAL Adelaide - Outer North,Persons,2021,140580,True
+AON,,SUBTOTAL Adelaide - Outer North,Persons,2026,153927,True
+AON,,SUBTOTAL Adelaide - Outer North,Persons,2031,168324,True
+AON,,SUBTOTAL Adelaide - Outer North,Persons,2036,183308,True
+AN,,TOTAL Adelaide - North,Persons,2016,429924,True
+AN,,TOTAL Adelaide - North,Persons,2021,455947,True
+AN,,TOTAL Adelaide - North,Persons,2026,483114,True
+AN,,TOTAL Adelaide - North,Persons,2031,508775,True
+AN,,TOTAL Adelaide - North,Persons,2036,532802,True
+AIS,41056,Brighton (SA),Persons,2016,14202,False
+AIS,41056,Brighton (SA),Persons,2021,14491,False
+AIS,41056,Brighton (SA),Persons,2026,14759,False
+AIS,41056,Brighton (SA),Persons,2031,15046,False
+AIS,41056,Brighton (SA),Persons,2036,15260,False
+AIS,41057,Glenelg (SA),Persons,2016,20632,False
+AIS,41057,Glenelg (SA),Persons,2021,20956,False
+AIS,41057,Glenelg (SA),Persons,2026,21292,False
+AIS,41057,Glenelg (SA),Persons,2031,21753,False
+AIS,41057,Glenelg (SA),Persons,2036,22076,False
+AIS,41058,Edwardstown,Persons,2016,13862,False
+AIS,41058,Edwardstown,Persons,2021,14281,False
+AIS,41058,Edwardstown,Persons,2026,14908,False
+AIS,41058,Edwardstown,Persons,2031,15433,False
+AIS,41058,Edwardstown,Persons,2036,15826,False
+AIS,41059,Hallett Cove,Persons,2016,12734,False
+AIS,41059,Hallett Cove,Persons,2021,12860,False
+AIS,41059,Hallett Cove,Persons,2026,12904,False
+AIS,41059,Hallett Cove,Persons,2031,13027,False
+AIS,41059,Hallett Cove,Persons,2036,13216,False
+AIS,41060,Marino - Seaview Downs,Persons,2016,9535,False
+AIS,41060,Marino - Seaview Downs,Persons,2021,9755,False
+AIS,41060,Marino - Seaview Downs,Persons,2026,10358,False
+AIS,41060,Marino - Seaview Downs,Persons,2031,11091,False
+AIS,41060,Marino - Seaview Downs,Persons,2036,11234,False
+AIS,41061,Mitchell Park,Persons,2016,15405,False
+AIS,41061,Mitchell Park,Persons,2021,16559,False
+AIS,41061,Mitchell Park,Persons,2026,17840,False
+AIS,41061,Mitchell Park,Persons,2031,19241,False
+AIS,41061,Mitchell Park,Persons,2036,19828,False
+AIS,41062,Morphettville,Persons,2016,14982,False
+AIS,41062,Morphettville,Persons,2021,16157,False
+AIS,41062,Morphettville,Persons,2026,17088,False
+AIS,41062,Morphettville,Persons,2031,17879,False
+AIS,41062,Morphettville,Persons,2036,18426,False
+AIS,41063,Sheidow Park - Trott Park,Persons,2016,10306,False
+AIS,41063,Sheidow Park - Trott Park,Persons,2021,10730,False
+AIS,41063,Sheidow Park - Trott Park,Persons,2026,11186,False
+AIS,41063,Sheidow Park - Trott Park,Persons,2031,11559,False
+AIS,41063,Sheidow Park - Trott Park,Persons,2036,11653,False
+AIS,41064,Warradale,Persons,2016,15173,False
+AIS,41064,Warradale,Persons,2021,16936,False
+AIS,41064,Warradale,Persons,2026,17736,False
+AIS,41064,Warradale,Persons,2031,18345,False
+AIS,41064,Warradale,Persons,2036,18573,False
+AIS,41065,Belair,Persons,2016,4686,False
+AIS,41065,Belair,Persons,2021,4703,False
+AIS,41065,Belair,Persons,2026,4723,False
+AIS,41065,Belair,Persons,2031,4771,False
+AIS,41065,Belair,Persons,2036,4885,False
+AIS,41066,Bellevue Heights,Persons,2016,7569,False
+AIS,41066,Bellevue Heights,Persons,2021,7609,False
+AIS,41066,Bellevue Heights,Persons,2026,7873,False
+AIS,41066,Bellevue Heights,Persons,2031,8370,False
+AIS,41066,Bellevue Heights,Persons,2036,9137,False
+AIS,41067,Blackwood,Persons,2016,12307,False
+AIS,41067,Blackwood,Persons,2021,12758,False
+AIS,41067,Blackwood,Persons,2026,13379,False
+AIS,41067,Blackwood,Persons,2031,13546,False
+AIS,41067,Blackwood,Persons,2036,13865,False
+AIS,41068,Colonel Light Gardens,Persons,2016,15933,False
+AIS,41068,Colonel Light Gardens,Persons,2021,15879,False
+AIS,41068,Colonel Light Gardens,Persons,2026,15945,False
+AIS,41068,Colonel Light Gardens,Persons,2031,16083,False
+AIS,41068,Colonel Light Gardens,Persons,2036,16197,False
+AIS,41069,Mitcham (SA),Persons,2016,16349,False
+AIS,41069,Mitcham (SA),Persons,2021,16413,False
+AIS,41069,Mitcham (SA),Persons,2026,16541,False
+AIS,41069,Mitcham (SA),Persons,2031,16762,False
+AIS,41069,Mitcham (SA),Persons,2036,17037,False
+AIS,41070,Panorama,Persons,2016,8324,False
+AIS,41070,Panorama,Persons,2021,8430,False
+AIS,41070,Panorama,Persons,2026,8572,False
+AIS,41070,Panorama,Persons,2031,8727,False
+AIS,41070,Panorama,Persons,2036,8843,False
+AIS,,SUBTOTAL Adelaide - Inner South,Persons,2016,191999,True
+AIS,,SUBTOTAL Adelaide - Inner South,Persons,2021,198517,True
+AIS,,SUBTOTAL Adelaide - Inner South,Persons,2026,205104,True
+AIS,,SUBTOTAL Adelaide - Inner South,Persons,2031,211632,True
+AIS,,SUBTOTAL Adelaide - Inner South,Persons,2036,216057,True
+AOS,41071,Aberfoyle Park,Persons,2016,11863,False
+AOS,41071,Aberfoyle Park,Persons,2021,11747,False
+AOS,41071,Aberfoyle Park,Persons,2026,11776,False
+AOS,41071,Aberfoyle Park,Persons,2031,11858,False
+AOS,41071,Aberfoyle Park,Persons,2036,11952,False
+AOS,41072,Aldinga,Persons,2016,15627,False
+AOS,41072,Aldinga,Persons,2021,16374,False
+AOS,41072,Aldinga,Persons,2026,18443,False
+AOS,41072,Aldinga,Persons,2031,19410,False
+AOS,41072,Aldinga,Persons,2036,19945,False
+AOS,41073,Christie Downs,Persons,2016,9499,False
+AOS,41073,Christie Downs,Persons,2021,9525,False
+AOS,41073,Christie Downs,Persons,2026,9587,False
+AOS,41073,Christie Downs,Persons,2031,9987,False
+AOS,41073,Christie Downs,Persons,2036,10428,False
+AOS,41075,Clarendon,Persons,2016,2739,False
+AOS,41075,Clarendon,Persons,2021,2762,False
+AOS,41075,Clarendon,Persons,2026,2812,False
+AOS,41075,Clarendon,Persons,2031,2826,False
+AOS,41075,Clarendon,Persons,2036,2887,False
+AOS,41076,Coromandel Valley,Persons,2016,4435,False
+AOS,41076,Coromandel Valley,Persons,2021,4391,False
+AOS,41076,Coromandel Valley,Persons,2026,4408,False
+AOS,41076,Coromandel Valley,Persons,2031,4447,False
+AOS,41076,Coromandel Valley,Persons,2036,4546,False
+AOS,41077,Flagstaff Hill,Persons,2016,10771,False
+AOS,41077,Flagstaff Hill,Persons,2021,10982,False
+AOS,41077,Flagstaff Hill,Persons,2026,11372,False
+AOS,41077,Flagstaff Hill,Persons,2031,11782,False
+AOS,41077,Flagstaff Hill,Persons,2036,12048,False
+AOS,41078,Hackham - Onkaparinga Hills,Persons,2016,6352,False
+AOS,41078,Hackham - Onkaparinga Hills,Persons,2021,6530,False
+AOS,41078,Hackham - Onkaparinga Hills,Persons,2026,6953,False
+AOS,41078,Hackham - Onkaparinga Hills,Persons,2031,7813,False
+AOS,41078,Hackham - Onkaparinga Hills,Persons,2036,8906,False
+AOS,41079,Hackham West - Huntfield Heights,Persons,2016,7651,False
+AOS,41079,Hackham West - Huntfield Heights,Persons,2021,7728,False
+AOS,41079,Hackham West - Huntfield Heights,Persons,2026,7781,False
+AOS,41079,Hackham West - Huntfield Heights,Persons,2031,7863,False
+AOS,41079,Hackham West - Huntfield Heights,Persons,2036,8000,False
+AOS,41083,McLaren Vale,Persons,2016,6090,False
+AOS,41083,McLaren Vale,Persons,2021,7260,False
+AOS,41083,McLaren Vale,Persons,2026,8505,False
+AOS,41083,McLaren Vale,Persons,2031,8743,False
+AOS,41083,McLaren Vale,Persons,2036,8832,False
+AOS,41084,Morphett Vale - East,Persons,2016,13739,False
+AOS,41084,Morphett Vale - East,Persons,2021,13994,False
+AOS,41084,Morphett Vale - East,Persons,2026,14047,False
+AOS,41084,Morphett Vale - East,Persons,2031,14179,False
+AOS,41084,Morphett Vale - East,Persons,2036,14320,False
+AOS,41085,Morphett Vale - West,Persons,2016,9591,False
+AOS,41085,Morphett Vale - West,Persons,2021,9983,False
+AOS,41085,Morphett Vale - West,Persons,2026,10053,False
+AOS,41085,Morphett Vale - West,Persons,2031,10166,False
+AOS,41085,Morphett Vale - West,Persons,2036,10263,False
+AOS,41086,Reynella,Persons,2016,10231,False
+AOS,41086,Reynella,Persons,2021,10230,False
+AOS,41086,Reynella,Persons,2026,10333,False
+AOS,41086,Reynella,Persons,2031,10484,False
+AOS,41086,Reynella,Persons,2036,10623,False
+AOS,41087,Seaford (SA),Persons,2016,22828,False
+AOS,41087,Seaford (SA),Persons,2021,24783,False
+AOS,41087,Seaford (SA),Persons,2026,25861,False
+AOS,41087,Seaford (SA),Persons,2031,26714,False
+AOS,41087,Seaford (SA),Persons,2036,27662,False
+AOS,41088,Willunga,Persons,2016,3470,False
+AOS,41088,Willunga,Persons,2021,3521,False
+AOS,41088,Willunga,Persons,2026,3544,False
+AOS,41088,Willunga,Persons,2031,3591,False
+AOS,41088,Willunga,Persons,2036,3719,False
+AOS,41089,Woodcroft,Persons,2016,11558,False
+AOS,41089,Woodcroft,Persons,2021,11518,False
+AOS,41089,Woodcroft,Persons,2026,11523,False
+AOS,41089,Woodcroft,Persons,2031,11597,False
+AOS,41089,Woodcroft,Persons,2036,11704,False
+AOS,48001,Christies Beach - Lonsdale,Persons,2016,10412,False
+AOS,48001,Christies Beach - Lonsdale,Persons,2021,11061,False
+AOS,48001,Christies Beach - Lonsdale,Persons,2026,11572,False
+AOS,48001,Christies Beach - Lonsdale,Persons,2031,12093,False
+AOS,48001,Christies Beach - Lonsdale,Persons,2036,12429,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Persons,2016,13830,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Persons,2021,13977,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Persons,2026,13999,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Persons,2031,14099,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Persons,2036,14252,False
+AOS,,SUBTOTAL Adelaide - Outer South,Persons,2016,170686,True
+AOS,,SUBTOTAL Adelaide - Outer South,Persons,2021,176366,True
+AOS,,SUBTOTAL Adelaide - Outer South,Persons,2026,182569,True
+AOS,,SUBTOTAL Adelaide - Outer South,Persons,2031,187652,True
+AOS,,SUBTOTAL Adelaide - Outer South,Persons,2036,192516,True
+AS,,TOTAL Adelaide - South,Persons,2016,362685,True
+AS,,TOTAL Adelaide - South,Persons,2021,374883,True
+AS,,TOTAL Adelaide - South,Persons,2026,387673,True
+AS,,TOTAL Adelaide - South,Persons,2031,399284,True
+AS,,TOTAL Adelaide - South,Persons,2036,408573,True
+AW,41090,Beverley,Persons,2016,7936,False
+AW,41090,Beverley,Persons,2021,8585,False
+AW,41090,Beverley,Persons,2026,9073,False
+AW,41090,Beverley,Persons,2031,9496,False
+AW,41090,Beverley,Persons,2036,9864,False
+AW,41091,Flinders Park,Persons,2016,14866,False
+AW,41091,Flinders Park,Persons,2021,15442,False
+AW,41091,Flinders Park,Persons,2026,16290,False
+AW,41091,Flinders Park,Persons,2031,17112,False
+AW,41091,Flinders Park,Persons,2036,17900,False
+AW,41092,Henley Beach,Persons,2016,15273,False
+AW,41092,Henley Beach,Persons,2021,15471,False
+AW,41092,Henley Beach,Persons,2026,15853,False
+AW,41092,Henley Beach,Persons,2031,16316,False
+AW,41092,Henley Beach,Persons,2036,16936,False
+AW,41093,Hindmarsh - Brompton,Persons,2016,18158,False
+AW,41093,Hindmarsh - Brompton,Persons,2021,19491,False
+AW,41093,Hindmarsh - Brompton,Persons,2026,20727,False
+AW,41093,Hindmarsh - Brompton,Persons,2031,22212,False
+AW,41093,Hindmarsh - Brompton,Persons,2036,23924,False
+AW,41094,Royal Park - Hendon - Albert Park,Persons,2016,6010,False
+AW,41094,Royal Park - Hendon - Albert Park,Persons,2021,6229,False
+AW,41094,Royal Park - Hendon - Albert Park,Persons,2026,6270,False
+AW,41094,Royal Park - Hendon - Albert Park,Persons,2031,6362,False
+AW,41094,Royal Park - Hendon - Albert Park,Persons,2036,6537,False
+AW,41095,Seaton - Grange,Persons,2016,16805,False
+AW,41095,Seaton - Grange,Persons,2021,18251,False
+AW,41095,Seaton - Grange,Persons,2026,18897,False
+AW,41095,Seaton - Grange,Persons,2031,19658,False
+AW,41095,Seaton - Grange,Persons,2036,20483,False
+AW,41096,West Lakes,Persons,2016,14841,False
+AW,41096,West Lakes,Persons,2021,15037,False
+AW,41096,West Lakes,Persons,2026,15730,False
+AW,41096,West Lakes,Persons,2031,16550,False
+AW,41096,West Lakes,Persons,2036,17517,False
+AW,41097,Woodville - Cheltenham,Persons,2016,17929,False
+AW,41097,Woodville - Cheltenham,Persons,2021,19363,False
+AW,41097,Woodville - Cheltenham,Persons,2026,20289,False
+AW,41097,Woodville - Cheltenham,Persons,2031,20836,False
+AW,41097,Woodville - Cheltenham,Persons,2036,21606,False
+AW,41099,Largs Bay - Semaphore,Persons,2016,14824,False
+AW,41099,Largs Bay - Semaphore,Persons,2021,14859,False
+AW,41099,Largs Bay - Semaphore,Persons,2026,15515,False
+AW,41099,Largs Bay - Semaphore,Persons,2031,16350,False
+AW,41099,Largs Bay - Semaphore,Persons,2036,16913,False
+AW,41101,Port Adelaide,Persons,2016,10987,False
+AW,41101,Port Adelaide,Persons,2021,11456,False
+AW,41101,Port Adelaide,Persons,2026,12415,False
+AW,41101,Port Adelaide,Persons,2031,13732,False
+AW,41101,Port Adelaide,Persons,2036,14924,False
+AW,41105,Fulham,Persons,2016,2752,False
+AW,41105,Fulham,Persons,2021,2785,False
+AW,41105,Fulham,Persons,2026,2798,False
+AW,41105,Fulham,Persons,2031,2838,False
+AW,41105,Fulham,Persons,2036,2917,False
+AW,41106,Lockleys,Persons,2016,13016,False
+AW,41106,Lockleys,Persons,2021,13388,False
+AW,41106,Lockleys,Persons,2026,13754,False
+AW,41106,Lockleys,Persons,2031,14243,False
+AW,41106,Lockleys,Persons,2036,14771,False
+AW,41107,Plympton,Persons,2016,24828,False
+AW,41107,Plympton,Persons,2021,25653,False
+AW,41107,Plympton,Persons,2026,26736,False
+AW,41107,Plympton,Persons,2031,28025,False
+AW,41107,Plympton,Persons,2036,29517,False
+AW,41108,Richmond (SA),Persons,2016,16975,False
+AW,41108,Richmond (SA),Persons,2021,17259,False
+AW,41108,Richmond (SA),Persons,2026,18171,False
+AW,41108,Richmond (SA),Persons,2031,19188,False
+AW,41108,Richmond (SA),Persons,2036,19820,False
+AW,48003,North Haven - Torrens Island,Persons,2016,14553,False
+AW,48003,North Haven - Torrens Island,Persons,2021,14494,False
+AW,48003,North Haven - Torrens Island,Persons,2026,14890,False
+AW,48003,North Haven - Torrens Island,Persons,2031,15203,False
+AW,48003,North Haven - Torrens Island,Persons,2036,15695,False
+AW,48005,The Parks - Dry Creek South,Persons,2016,18960,False
+AW,48005,The Parks - Dry Creek South,Persons,2021,19441,False
+AW,48005,The Parks - Dry Creek South,Persons,2026,20284,False
+AW,48005,The Parks - Dry Creek South,Persons,2031,20810,False
+AW,48005,The Parks - Dry Creek South,Persons,2036,21546,False
+AW,48007,West Beach - Adelaide Airport,Persons,2016,5118,False
+AW,48007,West Beach - Adelaide Airport,Persons,2021,5222,False
+AW,48007,West Beach - Adelaide Airport,Persons,2026,5327,False
+AW,48007,West Beach - Adelaide Airport,Persons,2031,5457,False
+AW,48007,West Beach - Adelaide Airport,Persons,2036,5644,False
+AW,,TOTAL Adelaide - West,Persons,2016,233831,True
+AW,,TOTAL Adelaide - West,Persons,2021,242425,True
+AW,,TOTAL Adelaide - West,Persons,2026,253018,True
+AW,,TOTAL Adelaide - West,Persons,2031,264390,True
+AW,,TOTAL Adelaide - West,Persons,2036,276513,True
+AH,41003,Adelaide Hills,Persons,2016,6914,False
+AH,41003,Adelaide Hills,Persons,2021,6783,False
+AH,41003,Adelaide Hills,Persons,2026,6695,False
+AH,41003,Adelaide Hills,Persons,2031,6651,False
+AH,41003,Adelaide Hills,Persons,2036,6648,False
+AH,41004,Aldgate - Stirling,Persons,2016,17966,False
+AH,41004,Aldgate - Stirling,Persons,2021,17839,False
+AH,41004,Aldgate - Stirling,Persons,2026,17714,False
+AH,41004,Aldgate - Stirling,Persons,2031,17652,False
+AH,41004,Aldgate - Stirling,Persons,2036,17567,False
+AH,41005,Hahndorf - Echunga,Persons,2016,4550,False
+AH,41005,Hahndorf - Echunga,Persons,2021,4515,False
+AH,41005,Hahndorf - Echunga,Persons,2026,4559,False
+AH,41005,Hahndorf - Echunga,Persons,2031,4645,False
+AH,41005,Hahndorf - Echunga,Persons,2036,4730,False
+AH,41006,Lobethal - Woodside,Persons,2016,9101,False
+AH,41006,Lobethal - Woodside,Persons,2021,9058,False
+AH,41006,Lobethal - Woodside,Persons,2026,9049,False
+AH,41006,Lobethal - Woodside,Persons,2031,9149,False
+AH,41006,Lobethal - Woodside,Persons,2036,9264,False
+AH,41007,Mount Barker,Persons,2016,17639,False
+AH,41007,Mount Barker,Persons,2021,20217,False
+AH,41007,Mount Barker,Persons,2026,22833,False
+AH,41007,Mount Barker,Persons,2031,25649,False
+AH,41007,Mount Barker,Persons,2036,28526,False
+AH,41008,Mount Barker Region,Persons,2016,6341,False
+AH,41008,Mount Barker Region,Persons,2021,6473,False
+AH,41008,Mount Barker Region,Persons,2026,6716,False
+AH,41008,Mount Barker Region,Persons,2031,6895,False
+AH,41008,Mount Barker Region,Persons,2036,7118,False
+AH,41009,Nairne,Persons,2016,5124,False
+AH,41009,Nairne,Persons,2021,5496,False
+AH,41009,Nairne,Persons,2026,5836,False
+AH,41009,Nairne,Persons,2031,6097,False
+AH,41009,Nairne,Persons,2036,6228,False
+AH,41010,Uraidla - Summertown,Persons,2016,5529,False
+AH,41010,Uraidla - Summertown,Persons,2021,5815,False
+AH,41010,Uraidla - Summertown,Persons,2026,5987,False
+AH,41010,Uraidla - Summertown,Persons,2031,5904,False
+AH,41010,Uraidla - Summertown,Persons,2036,5852,False
+AH,,TOTAL Adelaide Hills,Persons,2016,73164,True
+AH,,TOTAL Adelaide Hills,Persons,2021,76195,True
+AH,,TOTAL Adelaide Hills,Persons,2026,79390,True
+AH,,TOTAL Adelaide Hills,Persons,2031,82642,True
+AH,,TOTAL Adelaide Hills,Persons,2036,85932,True
+BYMN,41110,Barossa - Angaston,Persons,2016,6266,False
+BYMN,41110,Barossa - Angaston,Persons,2021,6514,False
+BYMN,41110,Barossa - Angaston,Persons,2026,6817,False
+BYMN,41110,Barossa - Angaston,Persons,2031,7087,False
+BYMN,41110,Barossa - Angaston,Persons,2036,7315,False
+BYMN,41111,Light,Persons,2016,9187,False
+BYMN,41111,Light,Persons,2021,9650,False
+BYMN,41111,Light,Persons,2026,10162,False
+BYMN,41111,Light,Persons,2031,10668,False
+BYMN,41111,Light,Persons,2036,11091,False
+BYMN,41112,Lyndoch,Persons,2016,6318,False
+BYMN,41112,Lyndoch,Persons,2021,6569,False
+BYMN,41112,Lyndoch,Persons,2026,6786,False
+BYMN,41112,Lyndoch,Persons,2031,7031,False
+BYMN,41112,Lyndoch,Persons,2036,7237,False
+BYMN,41113,Mallala,Persons,2016,3226,False
+BYMN,41113,Mallala,Persons,2021,3324,False
+BYMN,41113,Mallala,Persons,2026,3386,False
+BYMN,41113,Mallala,Persons,2031,3478,False
+BYMN,41113,Mallala,Persons,2036,3546,False
+BYMN,41114,Nuriootpa,Persons,2016,6723,False
+BYMN,41114,Nuriootpa,Persons,2021,7148,False
+BYMN,41114,Nuriootpa,Persons,2026,7460,False
+BYMN,41114,Nuriootpa,Persons,2031,7737,False
+BYMN,41114,Nuriootpa,Persons,2036,7967,False
+BYMN,41115,Tanunda,Persons,2016,4704,False
+BYMN,41115,Tanunda,Persons,2021,4869,False
+BYMN,41115,Tanunda,Persons,2026,5072,False
+BYMN,41115,Tanunda,Persons,2031,5247,False
+BYMN,41115,Tanunda,Persons,2036,5391,False
+BYMN,41116,Clare,Persons,2016,4170,False
+BYMN,41116,Clare,Persons,2021,4262,False
+BYMN,41116,Clare,Persons,2026,4412,False
+BYMN,41116,Clare,Persons,2031,4571,False
+BYMN,41116,Clare,Persons,2036,4682,False
+BYMN,41117,Gilbert Valley,Persons,2016,4991,False
+BYMN,41117,Gilbert Valley,Persons,2021,5181,False
+BYMN,41117,Gilbert Valley,Persons,2026,5350,False
+BYMN,41117,Gilbert Valley,Persons,2031,5482,False
+BYMN,41117,Gilbert Valley,Persons,2036,5597,False
+BYMN,41118,Goyder,Persons,2016,4264,False
+BYMN,41118,Goyder,Persons,2021,4259,False
+BYMN,41118,Goyder,Persons,2026,4290,False
+BYMN,41118,Goyder,Persons,2031,4301,False
+BYMN,41118,Goyder,Persons,2036,4302,False
+BYMN,41119,Wakefield - Barunga West,Persons,2016,9651,False
+BYMN,41119,Wakefield - Barunga West,Persons,2021,9888,False
+BYMN,41119,Wakefield - Barunga West,Persons,2026,10153,False
+BYMN,41119,Wakefield - Barunga West,Persons,2031,10373,False
+BYMN,41119,Wakefield - Barunga West,Persons,2036,10560,False
+BYMN,41120,Jamestown,Persons,2016,4661,False
+BYMN,41120,Jamestown,Persons,2021,4651,False
+BYMN,41120,Jamestown,Persons,2026,4670,False
+BYMN,41120,Jamestown,Persons,2031,4670,False
+BYMN,41120,Jamestown,Persons,2036,4684,False
+BYMN,41121,Peterborough - Mount Remarkable,Persons,2016,5506,False
+BYMN,41121,Peterborough - Mount Remarkable,Persons,2021,5487,False
+BYMN,41121,Peterborough - Mount Remarkable,Persons,2026,5498,False
+BYMN,41121,Peterborough - Mount Remarkable,Persons,2031,5498,False
+BYMN,41121,Peterborough - Mount Remarkable,Persons,2036,5479,False
+BYMN,41122,Port Pirie,Persons,2016,14347,False
+BYMN,41122,Port Pirie,Persons,2021,14422,False
+BYMN,41122,Port Pirie,Persons,2026,14524,False
+BYMN,41122,Port Pirie,Persons,2031,14576,False
+BYMN,41122,Port Pirie,Persons,2036,14590,False
+BYMN,41123,Port Pirie Region,Persons,2016,3365,False
+BYMN,41123,Port Pirie Region,Persons,2021,3415,False
+BYMN,41123,Port Pirie Region,Persons,2026,3452,False
+BYMN,41123,Port Pirie Region,Persons,2031,3468,False
+BYMN,41123,Port Pirie Region,Persons,2036,3491,False
+BYMN,41124,Kadina,Persons,2016,5416,False
+BYMN,41124,Kadina,Persons,2021,5621,False
+BYMN,41124,Kadina,Persons,2026,5840,False
+BYMN,41124,Kadina,Persons,2031,6036,False
+BYMN,41124,Kadina,Persons,2036,6200,False
+BYMN,41125,Moonta,Persons,2016,4938,False
+BYMN,41125,Moonta,Persons,2021,5369,False
+BYMN,41125,Moonta,Persons,2026,5817,False
+BYMN,41125,Moonta,Persons,2031,6232,False
+BYMN,41125,Moonta,Persons,2036,6593,False
+BYMN,41126,Wallaroo,Persons,2016,4123,False
+BYMN,41126,Wallaroo,Persons,2021,4371,False
+BYMN,41126,Wallaroo,Persons,2026,4648,False
+BYMN,41126,Wallaroo,Persons,2031,4898,False
+BYMN,41126,Wallaroo,Persons,2036,5107,False
+BYMN,41127,Yorke Peninsula - North,Persons,2016,7261,False
+BYMN,41127,Yorke Peninsula - North,Persons,2021,7395,False
+BYMN,41127,Yorke Peninsula - North,Persons,2026,7556,False
+BYMN,41127,Yorke Peninsula - North,Persons,2031,7695,False
+BYMN,41127,Yorke Peninsula - North,Persons,2036,7815,False
+BYMN,41128,Yorke Peninsula - South,Persons,2016,4030,False
+BYMN,41128,Yorke Peninsula - South,Persons,2021,4017,False
+BYMN,41128,Yorke Peninsula - South,Persons,2026,4042,False
+BYMN,41128,Yorke Peninsula - South,Persons,2031,4060,False
+BYMN,41128,Yorke Peninsula - South,Persons,2036,4063,False
+BYMN,,TOTAL Barossa - Yorke - Mid North,Persons,2016,113147,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Persons,2021,116410,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Persons,2026,119934,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Persons,2031,123108,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Persons,2036,125709,True
+FKI,41144,Goolwa - Port Elliot,Persons,2016,11435,False
+FKI,41144,Goolwa - Port Elliot,Persons,2021,12098,False
+FKI,41144,Goolwa - Port Elliot,Persons,2026,12831,False
+FKI,41144,Goolwa - Port Elliot,Persons,2031,13488,False
+FKI,41144,Goolwa - Port Elliot,Persons,2036,14112,False
+FKI,41145,Kangaroo Island,Persons,2016,4836,False
+FKI,41145,Kangaroo Island,Persons,2021,5094,False
+FKI,41145,Kangaroo Island,Persons,2026,5338,False
+FKI,41145,Kangaroo Island,Persons,2031,5561,False
+FKI,41145,Kangaroo Island,Persons,2036,5777,False
+FKI,41146,Strathalbyn,Persons,2016,7291,False
+FKI,41146,Strathalbyn,Persons,2021,7908,False
+FKI,41146,Strathalbyn,Persons,2026,8621,False
+FKI,41146,Strathalbyn,Persons,2031,9295,False
+FKI,41146,Strathalbyn,Persons,2036,9951,False
+FKI,41147,Strathalbyn Region,Persons,2016,7546,False
+FKI,41147,Strathalbyn Region,Persons,2021,8151,False
+FKI,41147,Strathalbyn Region,Persons,2026,8796,False
+FKI,41147,Strathalbyn Region,Persons,2031,9402,False
+FKI,41147,Strathalbyn Region,Persons,2036,9982,False
+FKI,41148,Victor Harbor,Persons,2016,14719,False
+FKI,41148,Victor Harbor,Persons,2021,15707,False
+FKI,41148,Victor Harbor,Persons,2026,16691,False
+FKI,41148,Victor Harbor,Persons,2031,17620,False
+FKI,41148,Victor Harbor,Persons,2036,18503,False
+FKI,41149,Yankalilla,Persons,2016,5858,False
+FKI,41149,Yankalilla,Persons,2021,6277,False
+FKI,41149,Yankalilla,Persons,2026,6708,False
+FKI,41149,Yankalilla,Persons,2031,7108,False
+FKI,41149,Yankalilla,Persons,2036,7490,False
+FKI,,TOTAL Fleurieu - Kangaroo Island,Persons,2016,51685,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Persons,2021,55235,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Persons,2026,58984,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Persons,2031,62473,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Persons,2036,65815,True
+LC,41150,Grant,Persons,2016,5984,False
+LC,41150,Grant,Persons,2021,6156,False
+LC,41150,Grant,Persons,2026,6352,False
+LC,41150,Grant,Persons,2031,6519,False
+LC,41150,Grant,Persons,2036,6658,False
+LC,41151,Kingston - Robe,Persons,2016,3828,False
+LC,41151,Kingston - Robe,Persons,2021,3897,False
+LC,41151,Kingston - Robe,Persons,2026,3954,False
+LC,41151,Kingston - Robe,Persons,2031,4002,False
+LC,41151,Kingston - Robe,Persons,2036,4041,False
+LC,41152,Millicent,Persons,2016,5396,False
+LC,41152,Millicent,Persons,2021,5378,False
+LC,41152,Millicent,Persons,2026,5385,False
+LC,41152,Millicent,Persons,2031,5380,False
+LC,41152,Millicent,Persons,2036,5364,False
+LC,41154,Naracoorte,Persons,2016,6208,False
+LC,41154,Naracoorte,Persons,2021,6394,False
+LC,41154,Naracoorte,Persons,2026,6560,False
+LC,41154,Naracoorte,Persons,2031,6699,False
+LC,41154,Naracoorte,Persons,2036,6811,False
+LC,41155,Naracoorte Region,Persons,2016,2336,False
+LC,41155,Naracoorte Region,Persons,2021,2330,False
+LC,41155,Naracoorte Region,Persons,2026,2314,False
+LC,41155,Naracoorte Region,Persons,2031,2295,False
+LC,41155,Naracoorte Region,Persons,2036,2277,False
+LC,41156,Penola,Persons,2016,3227,False
+LC,41156,Penola,Persons,2021,3229,False
+LC,41156,Penola,Persons,2026,3244,False
+LC,41156,Penola,Persons,2031,3252,False
+LC,41156,Penola,Persons,2036,3253,False
+LC,41157,Tatiara,Persons,2016,6817,False
+LC,41157,Tatiara,Persons,2021,6892,False
+LC,41157,Tatiara,Persons,2026,6921,False
+LC,41157,Tatiara,Persons,2031,6935,False
+LC,41157,Tatiara,Persons,2036,6934,False
+LC,41158,Wattle Range,Persons,2016,3361,False
+LC,41158,Wattle Range,Persons,2021,3368,False
+LC,41158,Wattle Range,Persons,2026,3397,False
+LC,41158,Wattle Range,Persons,2031,3419,False
+LC,41158,Wattle Range,Persons,2036,3434,False
+LC,41173,Mount Gambier - East,Persons,2016,15110,False
+LC,41173,Mount Gambier - East,Persons,2021,15440,False
+LC,41173,Mount Gambier - East,Persons,2026,15825,False
+LC,41173,Mount Gambier - East,Persons,2031,16148,False
+LC,41173,Mount Gambier - East,Persons,2036,16413,False
+LC,41174,Mount Gambier - West,Persons,2016,14422,False
+LC,41174,Mount Gambier - West,Persons,2021,14760,False
+LC,41174,Mount Gambier - West,Persons,2026,15133,False
+LC,41174,Mount Gambier - West,Persons,2031,15447,False
+LC,41174,Mount Gambier - West,Persons,2036,15704,False
+LC,,TOTAL Limestone Coast,Persons,2016,66689,True
+LC,,TOTAL Limestone Coast,Persons,2021,67843,True
+LC,,TOTAL Limestone Coast,Persons,2026,69085,True
+LC,,TOTAL Limestone Coast,Persons,2031,70097,True
+LC,,TOTAL Limestone Coast,Persons,2036,70887,True
+MM,41159,Barmera,Persons,2016,6671,False
+MM,41159,Barmera,Persons,2021,6674,False
+MM,41159,Barmera,Persons,2026,6690,False
+MM,41159,Barmera,Persons,2031,6677,False
+MM,41159,Barmera,Persons,2036,6639,False
+MM,41160,Berri,Persons,2016,4211,False
+MM,41160,Berri,Persons,2021,4216,False
+MM,41160,Berri,Persons,2026,4221,False
+MM,41160,Berri,Persons,2031,4213,False
+MM,41160,Berri,Persons,2036,4190,False
+MM,41161,Karoonda - Lameroo,Persons,2016,3096,False
+MM,41161,Karoonda - Lameroo,Persons,2021,3087,False
+MM,41161,Karoonda - Lameroo,Persons,2026,3087,False
+MM,41161,Karoonda - Lameroo,Persons,2031,3070,False
+MM,41161,Karoonda - Lameroo,Persons,2036,3039,False
+MM,41162,Loxton,Persons,2016,5491,False
+MM,41162,Loxton,Persons,2021,5659,False
+MM,41162,Loxton,Persons,2026,5766,False
+MM,41162,Loxton,Persons,2031,5848,False
+MM,41162,Loxton,Persons,2036,5889,False
+MM,41163,Loxton Region,Persons,2016,1735,False
+MM,41163,Loxton Region,Persons,2021,1718,False
+MM,41163,Loxton Region,Persons,2026,1695,False
+MM,41163,Loxton Region,Persons,2031,1665,False
+MM,41163,Loxton Region,Persons,2036,1629,False
+MM,41164,Mannum,Persons,2016,6333,False
+MM,41164,Mannum,Persons,2021,6535,False
+MM,41164,Mannum,Persons,2026,6772,False
+MM,41164,Mannum,Persons,2031,6967,False
+MM,41164,Mannum,Persons,2036,7116,False
+MM,41165,Murray Bridge,Persons,2016,18196,False
+MM,41165,Murray Bridge,Persons,2021,19243,False
+MM,41165,Murray Bridge,Persons,2026,20385,False
+MM,41165,Murray Bridge,Persons,2031,21351,False
+MM,41165,Murray Bridge,Persons,2036,22150,False
+MM,41166,Murray Bridge Region,Persons,2016,3716,False
+MM,41166,Murray Bridge Region,Persons,2021,3805,False
+MM,41166,Murray Bridge Region,Persons,2026,3893,False
+MM,41166,Murray Bridge Region,Persons,2031,3961,False
+MM,41166,Murray Bridge Region,Persons,2036,4010,False
+MM,41167,Renmark,Persons,2016,4820,False
+MM,41167,Renmark,Persons,2021,4921,False
+MM,41167,Renmark,Persons,2026,5039,False
+MM,41167,Renmark,Persons,2031,5137,False
+MM,41167,Renmark,Persons,2036,5184,False
+MM,41168,Renmark Region,Persons,2016,4960,False
+MM,41168,Renmark Region,Persons,2021,4990,False
+MM,41168,Renmark Region,Persons,2026,5021,False
+MM,41168,Renmark Region,Persons,2031,5026,False
+MM,41168,Renmark Region,Persons,2036,5005,False
+MM,41169,The Coorong,Persons,2016,5538,False
+MM,41169,The Coorong,Persons,2021,5619,False
+MM,41169,The Coorong,Persons,2026,5652,False
+MM,41169,The Coorong,Persons,2031,5656,False
+MM,41169,The Coorong,Persons,2036,5631,False
+MM,41170,Waikerie,Persons,2016,6744,False
+MM,41170,Waikerie,Persons,2021,6853,False
+MM,41170,Waikerie,Persons,2026,6971,False
+MM,41170,Waikerie,Persons,2031,7056,False
+MM,41170,Waikerie,Persons,2036,7106,False
+MM,,TOTAL Murray and Mallee,Persons,2016,71511,True
+MM,,TOTAL Murray and Mallee,Persons,2021,73319,True
+MM,,TOTAL Murray and Mallee,Persons,2026,75190,True
+MM,,TOTAL Murray and Mallee,Persons,2031,76627,True
+MM,,TOTAL Murray and Mallee,Persons,2036,77587,True
+EPSW,41129,Ceduna,Persons,2016,2680,False
+EPSW,41129,Ceduna,Persons,2021,2586,False
+EPSW,41129,Ceduna,Persons,2026,2554,False
+EPSW,41129,Ceduna,Persons,2031,2520,False
+EPSW,41129,Ceduna,Persons,2036,2486,False
+EPSW,41130,Eyre Peninsula,Persons,2016,6667,False
+EPSW,41130,Eyre Peninsula,Persons,2021,6583,False
+EPSW,41130,Eyre Peninsula,Persons,2026,6681,False
+EPSW,41130,Eyre Peninsula,Persons,2031,6685,False
+EPSW,41130,Eyre Peninsula,Persons,2036,6697,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Persons,2016,4360,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Persons,2021,4212,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Persons,2026,4154,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Persons,2031,4099,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Persons,2036,4043,False
+EPSW,41132,Le Hunte - Elliston,Persons,2016,2317,False
+EPSW,41132,Le Hunte - Elliston,Persons,2021,2251,False
+EPSW,41132,Le Hunte - Elliston,Persons,2026,2217,False
+EPSW,41132,Le Hunte - Elliston,Persons,2031,2180,False
+EPSW,41132,Le Hunte - Elliston,Persons,2036,2144,False
+EPSW,41133,Port Lincoln,Persons,2016,16198,False
+EPSW,41133,Port Lincoln,Persons,2021,16297,False
+EPSW,41133,Port Lincoln,Persons,2026,16360,False
+EPSW,41133,Port Lincoln,Persons,2031,16474,False
+EPSW,41133,Port Lincoln,Persons,2036,16598,False
+EPSW,48008,West Coast (SA) - Western,Persons,2016,3761,False
+EPSW,48008,West Coast (SA) - Western,Persons,2021,3731,False
+EPSW,48008,West Coast (SA) - Western,Persons,2026,3714,False
+EPSW,48008,West Coast (SA) - Western,Persons,2031,3738,False
+EPSW,48008,West Coast (SA) - Western,Persons,2036,3750,False
+EPSW,48009,Whyalla - Whyalla North,Persons,2016,22432,False
+EPSW,48009,Whyalla - Whyalla North,Persons,2021,21976,False
+EPSW,48009,Whyalla - Whyalla North,Persons,2026,22236,False
+EPSW,48009,Whyalla - Whyalla North,Persons,2031,22440,False
+EPSW,48009,Whyalla - Whyalla North,Persons,2036,22580,False
+EPSW,,TOTAL Eyre Peninsula and South West,Persons,2016,58415,True
+EPSW,,TOTAL Eyre Peninsula and South West,Persons,2021,57637,True
+EPSW,,TOTAL Eyre Peninsula and South West,Persons,2026,57915,True
+EPSW,,TOTAL Eyre Peninsula and South West,Persons,2031,58137,True
+EPSW,,TOTAL Eyre Peninsula and South West,Persons,2036,58300,True
+ONE,41138,APY Lands,Persons,2016,2498,False
+ONE,41138,APY Lands,Persons,2021,2455,False
+ONE,41138,APY Lands,Persons,2026,2556,False
+ONE,41138,APY Lands,Persons,2031,2604,False
+ONE,41138,APY Lands,Persons,2036,2646,False
+ONE,41139,Coober Pedy,Persons,2016,1818,False
+ONE,41139,Coober Pedy,Persons,2021,1775,False
+ONE,41139,Coober Pedy,Persons,2026,1757,False
+ONE,41139,Coober Pedy,Persons,2031,1731,False
+ONE,41139,Coober Pedy,Persons,2036,1705,False
+ONE,41140,Quorn - Lake Gilles,Persons,2016,2201,False
+ONE,41140,Quorn - Lake Gilles,Persons,2021,2096,False
+ONE,41140,Quorn - Lake Gilles,Persons,2026,2022,False
+ONE,41140,Quorn - Lake Gilles,Persons,2031,1981,False
+ONE,41140,Quorn - Lake Gilles,Persons,2036,1943,False
+ONE,41141,Outback,Persons,2016,2712,False
+ONE,41141,Outback,Persons,2021,2631,False
+ONE,41141,Outback,Persons,2026,2596,False
+ONE,41141,Outback,Persons,2031,2550,False
+ONE,41141,Outback,Persons,2036,2503,False
+ONE,41142,Port Augusta,Persons,2016,14053,False
+ONE,41142,Port Augusta,Persons,2021,13907,False
+ONE,41142,Port Augusta,Persons,2026,14104,False
+ONE,41142,Port Augusta,Persons,2031,14240,False
+ONE,41142,Port Augusta,Persons,2036,14358,False
+ONE,41143,Roxby Downs,Persons,2016,4057,False
+ONE,41143,Roxby Downs,Persons,2021,3933,False
+ONE,41143,Roxby Downs,Persons,2026,3936,False
+ONE,41143,Roxby Downs,Persons,2031,3924,False
+ONE,41143,Roxby Downs,Persons,2036,3907,False
+ONE,,TOTAL Outback - North and East,Persons,2016,27339,True
+ONE,,TOTAL Outback - North and East,Persons,2021,26797,True
+ONE,,TOTAL Outback - North and East,Persons,2026,26971,True
+ONE,,TOTAL Outback - North and East,Persons,2031,27031,True
+ONE,,TOTAL Outback - North and East,Persons,2036,27062,True
+,,TOTAL SOUTH AUSTRALIA,Persons,2016,1712843,True
+,,TOTAL SOUTH AUSTRALIA,Persons,2021,1778813,True
+,,TOTAL SOUTH AUSTRALIA,Persons,2026,1851857,True
+,,TOTAL SOUTH AUSTRALIA,Persons,2031,1921698,True
+,,TOTAL SOUTH AUSTRALIA,Persons,2036,1986477,True
+IM,41001,Adelaide,Males,2016,8555,False
+IM,41001,Adelaide,Males,2021,10268,False
+IM,41001,Adelaide,Males,2026,11394,False
+IM,41001,Adelaide,Males,2031,12801,False
+IM,41001,Adelaide,Males,2036,14402,False
+IM,41002,North Adelaide,Males,2016,3554,False
+IM,41002,North Adelaide,Males,2021,3530,False
+IM,41002,North Adelaide,Males,2026,3625,False
+IM,41002,North Adelaide,Males,2031,3747,False
+IM,41002,North Adelaide,Males,2036,3846,False
+IM,41011,Burnside - Wattle Park,Males,2016,9219,False
+IM,41011,Burnside - Wattle Park,Males,2021,9266,False
+IM,41011,Burnside - Wattle Park,Males,2026,9309,False
+IM,41011,Burnside - Wattle Park,Males,2031,9402,False
+IM,41011,Burnside - Wattle Park,Males,2036,9515,False
+IM,41012,Glenside - Beaumont,Males,2016,4687,False
+IM,41012,Glenside - Beaumont,Males,2021,4738,False
+IM,41012,Glenside - Beaumont,Males,2026,4764,False
+IM,41012,Glenside - Beaumont,Males,2031,4819,False
+IM,41012,Glenside - Beaumont,Males,2036,4878,False
+IM,41013,Toorak Gardens,Males,2016,7602,False
+IM,41013,Toorak Gardens,Males,2021,7862,False
+IM,41013,Toorak Gardens,Males,2026,8424,False
+IM,41013,Toorak Gardens,Males,2031,8633,False
+IM,41013,Toorak Gardens,Males,2036,8736,False
+IM,41014,Athelstone,Males,2016,4674,False
+IM,41014,Athelstone,Males,2021,4700,False
+IM,41014,Athelstone,Males,2026,4765,False
+IM,41014,Athelstone,Males,2031,4860,False
+IM,41014,Athelstone,Males,2036,4969,False
+IM,41015,Paradise - Newton,Males,2016,9783,False
+IM,41015,Paradise - Newton,Males,2021,10154,False
+IM,41015,Paradise - Newton,Males,2026,10583,False
+IM,41015,Paradise - Newton,Males,2031,10967,False
+IM,41015,Paradise - Newton,Males,2036,11280,False
+IM,41016,Rostrevor - Magill,Males,2016,10688,False
+IM,41016,Rostrevor - Magill,Males,2021,11183,False
+IM,41016,Rostrevor - Magill,Males,2026,11579,False
+IM,41016,Rostrevor - Magill,Males,2031,11964,False
+IM,41016,Rostrevor - Magill,Males,2036,12297,False
+IM,41017,Norwood (SA),Males,2016,5012,False
+IM,41017,Norwood (SA),Males,2021,5397,False
+IM,41017,Norwood (SA),Males,2026,5743,False
+IM,41017,Norwood (SA),Males,2031,6042,False
+IM,41017,Norwood (SA),Males,2036,6277,False
+IM,41018,Payneham - Felixstow,Males,2016,5916,False
+IM,41018,Payneham - Felixstow,Males,2021,6038,False
+IM,41018,Payneham - Felixstow,Males,2026,6182,False
+IM,41018,Payneham - Felixstow,Males,2031,6315,False
+IM,41018,Payneham - Felixstow,Males,2036,6430,False
+IM,41019,St Peters - Marden,Males,2016,6626,False
+IM,41019,St Peters - Marden,Males,2021,6593,False
+IM,41019,St Peters - Marden,Males,2026,6666,False
+IM,41019,St Peters - Marden,Males,2031,6719,False
+IM,41019,St Peters - Marden,Males,2036,6782,False
+IM,41020,Nailsworth - Broadview,Males,2016,3104,False
+IM,41020,Nailsworth - Broadview,Males,2021,3050,False
+IM,41020,Nailsworth - Broadview,Males,2026,3101,False
+IM,41020,Nailsworth - Broadview,Males,2031,3160,False
+IM,41020,Nailsworth - Broadview,Males,2036,3210,False
+IM,41021,Prospect,Males,2016,7538,False
+IM,41021,Prospect,Males,2021,7627,False
+IM,41021,Prospect,Males,2026,7879,False
+IM,41021,Prospect,Males,2031,8114,False
+IM,41021,Prospect,Males,2036,8337,False
+IM,41022,Walkerville,Males,2016,3810,False
+IM,41022,Walkerville,Males,2021,3882,False
+IM,41022,Walkerville,Males,2026,4001,False
+IM,41022,Walkerville,Males,2031,4098,False
+IM,41022,Walkerville,Males,2036,4177,False
+IM,41023,Goodwood - Millswood,Males,2016,8622,False
+IM,41023,Goodwood - Millswood,Males,2021,8714,False
+IM,41023,Goodwood - Millswood,Males,2026,8837,False
+IM,41023,Goodwood - Millswood,Males,2031,9026,False
+IM,41023,Goodwood - Millswood,Males,2036,9215,False
+IM,41024,Unley - Parkside,Males,2016,9833,False
+IM,41024,Unley - Parkside,Males,2021,9927,False
+IM,41024,Unley - Parkside,Males,2026,10085,False
+IM,41024,Unley - Parkside,Males,2031,10295,False
+IM,41024,Unley - Parkside,Males,2036,10506,False
+IM,,TOTAL Inner Metro,Males,2016,109223,True
+IM,,TOTAL Inner Metro,Males,2021,112929,True
+IM,,TOTAL Inner Metro,Males,2026,116938,True
+IM,,TOTAL Inner Metro,Males,2031,120964,True
+IM,,TOTAL Inner Metro,Males,2036,124856,True
+AIN,41036,Enfield - Blair Athol,Males,2016,12351,False
+AIN,41036,Enfield - Blair Athol,Males,2021,12845,False
+AIN,41036,Enfield - Blair Athol,Males,2026,13601,False
+AIN,41036,Enfield - Blair Athol,Males,2031,14277,False
+AIN,41036,Enfield - Blair Athol,Males,2036,14758,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Males,2016,12642,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Males,2021,14014,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Males,2026,15261,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Males,2031,16420,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Males,2036,17381,False
+AIN,41038,Windsor Gardens,Males,2016,10088,False
+AIN,41038,Windsor Gardens,Males,2021,10761,False
+AIN,41038,Windsor Gardens,Males,2026,11624,False
+AIN,41038,Windsor Gardens,Males,2031,12276,False
+AIN,41038,Windsor Gardens,Males,2036,12736,False
+AIN,41040,Ingle Farm,Males,2016,7506,False
+AIN,41040,Ingle Farm,Males,2021,7529,False
+AIN,41040,Ingle Farm,Males,2026,7800,False
+AIN,41040,Ingle Farm,Males,2031,8047,False
+AIN,41040,Ingle Farm,Males,2036,8252,False
+AIN,41041,Para Hills,Males,2016,7483,False
+AIN,41041,Para Hills,Males,2021,7627,False
+AIN,41041,Para Hills,Males,2026,7883,False
+AIN,41041,Para Hills,Males,2031,8103,False
+AIN,41041,Para Hills,Males,2036,8291,False
+AIN,41044,Paralowie,Males,2016,8510,False
+AIN,41044,Paralowie,Males,2021,8994,False
+AIN,41044,Paralowie,Males,2026,9184,False
+AIN,41044,Paralowie,Males,2031,9337,False
+AIN,41044,Paralowie,Males,2036,9499,False
+AIN,41046,Salisbury,Males,2016,8900,False
+AIN,41046,Salisbury,Males,2021,9207,False
+AIN,41046,Salisbury,Males,2026,9570,False
+AIN,41046,Salisbury,Males,2031,9868,False
+AIN,41046,Salisbury,Males,2036,10092,False
+AIN,41047,Salisbury East,Males,2016,8806,False
+AIN,41047,Salisbury East,Males,2021,8976,False
+AIN,41047,Salisbury East,Males,2026,9231,False
+AIN,41047,Salisbury East,Males,2031,9430,False
+AIN,41047,Salisbury East,Males,2036,9605,False
+AIN,41048,Salisbury North,Males,2016,8775,False
+AIN,41048,Salisbury North,Males,2021,9169,False
+AIN,41048,Salisbury North,Males,2026,9434,False
+AIN,41048,Salisbury North,Males,2031,9642,False
+AIN,41048,Salisbury North,Males,2036,9821,False
+AIN,41049,Golden Grove,Males,2016,5033,False
+AIN,41049,Golden Grove,Males,2021,5133,False
+AIN,41049,Golden Grove,Males,2026,5294,False
+AIN,41049,Golden Grove,Males,2031,5406,False
+AIN,41049,Golden Grove,Males,2036,5497,False
+AIN,41050,Greenwith,Males,2016,4479,False
+AIN,41050,Greenwith,Males,2021,4476,False
+AIN,41050,Greenwith,Males,2026,4555,False
+AIN,41050,Greenwith,Males,2031,4617,False
+AIN,41050,Greenwith,Males,2036,4673,False
+AIN,41051,Highbury - Dernancourt,Males,2016,5373,False
+AIN,41051,Highbury - Dernancourt,Males,2021,5517,False
+AIN,41051,Highbury - Dernancourt,Males,2026,5755,False
+AIN,41051,Highbury - Dernancourt,Males,2031,5968,False
+AIN,41051,Highbury - Dernancourt,Males,2036,6135,False
+AIN,41052,Hope Valley - Modbury,Males,2016,8035,False
+AIN,41052,Hope Valley - Modbury,Males,2021,8417,False
+AIN,41052,Hope Valley - Modbury,Males,2026,8941,False
+AIN,41052,Hope Valley - Modbury,Males,2031,9348,False
+AIN,41052,Hope Valley - Modbury,Males,2036,9654,False
+AIN,41053,Modbury Heights,Males,2016,9398,False
+AIN,41053,Modbury Heights,Males,2021,9556,False
+AIN,41053,Modbury Heights,Males,2026,9816,False
+AIN,41053,Modbury Heights,Males,2031,9996,False
+AIN,41053,Modbury Heights,Males,2036,10143,False
+AIN,41054,Redwood Park,Males,2016,8182,False
+AIN,41054,Redwood Park,Males,2021,8299,False
+AIN,41054,Redwood Park,Males,2026,8526,False
+AIN,41054,Redwood Park,Males,2031,8698,False
+AIN,41054,Redwood Park,Males,2036,8846,False
+AIN,41055,St Agnes - Ridgehaven,Males,2016,6117,False
+AIN,41055,St Agnes - Ridgehaven,Males,2021,6449,False
+AIN,41055,St Agnes - Ridgehaven,Males,2026,6850,False
+AIN,41055,St Agnes - Ridgehaven,Males,2031,7183,False
+AIN,41055,St Agnes - Ridgehaven,Males,2036,7460,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Males,2016,6938,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Males,2021,7245,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Males,2026,7479,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Males,2031,7558,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Males,2036,7623,False
+AIN,41172,Pooraka - Cavan,Males,2016,3937,False
+AIN,41172,Pooraka - Cavan,Males,2021,4017,False
+AIN,41172,Pooraka - Cavan,Males,2026,4153,False
+AIN,41172,Pooraka - Cavan,Males,2031,4258,False
+AIN,41172,Pooraka - Cavan,Males,2036,4347,False
+AIN,48004,Parafield Gardens - Parafield,Males,2016,8759,False
+AIN,48004,Parafield Gardens - Parafield,Males,2021,8993,False
+AIN,48004,Parafield Gardens - Parafield,Males,2026,9245,False
+AIN,48004,Parafield Gardens - Parafield,Males,2031,9448,False
+AIN,48004,Parafield Gardens - Parafield,Males,2036,9638,False
+AIN,,SUBTOTAL Adelaide - Inner North,Males,2016,151312,True
+AIN,,SUBTOTAL Adelaide - Inner North,Males,2021,157226,True
+AIN,,SUBTOTAL Adelaide - Inner North,Males,2026,164201,True
+AIN,,SUBTOTAL Adelaide - Inner North,Males,2031,169880,True
+AIN,,SUBTOTAL Adelaide - Inner North,Males,2036,174451,True
+AON,41025,Gawler - North,Males,2016,4646,False
+AON,41025,Gawler - North,Males,2021,4869,False
+AON,41025,Gawler - North,Males,2026,5224,False
+AON,41025,Gawler - North,Males,2031,5607,False
+AON,41025,Gawler - North,Males,2036,6005,False
+AON,41026,Gawler - South,Males,2016,9718,False
+AON,41026,Gawler - South,Males,2021,11562,False
+AON,41026,Gawler - South,Males,2026,13203,False
+AON,41026,Gawler - South,Males,2031,15011,False
+AON,41026,Gawler - South,Males,2036,16858,False
+AON,41027,Lewiston - Two Wells,Males,2016,2978,False
+AON,41027,Lewiston - Two Wells,Males,2021,3158,False
+AON,41027,Lewiston - Two Wells,Males,2026,3188,False
+AON,41027,Lewiston - Two Wells,Males,2031,3198,False
+AON,41027,Lewiston - Two Wells,Males,2036,3229,False
+AON,41028,Craigmore - Blakeview,Males,2016,9009,False
+AON,41028,Craigmore - Blakeview,Males,2021,10348,False
+AON,41028,Craigmore - Blakeview,Males,2026,11699,False
+AON,41028,Craigmore - Blakeview,Males,2031,13128,False
+AON,41028,Craigmore - Blakeview,Males,2036,14704,False
+AON,41029,Davoren Park,Males,2016,8922,False
+AON,41029,Davoren Park,Males,2021,9236,False
+AON,41029,Davoren Park,Males,2026,9629,False
+AON,41029,Davoren Park,Males,2031,9868,False
+AON,41029,Davoren Park,Males,2036,10068,False
+AON,41030,Elizabeth,Males,2016,5204,False
+AON,41030,Elizabeth,Males,2021,5285,False
+AON,41030,Elizabeth,Males,2026,5479,False
+AON,41030,Elizabeth,Males,2031,5627,False
+AON,41030,Elizabeth,Males,2036,5727,False
+AON,41031,Elizabeth East,Males,2016,6511,False
+AON,41031,Elizabeth East,Males,2021,6805,False
+AON,41031,Elizabeth East,Males,2026,7087,False
+AON,41031,Elizabeth East,Males,2031,7291,False
+AON,41031,Elizabeth East,Males,2036,7447,False
+AON,41032,Munno Para West - Angle Vale,Males,2016,6113,False
+AON,41032,Munno Para West - Angle Vale,Males,2021,8451,False
+AON,41032,Munno Para West - Angle Vale,Males,2026,10389,False
+AON,41032,Munno Para West - Angle Vale,Males,2031,12731,False
+AON,41032,Munno Para West - Angle Vale,Males,2036,15116,False
+AON,41033,One Tree Hill,Males,2016,1330,False
+AON,41033,One Tree Hill,Males,2021,1344,False
+AON,41033,One Tree Hill,Males,2026,1353,False
+AON,41033,One Tree Hill,Males,2031,1359,False
+AON,41033,One Tree Hill,Males,2036,1368,False
+AON,41034,Smithfield - Elizabeth North,Males,2016,6165,False
+AON,41034,Smithfield - Elizabeth North,Males,2021,6348,False
+AON,41034,Smithfield - Elizabeth North,Males,2026,6582,False
+AON,41034,Smithfield - Elizabeth North,Males,2031,6774,False
+AON,41034,Smithfield - Elizabeth North,Males,2036,6938,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Males,2016,2201,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Males,2021,2910,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Males,2026,3346,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Males,2031,3897,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Males,2036,4615,False
+AON,,SUBTOTAL Adelaide - Outer North,Males,2016,62797,True
+AON,,SUBTOTAL Adelaide - Outer North,Males,2021,70317,True
+AON,,SUBTOTAL Adelaide - Outer North,Males,2026,77179,True
+AON,,SUBTOTAL Adelaide - Outer North,Males,2031,84491,True
+AON,,SUBTOTAL Adelaide - Outer North,Males,2036,92076,True
+AN,,TOTAL Adelaide - North,Males,2016,214109,True
+AN,,TOTAL Adelaide - North,Males,2021,227543,True
+AN,,TOTAL Adelaide - North,Males,2026,241380,True
+AN,,TOTAL Adelaide - North,Males,2031,254371,True
+AN,,TOTAL Adelaide - North,Males,2036,266526,True
+AIS,41056,Brighton (SA),Males,2016,6773,False
+AIS,41056,Brighton (SA),Males,2021,6952,False
+AIS,41056,Brighton (SA),Males,2026,7094,False
+AIS,41056,Brighton (SA),Males,2031,7230,False
+AIS,41056,Brighton (SA),Males,2036,7321,False
+AIS,41057,Glenelg (SA),Males,2016,9935,False
+AIS,41057,Glenelg (SA),Males,2021,10136,False
+AIS,41057,Glenelg (SA),Males,2026,10305,False
+AIS,41057,Glenelg (SA),Males,2031,10527,False
+AIS,41057,Glenelg (SA),Males,2036,10671,False
+AIS,41058,Edwardstown,Males,2016,6778,False
+AIS,41058,Edwardstown,Males,2021,6968,False
+AIS,41058,Edwardstown,Males,2026,7274,False
+AIS,41058,Edwardstown,Males,2031,7528,False
+AIS,41058,Edwardstown,Males,2036,7718,False
+AIS,41059,Hallett Cove,Males,2016,6357,False
+AIS,41059,Hallett Cove,Males,2021,6346,False
+AIS,41059,Hallett Cove,Males,2026,6329,False
+AIS,41059,Hallett Cove,Males,2031,6367,False
+AIS,41059,Hallett Cove,Males,2036,6442,False
+AIS,41060,Marino - Seaview Downs,Males,2016,4696,False
+AIS,41060,Marino - Seaview Downs,Males,2021,4789,False
+AIS,41060,Marino - Seaview Downs,Males,2026,5076,False
+AIS,41060,Marino - Seaview Downs,Males,2031,5430,False
+AIS,41060,Marino - Seaview Downs,Males,2036,5492,False
+AIS,41061,Mitchell Park,Males,2016,7312,False
+AIS,41061,Mitchell Park,Males,2021,7948,False
+AIS,41061,Mitchell Park,Males,2026,8599,False
+AIS,41061,Mitchell Park,Males,2031,9291,False
+AIS,41061,Mitchell Park,Males,2036,9575,False
+AIS,41062,Morphettville,Males,2016,7157,False
+AIS,41062,Morphettville,Males,2021,7794,False
+AIS,41062,Morphettville,Males,2026,8269,False
+AIS,41062,Morphettville,Males,2031,8654,False
+AIS,41062,Morphettville,Males,2036,8913,False
+AIS,41063,Sheidow Park - Trott Park,Males,2016,5067,False
+AIS,41063,Sheidow Park - Trott Park,Males,2021,5270,False
+AIS,41063,Sheidow Park - Trott Park,Males,2026,5478,False
+AIS,41063,Sheidow Park - Trott Park,Males,2031,5644,False
+AIS,41063,Sheidow Park - Trott Park,Males,2036,5676,False
+AIS,41064,Warradale,Males,2016,7150,False
+AIS,41064,Warradale,Males,2021,8087,False
+AIS,41064,Warradale,Males,2026,8516,False
+AIS,41064,Warradale,Males,2031,8830,False
+AIS,41064,Warradale,Males,2036,8946,False
+AIS,41065,Belair,Males,2016,2291,False
+AIS,41065,Belair,Males,2021,2292,False
+AIS,41065,Belair,Males,2026,2300,False
+AIS,41065,Belair,Males,2031,2323,False
+AIS,41065,Belair,Males,2036,2378,False
+AIS,41066,Bellevue Heights,Males,2016,3615,False
+AIS,41066,Bellevue Heights,Males,2021,3639,False
+AIS,41066,Bellevue Heights,Males,2026,3756,False
+AIS,41066,Bellevue Heights,Males,2031,3987,False
+AIS,41066,Bellevue Heights,Males,2036,4353,False
+AIS,41067,Blackwood,Males,2016,6089,False
+AIS,41067,Blackwood,Males,2021,6274,False
+AIS,41067,Blackwood,Males,2026,6556,False
+AIS,41067,Blackwood,Males,2031,6619,False
+AIS,41067,Blackwood,Males,2036,6766,False
+AIS,41068,Colonel Light Gardens,Males,2016,7615,False
+AIS,41068,Colonel Light Gardens,Males,2021,7675,False
+AIS,41068,Colonel Light Gardens,Males,2026,7741,False
+AIS,41068,Colonel Light Gardens,Males,2031,7812,False
+AIS,41068,Colonel Light Gardens,Males,2036,7857,False
+AIS,41069,Mitcham (SA),Males,2016,7873,False
+AIS,41069,Mitcham (SA),Males,2021,7941,False
+AIS,41069,Mitcham (SA),Males,2026,8009,False
+AIS,41069,Mitcham (SA),Males,2031,8113,False
+AIS,41069,Mitcham (SA),Males,2036,8245,False
+AIS,41070,Panorama,Males,2016,4082,False
+AIS,41070,Panorama,Males,2021,4070,False
+AIS,41070,Panorama,Males,2026,4127,False
+AIS,41070,Panorama,Males,2031,4203,False
+AIS,41070,Panorama,Males,2036,4262,False
+AIS,,SUBTOTAL Adelaide - Inner South,Males,2016,92790,True
+AIS,,SUBTOTAL Adelaide - Inner South,Males,2021,96181,True
+AIS,,SUBTOTAL Adelaide - Inner South,Males,2026,99430,True
+AIS,,SUBTOTAL Adelaide - Inner South,Males,2031,102558,True
+AIS,,SUBTOTAL Adelaide - Inner South,Males,2036,104614,True
+AOS,41071,Aberfoyle Park,Males,2016,5782,False
+AOS,41071,Aberfoyle Park,Males,2021,5708,False
+AOS,41071,Aberfoyle Park,Males,2026,5720,False
+AOS,41071,Aberfoyle Park,Males,2031,5760,False
+AOS,41071,Aberfoyle Park,Males,2036,5803,False
+AOS,41072,Aldinga,Males,2016,7620,False
+AOS,41072,Aldinga,Males,2021,7986,False
+AOS,41072,Aldinga,Males,2026,8997,False
+AOS,41072,Aldinga,Males,2031,9458,False
+AOS,41072,Aldinga,Males,2036,9711,False
+AOS,41073,Christie Downs,Males,2016,4622,False
+AOS,41073,Christie Downs,Males,2021,4629,False
+AOS,41073,Christie Downs,Males,2026,4649,False
+AOS,41073,Christie Downs,Males,2031,4838,False
+AOS,41073,Christie Downs,Males,2036,5051,False
+AOS,41075,Clarendon,Males,2016,1355,False
+AOS,41075,Clarendon,Males,2021,1364,False
+AOS,41075,Clarendon,Males,2026,1384,False
+AOS,41075,Clarendon,Males,2031,1383,False
+AOS,41075,Clarendon,Males,2036,1407,False
+AOS,41076,Coromandel Valley,Males,2016,2277,False
+AOS,41076,Coromandel Valley,Males,2021,2207,False
+AOS,41076,Coromandel Valley,Males,2026,2182,False
+AOS,41076,Coromandel Valley,Males,2031,2179,False
+AOS,41076,Coromandel Valley,Males,2036,2215,False
+AOS,41077,Flagstaff Hill,Males,2016,5441,False
+AOS,41077,Flagstaff Hill,Males,2021,5464,False
+AOS,41077,Flagstaff Hill,Males,2026,5609,False
+AOS,41077,Flagstaff Hill,Males,2031,5775,False
+AOS,41077,Flagstaff Hill,Males,2036,5879,False
+AOS,41078,Hackham - Onkaparinga Hills,Males,2016,3110,False
+AOS,41078,Hackham - Onkaparinga Hills,Males,2021,3190,False
+AOS,41078,Hackham - Onkaparinga Hills,Males,2026,3392,False
+AOS,41078,Hackham - Onkaparinga Hills,Males,2031,3807,False
+AOS,41078,Hackham - Onkaparinga Hills,Males,2036,4338,False
+AOS,41079,Hackham West - Huntfield Heights,Males,2016,3750,False
+AOS,41079,Hackham West - Huntfield Heights,Males,2021,3763,False
+AOS,41079,Hackham West - Huntfield Heights,Males,2026,3773,False
+AOS,41079,Hackham West - Huntfield Heights,Males,2031,3805,False
+AOS,41079,Hackham West - Huntfield Heights,Males,2036,3870,False
+AOS,41083,McLaren Vale,Males,2016,2985,False
+AOS,41083,McLaren Vale,Males,2021,3553,False
+AOS,41083,McLaren Vale,Males,2026,4154,False
+AOS,41083,McLaren Vale,Males,2031,4253,False
+AOS,41083,McLaren Vale,Males,2036,4285,False
+AOS,41084,Morphett Vale - East,Males,2016,6760,False
+AOS,41084,Morphett Vale - East,Males,2021,6822,False
+AOS,41084,Morphett Vale - East,Males,2026,6815,False
+AOS,41084,Morphett Vale - East,Males,2031,6859,False
+AOS,41084,Morphett Vale - East,Males,2036,6917,False
+AOS,41085,Morphett Vale - West,Males,2016,4745,False
+AOS,41085,Morphett Vale - West,Males,2021,4890,False
+AOS,41085,Morphett Vale - West,Males,2026,4895,False
+AOS,41085,Morphett Vale - West,Males,2031,4932,False
+AOS,41085,Morphett Vale - West,Males,2036,4970,False
+AOS,41086,Reynella,Males,2016,5073,False
+AOS,41086,Reynella,Males,2021,5020,False
+AOS,41086,Reynella,Males,2026,5044,False
+AOS,41086,Reynella,Males,2031,5100,False
+AOS,41086,Reynella,Males,2036,5157,False
+AOS,41087,Seaford (SA),Males,2016,11165,False
+AOS,41087,Seaford (SA),Males,2021,12118,False
+AOS,41087,Seaford (SA),Males,2026,12630,False
+AOS,41087,Seaford (SA),Males,2031,13029,False
+AOS,41087,Seaford (SA),Males,2036,13483,False
+AOS,41088,Willunga,Males,2016,1726,False
+AOS,41088,Willunga,Males,2021,1728,False
+AOS,41088,Willunga,Males,2026,1733,False
+AOS,41088,Willunga,Males,2031,1753,False
+AOS,41088,Willunga,Males,2036,1814,False
+AOS,41089,Woodcroft,Males,2016,5605,False
+AOS,41089,Woodcroft,Males,2021,5582,False
+AOS,41089,Woodcroft,Males,2026,5579,False
+AOS,41089,Woodcroft,Males,2031,5610,False
+AOS,41089,Woodcroft,Males,2036,5660,False
+AOS,48001,Christies Beach - Lonsdale,Males,2016,5202,False
+AOS,48001,Christies Beach - Lonsdale,Males,2021,5463,False
+AOS,48001,Christies Beach - Lonsdale,Males,2026,5673,False
+AOS,48001,Christies Beach - Lonsdale,Males,2031,5900,False
+AOS,48001,Christies Beach - Lonsdale,Males,2036,6045,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Males,2016,6807,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Males,2021,6863,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Males,2026,6858,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Males,2031,6892,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Males,2036,6953,False
+AOS,,SUBTOTAL Adelaide - Outer South,Males,2016,84025,True
+AOS,,SUBTOTAL Adelaide - Outer South,Males,2021,86350,True
+AOS,,SUBTOTAL Adelaide - Outer South,Males,2026,89086,True
+AOS,,SUBTOTAL Adelaide - Outer South,Males,2031,91332,True
+AOS,,SUBTOTAL Adelaide - Outer South,Males,2036,93556,True
+AS,,TOTAL Adelaide - South,Males,2016,176815,True
+AS,,TOTAL Adelaide - South,Males,2021,182531,True
+AS,,TOTAL Adelaide - South,Males,2026,188516,True
+AS,,TOTAL Adelaide - South,Males,2031,193889,True
+AS,,TOTAL Adelaide - South,Males,2036,198170,True
+AW,41090,Beverley,Males,2016,3965,False
+AW,41090,Beverley,Males,2021,4287,False
+AW,41090,Beverley,Males,2026,4523,False
+AW,41090,Beverley,Males,2031,4725,False
+AW,41090,Beverley,Males,2036,4900,False
+AW,41091,Flinders Park,Males,2016,7217,False
+AW,41091,Flinders Park,Males,2021,7500,False
+AW,41091,Flinders Park,Males,2026,7924,False
+AW,41091,Flinders Park,Males,2031,8337,False
+AW,41091,Flinders Park,Males,2036,8731,False
+AW,41092,Henley Beach,Males,2016,7623,False
+AW,41092,Henley Beach,Males,2021,7654,False
+AW,41092,Henley Beach,Males,2026,7802,False
+AW,41092,Henley Beach,Males,2031,8009,False
+AW,41092,Henley Beach,Males,2036,8305,False
+AW,41093,Hindmarsh - Brompton,Males,2016,9049,False
+AW,41093,Hindmarsh - Brompton,Males,2021,9687,False
+AW,41093,Hindmarsh - Brompton,Males,2026,10296,False
+AW,41093,Hindmarsh - Brompton,Males,2031,11027,False
+AW,41093,Hindmarsh - Brompton,Males,2036,11871,False
+AW,41094,Royal Park - Hendon - Albert Park,Males,2016,2889,False
+AW,41094,Royal Park - Hendon - Albert Park,Males,2021,3036,False
+AW,41094,Royal Park - Hendon - Albert Park,Males,2026,3076,False
+AW,41094,Royal Park - Hendon - Albert Park,Males,2031,3133,False
+AW,41094,Royal Park - Hendon - Albert Park,Males,2036,3227,False
+AW,41095,Seaton - Grange,Males,2016,8104,False
+AW,41095,Seaton - Grange,Males,2021,8863,False
+AW,41095,Seaton - Grange,Males,2026,9200,False
+AW,41095,Seaton - Grange,Males,2031,9583,False
+AW,41095,Seaton - Grange,Males,2036,9989,False
+AW,41096,West Lakes,Males,2016,7197,False
+AW,41096,West Lakes,Males,2021,7264,False
+AW,41096,West Lakes,Males,2026,7600,False
+AW,41096,West Lakes,Males,2031,8001,False
+AW,41096,West Lakes,Males,2036,8475,False
+AW,41097,Woodville - Cheltenham,Males,2016,8979,False
+AW,41097,Woodville - Cheltenham,Males,2021,9648,False
+AW,41097,Woodville - Cheltenham,Males,2026,10085,False
+AW,41097,Woodville - Cheltenham,Males,2031,10335,False
+AW,41097,Woodville - Cheltenham,Males,2036,10700,False
+AW,41099,Largs Bay - Semaphore,Males,2016,7197,False
+AW,41099,Largs Bay - Semaphore,Males,2021,7241,False
+AW,41099,Largs Bay - Semaphore,Males,2026,7575,False
+AW,41099,Largs Bay - Semaphore,Males,2031,7987,False
+AW,41099,Largs Bay - Semaphore,Males,2036,8257,False
+AW,41101,Port Adelaide,Males,2016,5565,False
+AW,41101,Port Adelaide,Males,2021,5729,False
+AW,41101,Port Adelaide,Males,2026,6178,False
+AW,41101,Port Adelaide,Males,2031,6818,False
+AW,41101,Port Adelaide,Males,2036,7399,False
+AW,41105,Fulham,Males,2016,1340,False
+AW,41105,Fulham,Males,2021,1362,False
+AW,41105,Fulham,Males,2026,1368,False
+AW,41105,Fulham,Males,2031,1386,False
+AW,41105,Fulham,Males,2036,1423,False
+AW,41106,Lockleys,Males,2016,6440,False
+AW,41106,Lockleys,Males,2021,6589,False
+AW,41106,Lockleys,Males,2026,6762,False
+AW,41106,Lockleys,Males,2031,7007,False
+AW,41106,Lockleys,Males,2036,7270,False
+AW,41107,Plympton,Males,2016,12136,False
+AW,41107,Plympton,Males,2021,12597,False
+AW,41107,Plympton,Males,2026,13159,False
+AW,41107,Plympton,Males,2031,13801,False
+AW,41107,Plympton,Males,2036,14537,False
+AW,41108,Richmond (SA),Males,2016,8363,False
+AW,41108,Richmond (SA),Males,2021,8519,False
+AW,41108,Richmond (SA),Males,2026,8982,False
+AW,41108,Richmond (SA),Males,2031,9490,False
+AW,41108,Richmond (SA),Males,2036,9798,False
+AW,48003,North Haven - Torrens Island,Males,2016,7092,False
+AW,48003,North Haven - Torrens Island,Males,2021,7076,False
+AW,48003,North Haven - Torrens Island,Males,2026,7268,False
+AW,48003,North Haven - Torrens Island,Males,2031,7412,False
+AW,48003,North Haven - Torrens Island,Males,2036,7645,False
+AW,48005,The Parks - Dry Creek South,Males,2016,9413,False
+AW,48005,The Parks - Dry Creek South,Males,2021,9621,False
+AW,48005,The Parks - Dry Creek South,Males,2026,10015,False
+AW,48005,The Parks - Dry Creek South,Males,2031,10250,False
+AW,48005,The Parks - Dry Creek South,Males,2036,10593,False
+AW,48007,West Beach - Adelaide Airport,Males,2016,2509,False
+AW,48007,West Beach - Adelaide Airport,Males,2021,2568,False
+AW,48007,West Beach - Adelaide Airport,Males,2026,2616,False
+AW,48007,West Beach - Adelaide Airport,Males,2031,2674,False
+AW,48007,West Beach - Adelaide Airport,Males,2036,2763,False
+AW,,TOTAL Adelaide - West,Males,2016,115078,True
+AW,,TOTAL Adelaide - West,Males,2021,119240,True
+AW,,TOTAL Adelaide - West,Males,2026,124427,True
+AW,,TOTAL Adelaide - West,Males,2031,129976,True
+AW,,TOTAL Adelaide - West,Males,2036,135885,True
+AH,41003,Adelaide Hills,Males,2016,3518,False
+AH,41003,Adelaide Hills,Males,2021,3407,False
+AH,41003,Adelaide Hills,Males,2026,3326,False
+AH,41003,Adelaide Hills,Males,2031,3278,False
+AH,41003,Adelaide Hills,Males,2036,3259,False
+AH,41004,Aldgate - Stirling,Males,2016,8910,False
+AH,41004,Aldgate - Stirling,Males,2021,8783,False
+AH,41004,Aldgate - Stirling,Males,2026,8689,False
+AH,41004,Aldgate - Stirling,Males,2031,8651,False
+AH,41004,Aldgate - Stirling,Males,2036,8613,False
+AH,41005,Hahndorf - Echunga,Males,2016,2247,False
+AH,41005,Hahndorf - Echunga,Males,2021,2205,False
+AH,41005,Hahndorf - Echunga,Males,2026,2210,False
+AH,41005,Hahndorf - Echunga,Males,2031,2239,False
+AH,41005,Hahndorf - Echunga,Males,2036,2271,False
+AH,41006,Lobethal - Woodside,Males,2016,4498,False
+AH,41006,Lobethal - Woodside,Males,2021,4440,False
+AH,41006,Lobethal - Woodside,Males,2026,4424,False
+AH,41006,Lobethal - Woodside,Males,2031,4471,False
+AH,41006,Lobethal - Woodside,Males,2036,4526,False
+AH,41007,Mount Barker,Males,2016,8484,False
+AH,41007,Mount Barker,Males,2021,9821,False
+AH,41007,Mount Barker,Males,2026,11145,False
+AH,41007,Mount Barker,Males,2031,12564,False
+AH,41007,Mount Barker,Males,2036,14005,False
+AH,41008,Mount Barker Region,Males,2016,3202,False
+AH,41008,Mount Barker Region,Males,2021,3243,False
+AH,41008,Mount Barker Region,Males,2026,3342,False
+AH,41008,Mount Barker Region,Males,2031,3410,False
+AH,41008,Mount Barker Region,Males,2036,3502,False
+AH,41009,Nairne,Males,2016,2525,False
+AH,41009,Nairne,Males,2021,2712,False
+AH,41009,Nairne,Males,2026,2879,False
+AH,41009,Nairne,Males,2031,3005,False
+AH,41009,Nairne,Males,2036,3069,False
+AH,41010,Uraidla - Summertown,Males,2016,2830,False
+AH,41010,Uraidla - Summertown,Males,2021,2944,False
+AH,41010,Uraidla - Summertown,Males,2026,3006,False
+AH,41010,Uraidla - Summertown,Males,2031,2944,False
+AH,41010,Uraidla - Summertown,Males,2036,2907,False
+AH,,TOTAL Adelaide Hills,Males,2016,36214,True
+AH,,TOTAL Adelaide Hills,Males,2021,37557,True
+AH,,TOTAL Adelaide Hills,Males,2026,39021,True
+AH,,TOTAL Adelaide Hills,Males,2031,40561,True
+AH,,TOTAL Adelaide Hills,Males,2036,42152,True
+BYMN,41110,Barossa - Angaston,Males,2016,3125,False
+BYMN,41110,Barossa - Angaston,Males,2021,3284,False
+BYMN,41110,Barossa - Angaston,Males,2026,3464,False
+BYMN,41110,Barossa - Angaston,Males,2031,3620,False
+BYMN,41110,Barossa - Angaston,Males,2036,3749,False
+BYMN,41111,Light,Males,2016,4643,False
+BYMN,41111,Light,Males,2021,4918,False
+BYMN,41111,Light,Males,2026,5196,False
+BYMN,41111,Light,Males,2031,5469,False
+BYMN,41111,Light,Males,2036,5697,False
+BYMN,41112,Lyndoch,Males,2016,3210,False
+BYMN,41112,Lyndoch,Males,2021,3348,False
+BYMN,41112,Lyndoch,Males,2026,3469,False
+BYMN,41112,Lyndoch,Males,2031,3603,False
+BYMN,41112,Lyndoch,Males,2036,3714,False
+BYMN,41113,Mallala,Males,2016,1660,False
+BYMN,41113,Mallala,Males,2021,1712,False
+BYMN,41113,Mallala,Males,2026,1742,False
+BYMN,41113,Mallala,Males,2031,1788,False
+BYMN,41113,Mallala,Males,2036,1821,False
+BYMN,41114,Nuriootpa,Males,2016,3210,False
+BYMN,41114,Nuriootpa,Males,2021,3504,False
+BYMN,41114,Nuriootpa,Males,2026,3723,False
+BYMN,41114,Nuriootpa,Males,2031,3908,False
+BYMN,41114,Nuriootpa,Males,2036,4056,False
+BYMN,41115,Tanunda,Males,2016,2292,False
+BYMN,41115,Tanunda,Males,2021,2416,False
+BYMN,41115,Tanunda,Males,2026,2551,False
+BYMN,41115,Tanunda,Males,2031,2666,False
+BYMN,41115,Tanunda,Males,2036,2758,False
+BYMN,41116,Clare,Males,2016,2021,False
+BYMN,41116,Clare,Males,2021,2112,False
+BYMN,41116,Clare,Males,2026,2219,False
+BYMN,41116,Clare,Males,2031,2322,False
+BYMN,41116,Clare,Males,2036,2394,False
+BYMN,41117,Gilbert Valley,Males,2016,2534,False
+BYMN,41117,Gilbert Valley,Males,2021,2646,False
+BYMN,41117,Gilbert Valley,Males,2026,2737,False
+BYMN,41117,Gilbert Valley,Males,2031,2806,False
+BYMN,41117,Gilbert Valley,Males,2036,2868,False
+BYMN,41118,Goyder,Males,2016,2140,False
+BYMN,41118,Goyder,Males,2021,2154,False
+BYMN,41118,Goyder,Males,2026,2189,False
+BYMN,41118,Goyder,Males,2031,2208,False
+BYMN,41118,Goyder,Males,2036,2214,False
+BYMN,41119,Wakefield - Barunga West,Males,2016,4905,False
+BYMN,41119,Wakefield - Barunga West,Males,2021,5051,False
+BYMN,41119,Wakefield - Barunga West,Males,2026,5206,False
+BYMN,41119,Wakefield - Barunga West,Males,2031,5325,False
+BYMN,41119,Wakefield - Barunga West,Males,2036,5422,False
+BYMN,41120,Jamestown,Males,2016,2382,False
+BYMN,41120,Jamestown,Males,2021,2378,False
+BYMN,41120,Jamestown,Males,2026,2393,False
+BYMN,41120,Jamestown,Males,2031,2398,False
+BYMN,41120,Jamestown,Males,2036,2407,False
+BYMN,41121,Peterborough - Mount Remarkable,Males,2016,2757,False
+BYMN,41121,Peterborough - Mount Remarkable,Males,2021,2766,False
+BYMN,41121,Peterborough - Mount Remarkable,Males,2026,2780,False
+BYMN,41121,Peterborough - Mount Remarkable,Males,2031,2784,False
+BYMN,41121,Peterborough - Mount Remarkable,Males,2036,2776,False
+BYMN,41122,Port Pirie,Males,2016,7007,False
+BYMN,41122,Port Pirie,Males,2021,7161,False
+BYMN,41122,Port Pirie,Males,2026,7293,False
+BYMN,41122,Port Pirie,Males,2031,7376,False
+BYMN,41122,Port Pirie,Males,2036,7424,False
+BYMN,41123,Port Pirie Region,Males,2016,1661,False
+BYMN,41123,Port Pirie Region,Males,2021,1701,False
+BYMN,41123,Port Pirie Region,Males,2026,1734,False
+BYMN,41123,Port Pirie Region,Males,2031,1754,False
+BYMN,41123,Port Pirie Region,Males,2036,1773,False
+BYMN,41124,Kadina,Males,2016,2678,False
+BYMN,41124,Kadina,Males,2021,2815,False
+BYMN,41124,Kadina,Males,2026,2950,False
+BYMN,41124,Kadina,Males,2031,3067,False
+BYMN,41124,Kadina,Males,2036,3165,False
+BYMN,41125,Moonta,Males,2016,2463,False
+BYMN,41125,Moonta,Males,2021,2698,False
+BYMN,41125,Moonta,Males,2026,2936,False
+BYMN,41125,Moonta,Males,2031,3156,False
+BYMN,41125,Moonta,Males,2036,3345,False
+BYMN,41126,Wallaroo,Males,2016,2065,False
+BYMN,41126,Wallaroo,Males,2021,2203,False
+BYMN,41126,Wallaroo,Males,2026,2347,False
+BYMN,41126,Wallaroo,Males,2031,2479,False
+BYMN,41126,Wallaroo,Males,2036,2591,False
+BYMN,41127,Yorke Peninsula - North,Males,2016,3709,False
+BYMN,41127,Yorke Peninsula - North,Males,2021,3772,False
+BYMN,41127,Yorke Peninsula - North,Males,2026,3852,False
+BYMN,41127,Yorke Peninsula - North,Males,2031,3922,False
+BYMN,41127,Yorke Peninsula - North,Males,2036,3981,False
+BYMN,41128,Yorke Peninsula - South,Males,2016,2114,False
+BYMN,41128,Yorke Peninsula - South,Males,2021,2095,False
+BYMN,41128,Yorke Peninsula - South,Males,2026,2092,False
+BYMN,41128,Yorke Peninsula - South,Males,2031,2088,False
+BYMN,41128,Yorke Peninsula - South,Males,2036,2081,False
+BYMN,,TOTAL Barossa - Yorke - Mid North,Males,2016,56576,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Males,2021,58735,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Males,2026,60873,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Males,2031,62739,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Males,2036,64236,True
+FKI,41144,Goolwa - Port Elliot,Males,2016,5487,False
+FKI,41144,Goolwa - Port Elliot,Males,2021,5772,False
+FKI,41144,Goolwa - Port Elliot,Males,2026,6094,False
+FKI,41144,Goolwa - Port Elliot,Males,2031,6383,False
+FKI,41144,Goolwa - Port Elliot,Males,2036,6666,False
+FKI,41145,Kangaroo Island,Males,2016,2474,False
+FKI,41145,Kangaroo Island,Males,2021,2556,False
+FKI,41145,Kangaroo Island,Males,2026,2636,False
+FKI,41145,Kangaroo Island,Males,2031,2709,False
+FKI,41145,Kangaroo Island,Males,2036,2784,False
+FKI,41146,Strathalbyn,Males,2016,3474,False
+FKI,41146,Strathalbyn,Males,2021,3779,False
+FKI,41146,Strathalbyn,Males,2026,4123,False
+FKI,41146,Strathalbyn,Males,2031,4445,False
+FKI,41146,Strathalbyn,Males,2036,4759,False
+FKI,41147,Strathalbyn Region,Males,2016,3818,False
+FKI,41147,Strathalbyn Region,Males,2021,4058,False
+FKI,41147,Strathalbyn Region,Males,2026,4327,False
+FKI,41147,Strathalbyn Region,Males,2031,4585,False
+FKI,41147,Strathalbyn Region,Males,2036,4837,False
+FKI,41148,Victor Harbor,Males,2016,6933,False
+FKI,41148,Victor Harbor,Males,2021,7340,False
+FKI,41148,Victor Harbor,Males,2026,7765,False
+FKI,41148,Victor Harbor,Males,2031,8177,False
+FKI,41148,Victor Harbor,Males,2036,8582,False
+FKI,41149,Yankalilla,Males,2016,2873,False
+FKI,41149,Yankalilla,Males,2021,3063,False
+FKI,41149,Yankalilla,Males,2026,3248,False
+FKI,41149,Yankalilla,Males,2031,3416,False
+FKI,41149,Yankalilla,Males,2036,3579,False
+FKI,,TOTAL Fleurieu - Kangaroo Island,Males,2016,25059,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Males,2021,26568,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Males,2026,28193,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Males,2031,29716,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Males,2036,31206,True
+LC,41150,Grant,Males,2016,3392,False
+LC,41150,Grant,Males,2021,3380,False
+LC,41150,Grant,Males,2026,3415,False
+LC,41150,Grant,Males,2031,3448,False
+LC,41150,Grant,Males,2036,3480,False
+LC,41151,Kingston - Robe,Males,2016,1971,False
+LC,41151,Kingston - Robe,Males,2021,1987,False
+LC,41151,Kingston - Robe,Males,2026,2004,False
+LC,41151,Kingston - Robe,Males,2031,2020,False
+LC,41151,Kingston - Robe,Males,2036,2035,False
+LC,41152,Millicent,Males,2016,2670,False
+LC,41152,Millicent,Males,2021,2674,False
+LC,41152,Millicent,Males,2026,2690,False
+LC,41152,Millicent,Males,2031,2696,False
+LC,41152,Millicent,Males,2036,2693,False
+LC,41154,Naracoorte,Males,2016,3212,False
+LC,41154,Naracoorte,Males,2021,3305,False
+LC,41154,Naracoorte,Males,2026,3395,False
+LC,41154,Naracoorte,Males,2031,3471,False
+LC,41154,Naracoorte,Males,2036,3532,False
+LC,41155,Naracoorte Region,Males,2016,1240,False
+LC,41155,Naracoorte Region,Males,2021,1220,False
+LC,41155,Naracoorte Region,Males,2026,1198,False
+LC,41155,Naracoorte Region,Males,2031,1178,False
+LC,41155,Naracoorte Region,Males,2036,1160,False
+LC,41156,Penola,Males,2016,1655,False
+LC,41156,Penola,Males,2021,1651,False
+LC,41156,Penola,Males,2026,1650,False
+LC,41156,Penola,Males,2031,1647,False
+LC,41156,Penola,Males,2036,1642,False
+LC,41157,Tatiara,Males,2016,3574,False
+LC,41157,Tatiara,Males,2021,3583,False
+LC,41157,Tatiara,Males,2026,3585,False
+LC,41157,Tatiara,Males,2031,3585,False
+LC,41157,Tatiara,Males,2036,3580,False
+LC,41158,Wattle Range,Males,2016,1710,False
+LC,41158,Wattle Range,Males,2021,1707,False
+LC,41158,Wattle Range,Males,2026,1714,False
+LC,41158,Wattle Range,Males,2031,1720,False
+LC,41158,Wattle Range,Males,2036,1723,False
+LC,41173,Mount Gambier - East,Males,2016,7370,False
+LC,41173,Mount Gambier - East,Males,2021,7642,False
+LC,41173,Mount Gambier - East,Males,2026,7889,False
+LC,41173,Mount Gambier - East,Males,2031,8074,False
+LC,41173,Mount Gambier - East,Males,2036,8218,False
+LC,41174,Mount Gambier - West,Males,2016,6972,False
+LC,41174,Mount Gambier - West,Males,2021,7250,False
+LC,41174,Mount Gambier - West,Males,2026,7508,False
+LC,41174,Mount Gambier - West,Males,2031,7716,False
+LC,41174,Mount Gambier - West,Males,2036,7878,False
+LC,,TOTAL Limestone Coast,Males,2016,33766,True
+LC,,TOTAL Limestone Coast,Males,2021,34398,True
+LC,,TOTAL Limestone Coast,Males,2026,35048,True
+LC,,TOTAL Limestone Coast,Males,2031,35554,True
+LC,,TOTAL Limestone Coast,Males,2036,35941,True
+MM,41159,Barmera,Males,2016,3372,False
+MM,41159,Barmera,Males,2021,3355,False
+MM,41159,Barmera,Males,2026,3342,False
+MM,41159,Barmera,Males,2031,3314,False
+MM,41159,Barmera,Males,2036,3280,False
+MM,41160,Berri,Males,2016,2066,False
+MM,41160,Berri,Males,2021,2090,False
+MM,41160,Berri,Males,2026,2098,False
+MM,41160,Berri,Males,2031,2093,False
+MM,41160,Berri,Males,2036,2079,False
+MM,41161,Karoonda - Lameroo,Males,2016,1593,False
+MM,41161,Karoonda - Lameroo,Males,2021,1577,False
+MM,41161,Karoonda - Lameroo,Males,2026,1566,False
+MM,41161,Karoonda - Lameroo,Males,2031,1549,False
+MM,41161,Karoonda - Lameroo,Males,2036,1525,False
+MM,41162,Loxton,Males,2016,2673,False
+MM,41162,Loxton,Males,2021,2782,False
+MM,41162,Loxton,Males,2026,2846,False
+MM,41162,Loxton,Males,2031,2892,False
+MM,41162,Loxton,Males,2036,2915,False
+MM,41163,Loxton Region,Males,2016,900,False
+MM,41163,Loxton Region,Males,2021,878,False
+MM,41163,Loxton Region,Males,2026,859,False
+MM,41163,Loxton Region,Males,2031,840,False
+MM,41163,Loxton Region,Males,2036,816,False
+MM,41164,Mannum,Males,2016,3263,False
+MM,41164,Mannum,Males,2021,3335,False
+MM,41164,Mannum,Males,2026,3420,False
+MM,41164,Mannum,Males,2031,3485,False
+MM,41164,Mannum,Males,2036,3534,False
+MM,41165,Murray Bridge,Males,2016,9015,False
+MM,41165,Murray Bridge,Males,2021,9544,False
+MM,41165,Murray Bridge,Males,2026,10120,False
+MM,41165,Murray Bridge,Males,2031,10604,False
+MM,41165,Murray Bridge,Males,2036,11005,False
+MM,41166,Murray Bridge Region,Males,2016,1999,False
+MM,41166,Murray Bridge Region,Males,2021,1996,False
+MM,41166,Murray Bridge Region,Males,2026,2002,False
+MM,41166,Murray Bridge Region,Males,2031,2006,False
+MM,41166,Murray Bridge Region,Males,2036,2010,False
+MM,41167,Renmark,Males,2016,2317,False
+MM,41167,Renmark,Males,2021,2398,False
+MM,41167,Renmark,Males,2026,2471,False
+MM,41167,Renmark,Males,2031,2526,False
+MM,41167,Renmark,Males,2036,2554,False
+MM,41168,Renmark Region,Males,2016,2566,False
+MM,41168,Renmark Region,Males,2021,2555,False
+MM,41168,Renmark Region,Males,2026,2551,False
+MM,41168,Renmark Region,Males,2031,2541,False
+MM,41168,Renmark Region,Males,2036,2521,False
+MM,41169,The Coorong,Males,2016,2827,False
+MM,41169,The Coorong,Males,2021,2842,False
+MM,41169,The Coorong,Males,2026,2837,False
+MM,41169,The Coorong,Males,2031,2821,False
+MM,41169,The Coorong,Males,2036,2796,False
+MM,41170,Waikerie,Males,2016,3585,False
+MM,41170,Waikerie,Males,2021,3573,False
+MM,41170,Waikerie,Males,2026,3584,False
+MM,41170,Waikerie,Males,2031,3591,False
+MM,41170,Waikerie,Males,2036,3587,False
+MM,,TOTAL Murray and Mallee,Males,2016,36176,True
+MM,,TOTAL Murray and Mallee,Males,2021,36924,True
+MM,,TOTAL Murray and Mallee,Males,2026,37698,True
+MM,,TOTAL Murray and Mallee,Males,2031,38263,True
+MM,,TOTAL Murray and Mallee,Males,2036,38622,True
+EPSW,41129,Ceduna,Males,2016,1326,False
+EPSW,41129,Ceduna,Males,2021,1302,False
+EPSW,41129,Ceduna,Males,2026,1299,False
+EPSW,41129,Ceduna,Males,2031,1292,False
+EPSW,41129,Ceduna,Males,2036,1283,False
+EPSW,41130,Eyre Peninsula,Males,2016,3367,False
+EPSW,41130,Eyre Peninsula,Males,2021,3369,False
+EPSW,41130,Eyre Peninsula,Males,2026,3447,False
+EPSW,41130,Eyre Peninsula,Males,2031,3470,False
+EPSW,41130,Eyre Peninsula,Males,2036,3489,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Males,2016,2275,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Males,2021,2195,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Males,2026,2164,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Males,2031,2135,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Males,2036,2106,False
+EPSW,41132,Le Hunte - Elliston,Males,2016,1195,False
+EPSW,41132,Le Hunte - Elliston,Males,2021,1171,False
+EPSW,41132,Le Hunte - Elliston,Males,2026,1159,False
+EPSW,41132,Le Hunte - Elliston,Males,2031,1144,False
+EPSW,41132,Le Hunte - Elliston,Males,2036,1126,False
+EPSW,41133,Port Lincoln,Males,2016,8105,False
+EPSW,41133,Port Lincoln,Males,2021,8241,False
+EPSW,41133,Port Lincoln,Males,2026,8333,False
+EPSW,41133,Port Lincoln,Males,2031,8436,False
+EPSW,41133,Port Lincoln,Males,2036,8535,False
+EPSW,48008,West Coast (SA) - Western,Males,2016,1991,False
+EPSW,48008,West Coast (SA) - Western,Males,2021,1973,False
+EPSW,48008,West Coast (SA) - Western,Males,2026,1958,False
+EPSW,48008,West Coast (SA) - Western,Males,2031,1967,False
+EPSW,48008,West Coast (SA) - Western,Males,2036,1969,False
+EPSW,48009,Whyalla - Whyalla North,Males,2016,11175,False
+EPSW,48009,Whyalla - Whyalla North,Males,2021,11072,False
+EPSW,48009,Whyalla - Whyalla North,Males,2026,11288,False
+EPSW,48009,Whyalla - Whyalla North,Males,2031,11461,False
+EPSW,48009,Whyalla - Whyalla North,Males,2036,11587,False
+EPSW,,TOTAL Eyre Peninsula and South West,Males,2016,29434,True
+EPSW,,TOTAL Eyre Peninsula and South West,Males,2021,29323,True
+EPSW,,TOTAL Eyre Peninsula and South West,Males,2026,29649,True
+EPSW,,TOTAL Eyre Peninsula and South West,Males,2031,29905,True
+EPSW,,TOTAL Eyre Peninsula and South West,Males,2036,30094,True
+ONE,41138,APY Lands,Males,2016,1193,False
+ONE,41138,APY Lands,Males,2021,1204,False
+ONE,41138,APY Lands,Males,2026,1268,False
+ONE,41138,APY Lands,Males,2031,1300,False
+ONE,41138,APY Lands,Males,2036,1327,False
+ONE,41139,Coober Pedy,Males,2016,967,False
+ONE,41139,Coober Pedy,Males,2021,958,False
+ONE,41139,Coober Pedy,Males,2026,944,False
+ONE,41139,Coober Pedy,Males,2031,924,False
+ONE,41139,Coober Pedy,Males,2036,904,False
+ONE,41140,Quorn - Lake Gilles,Males,2016,1116,False
+ONE,41140,Quorn - Lake Gilles,Males,2021,1094,False
+ONE,41140,Quorn - Lake Gilles,Males,2026,1072,False
+ONE,41140,Quorn - Lake Gilles,Males,2031,1060,False
+ONE,41140,Quorn - Lake Gilles,Males,2036,1046,False
+ONE,41141,Outback,Males,2016,1694,False
+ONE,41141,Outback,Males,2021,1488,False
+ONE,41141,Outback,Males,2026,1407,False
+ONE,41141,Outback,Males,2031,1349,False
+ONE,41141,Outback,Males,2036,1305,False
+ONE,41142,Port Augusta,Males,2016,7145,False
+ONE,41142,Port Augusta,Males,2021,7172,False
+ONE,41142,Port Augusta,Males,2026,7325,False
+ONE,41142,Port Augusta,Males,2031,7430,False
+ONE,41142,Port Augusta,Males,2036,7516,False
+ONE,41143,Roxby Downs,Males,2016,2312,False
+ONE,41143,Roxby Downs,Males,2021,2166,False
+ONE,41143,Roxby Downs,Males,2026,2125,False
+ONE,41143,Roxby Downs,Males,2031,2096,False
+ONE,41143,Roxby Downs,Males,2036,2078,False
+ONE,,TOTAL Outback - North and East,Males,2016,14427,True
+ONE,,TOTAL Outback - North and East,Males,2021,14081,True
+ONE,,TOTAL Outback - North and East,Males,2026,14141,True
+ONE,,TOTAL Outback - North and East,Males,2031,14159,True
+ONE,,TOTAL Outback - North and East,Males,2036,14175,True
+,,TOTAL SOUTH AUSTRALIA,Males,2016,846877,True
+,,TOTAL SOUTH AUSTRALIA,Males,2021,879828,True
+,,TOTAL SOUTH AUSTRALIA,Males,2026,915881,True
+,,TOTAL SOUTH AUSTRALIA,Males,2031,950096,True
+,,TOTAL SOUTH AUSTRALIA,Males,2036,981864,True
+IM,41001,Adelaide,Females,2016,7730,False
+IM,41001,Adelaide,Females,2021,10086,False
+IM,41001,Adelaide,Females,2026,11487,False
+IM,41001,Adelaide,Females,2031,13047,False
+IM,41001,Adelaide,Females,2036,14746,False
+IM,41002,North Adelaide,Females,2016,3713,False
+IM,41002,North Adelaide,Females,2021,3734,False
+IM,41002,North Adelaide,Females,2026,3864,False
+IM,41002,North Adelaide,Females,2031,4008,False
+IM,41002,North Adelaide,Females,2036,4122,False
+IM,41011,Burnside - Wattle Park,Females,2016,9906,False
+IM,41011,Burnside - Wattle Park,Females,2021,9882,False
+IM,41011,Burnside - Wattle Park,Females,2026,9911,False
+IM,41011,Burnside - Wattle Park,Females,2031,10016,False
+IM,41011,Burnside - Wattle Park,Females,2036,10144,False
+IM,41012,Glenside - Beaumont,Females,2016,5175,False
+IM,41012,Glenside - Beaumont,Females,2021,5218,False
+IM,41012,Glenside - Beaumont,Females,2026,5250,False
+IM,41012,Glenside - Beaumont,Females,2031,5325,False
+IM,41012,Glenside - Beaumont,Females,2036,5405,False
+IM,41013,Toorak Gardens,Females,2016,8627,False
+IM,41013,Toorak Gardens,Females,2021,8664,False
+IM,41013,Toorak Gardens,Females,2026,9122,False
+IM,41013,Toorak Gardens,Females,2031,9292,False
+IM,41013,Toorak Gardens,Females,2036,9380,False
+IM,41014,Athelstone,Females,2016,4652,False
+IM,41014,Athelstone,Females,2021,4769,False
+IM,41014,Athelstone,Females,2026,4907,False
+IM,41014,Athelstone,Females,2031,5061,False
+IM,41014,Athelstone,Females,2036,5207,False
+IM,41015,Paradise - Newton,Females,2016,10251,False
+IM,41015,Paradise - Newton,Females,2021,10746,False
+IM,41015,Paradise - Newton,Females,2026,11262,False
+IM,41015,Paradise - Newton,Females,2031,11712,False
+IM,41015,Paradise - Newton,Females,2036,12064,False
+IM,41016,Rostrevor - Magill,Females,2016,11397,False
+IM,41016,Rostrevor - Magill,Females,2021,11889,False
+IM,41016,Rostrevor - Magill,Females,2026,12309,False
+IM,41016,Rostrevor - Magill,Females,2031,12707,False
+IM,41016,Rostrevor - Magill,Females,2036,13037,False
+IM,41017,Norwood (SA),Females,2016,5385,False
+IM,41017,Norwood (SA),Females,2021,5658,False
+IM,41017,Norwood (SA),Females,2026,5984,False
+IM,41017,Norwood (SA),Females,2031,6299,False
+IM,41017,Norwood (SA),Females,2036,6549,False
+IM,41018,Payneham - Felixstow,Females,2016,6716,False
+IM,41018,Payneham - Felixstow,Females,2021,6654,False
+IM,41018,Payneham - Felixstow,Females,2026,6724,False
+IM,41018,Payneham - Felixstow,Females,2031,6821,False
+IM,41018,Payneham - Felixstow,Females,2036,6911,False
+IM,41019,St Peters - Marden,Females,2016,6741,False
+IM,41019,St Peters - Marden,Females,2021,6811,False
+IM,41019,St Peters - Marden,Females,2026,6952,False
+IM,41019,St Peters - Marden,Females,2031,7037,False
+IM,41019,St Peters - Marden,Females,2036,7113,False
+IM,41020,Nailsworth - Broadview,Females,2016,3173,False
+IM,41020,Nailsworth - Broadview,Females,2021,3159,False
+IM,41020,Nailsworth - Broadview,Females,2026,3235,False
+IM,41020,Nailsworth - Broadview,Females,2031,3313,False
+IM,41020,Nailsworth - Broadview,Females,2036,3377,False
+IM,41021,Prospect,Females,2016,7309,False
+IM,41021,Prospect,Females,2021,7685,False
+IM,41021,Prospect,Females,2026,8094,False
+IM,41021,Prospect,Females,2031,8433,False
+IM,41021,Prospect,Females,2036,8726,False
+IM,41022,Walkerville,Females,2016,3971,False
+IM,41022,Walkerville,Females,2021,4088,False
+IM,41022,Walkerville,Females,2026,4224,False
+IM,41022,Walkerville,Females,2031,4342,False
+IM,41022,Walkerville,Females,2036,4445,False
+IM,41023,Goodwood - Millswood,Females,2016,9482,False
+IM,41023,Goodwood - Millswood,Females,2021,9288,False
+IM,41023,Goodwood - Millswood,Females,2026,9339,False
+IM,41023,Goodwood - Millswood,Females,2031,9537,False
+IM,41023,Goodwood - Millswood,Females,2036,9750,False
+IM,41024,Unley - Parkside,Females,2016,11002,False
+IM,41024,Unley - Parkside,Females,2021,10862,False
+IM,41024,Unley - Parkside,Females,2026,10980,False
+IM,41024,Unley - Parkside,Females,2031,11219,False
+IM,41024,Unley - Parkside,Females,2036,11461,False
+IM,,TOTAL Inner Metro,Females,2016,115230,True
+IM,,TOTAL Inner Metro,Females,2021,119193,True
+IM,,TOTAL Inner Metro,Females,2026,123645,True
+IM,,TOTAL Inner Metro,Females,2031,128170,True
+IM,,TOTAL Inner Metro,Females,2036,132439,True
+AIN,41036,Enfield - Blair Athol,Females,2016,11410,False
+AIN,41036,Enfield - Blair Athol,Females,2021,12396,False
+AIN,41036,Enfield - Blair Athol,Females,2026,13314,False
+AIN,41036,Enfield - Blair Athol,Females,2031,14081,False
+AIN,41036,Enfield - Blair Athol,Females,2036,14642,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Females,2016,12488,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Females,2021,13999,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Females,2026,15298,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Females,2031,16468,False
+AIN,41037,Northgate - Oakden - Gilles Plains,Females,2036,17421,False
+AIN,41038,Windsor Gardens,Females,2016,10608,False
+AIN,41038,Windsor Gardens,Females,2021,11064,False
+AIN,41038,Windsor Gardens,Females,2026,11798,False
+AIN,41038,Windsor Gardens,Females,2031,12375,False
+AIN,41038,Windsor Gardens,Females,2036,12789,False
+AIN,41040,Ingle Farm,Females,2016,7629,False
+AIN,41040,Ingle Farm,Females,2021,7758,False
+AIN,41040,Ingle Farm,Females,2026,8061,False
+AIN,41040,Ingle Farm,Females,2031,8313,False
+AIN,41040,Ingle Farm,Females,2036,8506,False
+AIN,41041,Para Hills,Females,2016,7370,False
+AIN,41041,Para Hills,Females,2021,7536,False
+AIN,41041,Para Hills,Females,2026,7811,False
+AIN,41041,Para Hills,Females,2031,8045,False
+AIN,41041,Para Hills,Females,2036,8240,False
+AIN,41044,Paralowie,Females,2016,8479,False
+AIN,41044,Paralowie,Females,2021,8911,False
+AIN,41044,Paralowie,Females,2026,9083,False
+AIN,41044,Paralowie,Females,2031,9229,False
+AIN,41044,Paralowie,Females,2036,9392,False
+AIN,41046,Salisbury,Females,2016,8911,False
+AIN,41046,Salisbury,Females,2021,9201,False
+AIN,41046,Salisbury,Females,2026,9544,False
+AIN,41046,Salisbury,Females,2031,9824,False
+AIN,41046,Salisbury,Females,2036,10042,False
+AIN,41047,Salisbury East,Females,2016,8925,False
+AIN,41047,Salisbury East,Females,2021,9094,False
+AIN,41047,Salisbury East,Females,2026,9339,False
+AIN,41047,Salisbury East,Females,2031,9534,False
+AIN,41047,Salisbury East,Females,2036,9702,False
+AIN,41048,Salisbury North,Females,2016,8737,False
+AIN,41048,Salisbury North,Females,2021,9030,False
+AIN,41048,Salisbury North,Females,2026,9266,False
+AIN,41048,Salisbury North,Females,2031,9465,False
+AIN,41048,Salisbury North,Females,2036,9643,False
+AIN,41049,Golden Grove,Females,2016,5426,False
+AIN,41049,Golden Grove,Females,2021,5411,False
+AIN,41049,Golden Grove,Females,2026,5501,False
+AIN,41049,Golden Grove,Females,2031,5563,False
+AIN,41049,Golden Grove,Females,2036,5618,False
+AIN,41050,Greenwith,Females,2016,4648,False
+AIN,41050,Greenwith,Females,2021,4595,False
+AIN,41050,Greenwith,Females,2026,4654,False
+AIN,41050,Greenwith,Females,2031,4699,False
+AIN,41050,Greenwith,Females,2036,4743,False
+AIN,41051,Highbury - Dernancourt,Females,2016,5275,False
+AIN,41051,Highbury - Dernancourt,Females,2021,5454,False
+AIN,41051,Highbury - Dernancourt,Females,2026,5710,False
+AIN,41051,Highbury - Dernancourt,Females,2031,5939,False
+AIN,41051,Highbury - Dernancourt,Females,2036,6115,False
+AIN,41052,Hope Valley - Modbury,Females,2016,8675,False
+AIN,41052,Hope Valley - Modbury,Females,2021,8924,False
+AIN,41052,Hope Valley - Modbury,Females,2026,9361,False
+AIN,41052,Hope Valley - Modbury,Females,2031,9719,False
+AIN,41052,Hope Valley - Modbury,Females,2036,9992,False
+AIN,41053,Modbury Heights,Females,2016,9807,False
+AIN,41053,Modbury Heights,Females,2021,9792,False
+AIN,41053,Modbury Heights,Females,2026,9961,False
+AIN,41053,Modbury Heights,Females,2031,10086,False
+AIN,41053,Modbury Heights,Females,2036,10198,False
+AIN,41054,Redwood Park,Females,2016,8030,False
+AIN,41054,Redwood Park,Females,2021,8199,False
+AIN,41054,Redwood Park,Females,2026,8460,False
+AIN,41054,Redwood Park,Females,2031,8658,False
+AIN,41054,Redwood Park,Females,2036,8817,False
+AIN,41055,St Agnes - Ridgehaven,Females,2016,6455,False
+AIN,41055,St Agnes - Ridgehaven,Females,2021,6709,False
+AIN,41055,St Agnes - Ridgehaven,Females,2026,7066,False
+AIN,41055,St Agnes - Ridgehaven,Females,2031,7365,False
+AIN,41055,St Agnes - Ridgehaven,Females,2036,7606,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Females,2016,6712,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Females,2021,7080,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Females,2026,7354,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Females,2031,7473,False
+AIN,41171,Mawson Lakes - Globe Derby Park,Females,2036,7563,False
+AIN,41172,Pooraka - Cavan,Females,2016,3926,False
+AIN,41172,Pooraka - Cavan,Females,2021,4059,False
+AIN,41172,Pooraka - Cavan,Females,2026,4212,False
+AIN,41172,Pooraka - Cavan,Females,2031,4321,False
+AIN,41172,Pooraka - Cavan,Females,2036,4403,False
+AIN,48004,Parafield Gardens - Parafield,Females,2016,8662,False
+AIN,48004,Parafield Gardens - Parafield,Females,2021,8930,False
+AIN,48004,Parafield Gardens - Parafield,Females,2026,9194,False
+AIN,48004,Parafield Gardens - Parafield,Females,2031,9415,False
+AIN,48004,Parafield Gardens - Parafield,Females,2036,9614,False
+AIN,,SUBTOTAL Adelaide - Inner North,Females,2016,152173,True
+AIN,,SUBTOTAL Adelaide - Inner North,Females,2021,158142,True
+AIN,,SUBTOTAL Adelaide - Inner North,Females,2026,164987,True
+AIN,,SUBTOTAL Adelaide - Inner North,Females,2031,170572,True
+AIN,,SUBTOTAL Adelaide - Inner North,Females,2036,175044,True
+AON,41025,Gawler - North,Females,2016,4697,False
+AON,41025,Gawler - North,Females,2021,4864,False
+AON,41025,Gawler - North,Females,2026,5199,False
+AON,41025,Gawler - North,Females,2031,5575,False
+AON,41025,Gawler - North,Females,2036,5966,False
+AON,41026,Gawler - South,Females,2016,10344,False
+AON,41026,Gawler - South,Females,2021,12001,False
+AON,41026,Gawler - South,Females,2026,13565,False
+AON,41026,Gawler - South,Females,2031,15312,False
+AON,41026,Gawler - South,Females,2036,17120,False
+AON,41027,Lewiston - Two Wells,Females,2016,2708,False
+AON,41027,Lewiston - Two Wells,Females,2021,2944,False
+AON,41027,Lewiston - Two Wells,Females,2026,3024,False
+AON,41027,Lewiston - Two Wells,Females,2031,3082,False
+AON,41027,Lewiston - Two Wells,Females,2036,3149,False
+AON,41028,Craigmore - Blakeview,Females,2016,9356,False
+AON,41028,Craigmore - Blakeview,Females,2021,10441,False
+AON,41028,Craigmore - Blakeview,Females,2026,11664,False
+AON,41028,Craigmore - Blakeview,Females,2031,13003,False
+AON,41028,Craigmore - Blakeview,Females,2036,14500,False
+AON,41029,Davoren Park,Females,2016,9044,False
+AON,41029,Davoren Park,Females,2021,9145,False
+AON,41029,Davoren Park,Females,2026,9467,False
+AON,41029,Davoren Park,Females,2031,9691,False
+AON,41029,Davoren Park,Females,2036,9878,False
+AON,41030,Elizabeth,Females,2016,5259,False
+AON,41030,Elizabeth,Females,2021,5326,False
+AON,41030,Elizabeth,Females,2026,5493,False
+AON,41030,Elizabeth,Females,2031,5623,False
+AON,41030,Elizabeth,Females,2036,5721,False
+AON,41031,Elizabeth East,Females,2016,6555,False
+AON,41031,Elizabeth East,Females,2021,6820,False
+AON,41031,Elizabeth East,Females,2026,7089,False
+AON,41031,Elizabeth East,Females,2031,7297,False
+AON,41031,Elizabeth East,Females,2036,7465,False
+AON,41032,Munno Para West - Angle Vale,Females,2016,6223,False
+AON,41032,Munno Para West - Angle Vale,Females,2021,8332,False
+AON,41032,Munno Para West - Angle Vale,Females,2026,10162,False
+AON,41032,Munno Para West - Angle Vale,Females,2031,12411,False
+AON,41032,Munno Para West - Angle Vale,Females,2036,14712,False
+AON,41033,One Tree Hill,Females,2016,1207,False
+AON,41033,One Tree Hill,Females,2021,1273,False
+AON,41033,One Tree Hill,Females,2026,1314,False
+AON,41033,One Tree Hill,Females,2031,1341,False
+AON,41033,One Tree Hill,Females,2036,1366,False
+AON,41034,Smithfield - Elizabeth North,Females,2016,6172,False
+AON,41034,Smithfield - Elizabeth North,Females,2021,6327,False
+AON,41034,Smithfield - Elizabeth North,Females,2026,6534,False
+AON,41034,Smithfield - Elizabeth North,Females,2031,6708,False
+AON,41034,Smithfield - Elizabeth North,Females,2036,6861,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Females,2016,2077,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Females,2021,2789,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Females,2026,3236,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Females,2031,3787,False
+AON,48006,Virginia - Waterloo Corner - Dry Creek North,Females,2036,4492,False
+AON,,SUBTOTAL Adelaide - Outer North,Females,2016,63642,True
+AON,,SUBTOTAL Adelaide - Outer North,Females,2021,70263,True
+AON,,SUBTOTAL Adelaide - Outer North,Females,2026,76748,True
+AON,,SUBTOTAL Adelaide - Outer North,Females,2031,83833,True
+AON,,SUBTOTAL Adelaide - Outer North,Females,2036,91232,True
+AN,,TOTAL Adelaide - North,Females,2016,215815,True
+AN,,TOTAL Adelaide - North,Females,2021,228404,True
+AN,,TOTAL Adelaide - North,Females,2026,241735,True
+AN,,TOTAL Adelaide - North,Females,2031,254404,True
+AN,,TOTAL Adelaide - North,Females,2036,266276,True
+AIS,41056,Brighton (SA),Females,2016,7429,False
+AIS,41056,Brighton (SA),Females,2021,7539,False
+AIS,41056,Brighton (SA),Females,2026,7665,False
+AIS,41056,Brighton (SA),Females,2031,7816,False
+AIS,41056,Brighton (SA),Females,2036,7939,False
+AIS,41057,Glenelg (SA),Females,2016,10697,False
+AIS,41057,Glenelg (SA),Females,2021,10820,False
+AIS,41057,Glenelg (SA),Females,2026,10986,False
+AIS,41057,Glenelg (SA),Females,2031,11226,False
+AIS,41057,Glenelg (SA),Females,2036,11405,False
+AIS,41058,Edwardstown,Females,2016,7084,False
+AIS,41058,Edwardstown,Females,2021,7312,False
+AIS,41058,Edwardstown,Females,2026,7634,False
+AIS,41058,Edwardstown,Females,2031,7904,False
+AIS,41058,Edwardstown,Females,2036,8108,False
+AIS,41059,Hallett Cove,Females,2016,6377,False
+AIS,41059,Hallett Cove,Females,2021,6514,False
+AIS,41059,Hallett Cove,Females,2026,6575,False
+AIS,41059,Hallett Cove,Females,2031,6661,False
+AIS,41059,Hallett Cove,Females,2036,6775,False
+AIS,41060,Marino - Seaview Downs,Females,2016,4839,False
+AIS,41060,Marino - Seaview Downs,Females,2021,4967,False
+AIS,41060,Marino - Seaview Downs,Females,2026,5282,False
+AIS,41060,Marino - Seaview Downs,Females,2031,5661,False
+AIS,41060,Marino - Seaview Downs,Females,2036,5741,False
+AIS,41061,Mitchell Park,Females,2016,8093,False
+AIS,41061,Mitchell Park,Females,2021,8611,False
+AIS,41061,Mitchell Park,Females,2026,9241,False
+AIS,41061,Mitchell Park,Females,2031,9950,False
+AIS,41061,Mitchell Park,Females,2036,10253,False
+AIS,41062,Morphettville,Females,2016,7825,False
+AIS,41062,Morphettville,Females,2021,8363,False
+AIS,41062,Morphettville,Females,2026,8819,False
+AIS,41062,Morphettville,Females,2031,9225,False
+AIS,41062,Morphettville,Females,2036,9513,False
+AIS,41063,Sheidow Park - Trott Park,Females,2016,5239,False
+AIS,41063,Sheidow Park - Trott Park,Females,2021,5461,False
+AIS,41063,Sheidow Park - Trott Park,Females,2026,5708,False
+AIS,41063,Sheidow Park - Trott Park,Females,2031,5915,False
+AIS,41063,Sheidow Park - Trott Park,Females,2036,5977,False
+AIS,41064,Warradale,Females,2016,8023,False
+AIS,41064,Warradale,Females,2021,8849,False
+AIS,41064,Warradale,Females,2026,9219,False
+AIS,41064,Warradale,Females,2031,9515,False
+AIS,41064,Warradale,Females,2036,9627,False
+AIS,41065,Belair,Females,2016,2395,False
+AIS,41065,Belair,Females,2021,2411,False
+AIS,41065,Belair,Females,2026,2423,False
+AIS,41065,Belair,Females,2031,2447,False
+AIS,41065,Belair,Females,2036,2507,False
+AIS,41066,Bellevue Heights,Females,2016,3954,False
+AIS,41066,Bellevue Heights,Females,2021,3970,False
+AIS,41066,Bellevue Heights,Females,2026,4116,False
+AIS,41066,Bellevue Heights,Females,2031,4383,False
+AIS,41066,Bellevue Heights,Females,2036,4784,False
+AIS,41067,Blackwood,Females,2016,6218,False
+AIS,41067,Blackwood,Females,2021,6484,False
+AIS,41067,Blackwood,Females,2026,6823,False
+AIS,41067,Blackwood,Females,2031,6926,False
+AIS,41067,Blackwood,Females,2036,7099,False
+AIS,41068,Colonel Light Gardens,Females,2016,8318,False
+AIS,41068,Colonel Light Gardens,Females,2021,8204,False
+AIS,41068,Colonel Light Gardens,Females,2026,8204,False
+AIS,41068,Colonel Light Gardens,Females,2031,8271,False
+AIS,41068,Colonel Light Gardens,Females,2036,8341,False
+AIS,41069,Mitcham (SA),Females,2016,8476,False
+AIS,41069,Mitcham (SA),Females,2021,8472,False
+AIS,41069,Mitcham (SA),Females,2026,8533,False
+AIS,41069,Mitcham (SA),Females,2031,8648,False
+AIS,41069,Mitcham (SA),Females,2036,8792,False
+AIS,41070,Panorama,Females,2016,4242,False
+AIS,41070,Panorama,Females,2021,4360,False
+AIS,41070,Panorama,Females,2026,4445,False
+AIS,41070,Panorama,Females,2031,4524,False
+AIS,41070,Panorama,Females,2036,4581,False
+AIS,,SUBTOTAL Adelaide - Inner South,Females,2016,99209,True
+AIS,,SUBTOTAL Adelaide - Inner South,Females,2021,102335,True
+AIS,,SUBTOTAL Adelaide - Inner South,Females,2026,105674,True
+AIS,,SUBTOTAL Adelaide - Inner South,Females,2031,109074,True
+AIS,,SUBTOTAL Adelaide - Inner South,Females,2036,111443,True
+AOS,41071,Aberfoyle Park,Females,2016,6081,False
+AOS,41071,Aberfoyle Park,Females,2021,6040,False
+AOS,41071,Aberfoyle Park,Females,2026,6056,False
+AOS,41071,Aberfoyle Park,Females,2031,6098,False
+AOS,41071,Aberfoyle Park,Females,2036,6148,False
+AOS,41072,Aldinga,Females,2016,8007,False
+AOS,41072,Aldinga,Females,2021,8389,False
+AOS,41072,Aldinga,Females,2026,9446,False
+AOS,41072,Aldinga,Females,2031,9952,False
+AOS,41072,Aldinga,Females,2036,10234,False
+AOS,41073,Christie Downs,Females,2016,4877,False
+AOS,41073,Christie Downs,Females,2021,4896,False
+AOS,41073,Christie Downs,Females,2026,4937,False
+AOS,41073,Christie Downs,Females,2031,5149,False
+AOS,41073,Christie Downs,Females,2036,5377,False
+AOS,41075,Clarendon,Females,2016,1384,False
+AOS,41075,Clarendon,Females,2021,1397,False
+AOS,41075,Clarendon,Females,2026,1428,False
+AOS,41075,Clarendon,Females,2031,1443,False
+AOS,41075,Clarendon,Females,2036,1480,False
+AOS,41076,Coromandel Valley,Females,2016,2158,False
+AOS,41076,Coromandel Valley,Females,2021,2184,False
+AOS,41076,Coromandel Valley,Females,2026,2226,False
+AOS,41076,Coromandel Valley,Females,2031,2268,False
+AOS,41076,Coromandel Valley,Females,2036,2331,False
+AOS,41077,Flagstaff Hill,Females,2016,5330,False
+AOS,41077,Flagstaff Hill,Females,2021,5519,False
+AOS,41077,Flagstaff Hill,Females,2026,5764,False
+AOS,41077,Flagstaff Hill,Females,2031,6007,False
+AOS,41077,Flagstaff Hill,Females,2036,6168,False
+AOS,41078,Hackham - Onkaparinga Hills,Females,2016,3242,False
+AOS,41078,Hackham - Onkaparinga Hills,Females,2021,3340,False
+AOS,41078,Hackham - Onkaparinga Hills,Females,2026,3561,False
+AOS,41078,Hackham - Onkaparinga Hills,Females,2031,4006,False
+AOS,41078,Hackham - Onkaparinga Hills,Females,2036,4569,False
+AOS,41079,Hackham West - Huntfield Heights,Females,2016,3901,False
+AOS,41079,Hackham West - Huntfield Heights,Females,2021,3965,False
+AOS,41079,Hackham West - Huntfield Heights,Females,2026,4008,False
+AOS,41079,Hackham West - Huntfield Heights,Females,2031,4059,False
+AOS,41079,Hackham West - Huntfield Heights,Females,2036,4131,False
+AOS,41083,McLaren Vale,Females,2016,3105,False
+AOS,41083,McLaren Vale,Females,2021,3707,False
+AOS,41083,McLaren Vale,Females,2026,4351,False
+AOS,41083,McLaren Vale,Females,2031,4489,False
+AOS,41083,McLaren Vale,Females,2036,4547,False
+AOS,41084,Morphett Vale - East,Females,2016,6979,False
+AOS,41084,Morphett Vale - East,Females,2021,7172,False
+AOS,41084,Morphett Vale - East,Females,2026,7232,False
+AOS,41084,Morphett Vale - East,Females,2031,7321,False
+AOS,41084,Morphett Vale - East,Females,2036,7404,False
+AOS,41085,Morphett Vale - West,Females,2016,4846,False
+AOS,41085,Morphett Vale - West,Females,2021,5092,False
+AOS,41085,Morphett Vale - West,Females,2026,5159,False
+AOS,41085,Morphett Vale - West,Females,2031,5235,False
+AOS,41085,Morphett Vale - West,Females,2036,5293,False
+AOS,41086,Reynella,Females,2016,5158,False
+AOS,41086,Reynella,Females,2021,5210,False
+AOS,41086,Reynella,Females,2026,5289,False
+AOS,41086,Reynella,Females,2031,5384,False
+AOS,41086,Reynella,Females,2036,5467,False
+AOS,41087,Seaford (SA),Females,2016,11663,False
+AOS,41087,Seaford (SA),Females,2021,12665,False
+AOS,41087,Seaford (SA),Females,2026,13231,False
+AOS,41087,Seaford (SA),Females,2031,13685,False
+AOS,41087,Seaford (SA),Females,2036,14179,False
+AOS,41088,Willunga,Females,2016,1744,False
+AOS,41088,Willunga,Females,2021,1793,False
+AOS,41088,Willunga,Females,2026,1812,False
+AOS,41088,Willunga,Females,2031,1837,False
+AOS,41088,Willunga,Females,2036,1905,False
+AOS,41089,Woodcroft,Females,2016,5953,False
+AOS,41089,Woodcroft,Females,2021,5935,False
+AOS,41089,Woodcroft,Females,2026,5944,False
+AOS,41089,Woodcroft,Females,2031,5987,False
+AOS,41089,Woodcroft,Females,2036,6044,False
+AOS,48001,Christies Beach - Lonsdale,Females,2016,5210,False
+AOS,48001,Christies Beach - Lonsdale,Females,2021,5599,False
+AOS,48001,Christies Beach - Lonsdale,Females,2026,5899,False
+AOS,48001,Christies Beach - Lonsdale,Females,2031,6193,False
+AOS,48001,Christies Beach - Lonsdale,Females,2036,6384,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Females,2016,7023,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Females,2021,7115,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Females,2026,7140,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Females,2031,7207,False
+AOS,48002,Happy Valley - Happy Valley Reservoir,Females,2036,7299,False
+AOS,,SUBTOTAL Adelaide - Outer South,Females,2016,86661,True
+AOS,,SUBTOTAL Adelaide - Outer South,Females,2021,90017,True
+AOS,,SUBTOTAL Adelaide - Outer South,Females,2026,93483,True
+AOS,,SUBTOTAL Adelaide - Outer South,Females,2031,96320,True
+AOS,,SUBTOTAL Adelaide - Outer South,Females,2036,98960,True
+AS,,TOTAL Adelaide - South,Females,2016,185870,True
+AS,,TOTAL Adelaide - South,Females,2021,192352,True
+AS,,TOTAL Adelaide - South,Females,2026,199157,True
+AS,,TOTAL Adelaide - South,Females,2031,205395,True
+AS,,TOTAL Adelaide - South,Females,2036,210403,True
+AW,41090,Beverley,Females,2016,3971,False
+AW,41090,Beverley,Females,2021,4298,False
+AW,41090,Beverley,Females,2026,4550,False
+AW,41090,Beverley,Females,2031,4771,False
+AW,41090,Beverley,Females,2036,4964,False
+AW,41091,Flinders Park,Females,2016,7649,False
+AW,41091,Flinders Park,Females,2021,7942,False
+AW,41091,Flinders Park,Females,2026,8366,False
+AW,41091,Flinders Park,Females,2031,8775,False
+AW,41091,Flinders Park,Females,2036,9169,False
+AW,41092,Henley Beach,Females,2016,7650,False
+AW,41092,Henley Beach,Females,2021,7817,False
+AW,41092,Henley Beach,Females,2026,8051,False
+AW,41092,Henley Beach,Females,2031,8307,False
+AW,41092,Henley Beach,Females,2036,8631,False
+AW,41093,Hindmarsh - Brompton,Females,2016,9109,False
+AW,41093,Hindmarsh - Brompton,Females,2021,9805,False
+AW,41093,Hindmarsh - Brompton,Females,2026,10432,False
+AW,41093,Hindmarsh - Brompton,Females,2031,11185,False
+AW,41093,Hindmarsh - Brompton,Females,2036,12053,False
+AW,41094,Royal Park - Hendon - Albert Park,Females,2016,3121,False
+AW,41094,Royal Park - Hendon - Albert Park,Females,2021,3194,False
+AW,41094,Royal Park - Hendon - Albert Park,Females,2026,3195,False
+AW,41094,Royal Park - Hendon - Albert Park,Females,2031,3229,False
+AW,41094,Royal Park - Hendon - Albert Park,Females,2036,3310,False
+AW,41095,Seaton - Grange,Females,2016,8701,False
+AW,41095,Seaton - Grange,Females,2021,9388,False
+AW,41095,Seaton - Grange,Females,2026,9697,False
+AW,41095,Seaton - Grange,Females,2031,10076,False
+AW,41095,Seaton - Grange,Females,2036,10494,False
+AW,41096,West Lakes,Females,2016,7644,False
+AW,41096,West Lakes,Females,2021,7772,False
+AW,41096,West Lakes,Females,2026,8130,False
+AW,41096,West Lakes,Females,2031,8549,False
+AW,41096,West Lakes,Females,2036,9041,False
+AW,41097,Woodville - Cheltenham,Females,2016,8950,False
+AW,41097,Woodville - Cheltenham,Females,2021,9714,False
+AW,41097,Woodville - Cheltenham,Females,2026,10204,False
+AW,41097,Woodville - Cheltenham,Females,2031,10501,False
+AW,41097,Woodville - Cheltenham,Females,2036,10906,False
+AW,41099,Largs Bay - Semaphore,Females,2016,7627,False
+AW,41099,Largs Bay - Semaphore,Females,2021,7618,False
+AW,41099,Largs Bay - Semaphore,Females,2026,7939,False
+AW,41099,Largs Bay - Semaphore,Females,2031,8363,False
+AW,41099,Largs Bay - Semaphore,Females,2036,8656,False
+AW,41101,Port Adelaide,Females,2016,5422,False
+AW,41101,Port Adelaide,Females,2021,5727,False
+AW,41101,Port Adelaide,Females,2026,6237,False
+AW,41101,Port Adelaide,Females,2031,6914,False
+AW,41101,Port Adelaide,Females,2036,7525,False
+AW,41105,Fulham,Females,2016,1412,False
+AW,41105,Fulham,Females,2021,1424,False
+AW,41105,Fulham,Females,2026,1430,False
+AW,41105,Fulham,Females,2031,1452,False
+AW,41105,Fulham,Females,2036,1494,False
+AW,41106,Lockleys,Females,2016,6576,False
+AW,41106,Lockleys,Females,2021,6799,False
+AW,41106,Lockleys,Females,2026,6992,False
+AW,41106,Lockleys,Females,2031,7236,False
+AW,41106,Lockleys,Females,2036,7501,False
+AW,41107,Plympton,Females,2016,12692,False
+AW,41107,Plympton,Females,2021,13056,False
+AW,41107,Plympton,Females,2026,13577,False
+AW,41107,Plympton,Females,2031,14225,False
+AW,41107,Plympton,Females,2036,14980,False
+AW,41108,Richmond (SA),Females,2016,8612,False
+AW,41108,Richmond (SA),Females,2021,8740,False
+AW,41108,Richmond (SA),Females,2026,9189,False
+AW,41108,Richmond (SA),Females,2031,9697,False
+AW,41108,Richmond (SA),Females,2036,10021,False
+AW,48003,North Haven - Torrens Island,Females,2016,7461,False
+AW,48003,North Haven - Torrens Island,Females,2021,7418,False
+AW,48003,North Haven - Torrens Island,Females,2026,7622,False
+AW,48003,North Haven - Torrens Island,Females,2031,7791,False
+AW,48003,North Haven - Torrens Island,Females,2036,8049,False
+AW,48005,The Parks - Dry Creek South,Females,2016,9547,False
+AW,48005,The Parks - Dry Creek South,Females,2021,9820,False
+AW,48005,The Parks - Dry Creek South,Females,2026,10269,False
+AW,48005,The Parks - Dry Creek South,Females,2031,10560,False
+AW,48005,The Parks - Dry Creek South,Females,2036,10953,False
+AW,48007,West Beach - Adelaide Airport,Females,2016,2609,False
+AW,48007,West Beach - Adelaide Airport,Females,2021,2654,False
+AW,48007,West Beach - Adelaide Airport,Females,2026,2711,False
+AW,48007,West Beach - Adelaide Airport,Females,2031,2783,False
+AW,48007,West Beach - Adelaide Airport,Females,2036,2881,False
+AW,,TOTAL Adelaide - West,Females,2016,118753,True
+AW,,TOTAL Adelaide - West,Females,2021,123185,True
+AW,,TOTAL Adelaide - West,Females,2026,128591,True
+AW,,TOTAL Adelaide - West,Females,2031,134414,True
+AW,,TOTAL Adelaide - West,Females,2036,140628,True
+AH,41003,Adelaide Hills,Females,2016,3396,False
+AH,41003,Adelaide Hills,Females,2021,3376,False
+AH,41003,Adelaide Hills,Females,2026,3369,False
+AH,41003,Adelaide Hills,Females,2031,3373,False
+AH,41003,Adelaide Hills,Females,2036,3389,False
+AH,41004,Aldgate - Stirling,Females,2016,9056,False
+AH,41004,Aldgate - Stirling,Females,2021,9056,False
+AH,41004,Aldgate - Stirling,Females,2026,9024,False
+AH,41004,Aldgate - Stirling,Females,2031,9001,False
+AH,41004,Aldgate - Stirling,Females,2036,8954,False
+AH,41005,Hahndorf - Echunga,Females,2016,2303,False
+AH,41005,Hahndorf - Echunga,Females,2021,2310,False
+AH,41005,Hahndorf - Echunga,Females,2026,2349,False
+AH,41005,Hahndorf - Echunga,Females,2031,2406,False
+AH,41005,Hahndorf - Echunga,Females,2036,2459,False
+AH,41006,Lobethal - Woodside,Females,2016,4603,False
+AH,41006,Lobethal - Woodside,Females,2021,4617,False
+AH,41006,Lobethal - Woodside,Females,2026,4626,False
+AH,41006,Lobethal - Woodside,Females,2031,4678,False
+AH,41006,Lobethal - Woodside,Females,2036,4738,False
+AH,41007,Mount Barker,Females,2016,9155,False
+AH,41007,Mount Barker,Females,2021,10395,False
+AH,41007,Mount Barker,Females,2026,11688,False
+AH,41007,Mount Barker,Females,2031,13085,False
+AH,41007,Mount Barker,Females,2036,14520,False
+AH,41008,Mount Barker Region,Females,2016,3139,False
+AH,41008,Mount Barker Region,Females,2021,3230,False
+AH,41008,Mount Barker Region,Females,2026,3375,False
+AH,41008,Mount Barker Region,Females,2031,3485,False
+AH,41008,Mount Barker Region,Females,2036,3616,False
+AH,41009,Nairne,Females,2016,2599,False
+AH,41009,Nairne,Females,2021,2783,False
+AH,41009,Nairne,Females,2026,2957,False
+AH,41009,Nairne,Females,2031,3092,False
+AH,41009,Nairne,Females,2036,3159,False
+AH,41010,Uraidla - Summertown,Females,2016,2699,False
+AH,41010,Uraidla - Summertown,Females,2021,2871,False
+AH,41010,Uraidla - Summertown,Females,2026,2981,False
+AH,41010,Uraidla - Summertown,Females,2031,2960,False
+AH,41010,Uraidla - Summertown,Females,2036,2945,False
+AH,,TOTAL Adelaide Hills,Females,2016,36950,True
+AH,,TOTAL Adelaide Hills,Females,2021,38638,True
+AH,,TOTAL Adelaide Hills,Females,2026,40369,True
+AH,,TOTAL Adelaide Hills,Females,2031,42081,True
+AH,,TOTAL Adelaide Hills,Females,2036,43780,True
+BYMN,41110,Barossa - Angaston,Females,2016,3141,False
+BYMN,41110,Barossa - Angaston,Females,2021,3230,False
+BYMN,41110,Barossa - Angaston,Females,2026,3353,False
+BYMN,41110,Barossa - Angaston,Females,2031,3467,False
+BYMN,41110,Barossa - Angaston,Females,2036,3566,False
+BYMN,41111,Light,Females,2016,4544,False
+BYMN,41111,Light,Females,2021,4731,False
+BYMN,41111,Light,Females,2026,4966,False
+BYMN,41111,Light,Females,2031,5199,False
+BYMN,41111,Light,Females,2036,5394,False
+BYMN,41112,Lyndoch,Females,2016,3108,False
+BYMN,41112,Lyndoch,Females,2021,3220,False
+BYMN,41112,Lyndoch,Females,2026,3318,False
+BYMN,41112,Lyndoch,Females,2031,3428,False
+BYMN,41112,Lyndoch,Females,2036,3522,False
+BYMN,41113,Mallala,Females,2016,1566,False
+BYMN,41113,Mallala,Females,2021,1612,False
+BYMN,41113,Mallala,Females,2026,1644,False
+BYMN,41113,Mallala,Females,2031,1690,False
+BYMN,41113,Mallala,Females,2036,1725,False
+BYMN,41114,Nuriootpa,Females,2016,3513,False
+BYMN,41114,Nuriootpa,Females,2021,3644,False
+BYMN,41114,Nuriootpa,Females,2026,3737,False
+BYMN,41114,Nuriootpa,Females,2031,3829,False
+BYMN,41114,Nuriootpa,Females,2036,3911,False
+BYMN,41115,Tanunda,Females,2016,2412,False
+BYMN,41115,Tanunda,Females,2021,2453,False
+BYMN,41115,Tanunda,Females,2026,2520,False
+BYMN,41115,Tanunda,Females,2031,2581,False
+BYMN,41115,Tanunda,Females,2036,2633,False
+BYMN,41116,Clare,Females,2016,2149,False
+BYMN,41116,Clare,Females,2021,2151,False
+BYMN,41116,Clare,Females,2026,2193,False
+BYMN,41116,Clare,Females,2031,2249,False
+BYMN,41116,Clare,Females,2036,2288,False
+BYMN,41117,Gilbert Valley,Females,2016,2457,False
+BYMN,41117,Gilbert Valley,Females,2021,2535,False
+BYMN,41117,Gilbert Valley,Females,2026,2613,False
+BYMN,41117,Gilbert Valley,Females,2031,2676,False
+BYMN,41117,Gilbert Valley,Females,2036,2730,False
+BYMN,41118,Goyder,Females,2016,2124,False
+BYMN,41118,Goyder,Females,2021,2105,False
+BYMN,41118,Goyder,Females,2026,2101,False
+BYMN,41118,Goyder,Females,2031,2093,False
+BYMN,41118,Goyder,Females,2036,2089,False
+BYMN,41119,Wakefield - Barunga West,Females,2016,4746,False
+BYMN,41119,Wakefield - Barunga West,Females,2021,4837,False
+BYMN,41119,Wakefield - Barunga West,Females,2026,4948,False
+BYMN,41119,Wakefield - Barunga West,Females,2031,5048,False
+BYMN,41119,Wakefield - Barunga West,Females,2036,5137,False
+BYMN,41120,Jamestown,Females,2016,2279,False
+BYMN,41120,Jamestown,Females,2021,2272,False
+BYMN,41120,Jamestown,Females,2026,2277,False
+BYMN,41120,Jamestown,Females,2031,2273,False
+BYMN,41120,Jamestown,Females,2036,2277,False
+BYMN,41121,Peterborough - Mount Remarkable,Females,2016,2749,False
+BYMN,41121,Peterborough - Mount Remarkable,Females,2021,2721,False
+BYMN,41121,Peterborough - Mount Remarkable,Females,2026,2718,False
+BYMN,41121,Peterborough - Mount Remarkable,Females,2031,2714,False
+BYMN,41121,Peterborough - Mount Remarkable,Females,2036,2703,False
+BYMN,41122,Port Pirie,Females,2016,7340,False
+BYMN,41122,Port Pirie,Females,2021,7261,False
+BYMN,41122,Port Pirie,Females,2026,7231,False
+BYMN,41122,Port Pirie,Females,2031,7200,False
+BYMN,41122,Port Pirie,Females,2036,7166,False
+BYMN,41123,Port Pirie Region,Females,2016,1704,False
+BYMN,41123,Port Pirie Region,Females,2021,1713,False
+BYMN,41123,Port Pirie Region,Females,2026,1718,False
+BYMN,41123,Port Pirie Region,Females,2031,1714,False
+BYMN,41123,Port Pirie Region,Females,2036,1717,False
+BYMN,41124,Kadina,Females,2016,2738,False
+BYMN,41124,Kadina,Females,2021,2807,False
+BYMN,41124,Kadina,Females,2026,2890,False
+BYMN,41124,Kadina,Females,2031,2969,False
+BYMN,41124,Kadina,Females,2036,3035,False
+BYMN,41125,Moonta,Females,2016,2475,False
+BYMN,41125,Moonta,Females,2021,2671,False
+BYMN,41125,Moonta,Females,2026,2881,False
+BYMN,41125,Moonta,Females,2031,3077,False
+BYMN,41125,Moonta,Females,2036,3248,False
+BYMN,41126,Wallaroo,Females,2016,2058,False
+BYMN,41126,Wallaroo,Females,2021,2167,False
+BYMN,41126,Wallaroo,Females,2026,2300,False
+BYMN,41126,Wallaroo,Females,2031,2419,False
+BYMN,41126,Wallaroo,Females,2036,2516,False
+BYMN,41127,Yorke Peninsula - North,Females,2016,3552,False
+BYMN,41127,Yorke Peninsula - North,Females,2021,3623,False
+BYMN,41127,Yorke Peninsula - North,Females,2026,3704,False
+BYMN,41127,Yorke Peninsula - North,Females,2031,3773,False
+BYMN,41127,Yorke Peninsula - North,Females,2036,3834,False
+BYMN,41128,Yorke Peninsula - South,Females,2016,1916,False
+BYMN,41128,Yorke Peninsula - South,Females,2021,1922,False
+BYMN,41128,Yorke Peninsula - South,Females,2026,1950,False
+BYMN,41128,Yorke Peninsula - South,Females,2031,1971,False
+BYMN,41128,Yorke Peninsula - South,Females,2036,1982,False
+BYMN,,TOTAL Barossa - Yorke - Mid North,Females,2016,56571,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Females,2021,57674,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Females,2026,59062,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Females,2031,60370,True
+BYMN,,TOTAL Barossa - Yorke - Mid North,Females,2036,61473,True
+FKI,41144,Goolwa - Port Elliot,Females,2016,5948,False
+FKI,41144,Goolwa - Port Elliot,Females,2021,6326,False
+FKI,41144,Goolwa - Port Elliot,Females,2026,6737,False
+FKI,41144,Goolwa - Port Elliot,Females,2031,7104,False
+FKI,41144,Goolwa - Port Elliot,Females,2036,7446,False
+FKI,41145,Kangaroo Island,Females,2016,2362,False
+FKI,41145,Kangaroo Island,Females,2021,2538,False
+FKI,41145,Kangaroo Island,Females,2026,2702,False
+FKI,41145,Kangaroo Island,Females,2031,2852,False
+FKI,41145,Kangaroo Island,Females,2036,2993,False
+FKI,41146,Strathalbyn,Females,2016,3817,False
+FKI,41146,Strathalbyn,Females,2021,4129,False
+FKI,41146,Strathalbyn,Females,2026,4498,False
+FKI,41146,Strathalbyn,Females,2031,4850,False
+FKI,41146,Strathalbyn,Females,2036,5192,False
+FKI,41147,Strathalbyn Region,Females,2016,3728,False
+FKI,41147,Strathalbyn Region,Females,2021,4093,False
+FKI,41147,Strathalbyn Region,Females,2026,4469,False
+FKI,41147,Strathalbyn Region,Females,2031,4817,False
+FKI,41147,Strathalbyn Region,Females,2036,5145,False
+FKI,41148,Victor Harbor,Females,2016,7786,False
+FKI,41148,Victor Harbor,Females,2021,8367,False
+FKI,41148,Victor Harbor,Females,2026,8926,False
+FKI,41148,Victor Harbor,Females,2031,9443,False
+FKI,41148,Victor Harbor,Females,2036,9921,False
+FKI,41149,Yankalilla,Females,2016,2985,False
+FKI,41149,Yankalilla,Females,2021,3215,False
+FKI,41149,Yankalilla,Females,2026,3459,False
+FKI,41149,Yankalilla,Females,2031,3691,False
+FKI,41149,Yankalilla,Females,2036,3911,False
+FKI,,TOTAL Fleurieu - Kangaroo Island,Females,2016,26626,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Females,2021,28668,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Females,2026,30791,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Females,2031,32757,True
+FKI,,TOTAL Fleurieu - Kangaroo Island,Females,2036,34609,True
+LC,41150,Grant,Females,2016,2592,False
+LC,41150,Grant,Females,2021,2776,False
+LC,41150,Grant,Females,2026,2936,False
+LC,41150,Grant,Females,2031,3070,False
+LC,41150,Grant,Females,2036,3178,False
+LC,41151,Kingston - Robe,Females,2016,1857,False
+LC,41151,Kingston - Robe,Females,2021,1910,False
+LC,41151,Kingston - Robe,Females,2026,1950,False
+LC,41151,Kingston - Robe,Females,2031,1982,False
+LC,41151,Kingston - Robe,Females,2036,2006,False
+LC,41152,Millicent,Females,2016,2726,False
+LC,41152,Millicent,Females,2021,2703,False
+LC,41152,Millicent,Females,2026,2695,False
+LC,41152,Millicent,Females,2031,2684,False
+LC,41152,Millicent,Females,2036,2671,False
+LC,41154,Naracoorte,Females,2016,2996,False
+LC,41154,Naracoorte,Females,2021,3088,False
+LC,41154,Naracoorte,Females,2026,3165,False
+LC,41154,Naracoorte,Females,2031,3228,False
+LC,41154,Naracoorte,Females,2036,3279,False
+LC,41155,Naracoorte Region,Females,2016,1096,False
+LC,41155,Naracoorte Region,Females,2021,1110,False
+LC,41155,Naracoorte Region,Females,2026,1115,False
+LC,41155,Naracoorte Region,Females,2031,1118,False
+LC,41155,Naracoorte Region,Females,2036,1117,False
+LC,41156,Penola,Females,2016,1572,False
+LC,41156,Penola,Females,2021,1578,False
+LC,41156,Penola,Females,2026,1594,False
+LC,41156,Penola,Females,2031,1605,False
+LC,41156,Penola,Females,2036,1611,False
+LC,41157,Tatiara,Females,2016,3243,False
+LC,41157,Tatiara,Females,2021,3309,False
+LC,41157,Tatiara,Females,2026,3336,False
+LC,41157,Tatiara,Females,2031,3350,False
+LC,41157,Tatiara,Females,2036,3354,False
+LC,41158,Wattle Range,Females,2016,1651,False
+LC,41158,Wattle Range,Females,2021,1661,False
+LC,41158,Wattle Range,Females,2026,1683,False
+LC,41158,Wattle Range,Females,2031,1699,False
+LC,41158,Wattle Range,Females,2036,1710,False
+LC,41173,Mount Gambier - East,Females,2016,7740,False
+LC,41173,Mount Gambier - East,Females,2021,7799,False
+LC,41173,Mount Gambier - East,Females,2026,7937,False
+LC,41173,Mount Gambier - East,Females,2031,8075,False
+LC,41173,Mount Gambier - East,Females,2036,8195,False
+LC,41174,Mount Gambier - West,Females,2016,7450,False
+LC,41174,Mount Gambier - West,Females,2021,7510,False
+LC,41174,Mount Gambier - West,Females,2026,7625,False
+LC,41174,Mount Gambier - West,Females,2031,7731,False
+LC,41174,Mount Gambier - West,Females,2036,7825,False
+LC,,TOTAL Limestone Coast,Females,2016,32923,True
+LC,,TOTAL Limestone Coast,Females,2021,33444,True
+LC,,TOTAL Limestone Coast,Females,2026,34037,True
+LC,,TOTAL Limestone Coast,Females,2031,34543,True
+LC,,TOTAL Limestone Coast,Females,2036,34946,True
+MM,41159,Barmera,Females,2016,3299,False
+MM,41159,Barmera,Females,2021,3319,False
+MM,41159,Barmera,Females,2026,3348,False
+MM,41159,Barmera,Females,2031,3362,False
+MM,41159,Barmera,Females,2036,3359,False
+MM,41160,Berri,Females,2016,2145,False
+MM,41160,Berri,Females,2021,2126,False
+MM,41160,Berri,Females,2026,2124,False
+MM,41160,Berri,Females,2031,2120,False
+MM,41160,Berri,Females,2036,2111,False
+MM,41161,Karoonda - Lameroo,Females,2016,1503,False
+MM,41161,Karoonda - Lameroo,Females,2021,1511,False
+MM,41161,Karoonda - Lameroo,Females,2026,1520,False
+MM,41161,Karoonda - Lameroo,Females,2031,1521,False
+MM,41161,Karoonda - Lameroo,Females,2036,1514,False
+MM,41162,Loxton,Females,2016,2818,False
+MM,41162,Loxton,Females,2021,2877,False
+MM,41162,Loxton,Females,2026,2920,False
+MM,41162,Loxton,Females,2031,2956,False
+MM,41162,Loxton,Females,2036,2974,False
+MM,41163,Loxton Region,Females,2016,835,False
+MM,41163,Loxton Region,Females,2021,840,False
+MM,41163,Loxton Region,Females,2026,836,False
+MM,41163,Loxton Region,Females,2031,825,False
+MM,41163,Loxton Region,Females,2036,813,False
+MM,41164,Mannum,Females,2016,3070,False
+MM,41164,Mannum,Females,2021,3200,False
+MM,41164,Mannum,Females,2026,3352,False
+MM,41164,Mannum,Females,2031,3482,False
+MM,41164,Mannum,Females,2036,3582,False
+MM,41165,Murray Bridge,Females,2016,9181,False
+MM,41165,Murray Bridge,Females,2021,9699,False
+MM,41165,Murray Bridge,Females,2026,10265,False
+MM,41165,Murray Bridge,Females,2031,10747,False
+MM,41165,Murray Bridge,Females,2036,11145,False
+MM,41166,Murray Bridge Region,Females,2016,1717,False
+MM,41166,Murray Bridge Region,Females,2021,1809,False
+MM,41166,Murray Bridge Region,Females,2026,1891,False
+MM,41166,Murray Bridge Region,Females,2031,1955,False
+MM,41166,Murray Bridge Region,Females,2036,2000,False
+MM,41167,Renmark,Females,2016,2503,False
+MM,41167,Renmark,Females,2021,2523,False
+MM,41167,Renmark,Females,2026,2567,False
+MM,41167,Renmark,Females,2031,2611,False
+MM,41167,Renmark,Females,2036,2630,False
+MM,41168,Renmark Region,Females,2016,2394,False
+MM,41168,Renmark Region,Females,2021,2435,False
+MM,41168,Renmark Region,Females,2026,2469,False
+MM,41168,Renmark Region,Females,2031,2485,False
+MM,41168,Renmark Region,Females,2036,2484,False
+MM,41169,The Coorong,Females,2016,2711,False
+MM,41169,The Coorong,Females,2021,2777,False
+MM,41169,The Coorong,Females,2026,2815,False
+MM,41169,The Coorong,Females,2031,2835,False
+MM,41169,The Coorong,Females,2036,2835,False
+MM,41170,Waikerie,Females,2016,3159,False
+MM,41170,Waikerie,Females,2021,3280,False
+MM,41170,Waikerie,Females,2026,3386,False
+MM,41170,Waikerie,Females,2031,3464,False
+MM,41170,Waikerie,Females,2036,3519,False
+MM,,TOTAL Murray and Mallee,Females,2016,35335,True
+MM,,TOTAL Murray and Mallee,Females,2021,36395,True
+MM,,TOTAL Murray and Mallee,Females,2026,37492,True
+MM,,TOTAL Murray and Mallee,Females,2031,38364,True
+MM,,TOTAL Murray and Mallee,Females,2036,38965,True
+EPSW,41129,Ceduna,Females,2016,1354,False
+EPSW,41129,Ceduna,Females,2021,1284,False
+EPSW,41129,Ceduna,Females,2026,1255,False
+EPSW,41129,Ceduna,Females,2031,1228,False
+EPSW,41129,Ceduna,Females,2036,1204,False
+EPSW,41130,Eyre Peninsula,Females,2016,3300,False
+EPSW,41130,Eyre Peninsula,Females,2021,3214,False
+EPSW,41130,Eyre Peninsula,Females,2026,3233,False
+EPSW,41130,Eyre Peninsula,Females,2031,3215,False
+EPSW,41130,Eyre Peninsula,Females,2036,3208,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Females,2016,2085,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Females,2021,2017,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Females,2026,1990,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Females,2031,1964,False
+EPSW,41131,Kimba - Cleve - Franklin Harbour,Females,2036,1937,False
+EPSW,41132,Le Hunte - Elliston,Females,2016,1122,False
+EPSW,41132,Le Hunte - Elliston,Females,2021,1080,False
+EPSW,41132,Le Hunte - Elliston,Females,2026,1058,False
+EPSW,41132,Le Hunte - Elliston,Females,2031,1037,False
+EPSW,41132,Le Hunte - Elliston,Females,2036,1019,False
+EPSW,41133,Port Lincoln,Females,2016,8093,False
+EPSW,41133,Port Lincoln,Females,2021,8056,False
+EPSW,41133,Port Lincoln,Females,2026,8027,False
+EPSW,41133,Port Lincoln,Females,2031,8038,False
+EPSW,41133,Port Lincoln,Females,2036,8063,False
+EPSW,48008,West Coast (SA) - Western,Females,2016,1770,False
+EPSW,48008,West Coast (SA) - Western,Females,2021,1759,False
+EPSW,48008,West Coast (SA) - Western,Females,2026,1755,False
+EPSW,48008,West Coast (SA) - Western,Females,2031,1772,False
+EPSW,48008,West Coast (SA) - Western,Females,2036,1781,False
+EPSW,48009,Whyalla - Whyalla North,Females,2016,11257,False
+EPSW,48009,Whyalla - Whyalla North,Females,2021,10905,False
+EPSW,48009,Whyalla - Whyalla North,Females,2026,10948,False
+EPSW,48009,Whyalla - Whyalla North,Females,2031,10979,False
+EPSW,48009,Whyalla - Whyalla North,Females,2036,10994,False
+EPSW,,TOTAL Eyre Peninsula and South West,Females,2016,28981,True
+EPSW,,TOTAL Eyre Peninsula and South West,Females,2021,28314,True
+EPSW,,TOTAL Eyre Peninsula and South West,Females,2026,28266,True
+EPSW,,TOTAL Eyre Peninsula and South West,Females,2031,28232,True
+EPSW,,TOTAL Eyre Peninsula and South West,Females,2036,28206,True
+ONE,41138,APY Lands,Females,2016,1305,False
+ONE,41138,APY Lands,Females,2021,1251,False
+ONE,41138,APY Lands,Females,2026,1288,False
+ONE,41138,APY Lands,Females,2031,1304,False
+ONE,41138,APY Lands,Females,2036,1319,False
+ONE,41139,Coober Pedy,Females,2016,851,False
+ONE,41139,Coober Pedy,Females,2021,817,False
+ONE,41139,Coober Pedy,Females,2026,813,False
+ONE,41139,Coober Pedy,Females,2031,807,False
+ONE,41139,Coober Pedy,Females,2036,801,False
+ONE,41140,Quorn - Lake Gilles,Females,2016,1085,False
+ONE,41140,Quorn - Lake Gilles,Females,2021,1002,False
+ONE,41140,Quorn - Lake Gilles,Females,2026,950,False
+ONE,41140,Quorn - Lake Gilles,Females,2031,921,False
+ONE,41140,Quorn - Lake Gilles,Females,2036,897,False
+ONE,41141,Outback,Females,2016,1018,False
+ONE,41141,Outback,Females,2021,1144,False
+ONE,41141,Outback,Females,2026,1188,False
+ONE,41141,Outback,Females,2031,1201,False
+ONE,41141,Outback,Females,2036,1198,False
+ONE,41142,Port Augusta,Females,2016,6908,False
+ONE,41142,Port Augusta,Females,2021,6736,False
+ONE,41142,Port Augusta,Females,2026,6780,False
+ONE,41142,Port Augusta,Females,2031,6811,False
+ONE,41142,Port Augusta,Females,2036,6842,False
+ONE,41143,Roxby Downs,Females,2016,1745,False
+ONE,41143,Roxby Downs,Females,2021,1767,False
+ONE,41143,Roxby Downs,Females,2026,1812,False
+ONE,41143,Roxby Downs,Females,2031,1828,False
+ONE,41143,Roxby Downs,Females,2036,1829,False
+ONE,,TOTAL Outback - North and East,Females,2016,12912,True
+ONE,,TOTAL Outback - North and East,Females,2021,12716,True
+ONE,,TOTAL Outback - North and East,Females,2026,12830,True
+ONE,,TOTAL Outback - North and East,Females,2031,12872,True
+ONE,,TOTAL Outback - North and East,Females,2036,12887,True
+,,TOTAL SOUTH AUSTRALIA,Females,2016,865966,True
+,,TOTAL SOUTH AUSTRALIA,Females,2021,898985,True
+,,TOTAL SOUTH AUSTRALIA,Females,2026,935976,True
+,,TOTAL SOUTH AUSTRALIA,Females,2031,971602,True
+,,TOTAL SOUTH AUSTRALIA,Females,2036,1004613,True
