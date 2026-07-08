@@ -1,0 +1,18 @@
+table,title,rows,file
+7A.2,"Lodgments, civil",232,table-7a-2.csv
+7A.4,"Lodgments, civil, per 100,000 people",90,table-7a-4.csv
+7A.6,"Finalisations, civil",244,table-7a-6.csv
+7A.8,"Finalisations, civil, per 100,000 people",90,table-7a-8.csv
+7A.12,"Real recurrent expenditure, civil, 2024-25 dollars",236,table-7a-12.csv
+7A.13,"Real income (excluding fines), criminal and civil, 2024-25 dollars",90,table-7a-13.csv
+7A.15,"Real net recurrent expenditure, civil, 2024-25 dollars",90,table-7a-15.csv
+7A.21,"Backlog indicator, civil",400,table-7a-21.csv
+7A.23,"On-time case processing indicator, civil",320,table-7a-23.csv
+7A.24,Attendance indicator (average number of attendances per finalisation) — inquest attendances,80,table-7a-24.csv
+7A.26,"Clearance indicator – finalisations/lodgments, civil",90,table-7a-26.csv
+7A.27,"Clearance indicator – finalisations/lodgments, criminal and civil",90,table-7a-27.csv
+7A.28,"Judicial officers (FTE and number per 100,000 people)",180,table-7a-28.csv
+7A.29,"Judicial officers per 1,000 finalisations",90,table-7a-29.csv
+7A.30,"Full-time equivalent (FTE) staff per 1,000 finalisations",90,table-7a-30.csv
+7A.32,"Real net recurrent expenditure per finalisation, civil, 2024-25 dollars",90,table-7a-32.csv
+7A.35,"Real recurrent expenditure per finalisation: civil, 2024-25 dollars",90,table-7a-35.csv
