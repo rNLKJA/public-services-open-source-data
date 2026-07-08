@@ -1,0 +1,10 @@
+financial_year,recipient_category,recipient_count,pct_of_year_total,total_recipients_that_year,category_relationship_to_total
+2015-16,Homeowner-occupier,153846,84.0,182819,part of total
+2015-16,Tenant,28973,16.0,182819,part of total
+2015-16,Commonwealth Seniors Health Card (CSHC) recipients,8210,4.5,182819,subset/overlapping of homeowner-occupier + tenant -- do not add to the other two rows
+2016-17,Homeowner-occupier,150212,83.0,180513,part of total
+2016-17,Tenant,30311,17.0,180513,part of total
+2016-17,Commonwealth Seniors Health Card (CSHC) recipients,7834,4.0,180513,subset/overlapping of homeowner-occupier + tenant -- do not add to the other two rows
+2017-18,Homeowner-Occupier households,134957,77.0,174852,part of total
+2017-18,Tenant households,31979,18.0,174852,part of total
+2017-18,All households with Commonwealth Seniors Health Card (CSHC),7916,5.0,174852,part of total (mutually exclusive category this year -- see note)

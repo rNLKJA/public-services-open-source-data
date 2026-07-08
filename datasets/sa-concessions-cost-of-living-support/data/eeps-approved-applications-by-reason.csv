@@ -1,0 +1,26 @@
+financial_year,reason_for_application,approved_count,pct_of_year_total
+2015-16,Increase in electricity use,57,4.87
+2015-16,Decrease in income,251,21.45
+2015-16,Unexpected increase in expenses,110,9.4
+2015-16,Familial breakdown,137,11.71
+2015-16,Birth of a child/children,13,1.11
+2015-16,Medical conditions (suffer from or caring for),266,22.74
+2015-16,Increased housing stress (mortgage/rent),22,1.88
+2015-16,"Experiencing acute, general, financial stress",314,26.84
+2016-17,Increase in electricity use,50,4.9
+2016-17,Decrease in income,105,10.29
+2016-17,Unexpected increase in expenses,92,9.02
+2016-17,Familial breakdown,51,5.0
+2016-17,Birth of a child/children,6,0.59
+2016-17,Medical conditions (suffer from or caring for),95,9.31
+2016-17,Increased housing stress (mortgage/rent),15,1.47
+2016-17,"Experiencing acute, general, financial stress",505,49.51
+2016-17,Not recorded (NULL -- lost in 2016-17 system migration),101,9.9
+2017-18,Increase in electricity use,44,4.3
+2017-18,Decrease in income,220,21.7
+2017-18,Unexpected increase in expenses,96,9.5
+2017-18,Familial breakdown,118,11.6
+2017-18,Birth of a child/children,12,1.2
+2017-18,Medical conditions (suffer from or caring for),224,22.1
+2017-18,Increased housing stress (mortgage/rent),26,2.6
+2017-18,"Experiencing acute, general, financial stress",274,27.0
