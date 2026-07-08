@@ -1,0 +1,253 @@
+financial_year,housing_type,local_government_area,is_total_row,number_of_dwellings,rate_per_10_000_of_all_residential_dwellings,tenantable_dwellings,untenantable_dwellings_or_undergoing_major_redevelopment,number_of_occupied_dwellings,pct_of_tenantable_dwellings_that_are_occupied,average_market_rent_of_dwelling_30_june,1_or_2_bedrooms,3_bedrooms,4_or_more_bedrooms,separate_houses,semi_detached,flat_unit_or_apartment
+2019-20,Public Housing,Adelaide Hills Council,False,20,13.589650920214975,20,0,20,1,284.76190476190476,0,20,0,20,0,0
+2019-20,Public Housing,Adelaide Plains Council,False,5,18.531816702889422,5,0,5,1,142,5,0,0,0,0,5
+2019-20,Public Housing,Alexandrina Council,False,35,20.91222610233481,35,0,30,0.8571428571428571,155.7058823529412,35,0,0,0,0,35
+2019-20,Public Housing,Barunga West Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,Berri Barmera Council,False,270,532.914084987151,270,0,255,0.9444444444444444,174.08823529411765,125,140,10,135,100,40
+2019-20,Public Housing,Campbelltown City Council,False,655,294.9633056289983,655,0,630,0.9618320610687023,320.9649923896499,430,205,25,275,290,95
+2019-20,Public Housing,City of Adelaide,False,360,272.56354494912677,355,5,345,0.971830985915493,266.06145251396646,325,35,0,0,115,245
+2019-20,Public Housing,City of Burnside,False,175,90.96595804492932,170,5,160,0.9411764705882353,272.73446327683615,175,0,0,0,55,120
+2019-20,Public Housing,City of Charles Sturt,False,2830,530.4651903889963,2775,55,2660,0.9585585585585585,277.51872791519435,1730,1015,85,475,1820,535
+2019-20,Public Housing,City of Holdfast Bay,False,255,138.69386983907273,250,0,245,0.98,323.1023622047244,210,45,0,50,130,75
+2019-20,Public Housing,City of Marion,False,2355,565.7022700446535,2270,80,2190,0.9647577092511013,287.2078198045049,1605,685,60,700,1165,490
+2019-20,Public Housing,City of Mitcham,False,220,82.65376922976189,200,20,195,0.975,292.43243243243245,200,20,5,65,65,90
+2019-20,Public Housing,City of Mount Gambier,False,1045,832.2555554779083,1040,5,995,0.9567307692307693,185.04306220095694,280,730,35,325,635,85
+2019-20,Public Housing,City of Norwood Payneham and St Peters,False,590,330.6733384070994,580,5,570,0.9827586206896551,292.84013605442175,495,90,0,40,280,270
+2019-20,Public Housing,City of Onkaparinga,False,3060,415.6773943065612,3045,15,2965,0.9737274220032841,251.45294117647057,1375,1555,135,1530,965,565
+2019-20,Public Housing,City of Playford,False,2980,755.0961438790215,2905,75,2790,0.9604130808950087,209.3948959032908,1290,1485,200,980,1480,515
+2019-20,Public Housing,City of Port Adelaide Enfield,False,4075,730.6440159409486,3990,80,3825,0.9586466165413534,280.1684262214584,2505,1375,190,1440,2015,620
+2019-20,Public Housing,City of Port Lincoln,False,545,800.2077921141229,540,5,525,0.9722222222222222,205.87845303867402,250,285,10,260,190,95
+2019-20,Public Housing,City of Prospect,False,245,269.5210136843444,240,0,235,0.9791666666666666,320.4836065573771,205,35,5,55,135,55
+2019-20,Public Housing,City of Salisbury,False,3105,549.2156133015712,3095,10,3010,0.9725363489499192,247.5880270357258,1405,1525,175,1495,1045,565
+2019-20,Public Housing,City of Tea Tree Gully,False,1245,305.3397277047467,1240,5,1210,0.9758064516129032,289.18393574297187,670,535,40,775,345,125
+2019-20,Public Housing,City of Unley,False,455,268.09239120135544,425,35,410,0.9647058823529412,272.24507658643324,405,55,0,20,175,260
+2019-20,Public Housing,City of West Torrens,False,1285,469.787785377242,1265,25,1210,0.9565217391304348,274.7148407148407,995,270,20,300,495,490
+2019-20,Public Housing,City of Whyalla,False,2100,1894.3954875566592,2085,15,2010,0.9640287769784173,193.0004764173416,385,1625,90,115,1910,75
+2019-20,Public Housing,Clare and Gilbert Valleys Council,False,110,245.7987905536045,110,0,110,1,186.0900900900901,45,65,5,75,10,25
+2019-20,Public Housing,Coorong District Council,False,10,29.65683646112601,10,0,5,0.5,154.66666666666666,5,5,0,5,0,5
+2019-20,Public Housing,Copper Coast Council,False,245,267.3252841839682,245,0,230,0.9387755102040817,196.8395061728395,130,105,10,120,60,65
+2019-20,Public Housing,Corporation of the Town of Walkerville,False,185,520.162359162544,160,25,150,0.9375,233.4516129032258,185,0,0,0,5,180
+2019-20,Public Housing,District Council Lower Eyre Peninsula,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,District Council of Ceduna,False,55,276.60974553743927,55,0,55,1,242.07142857142858,5,40,10,55,0,0
+2019-20,Public Housing,District Council of Cleve,False,10,75.78082653535763,10,0,5,0.5,181.25,0,5,0,10,0,0
+2019-20,Public Housing,District Council of Coober Pedy,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,District Council of Elliston,False,10,100.6578811843734,10,0,5,0.5,106,10,0,0,0,0,10
+2019-20,Public Housing,District Council of Franklin Harbour,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,District Council of Loxton Waikerie,False,145,258.1666521387266,145,0,145,1,168.75342465753425,70,65,10,80,30,35
+2019-20,Public Housing,District Council of Mount Remarkable,False,5,35.98578672720523,5,0,0,0,128,5,0,0,0,0,5
+2019-20,Public Housing,District Council of Orroroo Carrieton,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,District Council of Peterborough,False,25,223.2655190401669,25,0,25,1,132.75,5,15,0,10,10,5
+2019-20,Public Housing,District Council of Streaky Bay,False,20,138.60280305349306,20,0,20,1,173.11111111111111,10,5,0,5,10,5
+2019-20,Public Housing,District Council of Tumby Bay,False,5,38.8707819150844,5,0,5,1,224.33333333333334,0,5,0,5,0,0
+2019-20,Public Housing,District Council of Yankalilla,False,5,14.635262908727,5,0,5,1,168.66666666666666,5,0,0,0,0,5
+2019-20,Public Housing,Kangaroo Island Council,False,45,133.75262402402902,45,0,45,1,207.6818181818182,20,25,0,25,15,5
+2019-20,Public Housing,Light Regional Council,False,35,59.297249595239826,35,0,35,1,192.68571428571428,15,15,0,20,5,10
+2019-20,Public Housing,Mid Murray Council,False,55,76.40627668930509,55,0,55,1,176.71698113207546,10,40,0,45,0,10
+2019-20,Public Housing,Mount Barker District Council,False,370,255.15286022291463,365,5,360,0.9863013698630136,271.52972972972975,135,210,25,275,70,20
+2019-20,Public Housing,Naracoorte Lucindale Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,Northern Areas Council,False,35,140.84871058521554,35,0,30,0.8571428571428571,124.60606060606061,25,5,0,5,0,25
+2019-20,Public Housing,Out of Council Boundary,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,Port Augusta City Council,False,655,976.6385920404736,640,15,600,0.9375,192.4862385321101,215,410,30,225,350,75
+2019-20,Public Housing,Port Pirie Regional Council,False,740,875.498690594381,730,10,685,0.9383561643835616,168.82860998650472,350,365,25,215,370,160
+2019-20,Public Housing,Regional Council of Goyder,False,15,59.184766633519416,15,0,15,1,142.92307692307693,10,5,0,5,10,0
+2019-20,Public Housing,Renmark Paringa Council,False,165,362.45703254601364,165,0,160,0.9696969696969697,183.3212121212121,60,100,10,100,35,30
+2019-20,Public Housing,Southern Mallee District Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,Public Housing,Tatiara District Council,False,5,13.021678362920785,5,0,5,1,126,5,0,0,0,0,5
+2019-20,Public Housing,The Barossa Council,False,115,108.13793706810884,115,0,110,0.9565217391304348,240.95652173913044,30,80,5,60,45,10
+2019-20,Public Housing,The Flinders Ranges Council,False,25,260.9710591758944,25,0,25,1,142.88,15,10,0,10,5,10
+2019-20,Public Housing,The Rural City of Murray Bridge,False,565,561.1358383024816,560,5,540,0.9642857142857143,197.3368794326241,185,355,25,215,320,30
+2019-20,Public Housing,Town of Gawler,False,470,410.81627015724087,470,5,460,0.9787234042553191,211.29237288135593,225,235,15,130,255,85
+2019-20,Public Housing,Wakefield Regional Council,False,15,42.867393582639174,15,0,15,1,138,10,5,0,5,0,10
+2019-20,Public Housing,Wudinna District Council,False,15,197.7174509944369,15,0,10,0.6666666666666666,126.76923076923077,10,0,0,0,5,5
+2019-20,Public Housing,Yorke Peninsula Council,False,75,78.53664744573427,75,0,75,1,139.7922077922078,50,25,0,30,5,45
+2019-20,Public Housing,Total - dwellings,True,32147,406.05027156751294,31630,517,30501,0.964306038570977,247.6185025041217,16948,13933,1266,10807,15015,6325
+2019-20,Public Housing,% Total - dwellings,True,1,,0.9839176283945624,0.01608237160543752,0.9487977105173111,,,0.5272031604815379,0.4334152487012785,0.039381590817183565,0.33617444862662144,0.46707313279621737,0.19675241857716116
+2020-21,Public Housing,Adelaide Hills Council,False,20,12.295212355082258,20,0,20,1,294.10526315789474,0,20,0,20,0,0
+2020-21,Public Housing,Adelaide Plains Council,False,5,18.330080427694043,5,0,5,1,150,5,0,0,0,0,5
+2020-21,Public Housing,Alexandrina Council,False,35,20.632583306517628,35,0,35,1,161.11764705882354,35,0,0,0,0,35
+2020-21,Public Housing,Barunga West Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,Berri Barmera Council,False,275,538.7123313926832,275,0,270,0.9818181818181818,179.8181818181818,125,140,10,135,100,40
+2020-21,Public Housing,Campbelltown City Council,False,660,293.65308765581733,655,5,635,0.9694656488549618,325.6267071320182,430,205,25,275,290,95
+2020-21,Public Housing,City of Adelaide,False,365,268.2344019087862,360,0,320,0.8888888888888888,271.4600550964187,330,35,0,0,115,245
+2020-21,Public Housing,City of Burnside,False,180,92.33948799371318,175,5,155,0.8857142857142857,276.44444444444446,180,0,0,0,55,125
+2020-21,Public Housing,City of Charles Sturt,False,2880,534.1843582117986,2790,90,2655,0.9516129032258065,282.95970823202504,1770,1025,85,500,1835,540
+2020-21,Public Housing,City of Holdfast Bay,False,255,139.26179718424743,250,10,240,0.96,328.328125,210,45,0,55,130,75
+2020-21,Public Housing,City of Marion,False,2140,509.37665336367166,2130,15,2005,0.9413145539906104,293.21484593837533,1515,570,60,690,935,515
+2020-21,Public Housing,City of Mitcham,False,225,83.61270356263007,205,20,185,0.9024390243902439,296.3955555555556,200,20,5,65,65,95
+2020-21,Public Housing,City of Mount Gambier,False,1040,824.6492162844011,1035,5,995,0.961352657004831,191.32756964457252,280,725,35,325,635,85
+2020-21,Public Housing,City of Norwood Payneham and St Peters,False,600,335.4920180392405,595,5,560,0.9411764705882353,299.135225375626,505,90,0,45,280,270
+2020-21,Public Housing,City of Onkaparinga,False,3070,414.4680515285637,3055,15,2965,0.9705400981996727,255.875936177141,1385,1550,135,1535,965,570
+2020-21,Public Housing,City of Playford,False,2915,724.924871688892,2850,65,2715,0.9526315789473684,214.23765432098764,1290,1430,195,975,1420,525
+2020-21,Public Housing,City of Port Adelaide Enfield,False,4085,726.0301695422438,4010,75,3875,0.9663341645885287,286.8103743577196,2530,1360,200,1480,1965,645
+2020-21,Public Housing,City of Port Lincoln,False,545,801.0104700578291,540,0,525,0.9722222222222222,207.69117647058823,250,285,10,260,190,95
+2020-21,Public Housing,City of Prospect,False,245,270.7276755767914,245,0,235,0.9591836734693877,324.0487804878049,205,35,5,55,135,55
+2020-21,Public Housing,City of Salisbury,False,3105,545.2302456432303,3095,10,3010,0.9725363489499192,253.79439252336448,1410,1515,180,1495,1045,565
+2020-21,Public Housing,City of Tea Tree Gully,False,1250,305.0055904714591,1245,0,1220,0.9799196787148594,294.18895116092875,670,535,40,780,345,125
+2020-21,Public Housing,City of Unley,False,460,269.4697353345089,425,35,390,0.9176470588235294,272.9847494553377,405,50,0,20,175,265
+2020-21,Public Housing,City of West Torrens,False,1270,461.6163741286314,1230,45,1190,0.967479674796748,280.1927616050354,980,270,20,300,495,475
+2020-21,Public Housing,City of Whyalla,False,2095,1901.7709178562648,2085,15,1975,0.947242206235012,193.08726752503577,385,1620,95,115,1905,75
+2020-21,Public Housing,Clare and Gilbert Valleys Council,False,110,242.1381606314335,110,0,105,0.9545454545454546,190.65454545454546,45,65,5,75,10,25
+2020-21,Public Housing,Coorong District Council,False,10,26.28646111804194,5,0,5,1,162,5,0,0,5,0,5
+2020-21,Public Housing,Copper Coast Council,False,240,263.1632871470727,240,0,235,0.9791666666666666,202.5206611570248,130,105,10,120,60,65
+2020-21,Public Housing,Corporation of the Town of Walkerville,False,195,548.3252306221385,195,0,160,0.8205128205128205,234.40609137055839,195,0,0,0,5,190
+2020-21,Public Housing,District Council Lower Eyre Peninsula,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,District Council of Ceduna,False,55,278.20679949550765,55,0,55,1,245.67857142857142,5,40,10,55,0,0
+2020-21,Public Housing,District Council of Cleve,False,10,75.82255606538811,10,0,10,1,181.25,0,5,0,10,0,0
+2020-21,Public Housing,District Council of Coober Pedy,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,District Council of Elliston,False,10,101.07848391676775,10,0,5,0.5,108,10,0,0,0,0,10
+2020-21,Public Housing,District Council of Franklin Harbour,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,District Council of Loxton Waikerie,False,145,257.54886203755206,145,0,145,1,176.87671232876713,70,65,10,80,30,35
+2020-21,Public Housing,District Council of Mount Remarkable,False,5,36.005627271231255,5,0,5,1,132.33333333333334,5,0,0,0,0,5
+2020-21,Public Housing,District Council of Orroroo Carrieton,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,District Council of Peterborough,False,25,223.52787570178876,25,0,25,1,135.16666666666666,5,15,0,10,10,5
+2020-21,Public Housing,District Council of Streaky Bay,False,20,139.0397520849088,20,0,20,1,176.11111111111111,10,5,0,5,10,5
+2020-21,Public Housing,District Council of Tumby Bay,False,5,39.031503371701135,5,0,5,1,224.33333333333334,0,5,0,5,0,0
+2020-21,Public Housing,District Council of Yankalilla,False,5,14.432239318076462,5,0,5,1,175,5,0,0,0,0,5
+2020-21,Public Housing,Kangaroo Island Council,False,45,132.39776823297288,45,0,45,1,207.5909090909091,20,25,0,25,15,5
+2020-21,Public Housing,Light Regional Council,False,35,58.655129963728044,35,0,30,0.8571428571428571,199.25714285714287,15,15,0,20,5,10
+2020-21,Public Housing,Mid Murray Council,False,50,74.46652307328685,50,0,50,1,183.26923076923077,10,40,0,45,0,10
+2020-21,Public Housing,Mount Barker District Council,False,365,248.23423048941697,365,0,360,0.9863013698630136,278.2295081967213,135,205,25,275,70,20
+2020-21,Public Housing,Naracoorte Lucindale Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,Northern Areas Council,False,35,140.90976334229626,35,0,30,0.8571428571428571,128.9090909090909,25,5,0,5,0,25
+2020-21,Public Housing,Out of Council Boundary,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,Port Augusta City Council,False,650,973.0469320793316,640,10,585,0.9140625,197.7723076923077,215,405,30,225,350,75
+2020-21,Public Housing,Port Pirie Regional Council,False,735,866.0067428709614,730,5,690,0.9452054794520548,172.37602179836512,345,360,25,215,365,155
+2020-21,Public Housing,Regional Council of Goyder,False,15,59.201536815328204,15,0,15,1,143.84615384615384,10,5,0,5,10,0
+2020-21,Public Housing,Renmark Paringa Council,False,165,359.30796522442273,165,0,160,0.9696969696969697,187.5121951219512,60,95,10,100,35,30
+2020-21,Public Housing,Southern Mallee District Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,Public Housing,Tatiara District Council,False,5,12.993337507516864,5,0,5,1,134,5,0,0,0,0,5
+2020-21,Public Housing,The Barossa Council,False,110,104.35148325197217,110,0,105,0.9545454545454546,249.60714285714286,30,80,5,60,40,10
+2020-21,Public Housing,The Flinders Ranges Council,False,25,261.93073922743093,25,0,25,1,147.6,15,10,0,10,5,10
+2020-21,Public Housing,The Rural City of Murray Bridge,False,555,548.6575105361319,545,10,535,0.981651376146789,202.09335727109516,185,345,30,210,315,30
+2020-21,Public Housing,Town of Gawler,False,470,398.62935112825744,465,5,455,0.978494623655914,217.72340425531914,225,230,15,130,255,85
+2020-21,Public Housing,Wakefield Regional Council,False,15,42.66202633143306,15,0,15,1,140.14285714285714,10,5,0,5,0,10
+2020-21,Public Housing,Wudinna District Council,False,15,200.1909804063773,15,0,10,0.6666666666666666,127.84615384615384,10,0,0,0,5,5
+2020-21,Public Housing,Yorke Peninsula Council,False,75,78.3701046076527,75,0,75,1,143.97402597402598,50,25,0,30,5,45
+2020-21,Public Housing,Total - dwellings,True,31938,399.12521869532617,31484,454,30144,0.9574386990217253,252.54797420001253,16954,13700,1284,10867,14670,6401
+2020-21,Public Housing,% Total - dwellings,True,1,,0.9857849583568163,0.014215041643183669,0.9438286680443359,,,0.5308410044461144,0.42895610244849397,0.0402028931053917,0.3402529901684514,0.4593274469284238,0.2004195629031248
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Adelaide Hills Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Adelaide Plains Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Alexandrina Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Barunga West Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Berri Barmera Council,False,25,50.9403169473012,25,0,25,1,205.46153846153845,0,20,5,25,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Campbelltown City Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Adelaide,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Burnside,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Charles Sturt,False,60,10.871724750021832,55,5,50,0.9090909090909091,377.3103448275862,25,25,10,45,10,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Holdfast Bay,False,10,4.368310861073157,10,0,5,0.5,404.25,0,5,0,10,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Marion,False,50,12.26129017096359,50,5,45,0.9,368.15686274509807,10,35,5,45,5,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Mitcham,False,15,5.584714137146073,15,0,15,1,380.93333333333334,5,5,0,10,5,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Mount Gambier,False,20,14.335502391007033,20,0,20,1,243,0,10,5,15,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Norwood Payneham and St Peters,False,5,2.2494784925653017,5,0,5,1,511,0,0,0,5,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Onkaparinga,False,75,10.052329143361284,70,5,70,1,288.4594594594595,5,55,15,75,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Playford,False,55,14.199255895643116,55,0,50,0.9090909090909091,258.2857142857143,0,35,20,55,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Port Adelaide Enfield,False,210,37.67130943962662,205,5,200,0.975609756097561,345.93333333333334,45,125,40,195,15,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Port Lincoln,False,85,128.21008823927934,85,0,85,1,258.8045977011494,15,50,20,75,10,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Prospect,False,25,26.510263641083057,25,0,20,0.8,427,5,10,5,20,5,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Salisbury,False,175,30.934255657475045,170,5,165,0.9705882352941176,295.2342857142857,10,130,35,165,10,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Tea Tree Gully,False,55,13.979409220217319,55,0,50,0.9090909090909091,326.3157894736842,5,50,5,55,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Unley,False,10,4.693083434597032,10,0,10,1,512.75,0,5,0,5,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of West Torrens,False,50,17.886248238915975,50,0,45,0.9,419.7959183673469,10,30,10,45,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),City of Whyalla,False,25,22.563071552604328,25,0,25,1,262.48,0,20,5,25,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Clare and Gilbert Valleys Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Coorong District Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Copper Coast Council,False,15,17.60166480223659,15,0,15,1,232.25,5,10,5,10,5,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Corporation of the Town of Walkerville,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council Lower Eyre Peninsula,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Ceduna,False,60,306.2465039878792,60,0,55,0.9166666666666666,230.67741935483872,10,45,5,55,5,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Cleve,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Coober Pedy,False,50,354.7916469140071,45,0,45,1,175.83333333333334,10,35,5,50,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Elliston,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Franklin Harbour,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Loxton Waikerie,False,5,7.073058962704839,5,0,5,1,231.5,0,5,0,5,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Mount Remarkable,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Orroroo Carrieton,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Peterborough,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Streaky Bay,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Tumby Bay,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),District Council of Yankalilla,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Kangaroo Island Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Light Regional Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Mid Murray Council,False,5,8.649767172374162,5,0,5,1,236,0,5,0,5,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Mount Barker District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Naracoorte Lucindale Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Northern Areas Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Out of Council Boundary,False,25,88.69182049639238,25,0,25,1,91.23076923076923,5,15,5,25,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Port Augusta City Council,False,135,203.09304054664284,130,5,125,0.9615384615384616,238.26470588235293,15,90,30,135,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Port Pirie Regional Council,False,5,8.27056792734233,5,0,5,1,226,0,5,0,5,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Regional Council of Goyder,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Renmark Paringa Council,False,10,19.770383593418924,10,0,10,1,217.77777777777777,0,5,0,10,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Southern Mallee District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Tatiara District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),The Barossa Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),The Flinders Ranges Council,False,10,125.26610840442932,10,0,10,1,168.5,0,10,5,10,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),The Rural City of Murray Bridge,False,75,74.61912743384065,75,0,70,0.9333333333333333,229.22666666666666,15,45,15,65,10,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Town of Gawler,False,10,6.962987629783743,10,0,10,1,261.5,0,5,0,5,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Wakefield Regional Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Wudinna District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Yorke Peninsula Council,False,20,22.439042127352646,20,0,20,1,217.36363636363637,5,15,5,20,0,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),Total - dwellings,True,1388,17.53189339396236,1359,29,1304,0.9595290654893304,,220,906,262,1297,91,0
+2019-20,State Owned and Managed Indigenous Housing (SOMIH),% Total - dwellings,True,1,,0.979106628242075,0.02089337175792507,0.9394812680115274,,,0.1585014409221902,0.6527377521613833,0.18876080691642652,0.9344380403458213,0.06556195965417867,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Adelaide Hills Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Adelaide Plains Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Alexandrina Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Barunga West Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Berri Barmera Council,False,25,48.973848308425744,25,0,25,1,211.04,0,20,5,25,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Campbelltown City Council,False,5,1.782416313540621,5,0,5,1,445,0,0,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Adelaide,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Burnside,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Charles Sturt,False,55,10.39052589783283,55,0,50,0.9090909090909091,381.92857142857144,25,25,10,45,10,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Holdfast Bay,False,5,3.8079397667567654,5,0,5,1,409.7142857142857,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Marion,False,50,12.365819782871581,50,0,50,1,386,10,30,10,45,5,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Mitcham,False,15,5.20256822167476,15,0,15,1,389.7142857142857,5,5,0,10,5,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Mount Gambier,False,20,14.259064258519903,20,0,15,0.75,250.77777777777777,0,10,5,15,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Norwood Payneham and St Peters,False,5,2.8004342073392365,5,0,5,1,537.6,0,0,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Onkaparinga,False,70,9.717258127664143,70,0,70,1,294.1111111111111,0,55,15,70,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Playford,False,55,13.424534660905406,50,0,50,1,264.3703703703704,0,30,20,55,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Port Adelaide Enfield,False,205,36.772264520490445,205,0,195,0.9512195121951219,354.0676328502415,40,125,40,190,15,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Port Lincoln,False,85,126.63033166355386,85,0,85,1,260.09302325581393,15,50,20,75,10,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Prospect,False,25,26.412456153833304,25,0,25,1,434.5,5,10,5,20,5,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Salisbury,False,170,30.222237270588337,170,0,165,0.9705882352941176,305.9767441860465,10,125,35,165,10,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Tea Tree Gully,False,55,13.675190605605852,55,0,55,1,331.75,5,45,5,55,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Unley,False,10,4.696640267268129,10,0,10,1,517.75,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of West Torrens,False,50,17.796382637531817,50,0,45,0.9,420.2857142857143,15,25,10,45,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),City of Whyalla,False,25,22.672519287747555,25,0,25,1,259.76,0,20,5,25,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Clare and Gilbert Valleys Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Coorong District Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Copper Coast Council,False,15,17.399225596500674,15,0,15,1,239.5,5,10,5,10,5,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Corporation of the Town of Walkerville,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council Lower Eyre Peninsula,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Ceduna,False,60,308.0146708700263,60,0,60,1,235.2258064516129,10,45,5,55,5,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Cleve,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Coober Pedy,False,50,356.5106374286327,50,0,40,0.8,176.79166666666666,10,35,5,50,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Elliston,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Franklin Harbour,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Loxton Waikerie,False,5,7.056133206508275,5,0,5,1,238,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Mount Remarkable,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Orroroo Carrieton,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Peterborough,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Streaky Bay,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Tumby Bay,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),District Council of Yankalilla,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Kangaroo Island Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Light Regional Council,False,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.,n.p.
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Mid Murray Council,False,5,8.592291123840791,5,0,5,1,244.33333333333334,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Mount Barker District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Naracoorte Lucindale Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Northern Areas Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Out of Council Boundary,False,25,89.39703114108222,25,0,25,1,91.23076923076923,5,15,5,25,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Port Augusta City Council,False,130,196.10638169598835,125,5,120,0.96,246.87022900763358,10,90,30,130,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Port Pirie Regional Council,False,5,8.258919891139959,5,0,5,1,228.57142857142858,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Regional Council of Goyder,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Renmark Paringa Council,False,10,17.5272178158255,10,0,10,1,225,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Southern Mallee District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Tatiara District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),The Barossa Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),The Flinders Ranges Council,False,10,125.72675482916685,10,0,10,1,173.33333333333334,0,10,5,10,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),The Rural City of Murray Bridge,False,75,72.89166208199957,75,0,70,0.9333333333333333,234.3783783783784,15,45,15,65,10,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Town of Gawler,False,10,6.785180444736297,10,0,10,1,269.5,0,5,0,5,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Wakefield Regional Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Wudinna District Council,False,0,0,0,0,0,,,0,0,0,0,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Yorke Peninsula Council,False,20,22.391458459329343,20,0,20,1,219.8181818181818,5,15,5,20,0,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),Total - dwellings,True,1365,17.058235441139715,1350,15,1295,0.9592592592592593,295.7641025641026,212,875,278,1277,88,0
+2020-21,State Owned and Managed Indigenous Housing (SOMIH),% Total - dwellings,True,1,,0.989010989010989,0.01098901098901099,0.9487179487179487,,,0.15531135531135531,0.6410256410256411,0.20366300366300366,0.9355311355311355,0.06446886446886448,0

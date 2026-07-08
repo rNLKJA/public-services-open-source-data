@@ -1,0 +1,85 @@
+state_territory,data_type,sex,fy_2011-12,fy_2012-13,fy_2013-14,fy_2014-15,fy_2015-16,fy_2016-17,fy_2017-18,fy_2018-19,fy_2019-20,fy_2020-21,fy_2021-22,fy_2022-23,fy_2023-24,fy_2024-25,avg_annual_change_pct__average_annual_change_per_cent_2011_12_to_2024_25
+National,Clients (number),Males,2751,3107,3146,3389,3855,3963,3801,3719,3673,3325,3165,3127,3167,3145,1
+National,Clients (number),Females,1903,2435,2427,2695,3014,3142,3116,3115,3055,2992,2838,2990,3015,3087,3.8
+National,Clients (number),All clients,4654,5542,5573,6084,6869,7104,6917,6834,6728,6317,6003,6117,6182,6232,2.3
+National,Support periods (number),Males,4762,5973,5441,6148,7074,7453,7213,7219,7324,6463,6127,6074,5999,5789,1.5
+National,Support periods (number),Females,3041,4226,4106,5016,5664,6364,6230,6124,6202,6240,5702,5835,6214,6068,5.5
+National,Support periods (number),All clients,7803,10199,9547,11164,12738,13817,13443,13343,13526,12703,11829,11909,12213,11857,3.3
+National,"Clients (per 10,000 ERP)",Males,2.5,2.7,2.7,2.9,3.3,3.3,3.1,3,2.9,2.6,2.5,2.4,2.4,2.3,-0.6
+National,"Clients (per 10,000 ERP)",Females,1.7,2.1,2.1,2.3,2.5,2.6,2.5,2.5,2.4,2.3,2.2,2.3,2.2,2.3,2.4
+National,"Clients (per 10,000 ERP)",All clients,2.1,2.4,2.4,2.6,2.9,2.9,2.8,2.7,2.7,2.5,2.3,2.4,2.3,2.3,0.7
+National,Clients (proportion of male SHS clients),Males,2.8,3.1,3,3.3,3.4,3.4,3.4,3.2,3.2,3,2.9,2.8,2.8,2.7,. .
+National,Clients (proportion of female SHS clients),Females,1.4,1.7,1.6,1.8,1.8,1.8,1.8,1.8,1.7,1.8,1.7,1.8,1.8,1.8,. .
+National,Clients (proportion of all SHS clients),All clients,2,2.3,2.2,2.4,2.5,2.5,2.4,2.4,2.3,2.3,2.2,2.2,2.2,2.2,. .
+New South Wales,Clients (number),Males,894,924,954,867,1133,1214,1085,983,941,802,765,801,820,794,-0.9
+New South Wales,Clients (number),Females,616,757,749,693,986,1029,930,921,868,812,760,870,829,900,3
+New South Wales,Clients (number),All clients,1510,1681,1704,1560,2119,2243,2015,1904,1809,1614,1525,1671,1649,1694,0.9
+New South Wales,Support periods (number),Males,1465,1546,1384,1373,1676,1903,1764,1566,1463,1226,1118,1213,1211,1160,-1.8
+New South Wales,Support periods (number),Females,996,1215,1079,1046,1525,1731,1656,1523,1436,1322,1197,1424,1349,1433,2.8
+New South Wales,Support periods (number),All clients,2461,2761,2462,2419,3200,3634,3420,3089,2899,2548,2315,2637,2560,2593,0.4
+New South Wales,"Clients (per 10,000 ERP)",Males,2.5,2.5,2.6,2.3,3,3.2,2.8,2.5,2.4,2,1.9,2,2,1.9,-2.1
+New South Wales,"Clients (per 10,000 ERP)",Females,1.7,2.1,2,1.8,2.6,2.6,2.3,2.3,2.1,2,1.9,2.1,2,2.1,1.6
+New South Wales,"Clients (per 10,000 ERP)",All clients,2.1,2.3,2.3,2.1,2.8,2.9,2.6,2.4,2.2,2,1.9,2,2,2,-0.4
+Victoria,Clients (number),Males,721,914,839,1089,1225,1208,1241,1297,1325,1310,1221,1166,1130,1153,3.7
+Victoria,Clients (number),Females,455,588,630,795,855,935,963,1017,1068,1067,968,983,1016,956,5.9
+Victoria,Clients (number),All clients,1176,1501,1469,1885,2081,2143,2204,2314,2393,2377,2189,2149,2146,2109,4.6
+Victoria,Support periods (number),Males,1371,2228,1873,2405,2892,2901,2944,3261,3542,3296,2992,2862,2714,2669,5.3
+Victoria,Support periods (number),Females,850,1395,1385,1982,2086,2493,2441,2549,2803,2961,2507,2457,2707,2452,8.5
+Victoria,Support periods (number),All clients,2222,3623,3258,4387,4978,5395,5385,5810,6345,6257,5499,5319,5421,5121,6.6
+Victoria,"Clients (per 10,000 ERP)",Males,2.6,3.3,2.9,3.7,4.1,4,4,4.1,4.1,4,3.8,3.6,3.4,3.4,2.1
+Victoria,"Clients (per 10,000 ERP)",Females,1.6,2.1,2.2,2.7,2.8,3,3,3.1,3.2,3.2,2.9,2.9,3,2.7,4.1
+Victoria,"Clients (per 10,000 ERP)",All clients,2.1,2.7,2.5,3.2,3.5,3.5,3.5,3.6,3.7,3.6,3.3,3.2,3.2,3,2.8
+Queensland,Clients (number),Males,549,596,565,585,629,558,551,550,475,414,435,437,467,471,-1.2
+Queensland,Clients (number),Females,273,413,412,478,407,390,432,430,342,341,402,435,433,486,4.5
+Queensland,Clients (number),All clients,822,1009,977,1063,1036,948,983,980,817,755,837,872,900,957,1.2
+Queensland,Support periods (number),Males,931,984,909,872,958,847,879,882,702,663,636,645,659,679,-2.4
+Queensland,Support periods (number),Females,385,605,624,694,610,550,667,644,535,525,618,653,669,758,5.3
+Queensland,Support periods (number),All clients,1316,1590,1532,1566,1568,1398,1546,1526,1237,1188,1254,1298,1328,1437,0.7
+Queensland,"Clients (per 10,000 ERP)",Males,2.5,2.6,2.4,2.5,2.6,2.3,2.3,2.2,1.9,1.6,1.7,1.7,1.7,1.7,-2.9
+Queensland,"Clients (per 10,000 ERP)",Females,1.2,1.8,1.8,2,1.7,1.6,1.7,1.7,1.3,1.3,1.5,1.6,1.6,1.7,2.7
+Queensland,"Clients (per 10,000 ERP)",All clients,1.8,2.2,2.1,2.3,2.2,2,2,2,1.6,1.5,1.6,1.6,1.7,1.7,-0.4
+Western Australia,Clients (number),Males,236,253,256,296,295,321,298,278,305,233,204,198,201,216,-0.7
+Western Australia,Clients (number),Females,204,258,210,237,293,280,289,279,270,239,231,263,240,302,3.1
+Western Australia,Clients (number),All clients,440,511,466,533,588,600,587,557,575,472,435,461,441,518,1.3
+Western Australia,Support periods (number),Males,372,438,414,460,404,465,422,390,460,306,304,276,279,290,-1.9
+Western Australia,Support periods (number),Females,267,369,308,370,428,441,438,447,418,381,356,382,361,488,4.7
+Western Australia,Support periods (number),All clients,640,808,722,830,832,906,860,837,878,687,660,658,640,778,1.5
+Western Australia,"Clients (per 10,000 ERP)",Males,2,2.1,2,2.3,2.3,2.5,2.3,2.1,2.3,1.7,1.5,1.4,1.4,1.4,-2.7
+Western Australia,"Clients (per 10,000 ERP)",Females,1.7,2.1,1.7,1.9,2.3,2.2,2.2,2.1,2,1.8,1.7,1.9,1.7,2,1.3
+Western Australia,"Clients (per 10,000 ERP)",All clients,1.9,2.1,1.9,2.1,2.3,2.3,2.3,2.1,2.2,1.7,1.6,1.7,1.5,1.7,-0.9
+South Australia,Clients (number),Males,181,230,219,254,273,327,293,272,281,240,176,185,224,222,1.6
+South Australia,Clients (number),Females,158,204,219,217,224,262,218,224,236,236,190,193,219,203,2
+South Australia,Clients (number),All clients,339,435,438,471,497,588,511,496,517,476,366,378,443,425,1.8
+South Australia,Support periods (number),Males,271,347,312,439,444,558,474,455,452,380,361,370,496,482,4.5
+South Australia,Support periods (number),Females,238,280,354,375,439,515,401,429,420,454,438,373,485,457,5.1
+South Australia,Support periods (number),All clients,509,627,667,814,884,1073,875,884,872,834,799,743,981,939,4.8
+South Australia,"Clients (per 10,000 ERP)",Males,2.2,2.8,2.6,3,3.2,3.9,3.4,3.2,3.2,2.7,2,2,2.4,2.4,0.7
+South Australia,"Clients (per 10,000 ERP)",Females,1.9,2.4,2.6,2.5,2.6,3,2.5,2.5,2.6,2.6,2.1,2.1,2.3,2.1,0.8
+South Australia,"Clients (per 10,000 ERP)",All clients,2.1,2.6,2.6,2.8,2.9,3.4,3,2.8,2.9,2.7,2,2.1,2.4,2.3,0.7
+Tasmania,Clients (number),Males,78,95,114,124,172,169,160,182,188,132,179,177,153,138,4.5
+Tasmania,Clients (number),Females,62,84,77,97,81,89,107,104,124,120,129,121,120,92,3.1
+Tasmania,Clients (number),All clients,140,178,192,220,254,259,267,286,312,252,308,298,273,230,3.9
+Tasmania,Support periods (number),Males,126,134,198,252,364,404,345,359,397,260,390,429,345,242,5.2
+Tasmania,Support periods (number),Females,91,118,137,191,184,221,211,209,259,256,263,260,304,168,4.9
+Tasmania,Support periods (number),All clients,217,251,335,443,548,625,556,568,656,516,653,689,649,410,5
+Tasmania,"Clients (per 10,000 ERP)",Males,3.1,3.7,4.5,4.8,6.7,6.6,6.1,6.8,6.9,4.8,6.4,6.2,5.4,4.8,3.4
+Tasmania,"Clients (per 10,000 ERP)",Females,2.4,3.3,3,3.7,3.1,3.4,4,3.8,4.5,4.3,4.5,4.2,4.2,3.2,2.2
+Tasmania,"Clients (per 10,000 ERP)",All clients,2.7,3.5,3.7,4.3,4.9,5,5.1,5.3,5.7,4.5,5.4,5.2,4.8,4,3.1
+Australian Capital Territory,Clients (number),Males,109,105,138,132,86,87,105,94,92,108,92,93,95,93,-1.2
+Australian Capital Territory,Clients (number),Females,63,73,66,99,64,73,84,63,56,72,68,78,73,71,0.9
+Australian Capital Territory,Clients (number),All clients,172,178,205,230,150,160,189,157,148,180,160,171,168,164,-0.3
+Australian Capital Territory,Support periods (number),Males,135,174,201,184,132,136,159,123,142,178,141,121,124,132,-0.2
+Australian Capital Territory,Support periods (number),Females,78,110,86,158,112,117,147,107,90,108,113,122,120,118,3.3
+Australian Capital Territory,Support periods (number),All clients,213,283,287,343,245,253,306,230,232,286,254,243,244,250,1.3
+Australian Capital Territory,"Clients (per 10,000 ERP)",Males,5.9,5.6,7.3,6.8,4.4,4.4,5.1,4.5,4.3,4.9,4.1,4.1,4.1,3.9,-3.1
+Australian Capital Territory,"Clients (per 10,000 ERP)",Females,3.4,3.8,3.4,5,3.2,3.6,4,2.9,2.5,3.2,3,3.3,3.1,2.9,-1.2
+Australian Capital Territory,"Clients (per 10,000 ERP)",All clients,4.7,4.7,5.3,5.9,3.8,4,4.6,3.7,3.4,4,3.5,3.7,3.6,3.4,-2.5
+Northern Territory,Clients (number),Males,74,107,126,132,130,166,153,140,122,127,138,114,131,108,2.9
+Northern Territory,Clients (number),Females,104,101,99,122,157,156,159,141,148,143,131,103,129,124,1.4
+Northern Territory,Clients (number),All clients,178,208,225,254,287,322,312,281,270,270,269,217,260,232,2.1
+Northern Territory,Support periods (number),Males,91,122,151,162,203,240,226,183,166,154,185,158,171,135,3.1
+Northern Territory,Support periods (number),Females,136,134,133,200,280,294,269,216,241,233,210,164,219,194,2.8
+Northern Territory,Support periods (number),All clients,227,256,284,362,483,534,495,399,407,387,395,322,390,329,2.9
+Northern Territory,"Clients (per 10,000 ERP)",Males,6.1,8.7,10,10.4,10.1,13,11.9,11,9.7,10.1,10.9,8.8,9.9,8.1,2.2
+Northern Territory,"Clients (per 10,000 ERP)",Females,9.4,9,8.6,10.5,13.4,13.2,13.3,11.8,12.3,11.8,10.7,8.3,10.3,9.8,0.3
+Northern Territory,"Clients (per 10,000 ERP)",All clients,7.7,8.8,9.3,10.5,11.7,13.1,12.6,11.4,11,10.9,10.8,8.6,10.1,8.9,1.1
