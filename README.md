@@ -64,6 +64,7 @@ Every dataset here traces back to an official government source, with its licenc
 - **`datasets/sa-local-government-finances/`** — ABS Government Finance Statistics' South Australia local government sector data: Operating Statement, Cash Flow Statement, Balance Sheet and Expenses by Purpose (COFOG) for all 68 SA councils combined, 2015-16 to 2024-25, with an all-states-local-sector total comparison file.
 - **`datasets/sa-screening-clearance-processing-timeframes/`** — DHS Screening Unit's statewide count of completed screening-clearance applications (all clearance types, including Working with Children Checks) by processing-timeframe band, financial years 2013-14 to 2017-18.
 - **`datasets/sa-container-deposit-scheme/`** — EPA South Australia's container deposit (10-cent refund) scheme statistics: statewide containers returned, return rate by material type, and compliance/inspection counts, financial years 2005-06 to 2019-20.
+- **`datasets/sa-dogs-and-cats-online-data/`** — Dog and Cat Management Board's DACO registration-system extracts: animal population and owner counts by council, gender and registration/microchip/desexed status, dog/cat incident statistics, and most popular breeds/names statewide, four annual editions 2021-22 to 2024-25.
 - **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
 - **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
 
