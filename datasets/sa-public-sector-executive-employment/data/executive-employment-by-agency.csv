@@ -1,0 +1,875 @@
+agency,period,executive_classification,headcount,is_total_row,source_file
+Attorney-General's Department,2012-13,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Commissioner for Victim’s Rights,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Director of Public Prosecutions,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Equal Opportunity Commissioner,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Police Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Public Advocate,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Solicitor General,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,South Australian Executive Service 1**,52,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,South Australian Executive Service 2**,27,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2012-13,Total,87,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Commissioner for Victim’s Rights,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Director of Public Prosecutions,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Equal Opportunity Commissioner,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Police Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,President of the Residency Tenancy Tribunal,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Public Advocate,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Solicitor General,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,South Australian Executive Service 1**,54,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,South Australian Executive Service 2**,24,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2013-14,Total,87,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Commissioner for Victim’s Rights,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Director of Public Prosecutions,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Equal Opportunity Commissioner,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Police Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Public Advocate,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Solicitor General,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,South Australian Executive Service 1**,46,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,South Australian Executive Service 2**,26,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2014-15,Total,80,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Commissioner for Victim’s Rights,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Director of Public Prosecutions,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Equal Opportunity Commissioner,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Police Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Public Advocate,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,South Australian Executive Service 1**,50,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,South Australian Executive Service 2**,24,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2015-16,Total,81,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Commissioner for Victim’s Rights,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Director of Public Prosecutions,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Equal Opportunity Commissioner,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Police Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Public Advocate,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Solicitor General,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,South Australian Executive Service 1**,51,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,South Australian Executive Service 2**,23,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2016-17,Total,82,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Commissioner for Victim’s Rights,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Director of Public Prosecutions,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Equal Opportunity Commissioner,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Ombudsman,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Public Advocate,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Solicitor General,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,South Australian Executive Service 1**,53,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,South Australian Executive Service 2**,18,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2017-18,Total,78,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2018-19,Chief Executive,1,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2018-19,South Australian Executive Service 1**,48,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2018-19,South Australian Executive Service 2**,16,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2018-19,Statutory Appointments,6,False,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2018-19,Total,71,True,agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2019-20,Chief Executive,1,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2019-20,South Australian Executive Service 1**,55,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2019-20,South Australian Executive Service 2**,14,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2019-20,Statutory Appointments,8,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2019-20,Total,78,True,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2020-21,Chief Executive,1,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2020-21,South Australian Executive Service 1**,66,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2020-21,South Australian Executive Service 2**,16,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2020-21,Statutory Appointments,7,False,0a9d24a5-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2020-21,Total,90,True,eee9005d-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2021-22,Chief Executive,1,False,eee9005d-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2021-22,South Australian Executive Service 1**,62,False,eee9005d-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2021-22,South Australian Executive Service 2**,16,False,eee9005d-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2021-22,Statutory Appointments,13,False,eee9005d-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2021-22,Total,92,True,eee9005d-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2022-23,Chief Executive,1,False,8f1aea70-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2022-23,South Australian Executive Service 1**,61,False,8f1aea70-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2022-23,South Australian Executive Service 2**,19,False,8f1aea70-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2022-23,Statutory Appointments,12,False,8f1aea70-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2022-23,Total,93,True,8f1aea70-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2023-24,Chief Executive,1,False,86cf48be-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2023-24,South Australian Executive Service 1**,56,False,86cf48be-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2023-24,South Australian Executive Service 2**,22,False,86cf48be-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2023-24,Statutory Appointments,9,False,86cf48be-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2023-24,Total,88,True,86cf48be-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2024-25,Chief Executive,1,False,7e37aae3-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2024-25,South Australian Executive Service 1**,67,False,7e37aae3-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2024-25,South Australian Executive Service 2**,16,False,7e37aae3-agd-annual-report-data-executives-employed.csv
+Attorney-General's Department,2024-25,Statutory Appointments,9,False,7e37aae3-agd-annual-report-data-executives-employed.csv
+Commission on Excellence and Innovation in Health,As at 30 June 2020,Chief Executive,1,False,data.sa-executive-employment-2019-20.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2020,SAES 1 Level roles,4,False,data.sa-executive-employment-2019-20.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2021,Chief Executive,1,False,data.sa-ceih-executive-employment-2020-21.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2021,SAES 1 Level roles,3,False,data.sa-ceih-executive-employment-2020-21.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2022,EXF,1,False,data.sa-ceih-executive-employment-2021-22.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2022,SAES 1 Level,2,False,data.sa-ceih-executive-employment-2021-22.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2023,EXF,1,False,data.sa-ceih-executive-employment-2022-23.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2023,SAES 1 Level,2,False,data.sa-ceih-executive-employment-2022-23.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2024,Chief Executive (known as Commissioner),1,False,data.sa-ceih-executive-employment-2023-24.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2024,SAES 1 Level,2,False,data.sa-ceih-executive-employment-2023-24.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2025,Chief Executive (known as Commissioner),1,False,data.sa-ceih-executive-employment-2024-25.xlsx
+Commission on Excellence and Innovation in Health,As at 30 June 2025,SAES 1 Level,3,False,data.sa-ceih-executive-employment-2024-25.xlsx
+Courts Administration Authority,2012-13,EXEC OA,2,False,courts-administration-authority-annual-report-executive-employment.csv
+Courts Administration Authority,2012-13,EXEC OB,3,False,courts-administration-authority-annual-report-executive-employment.csv
+Courts Administration Authority,2012-13,EXEC OC,1,False,courts-administration-authority-annual-report-executive-employment.csv
+Courts Administration Authority,2013-14,EXEC OA,2,False,courts-administration-authority-2017-18-annual-report-executive-employment.xlsx
+Courts Administration Authority,2013-14,EXEC OB,3,False,courts-administration-authority-2017-18-annual-report-executive-employment.xlsx
+Courts Administration Authority,2013-14,EXEC OC,1,False,courts-administration-authority-2017-18-annual-report-executive-employment.xlsx
+Courts Administration Authority,2014-15,EXEC OA,2,False,courts-administration-authority-2018-19-annual-report-executive-employment.csv
+Courts Administration Authority,2014-15,EXEC OB,3,False,courts-administration-authority-2018-19-annual-report-executive-employment.csv
+Courts Administration Authority,2014-15,EXEC OC,1,False,courts-administration-authority-2018-19-annual-report-executive-employment.csv
+Courts Administration Authority,2015-16,EXEC OA,3,False,courts-administration-authority-2019-20-annual-report-executive-employment.csv
+Courts Administration Authority,2015-16,EXEC OB,4,False,courts-administration-authority-2019-20-annual-report-executive-employment.csv
+Courts Administration Authority,2015-16,EXEC OC,1,False,courts-administration-authority-2019-20-annual-report-executive-employment.csv
+Courts Administration Authority,2016-17,EXEC OA,3,False,courts-administration-authority-2020-21-annual-report-executive-employment.csv
+Courts Administration Authority,2016-17,EXEC OB,4,False,courts-administration-authority-2020-21-annual-report-executive-employment.csv
+Courts Administration Authority,2016-17,EXEC OC,1,False,courts-administration-authority-2020-21-annual-report-executive-employment.csv
+Courts Administration Authority,2017-18,EXEC OA,3,False,courts-administration-authority-2021-22-annual-report-executive-employment.csv
+Courts Administration Authority,2017-18,EXEC OC,1,False,courts-administration-authority-2021-22-annual-report-executive-employment.csv
+Courts Administration Authority,2018-19,EXEC OA,3,False,courts-administration-authority-2022-23-annual-report-executive-employment.csv
+Courts Administration Authority,2018-19,EXEC OB,4,False,courts-administration-authority-2022-23-annual-report-executive-employment.csv
+Courts Administration Authority,2018-19,EXEC OC,1,False,courts-administration-authority-2022-23-annual-report-executive-employment.csv
+Courts Administration Authority,2019-20,EXEC OA,3,False,courts-administration-authority-2023-24-annual-report-executive-employment.csv
+Courts Administration Authority,2019-20,EXEC OB,2,False,courts-administration-authority-2023-24-annual-report-executive-employment.csv
+Courts Administration Authority,2019-20,EXEC OC,1,False,courts-administration-authority-2023-24-annual-report-executive-employment.csv
+Courts Administration Authority,2020-21,EXEC OA,2,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2020-21,EXEC OB,3,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2020-21,EXEC OC,1,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2021-22,EXEC OA,3,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2021-22,EXEC OB,3,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2021-22,EXEC OC,1,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2022-23,EXEC OA,3,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2022-23,EXEC OB,2,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2022-23,EXEC OC,1,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2023-24,EXEC OA,3,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2023-24,EXEC OB,2,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2023-24,EXEC OC,1,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2024-25,EXEC OA,3,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2024-25,EXEC OB,2,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Courts Administration Authority,2024-25,EXEC OC,1,False,courts-administration-authority-2024-25-annual-report-executive-employment.csv
+Defence SA,2022-23,EXEC0A,1,False,defence-sa-executives-2022-23.csv
+Defence SA,2022-23,SAES1,5,False,defence-sa-executives-2022-23.csv
+Department for Child Protection,2019-20,EXECOF,1,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2019-20,SAES 1,7,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2019-20,SAES 2,5,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2020-21,EXECOF,1,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2020-21,SAES 1,9,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2020-21,SAES 2,4,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2021-22,EXECOF,1,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2021-22,SAES 1,8,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2021-22,SAES 2,3,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2022-23,EXECOF,1,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2022-23,SAES 1,10,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2022-23,SAES 2,5,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2023-24,EXECOF,1,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2023-24,SAES 1,13,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2023-24,SAES 2,8,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2024-25,EXECOF,1,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2024-25,SAES 1,15,False,department-for-child-protection-executive-employment.csv
+Department for Child Protection,2024-25,SAES 2,5,False,department-for-child-protection-executive-employment.csv
+Department for Education,2024,Chief Executive,1,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Education and Children's Services Act Section 121 Negotiated Conditions,253,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,PS Act Executive A,0,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Preschool Director Band A-2,11,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Preschool Director Band A-3,50,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-2,57,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-3,151,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-4,102,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-5,97,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-6,58,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-7,31,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-8,21,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-9,27,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,Principal Band A-9 plus,11,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,SA Executive Service Level 1,66,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,SA Executive Service Level 2,20,False,annual-report_open_data_executives_2023-2024.csv
+Department for Education,2024,SAES Specialist,3,False,annual-report_open_data_executives_2023-2024.csv
+Department for Infrastructure and Transport,2012/13,EXEC,2,False,executive-employment-in-dpti-2012-13.csv
+Department for Infrastructure and Transport,2012/13,SAES,65,False,executive-employment-in-dpti-2012-13.csv
+Department for Infrastructure and Transport,2013/14,EXEC,1,False,executive-employment-in-dpti-2013-14.csv
+Department for Infrastructure and Transport,2013/14,SAES,67,False,executive-employment-in-dpti-2013-14.csv
+Department for Infrastructure and Transport,2014/15,EXEC,3,False,executive-employment-in-dpti-2014-15.csv
+Department for Infrastructure and Transport,2014/15,SAES,42,False,executive-employment-in-dpti-2014-15.csv
+Department for Infrastructure and Transport,2015/16,EXEC,4,False,executive-employment-in-dpti-2015-16.csv
+Department for Infrastructure and Transport,2015/16,SAES,38,False,executive-employment-in-dpti-2015-16.csv
+Department for Infrastructure and Transport,2016/17,EXEC,3,False,executive-employment-in-dpti-2016-17.csv
+Department for Infrastructure and Transport,2016/17,SAES,38,False,executive-employment-in-dpti-2016-17.csv
+Department for Infrastructure and Transport,2017-18,EXEC0A,1,False,executive-employment-in-dpti-in-2017-18-1.csv
+Department for Infrastructure and Transport,2017-18,SAES1,32,False,executive-employment-in-dpti-in-2017-18-1.csv
+Department for Infrastructure and Transport,2017-18,SAES2,9,False,executive-employment-in-dpti-in-2017-18-1.csv
+Department for Infrastructure and Transport,2018-19,EXEC0A,2,False,executive-employment-in-dpti-in-2018-19.csv
+Department for Infrastructure and Transport,2018-19,EXEC0F,1,False,executive-employment-in-dpti-in-2018-19.csv
+Department for Infrastructure and Transport,2018-19,SAES1,28,False,executive-employment-in-dpti-in-2018-19.csv
+Department for Infrastructure and Transport,2018-19,SAES2,6,False,executive-employment-in-dpti-in-2018-19.csv
+Department for Infrastructure and Transport,2019-20,EXEC0A,1,False,dpti-annual-report-2019-20-csv-executive-employment-1.csv
+Department for Infrastructure and Transport,2019-20,EXEC0F,1,False,dpti-annual-report-2019-20-csv-executive-employment-1.csv
+Department for Infrastructure and Transport,2019-20,SAES1,28,False,dpti-annual-report-2019-20-csv-executive-employment-1.csv
+Department for Infrastructure and Transport,2019-20,SAES2,14,False,dpti-annual-report-2019-20-csv-executive-employment-1.csv
+Department for Infrastructure and Transport,2020-2021,EXEC0F,1,False,dit_annual_report_2020-2021_csv_exec_employment_in_the_agency.xlsx
+Department for Infrastructure and Transport,2020-2021,SAES1,30,False,dit_annual_report_2020-2021_csv_exec_employment_in_the_agency.xlsx
+Department for Infrastructure and Transport,2020-2021,SAES2,15,False,dit_annual_report_2020-2021_csv_exec_employment_in_the_agency.xlsx
+Department for Infrastructure and Transport,2021-2022,EXEC0F,1,False,dit_annual_report_2021-2022_-_csv_exec_employment_in_the_agency.xlsx
+Department for Infrastructure and Transport,2021-2022,SAES1,34,False,dit_annual_report_2021-2022_-_csv_exec_employment_in_the_agency.xlsx
+Department for Infrastructure and Transport,2021-2022,SAES2,14,False,dit_annual_report_2021-2022_-_csv_exec_employment_in_the_agency.xlsx
+Department for Infrastructure and Transport,2022-23,EXEC0F,1,False,docs_and_files-20243534-v1-2022-2023_annual_report_dit_-_csv_-_executive_employment_in_agency.xlsx
+Department for Infrastructure and Transport,2022-23,SAES1,34,False,docs_and_files-20243534-v1-2022-2023_annual_report_dit_-_csv_-_executive_employment_in_agency.xlsx
+Department for Infrastructure and Transport,2022-23,SAES2,12,False,docs_and_files-20243534-v1-2022-2023_annual_report_dit_-_csv_-_executive_employment_in_agency.xlsx
+Department for Infrastructure and Transport,2023-2024,EXEC0F,1,False,2023-2024_annual_report_dit_-_csv_-_executive_employment_in_agency.csv
+Department for Infrastructure and Transport,2023-2024,SAES1,38,False,2023-2024_annual_report_dit_-_csv_-_executive_employment_in_agency.csv
+Department for Infrastructure and Transport,2023-2024,SAES2,13,False,2023-2024_annual_report_dit_-_csv_-_executive_employment_in_agency.csv
+Department for Infrastructure and Transport,2024-2025,EXEC0F,1,False,docs_and_files-23252415-v2-11a__2024-2025_annual_report_-_executive_employment_in_the_agency_-_c.csv
+Department for Infrastructure and Transport,2024-2025,SAES1,34,False,docs_and_files-23252415-v2-11a__2024-2025_annual_report_-_executive_employment_in_the_agency_-_c.csv
+Department for Infrastructure and Transport,2024-2025,SAES2,12,False,docs_and_files-23252415-v2-11a__2024-2025_annual_report_-_executive_employment_in_the_agency_-_c.csv
+Department of Human Services,2017-18,EXEC0E,1,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2017-18,SAES1,26,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2017-18,SAES2,9,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2018-19,EXEC0E,1,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2018-19,SAES1,22,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2018-19,SAES2,7,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2019-20,EXEC0E,0,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2019-20,SAES1,21,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2019-20,SAES2,7,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2020-21,EXEC0E,1,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2020-21,SAES1,19,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2020-21,SAES2,6,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2021-22,EXEC0E,1,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2021-22,SAES1,22,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2021-22,SAES2,6,False,dhs-annual-report-data-2021-22-executive-employment.csv
+Department of Human Services,2022-23,EXEC0E,1,False,dhs-annual-report-data-2022-23-executive-employment.csv
+Department of Human Services,2022-23,SAES1,22,False,dhs-annual-report-data-2022-23-executive-employment.csv
+Department of Human Services,2022-23,SAES2,6,False,dhs-annual-report-data-2022-23-executive-employment.csv
+Department of Human Services,2023-24,EXEC0E,1,False,dhs-annual-report-data-2023-24-executive-employment.csv
+Department of Human Services,2023-24,SAES1,22,False,dhs-annual-report-data-2023-24-executive-employment.csv
+Department of Human Services,2023-24,SAES2,6,False,dhs-annual-report-data-2023-24-executive-employment.csv
+Department of Human Services,2024-25,EXEC0E,1,False,dhs-annual-report-data-2024-25-executive-employment.csv
+Department of Human Services,2024-25,SAES1,27,False,dhs-annual-report-data-2024-25-executive-employment.csv
+Department of Human Services,2024-25,SAES2,7,False,dhs-annual-report-data-2024-25-executive-employment.csv
+Department of Primary Industries and Regions SA,2012/13,EXEC0F,1,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2012/13,SAES1,16,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2012/13,SAES2,8,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2013/14,EXEC0F,1,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2013/14,SAES1,16,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2014/15,EXEC0F,1,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2014/15,SAES1,16,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2014/15,SAES2,6,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2015/16,EXEC0F,1,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2015/16,SAES1,18,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2015/16,SAES2,2,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2016/17,EXEC0F,1,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2016/17,SAES1,17,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2016/17,SAES2,3,False,pirsa-executive-employment-reporting-historical-data.csv
+Department of Primary Industries and Regions SA,2017/18,EXECOF,1,False,pirsa-executive-employment-reporting-in-2017-18.csv
+Department of Primary Industries and Regions SA,2017/18,SAES1,17,False,pirsa-executive-employment-reporting-in-2017-18.csv
+Department of Primary Industries and Regions SA,2017/18,SAES2,3,False,pirsa-executive-employment-reporting-in-2017-18.csv
+Department of Primary Industries and Regions SA,2018/19,EXEC0F,1,False,pirsa-executive-employment-reporting-2018-19.csv
+Department of Primary Industries and Regions SA,2018/19,SAES1,14,False,pirsa-executive-employment-reporting-2018-19.csv
+Department of Primary Industries and Regions SA,2018/19,SAES2,3,False,pirsa-executive-employment-reporting-2018-19.csv
+Department of Primary Industries and Regions SA,2019/20,EXEC0F,1,False,pirsa-executive-employment-reporting-2019-20.csv
+Department of Primary Industries and Regions SA,2019/20,SAES1,14,False,pirsa-executive-employment-reporting-2019-20.csv
+Department of Primary Industries and Regions SA,2019/20,SAES2,2,False,pirsa-executive-employment-reporting-2019-20.csv
+Department of Primary Industries and Regions SA,2020/21,EXEC0F,1,False,pirsa-executive-employment-2020-21.csv
+Department of Primary Industries and Regions SA,2020/21,SAES1,14,False,pirsa-executive-employment-2020-21.csv
+Department of Primary Industries and Regions SA,2020/21,SAES2,3,False,pirsa-executive-employment-2020-21.csv
+Department of Primary Industries and Regions SA,2021/22,EXEC0F,1,False,pirsa-executive-employment-2021022.csv
+Department of Primary Industries and Regions SA,2021/22,SAES1,16,False,pirsa-executive-employment-2021022.csv
+Department of Primary Industries and Regions SA,2021/22,SAES2,3,False,pirsa-executive-employment-2021022.csv
+Department of Primary Industries and Regions SA,2022/23,EXEC0F,1,False,pirsa-executive-employment-2022-23.csv
+Department of Primary Industries and Regions SA,2022/23,SAES1,15,False,pirsa-executive-employment-2022-23.csv
+Department of Primary Industries and Regions SA,2022/23,SAES2,2,False,pirsa-executive-employment-2022-23.csv
+Department of Primary Industries and Regions SA,2023/24,EXEC0F,1,False,pirsa-executive-employment-2023-24.csv
+Department of Primary Industries and Regions SA,2023/24,SAES1,16,False,pirsa-executive-employment-2023-24.csv
+Department of Primary Industries and Regions SA,2023/24,SAES2,2,False,pirsa-executive-employment-2023-24.csv
+Department of State Development,2014-15,CONAGD,1,False,dsd-executive-employment.xlsx
+Department of State Development,2014-15,EXEC A,1,False,dsd-executive-employment.xlsx
+Department of State Development,2014-15,EXEC E,1,False,dsd-executive-employment.xlsx
+Department of State Development,2014-15,EXEC F,1,False,dsd-executive-employment.xlsx
+Department of State Development,2014-15,SAES 1,53,False,dsd-executive-employment.xlsx
+Department of State Development,2014-15,SAES 2,12,False,dsd-executive-employment.xlsx
+Department of State Development,2014-15,TOTAL,69,True,dsd-executive-employment.xlsx
+Department of State Development,2015-16,CONAGD,2,False,dsd-executive-employment.xlsx
+Department of State Development,2015-16,EXEC A,1,False,dsd-executive-employment.xlsx
+Department of State Development,2015-16,EXEC E,0,False,dsd-executive-employment.xlsx
+Department of State Development,2015-16,EXEC F,1,False,dsd-executive-employment.xlsx
+Department of State Development,2015-16,SAES 1,52,False,dsd-executive-employment.xlsx
+Department of State Development,2015-16,SAES 2,14,False,dsd-executive-employment.xlsx
+Department of State Development,2015-16,TOTAL,70,True,dsd-executive-employment.xlsx
+Department of State Development,2016-17,CONAGD,4,False,dsd-executive-employment.xlsx
+Department of State Development,2016-17,EXEC A,1,False,dsd-executive-employment.xlsx
+Department of State Development,2016-17,EXEC E,0,False,dsd-executive-employment.xlsx
+Department of State Development,2016-17,EXEC F,0,False,dsd-executive-employment.xlsx
+Department of State Development,2016-17,SAES 1,30,False,dsd-executive-employment.xlsx
+Department of State Development,2016-17,SAES 2,9,False,dsd-executive-employment.xlsx
+Department of State Development,2016-17,TOTAL,44,True,dsd-executive-employment.xlsx
+Department of State Development,2017-18,EXEC F,1,False,dsd-executive-employment.xlsx
+Department of State Development,2017-18,SAES 1,29,False,dsd-executive-employment.xlsx
+Department of State Development,2017-18,SAES 2,8,False,dsd-executive-employment.xlsx
+Education Standards Board,2013-14,Classification (tenured),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2013-14,Classification (untenured),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2013-14,Common Law Contract (not SAES),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2013-14,Executives (total),3,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2014-15,Classification (tenured),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2014-15,Classification (untenured),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2014-15,Common Law Contract (not SAES),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2014-15,Executives (total),3,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2015-16,Classification (tenured),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2015-16,Classification (untenured),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2015-16,Common Law Contract (not SAES),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2015-16,Executives (total),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2016-17,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2016-17,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2016-17,Common Law Contract (not SAES),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2016-17,Executives (total),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2017-18,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2017-18,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2017-18,Common Law Contract (not SAES),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2017-18,Executives (total),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2018-19,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2018-19,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2018-19,Common Law Contract (not SAES),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2018-19,Executives (total),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2019-20,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2019-20,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2019-20,Common Law Contract (not SAES),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2019-20,Executives (total),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2020-21,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2020-21,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2020-21,Common Law Contract (not SAES),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2020-21,Executives (total),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2021-22,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2021-22,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2021-22,Common Law Contract (not SAES),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2021-22,Executives (total),1,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2022-23,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2022-23,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2022-23,Common Law Contract (not SAES),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2022-23,Executives (total),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2023-24,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2023-24,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2023-24,Common Law Contract (not SAES),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2023-24,Executives (total),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2024-25,Classification (tenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2024-25,Classification (untenured),0,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2024-25,Common Law Contract (not SAES),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Education Standards Board,2024-25,Executives (total),2,False,executive-employment-education-standards-board-a11659023-1.csv
+Essential Services Commission of SA,2012-13,Level A,0,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2012-13,Level B,3,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2012-13,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2013-14,Level A,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2013-14,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2013-14,Level D,0,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2014-15,Level A,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2014-15,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2014-15,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2015-16,Level A,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2015-16,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2015-16,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2016-17,Level A,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2016-17,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2016-17,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2017-18,Level A,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2017-18,Level B,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2017-18,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2018-19,Level A,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2018-19,Level B,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2018-19,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2019-20,Level A,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2019-20,Level B,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2019-20,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2020-21,Level A,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2020-21,Level B,2,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2020-21,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2021-22,Level A,3,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2021-22,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2021-22,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2022-23,Level A,3,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2022-23,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2022-23,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2023-24,Level A,3,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2023-24,Level B,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Essential Services Commission of SA,2023-24,Level D,1,False,20250317-escosa-annual-report-statistics-executive-employment.csv
+Health Performance Council,2012,Total,0,True,executive.xlsx
+Health Performance Council,2013,Total,0,True,executive.xlsx
+Health Performance Council,2014,Total,0,True,executive.xlsx
+Health Performance Council,2015,Total,0,True,executive.xlsx
+Health Performance Council,2016,Total,0,True,executive.xlsx
+Health Performance Council,As at 30 June 2018,Executive classification,0,False,2017-18-executive-employment.xlsx
+Health Performance Council,As at 30 June 2019,Executive classification,0,False,2018-19-executive-employment.xlsx
+Health Performance Council,As at 30 June 2020,Executive classification,0,False,2019-20-executive-employment.xlsx
+Health Performance Council,As at 30 June 2021,Executive classification,0,False,2020-21-executive-employment.xlsx
+Health Performance Council,At 30 June 2022,N/a,0,False,2021-22-executive-employment.xlsx
+Health Performance Council,At 30 June 2023,N/a,0,False,2022-23-executive-employment.xlsx
+Health Performance Council,At 30 June 2024,N/a,0,False,2023-24-executive-employment.xlsx
+Health Performance Council,At 30 June 2025,N/a,0,False,2024-25-executive-employment.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2013,Executive classification,0,False,executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2014,Executive classification,0,False,executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2015,Executive classification,0,False,executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2016,Executive classification,0,False,executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2017,Executive classification,0,False,executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2018,Executive classification,0,False,1718-executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2019,Executive employment classification in the agency,0,False,1819-executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2020,Executive employment classification in the agency,0,False,1920-executive-employment-in-the-agency-hscgb.xlsx
+Health Services Charitable Gifts Board,As at 30 June 2021,Executive employment classification in the agency,0,False,20-21-executive-employment-in-the-agency-hscgb.csv
+Health Services Charitable Gifts Board,As at 30 June 2022,Executive employment classification in the agency,0,False,21-22-executive-employment-in-the-agency-hscgb.csv
+Health Services Charitable Gifts Board,As at 30 June 2023,Executive employment classification in the agency,0,False,22-23-executive-employment-in-the-agency-hscgb.csv
+Health Services Charitable Gifts Board,As at 30 June 2024,Executive employment classification in the agency,0,False,23-24-executive-employment-in-the-agency-hscgb.csv
+Health Services Charitable Gifts Board,As at 30 June 2025,Executive employment classification in the agency,0,False,24-25-executive-employment-in-the-agency-hscgb.csv
+Health and Community Services Complaints Commissioner,As at 30 June 2013,Statutory Officer,1,False,hcscc-executive-employment-template.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2014,Statutory Officer,1,False,hcscc-executive-employment-template.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2015,Statutory Officer,1,False,hcscc-executive-employment-template.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2016,Statutory Officer,1,False,hcscc-executive-employment-template.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2017,Statutory Officer,1,False,hcscc-executive-employment-template.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2018,EXEC0A,1,False,executive-employment-template.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2019,Statutory Appointment,1,False,19_11_06-executive-employment.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2020,Statutory Appointment,1,False,20_11_13-executive-employment.xlsx
+Health and Community Services Complaints Commissioner,As at 30 June 2021,Statutory Appointment,1,False,21_10_28-executive-employment.xlsx
+History Trust of South Australia,2011-12,EXEC0A,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2011-12,SAES1,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2011-12,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2012-13,EXEC0A,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2012-13,SAES1,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2012-13,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2013-14,EXEC0A,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2013-14,SAES1,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2013-14,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2014-15,EXEC0A,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2014-15,SAES1,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2014-15,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2015-16,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2015-16,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2015-16,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2016-17,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2016-17,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2016-17,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2017-18,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2017-18,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2017-18,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2018-19,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2018-19,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2018-19,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2019-20,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2019-20,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2019-20,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2020-21,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2020-21,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2020-21,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2021-22,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2021-22,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2021-22,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2022-23,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2022-23,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2022-23,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2023-24,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2023-24,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2023-24,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2024-25,EXEC0A,0,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2024-25,SAES1,1,False,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+History Trust of South Australia,2024-25,Total Executive Employment,1,True,executive-employment-htsa-for-period-2011-2012-to-2024-25.csv
+ICAC and Office for Public Integrity,2016-17,AS08,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,INV3,3,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,INV4,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,LEC5,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,MAS3,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,SAES1,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,SAES2,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2016-17,Total,10,True,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,ASO7,0,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,INV3,3,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,INV4,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,LEC5,2,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,MAS3,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,SAES1,2,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,SAES2,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2017-18,Total,11,True,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,AS08,0,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,INV3,3,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,INV4,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,LEC5,2,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,MAS3,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,SAES1,3,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2018-19,Total,12,True,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2019-20,Total,12,True,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,AS08,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,CONAGD,2,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,INV2,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,INV3,2,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,INV4,1,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,SAES1,4,False,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+ICAC and Office for Public Integrity,2020-21,Total,11,True,icac-and-opi-annual-report-data-executive-employment-in-the-agency.csv
+Lotteries Commission of South Australia,2012-13,EXEC0A,2,False,executive-employment-in-the-agency-last-five-years.csv
+Lotteries Commission of South Australia,2012-13,EXEC0D,1,False,executive-employment-in-the-agency-last-five-years.csv
+Lotteries Commission of South Australia,2013-14,EXEC0A,1,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2013-14,EXEC0D,1,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2014-15,EXEC0A,1,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2014-15,EXEC0D,0,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2015-16,EXEC0A,1,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2015-16,EXEC0D,0,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2016-17,EXEC0A,0,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2016-17,EXEC0D,1,False,executive-employment-in-the-agency-last-five-years-2017-18.xlsx
+Lotteries Commission of South Australia,2017-18,EXEC0A,0,False,executive-employment-data-2022.csv
+Lotteries Commission of South Australia,2017-18,EXEC0D,1,False,executive-employment-data-2022.csv
+Lotteries Commission of South Australia,2018-19,EXEC0A,0,False,executive-employment-data-2022.csv
+Lotteries Commission of South Australia,2018-19,EXEC0D,1,False,executive-employment-data-2023.csv
+Lotteries Commission of South Australia,2019-20,EXEC0A,0,False,executive-employment-data-2022.csv
+Lotteries Commission of South Australia,2019-20,EXEC0D,1,False,executive-employment-data-2023.csv
+Lotteries Commission of South Australia,2020-21,EXEC0A,0,False,executive-employment-data-2022.csv
+Lotteries Commission of South Australia,2020-21,EXEC0D,1,False,executive-employment-data-2023.csv
+Lotteries Commission of South Australia,2021-22,EXEC0A,0,False,executive-employment-data-2022.csv
+Lotteries Commission of South Australia,2021-22,EXEC0D,1,False,executive-employment-data-2023.csv
+Lotteries Commission of South Australia,2022-23,EXEC0A,0,False,87135169-executive-employment-data-2023.csv
+Lotteries Commission of South Australia,2022-23,EXEC0D,1,False,executive-employment-data-2023.csv
+Northern Adelaide Local Health Network,As at 30 June 2025,EXEC0E,1,False,data.sa-executive-employment-2024-25.xlsx
+Northern Adelaide Local Health Network,As at 30 June 2025,SAES1,6,False,data.sa-executive-employment-2024-25.xlsx
+Northern Adelaide Local Health Network,As at 30 June 2025,SAES2,2,False,data.sa-executive-employment-2024-25.xlsx
+Office of the Commissioner for Public Sector Employment,2020-21,SAES 2,3,False,executives-in-the-commissioner-for-public-sector-employment.csv.xlsx
+Office of the SA Productivity Commission,2022-2023,EXECOF,1,False,2022_2023_osapc_executive-employment.xlsx
+Office of the SA Productivity Commission,2022-2023,SAES 1,1,False,2022_2023_osapc_executive-employment.xlsx
+Office of the SA Productivity Commission,2022-2023,SAES 2,0,False,2022_2023_osapc_executive-employment.xlsx
+Preventive Health SA / Wellbeing SA,As at 30 June 2020,Chief Executive,1,False,wbsaexecutiveemployment201920.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2020,SAES1 Level Roles,3,False,wbsaexecutiveemployment201920.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2021,Chief Executive,1,False,wellbeing-sa-data.sa-executive-employment-2020-21.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2021,SAES1 Level Roles,5,False,wellbeing-sa-data.sa-executive-employment-2020-21.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2022,Chief Executive,1,False,data-executive-employees_2021-22.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2022,SAES1 Level Roles,5,False,data-executive-employees_2021-22.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2023,Chief Executive,1,False,execemployment_2022-23.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2023,SAES1 Level Roles,4,False,execemployment_2022-23.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2024,Chief Executive,1,False,execemployment_2023_24.csv
+Preventive Health SA / Wellbeing SA,As at 30 June 2024,SAES1 Level Roles,4,False,execemployment_2023_24.csv
+Public Trustee,2012-13,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2012-13,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2013-14,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2013-14,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2014-15,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2014-15,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2016-17,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2016-17,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2017-18,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2017-18,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2018-19,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2018-19,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2019-20,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2019-20,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2020-21,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2020-21,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2021-22,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2021-22,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2022-23,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2022-23,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2023-24,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2023-24,SAES2,1,False,pulic-trustee-executives.csv
+Public Trustee,2024-25,SAES1,2,False,pulic-trustee-executives.csv
+Public Trustee,2024-25,SAES2,1,False,pulic-trustee-executives.csv
+Renewal SA,2018/19,Total,4,True,renewal-sa-executive-employment-2018_19.csv
+Renewal SA,2019/20,Total,19,True,renewal-sa-executive-employment-2019_20.csv
+Renewal SA,2020/21,Total,22,True,renewal-sa-executive-employment-2020_21.csv
+Renewal SA,2021/22,Total,21,True,renewal-sa-executive-employment-2021_22.csv
+Renewal SA,2022/23,Total,21,True,executive-employment-2022_23.csv
+Renewal SA,2023/24,Total,24,True,renewal-sa-executive-employment-2023_24.csv
+Riverbank Authority,2014-15,Executive,0,False,cuserslazzl01desktopriverbank-authority-executive-employment-2017-18.xlsx
+Riverbank Authority,2015-16,Executive,0,False,cuserslazzl01desktopriverbank-authority-executive-employment-2017-18.xlsx
+Riverbank Authority,2016-17,Executive,0,False,cuserslazzl01desktopriverbank-authority-executive-employment-2017-18.xlsx
+Riverbank Authority,2017-18,Executive,0,False,cuserslazzl01desktopriverbank-authority-executive-employment-2017-18.xlsx
+SA Ambulance Service,As at 30 June 2023,SAES Level 1 (noting three staff in interim roles),1,False,2022-2023-sa-ambulance-service-executive-employment.csv
+SA Ambulance Service,As at 30 June 2023,SAES Level 2,3,False,2022-2023-sa-ambulance-service-executive-employment.csv
+SA Metropolitan Advisory Council,As at 30 June 2023,Nil to report,0,False,data.sa-executive-employment-2023-24.xlsx
+SA Tourism Commission,Number of Executives 2012-13,EXEC0A,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2012-13,EXEC0B,3,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2012-13,EXEC0C,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2012-13,EXEC0D,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2012-13,EXEC0E,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2012-13,EXEC0F,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2012-13,TOTAL,5,True,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,EXEC0A,3,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,EXEC0B,2,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,EXEC0C,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,EXEC0D,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,EXEC0E,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,EXEC0F,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2013-14,TOTAL,6,True,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,EXEC0A,2,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,EXEC0B,2,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,EXEC0C,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,EXEC0D,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,EXEC0E,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,EXEC0F,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2014-15,TOTAL,5,True,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,EXEC0A,2,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,EXEC0B,2,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,EXEC0C,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,EXEC0D,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,EXEC0E,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,EXEC0F,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2015-16,TOTAL,6,True,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of Executives 2018-19,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2018-19,EXEC0B,3,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2018-19,EXEC0C,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2018-19,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2018-19,EXEC0E,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2018-19,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2018-19,TOTAL,6,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,EXEC0B,2,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,EXEC0C,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,EXEC0E,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2019-20,TOTAL,5,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,EXEC0B,2,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,EXEC0C,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,EXEC0E,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2020-21,TOTAL,5,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,EXEC0B,3,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,EXEC0C,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,EXEC0D,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,EXEC0E,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2021-22,TOTAL,5,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,EXEC0B,2,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,EXEC0C,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,EXEC0E,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2022-23,TOTAL,5,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,EXEC0B,3,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,EXEC0C,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,EXEC0E,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2023-24,TOTAL,6,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,EXEC0A,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,EXEC0B,3,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,EXEC0C,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,EXEC0E,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,EXEC0F,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of Executives 2024-25,TOTAL,6,True,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2016-17,EXEC0A,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2016-17,EXEC0B,3,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2016-17,EXEC0C,3,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2016-17,EXEC0D,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2016-17,EXEC0E,0,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2016-17,EXEC0F,1,False,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2016-17,TOTAL,7,True,satcexecutiveemploymentfinal.csv
+SA Tourism Commission,Number of executives 2017-18,EXEC0A,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2017-18,EXEC0B,2,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2017-18,EXEC0C,3,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2017-18,EXEC0D,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2017-18,EXEC0E,0,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2017-18,EXEC0F,1,False,satc_executiveemployment.csv
+SA Tourism Commission,Number of executives 2017-18,TOTAL,6,True,satc_executiveemployment.csv
+South Australian Housing Trust,2018-19,ECEC00,1,False,798d22f6-south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2018-19,EXEC00,1,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2018-19,SAES1,5,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2018-19,SAES2,1,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2019-20,ECEC00,1,False,798d22f6-south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2019-20,EXEC00,1,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2019-20,SAES1,8,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2019-20,SAES2,2,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2020-21,EXEC00,1,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2020-21,SAES1,10,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2020-21,SAES2,3,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2021-22,EXEC00,1,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2021-22,SAES1,11,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Housing Trust,2021-22,SAES2,1,False,south-australian-housing-trust-annual-report-data-executive-employment.csv
+South Australian Mental Health Commission,2015-16,SAES 1,1,False,samhc-executive-employment.csv
+South Australian Mental Health Commission,2015-16,SAES 2,1,False,samhc-executive-employment.csv
+South Australian Mental Health Commission,2016-17,SAES 1,1,False,samhc-executive-employment.csv
+South Australian Mental Health Commission,2016-17,SAES 2,1,False,samhc-executive-employment.csv
+South Australian Mental Health Commission,2017-18,SAES 1,1,False,samhc-executive-employment.csv
+South Australian Mental Health Commission,2017-18,SAES 2,1,False,samhc-executive-employment.csv
+South Australian Mental Health Commission,As at 30 June 2019,SAES 1 - Executive Director,1,False,executive-employment-2018-19.csv
+South Australian Mental Health Commission,As at 30 June 2019,SAES 2 - Commissioner,1,False,executive-employment-2018-19.csv
+South Australian Metropolitan Fire Service,2012-13,EXEC0B,1,False,2017-09-29-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2012-13,EXEC0C,1,False,2017-09-29-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2012-13,Total,2,True,2017-09-29-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2013-14,EXEC0B,1,False,2018-08-24-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2013-14,EXEC0C,1,False,2018-08-24-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2013-14,Total,2,True,2018-08-24-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2014-15,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2014-15,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2014-15,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2014-15,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2015-16,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2015-16,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2015-16,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2015-16,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2016-17,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2016-17,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2016-17,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2016-17,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2017-18,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2017-18,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2017-18,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2017-18,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2018-19,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2018-19,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2018-19,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2018-19,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2019-20,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2019-20,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2019-20,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2019-20,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2020-21,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2020-21,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2020-21,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2020-21,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2021-22,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2021-22,EXEC0C,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2021-22,EXEC0D,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2021-22,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2022-23,EXEC0B,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2022-23,EXEC0C,0,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2022-23,EXEC0D,1,False,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Metropolitan Fire Service,2022-23,Total,2,True,2023-08-23-mfs-annual-report-data-executive-employment.csv
+South Australian Museum,2013-14,SAES1,2,False,2013-14-executives.csv
+South Australian Museum,2013-14,Total,2,True,2013-14-executives.csv
+South Australian Museum,2014-15,SAES1,1,False,2014-15-executives.csv
+South Australian Museum,2014-15,Total,1,True,2014-15-executives.csv
+South Australian Museum,2016-17,SAES1,2,False,2015-16-executives.csv
+South Australian Museum,2016-17,Total,2,True,2015-16-executives.csv
+South Australian Museum,2017-18,SAES1,2,False,south-australian-museum_executive-employment-in-the-agency_2017-18.csv
+South Australian Museum,2018-19,SAES1,2,False,2018-19-executives.csv
+South Australian Museum,2018-19,Total,2,True,2018-19-executives.csv
+South Australian Museum,2019-20,SAES1,2,False,2019-20-executives.csv
+South Australian Museum,2019-20,Total,2,True,2019-20-executives.csv
+South Australian Museum,2020-21,SAES1,2,False,2020-21-executives.csv
+South Australian Museum,2020-21,Total,2,True,2020-21-executives.csv
+South Australian Museum,2021-22,SAES1,3,False,2021-22-executives.csv
+South Australian Museum,2021-22,Total,3,True,2021-22-executives.csv
+South Australian Museum,2022-23,SAES1,3,False,2022-23-executives.csv
+South Australian Museum,2022-23,Total,3,True,2022-23-executives.csv
+South Australian Museum,2023-24,SAES1,3.2,False,2023-24-executives.csv
+South Australian Museum,2023-24,Total,3.2,True,2023-24-executives.csv
+State Opera of South Australia,2013,Total,3,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2014,Total,3,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2015,Total,3,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2016,Total,3,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2017,Total,3,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2018,Total,3,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2019,Total,2,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2020,Total,2,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2021,Total,2,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2022,Total,2,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2023,Total,2,True,state-opera-south-australia-executives-2023-24.csv
+State Opera of South Australia,2024,Total,2,True,state-opera-south-australia-executives-2023-24.csv
+State Theatre Company South Australia,2013-14,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2013-14,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2013-14,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2014-15,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2014-15,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2014-15,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2015-16,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2015-16,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2015-16,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2016-17,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2016-17,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2016-17,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2017-18,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2017-18,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2017-18,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2018-19,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2018-19,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2018-19,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2019-20,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2019-20,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2019-20,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2020-21,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2020-21,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2020-21,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2021-22,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2021-22,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2021-22,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2022-23,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2022-23,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2022-23,3,0,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2023-24,1,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2023-24,2,1,False,exec-remuneration-2013-2024.csv
+State Theatre Company South Australia,2023-24,3,0,False,exec-remuneration-2013-2024.csv
+TAFE SA,2012-13,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2012-13,SAES-1,7,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2012-13,SAES-2,5,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2012-13,Total,13,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2013-14,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2013-14,SAES-1,9,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2013-14,SAES-2,4,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2013-14,Total,14,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2014-15,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2014-15,SAES-1,12,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2014-15,SAES-2,3,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2014-15,Total,16,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2015-16,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2015-16,SAES-1,13,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2015-16,SAES-2,3,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2015-16,Total,17,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2016-17,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2016-17,SAES-1,10,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2016-17,SAES-2,3,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2016-17,Total,14,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2017-18,SAES-1,16,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2017-18,SAES-2,5,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2017-18,Total,21,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2018-19,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2018-19,SAES-1,15,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2018-19,SAES-2,4,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2018-19,Total,20,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2019-20,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2019-20,SAES-1,14,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2019-20,SAES-2,6,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2019-20,Total,21,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2020-21,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2020-21,SAES-1,16,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2020-21,Total,23,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2021-22,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2021-22,Total,29,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2022-23,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2022-23,SAES-1,22,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2022-23,SAES-2,6,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2022-23,Total,29,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2023-24,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2023-24,SAES-1,24,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2023-24,SAES-2,5,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2023-24,Total,30,True,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2024-25,EXEC ULE,1,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2024-25,SAES-1,26,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2024-25,SAES-2,5,False,tafe-sa-executive-employment-historical-trend-.csv
+TAFE SA,2024-25,Total,32,True,tafe-sa-executive-employment-historical-trend-.csv
+Teachers Registration Board of South Australia,2015-16,Classification (tenured),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2015-16,Classification (untenured),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2015-16,Common Law Contract (not SAES),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2015-16,Executives (total),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2016-17,Classification (tenured),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2016-17,Classification (untenured),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2016-17,Common Law Contract (not SAES),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2016-17,Executives (total),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2017-18,Classification (tenured),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2017-18,Classification (untenured),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2017-18,Common Law Contract (not SAES),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2017-18,Executives (total),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2018-19,Classification (tenured),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2018-19,Classification (untenured),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2018-19,Common Law Contract (not SAES),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2018-19,Executives (total),1,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2019-20,Classification (tenured),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2019-20,Classification (untenured),2,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2019-20,Common Law Contract (not SAES),0,False,executive-employment-in-trbsa-2016-2020.csv
+Teachers Registration Board of South Australia,2019-20,Executives (total),2,False,executive-employment-in-trbsa-2016-2020.csv
+Windmill Theatre Co,2013-14,Artistic Director,1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2013-14,Executive Producer (formerly General Manager and Producer),1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2014-15,Artistic Director,1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2014-15,Executive Producer (formerly General Manager and Producer),1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2015-16,Artistic Director,1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2015-16,Executive Producer (formerly General Manager and Producer),1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2016-17,Artistic Director,1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2016-17,Executive Producer (formerly General Manager and Producer),1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2017-18,Artistic Director,1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2017-18,Executive Producer (formerly General Manager and Producer),1,False,1718-data-executive-emp.csv
+Windmill Theatre Co,2018-19,Artistic Director,1,False,1718-exec-data-updated-1819.csv
+Windmill Theatre Co,2018-19,Executive Producer (formerly General Manager and Producer),1,False,1718-exec-data-updated-1819.csv
+Windmill Theatre Co,2019-20,Artistic Director,1,False,2-1920-data-executive-emp.csv
+Windmill Theatre Co,2019-20,Executive Producer (formerly General Manager and Producer),1,False,2-1920-data-executive-emp.csv
