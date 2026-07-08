@@ -1,0 +1,1993 @@
+source_table,breakdown,financial_year,category_1,category_2,column_category,count
+SCR SA.1,Clients by client type,2024–25,Own drug use,,,8587
+SCR SA.1,Clients by client type,2023–24,Own drug use,,,7882
+SCR SA.1,Clients by client type,2022–23,Own drug use,,,6660
+SCR SA.1,Clients by client type,2021–22,Own drug use,,,6929
+SCR SA.1,Clients by client type,2020–21,Own drug use,,,7283
+SCR SA.1,Clients by client type,2019–20,Own drug use,,,7045
+SCR SA.1,Clients by client type,2018–19,Own drug use,,,8505
+SCR SA.1,Clients by client type,2017–18,Own drug use,,,7369
+SCR SA.1,Clients by client type,2016–17,Own drug use,,,8334
+SCR SA.1,Clients by client type,2015–16,Own drug use,,,8025
+SCR SA.1,Clients by client type,2014–15,Own drug use,,,8782
+SCR SA.1,Clients by client type,2013–14,Own drug use,,,9136
+SCR SA.1,Clients by client type,2024–25,Other's drug use,,,134
+SCR SA.1,Clients by client type,2023–24,Other's drug use,,,107
+SCR SA.1,Clients by client type,2022–23,Other's drug use,,,58
+SCR SA.1,Clients by client type,2021–22,Other's drug use,,,31
+SCR SA.1,Clients by client type,2020–21,Other's drug use,,,69
+SCR SA.1,Clients by client type,2019–20,Other's drug use,,,86
+SCR SA.1,Clients by client type,2018–19,Other's drug use,,,176
+SCR SA.1,Clients by client type,2017–18,Other's drug use,,,175
+SCR SA.1,Clients by client type,2016–17,Other's drug use,,,129
+SCR SA.1,Clients by client type,2015–16,Other's drug use,,,64
+SCR SA.1,Clients by client type,2014–15,Other's drug use,,,157
+SCR SA.1,Clients by client type,2013–14,Other's drug use,,,79
+SCR SA.1,Clients by client type,2024–25,Total,,,8721
+SCR SA.1,Clients by client type,2023–24,Total,,,7989
+SCR SA.1,Clients by client type,2022–23,Total,,,6718
+SCR SA.1,Clients by client type,2021–22,Total,,,6960
+SCR SA.1,Clients by client type,2020–21,Total,,,7352
+SCR SA.1,Clients by client type,2019–20,Total,,,7131
+SCR SA.1,Clients by client type,2018–19,Total,,,8681
+SCR SA.1,Clients by client type,2017–18,Total,,,7544
+SCR SA.1,Clients by client type,2016–17,Total,,,8463
+SCR SA.1,Clients by client type,2015–16,Total,,,8089
+SCR SA.1,Clients by client type,2014–15,Total,,,8939
+SCR SA.1,Clients by client type,2013–14,Total,,,9215
+SCR SA.2,Clients by sex,2024–25,Own drug use,Male,,5373
+SCR SA.2,Clients by sex,2023–24,Own drug use,Male,,4925
+SCR SA.2,Clients by sex,2022–23,Own drug use,Male,,4208
+SCR SA.2,Clients by sex,2021–22,Own drug use,Male,,4303
+SCR SA.2,Clients by sex,2020–21,Own drug use,Male,,4543
+SCR SA.2,Clients by sex,2019–20,Own drug use,Male,,4551
+SCR SA.2,Clients by sex,2018–19,Own drug use,Male,,5545
+SCR SA.2,Clients by sex,2017–18,Own drug use,Male,,4925
+SCR SA.2,Clients by sex,2016–17,Own drug use,Male,,5655
+SCR SA.2,Clients by sex,2015–16,Own drug use,Male,,5550
+SCR SA.2,Clients by sex,2014–15,Own drug use,Male,,6113
+SCR SA.2,Clients by sex,2013–14,Own drug use,Male,,6476
+SCR SA.2,Clients by sex,2024–25,Own drug use,Female,,3160
+SCR SA.2,Clients by sex,2023–24,Own drug use,Female,,2918
+SCR SA.2,Clients by sex,2022–23,Own drug use,Female,,2417
+SCR SA.2,Clients by sex,2021–22,Own drug use,Female,,2605
+SCR SA.2,Clients by sex,2020–21,Own drug use,Female,,2730
+SCR SA.2,Clients by sex,2019–20,Own drug use,Female,,2486
+SCR SA.2,Clients by sex,2018–19,Own drug use,Female,,2955
+SCR SA.2,Clients by sex,2017–18,Own drug use,Female,,2442
+SCR SA.2,Clients by sex,2016–17,Own drug use,Female,,2676
+SCR SA.2,Clients by sex,2015–16,Own drug use,Female,,2473
+SCR SA.2,Clients by sex,2014–15,Own drug use,Female,,2667
+SCR SA.2,Clients by sex,2013–14,Own drug use,Female,,2655
+SCR SA.2,Clients by sex,2024–25,Own drug use,Another term,,43
+SCR SA.2,Clients by sex,2023–24,Own drug use,Another term,,27
+SCR SA.2,Clients by sex,2022–23,Own drug use,Another term,,28
+SCR SA.2,Clients by sex,2021–22,Own drug use,Another term,,13
+SCR SA.2,Clients by sex,2020–21,Own drug use,Another term,,6
+SCR SA.2,Clients by sex,2019–20,Own drug use,Another term,,5
+SCR SA.2,Clients by sex,2018–19,Own drug use,Another term,,4
+SCR SA.2,Clients by sex,2017–18,Own drug use,Another term,,0
+SCR SA.2,Clients by sex,2016–17,Own drug use,Another term,,0
+SCR SA.2,Clients by sex,2015–16,Own drug use,Another term,,0
+SCR SA.2,Clients by sex,2014–15,Own drug use,Another term,,0
+SCR SA.2,Clients by sex,2013–14,Own drug use,Another term,,0
+SCR SA.2,Clients by sex,2024–25,Own drug use,Not stated,,11
+SCR SA.2,Clients by sex,2023–24,Own drug use,Not stated,,12
+SCR SA.2,Clients by sex,2022–23,Own drug use,Not stated,,7
+SCR SA.2,Clients by sex,2021–22,Own drug use,Not stated,,8
+SCR SA.2,Clients by sex,2020–21,Own drug use,Not stated,,4
+SCR SA.2,Clients by sex,2019–20,Own drug use,Not stated,,3
+SCR SA.2,Clients by sex,2018–19,Own drug use,Not stated,,1
+SCR SA.2,Clients by sex,2017–18,Own drug use,Not stated,,2
+SCR SA.2,Clients by sex,2016–17,Own drug use,Not stated,,3
+SCR SA.2,Clients by sex,2015–16,Own drug use,Not stated,,2
+SCR SA.2,Clients by sex,2014–15,Own drug use,Not stated,,2
+SCR SA.2,Clients by sex,2013–14,Own drug use,Not stated,,5
+SCR SA.2,Clients by sex,2024–25,Own drug use,Total,,8587
+SCR SA.2,Clients by sex,2023–24,Own drug use,Total,,7882
+SCR SA.2,Clients by sex,2022–23,Own drug use,Total,,6660
+SCR SA.2,Clients by sex,2021–22,Own drug use,Total,,6929
+SCR SA.2,Clients by sex,2020–21,Own drug use,Total,,7283
+SCR SA.2,Clients by sex,2019–20,Own drug use,Total,,7045
+SCR SA.2,Clients by sex,2018–19,Own drug use,Total,,8505
+SCR SA.2,Clients by sex,2017–18,Own drug use,Total,,7369
+SCR SA.2,Clients by sex,2016–17,Own drug use,Total,,8334
+SCR SA.2,Clients by sex,2015–16,Own drug use,Total,,8025
+SCR SA.2,Clients by sex,2014–15,Own drug use,Total,,8782
+SCR SA.2,Clients by sex,2013–14,Own drug use,Total,,9136
+SCR SA.2,Clients by sex,2024–25,Other's drug use,Male,,44
+SCR SA.2,Clients by sex,2023–24,Other's drug use,Male,,37
+SCR SA.2,Clients by sex,2022–23,Other's drug use,Male,,27
+SCR SA.2,Clients by sex,2021–22,Other's drug use,Male,,9
+SCR SA.2,Clients by sex,2020–21,Other's drug use,Male,,8
+SCR SA.2,Clients by sex,2019–20,Other's drug use,Male,,8
+SCR SA.2,Clients by sex,2018–19,Other's drug use,Male,,50
+SCR SA.2,Clients by sex,2017–18,Other's drug use,Male,,80
+SCR SA.2,Clients by sex,2016–17,Other's drug use,Male,,42
+SCR SA.2,Clients by sex,2015–16,Other's drug use,Male,,15
+SCR SA.2,Clients by sex,2014–15,Other's drug use,Male,,62
+SCR SA.2,Clients by sex,2013–14,Other's drug use,Male,,29
+SCR SA.2,Clients by sex,2024–25,Other's drug use,Female,,90
+SCR SA.2,Clients by sex,2023–24,Other's drug use,Female,,70
+SCR SA.2,Clients by sex,2022–23,Other's drug use,Female,,31
+SCR SA.2,Clients by sex,2021–22,Other's drug use,Female,,22
+SCR SA.2,Clients by sex,2020–21,Other's drug use,Female,,61
+SCR SA.2,Clients by sex,2019–20,Other's drug use,Female,,78
+SCR SA.2,Clients by sex,2018–19,Other's drug use,Female,,125
+SCR SA.2,Clients by sex,2017–18,Other's drug use,Female,,95
+SCR SA.2,Clients by sex,2016–17,Other's drug use,Female,,87
+SCR SA.2,Clients by sex,2015–16,Other's drug use,Female,,49
+SCR SA.2,Clients by sex,2014–15,Other's drug use,Female,,95
+SCR SA.2,Clients by sex,2013–14,Other's drug use,Female,,50
+SCR SA.2,Clients by sex,2024–25,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2023–24,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2022–23,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2021–22,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2020–21,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2019–20,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2018–19,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2017–18,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2016–17,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2015–16,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2014–15,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2013–14,Other's drug use,Another term,,0
+SCR SA.2,Clients by sex,2024–25,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2023–24,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2022–23,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2021–22,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2020–21,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2019–20,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2018–19,Other's drug use,Not stated,,1
+SCR SA.2,Clients by sex,2017–18,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2016–17,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2015–16,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2014–15,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2013–14,Other's drug use,Not stated,,0
+SCR SA.2,Clients by sex,2024–25,Other's drug use,Total,,134
+SCR SA.2,Clients by sex,2023–24,Other's drug use,Total,,107
+SCR SA.2,Clients by sex,2022–23,Other's drug use,Total,,58
+SCR SA.2,Clients by sex,2021–22,Other's drug use,Total,,31
+SCR SA.2,Clients by sex,2020–21,Other's drug use,Total,,69
+SCR SA.2,Clients by sex,2019–20,Other's drug use,Total,,86
+SCR SA.2,Clients by sex,2018–19,Other's drug use,Total,,176
+SCR SA.2,Clients by sex,2017–18,Other's drug use,Total,,175
+SCR SA.2,Clients by sex,2016–17,Other's drug use,Total,,129
+SCR SA.2,Clients by sex,2015–16,Other's drug use,Total,,64
+SCR SA.2,Clients by sex,2014–15,Other's drug use,Total,,157
+SCR SA.2,Clients by sex,2013–14,Other's drug use,Total,,79
+SCR SA.2,Clients by sex,2024–25,Total,Male,,5417
+SCR SA.2,Clients by sex,2023–24,Total,Male,,4962
+SCR SA.2,Clients by sex,2022–23,Total,Male,,4235
+SCR SA.2,Clients by sex,2021–22,Total,Male,,4312
+SCR SA.2,Clients by sex,2020–21,Total,Male,,4551
+SCR SA.2,Clients by sex,2019–20,Total,Male,,4559
+SCR SA.2,Clients by sex,2018–19,Total,Male,,5595
+SCR SA.2,Clients by sex,2017–18,Total,Male,,5005
+SCR SA.2,Clients by sex,2016–17,Total,Male,,5697
+SCR SA.2,Clients by sex,2015–16,Total,Male,,5565
+SCR SA.2,Clients by sex,2014–15,Total,Male,,6175
+SCR SA.2,Clients by sex,2013–14,Total,Male,,6505
+SCR SA.2,Clients by sex,2024–25,Total,Female,,3250
+SCR SA.2,Clients by sex,2023–24,Total,Female,,2988
+SCR SA.2,Clients by sex,2022–23,Total,Female,,2448
+SCR SA.2,Clients by sex,2021–22,Total,Female,,2627
+SCR SA.2,Clients by sex,2020–21,Total,Female,,2791
+SCR SA.2,Clients by sex,2019–20,Total,Female,,2564
+SCR SA.2,Clients by sex,2018–19,Total,Female,,3080
+SCR SA.2,Clients by sex,2017–18,Total,Female,,2537
+SCR SA.2,Clients by sex,2016–17,Total,Female,,2763
+SCR SA.2,Clients by sex,2015–16,Total,Female,,2522
+SCR SA.2,Clients by sex,2014–15,Total,Female,,2762
+SCR SA.2,Clients by sex,2013–14,Total,Female,,2705
+SCR SA.2,Clients by sex,2024–25,Total,Another term,,43
+SCR SA.2,Clients by sex,2023–24,Total,Another term,,27
+SCR SA.2,Clients by sex,2022–23,Total,Another term,,28
+SCR SA.2,Clients by sex,2021–22,Total,Another term,,13
+SCR SA.2,Clients by sex,2020–21,Total,Another term,,6
+SCR SA.2,Clients by sex,2019–20,Total,Another term,,5
+SCR SA.2,Clients by sex,2018–19,Total,Another term,,4
+SCR SA.2,Clients by sex,2017–18,Total,Another term,,0
+SCR SA.2,Clients by sex,2016–17,Total,Another term,,0
+SCR SA.2,Clients by sex,2015–16,Total,Another term,,0
+SCR SA.2,Clients by sex,2014–15,Total,Another term,,0
+SCR SA.2,Clients by sex,2013–14,Total,Another term,,0
+SCR SA.2,Clients by sex,2024–25,Total,Not stated,,11
+SCR SA.2,Clients by sex,2023–24,Total,Not stated,,12
+SCR SA.2,Clients by sex,2022–23,Total,Not stated,,7
+SCR SA.2,Clients by sex,2021–22,Total,Not stated,,8
+SCR SA.2,Clients by sex,2020–21,Total,Not stated,,4
+SCR SA.2,Clients by sex,2019–20,Total,Not stated,,3
+SCR SA.2,Clients by sex,2018–19,Total,Not stated,,2
+SCR SA.2,Clients by sex,2017–18,Total,Not stated,,2
+SCR SA.2,Clients by sex,2016–17,Total,Not stated,,3
+SCR SA.2,Clients by sex,2015–16,Total,Not stated,,2
+SCR SA.2,Clients by sex,2014–15,Total,Not stated,,2
+SCR SA.2,Clients by sex,2013–14,Total,Not stated,,5
+SCR SA.2,Clients by sex,2024–25,Total,Total,,8721
+SCR SA.2,Clients by sex,2023–24,Total,Total,,7989
+SCR SA.2,Clients by sex,2022–23,Total,Total,,6718
+SCR SA.2,Clients by sex,2021–22,Total,Total,,6960
+SCR SA.2,Clients by sex,2020–21,Total,Total,,7352
+SCR SA.2,Clients by sex,2019–20,Total,Total,,7131
+SCR SA.2,Clients by sex,2018–19,Total,Total,,8681
+SCR SA.2,Clients by sex,2017–18,Total,Total,,7544
+SCR SA.2,Clients by sex,2016–17,Total,Total,,8463
+SCR SA.2,Clients by sex,2015–16,Total,Total,,8089
+SCR SA.2,Clients by sex,2014–15,Total,Total,,8939
+SCR SA.2,Clients by sex,2013–14,Total,Total,,9215
+SCR SA.3,Clients by age group,2024–25,Own drug use,10–19,,641
+SCR SA.3,Clients by age group,2023–24,Own drug use,10–19,,630
+SCR SA.3,Clients by age group,2022–23,Own drug use,10–19,,621
+SCR SA.3,Clients by age group,2021–22,Own drug use,10–19,,567
+SCR SA.3,Clients by age group,2020–21,Own drug use,10–19,,718
+SCR SA.3,Clients by age group,2019–20,Own drug use,10–19,,759
+SCR SA.3,Clients by age group,2018–19,Own drug use,10–19,,880
+SCR SA.3,Clients by age group,2017–18,Own drug use,10–19,,1072
+SCR SA.3,Clients by age group,2016–17,Own drug use,10–19,,1285
+SCR SA.3,Clients by age group,2015–16,Own drug use,10–19,,1203
+SCR SA.3,Clients by age group,2014–15,Own drug use,10–19,,1353
+SCR SA.3,Clients by age group,2013–14,Own drug use,10–19,,1163
+SCR SA.3,Clients by age group,2024–25,Own drug use,20–29,,1770
+SCR SA.3,Clients by age group,2023–24,Own drug use,20–29,,1572
+SCR SA.3,Clients by age group,2022–23,Own drug use,20–29,,1353
+SCR SA.3,Clients by age group,2021–22,Own drug use,20–29,,1483
+SCR SA.3,Clients by age group,2020–21,Own drug use,20–29,,1613
+SCR SA.3,Clients by age group,2019–20,Own drug use,20–29,,1616
+SCR SA.3,Clients by age group,2018–19,Own drug use,20–29,,2109
+SCR SA.3,Clients by age group,2017–18,Own drug use,20–29,,1808
+SCR SA.3,Clients by age group,2016–17,Own drug use,20–29,,2183
+SCR SA.3,Clients by age group,2015–16,Own drug use,20–29,,2200
+SCR SA.3,Clients by age group,2014–15,Own drug use,20–29,,2257
+SCR SA.3,Clients by age group,2013–14,Own drug use,20–29,,2259
+SCR SA.3,Clients by age group,2024–25,Own drug use,30–39,,2538
+SCR SA.3,Clients by age group,2023–24,Own drug use,30–39,,2301
+SCR SA.3,Clients by age group,2022–23,Own drug use,30–39,,1947
+SCR SA.3,Clients by age group,2021–22,Own drug use,30–39,,2047
+SCR SA.3,Clients by age group,2020–21,Own drug use,30–39,,2193
+SCR SA.3,Clients by age group,2019–20,Own drug use,30–39,,2166
+SCR SA.3,Clients by age group,2018–19,Own drug use,30–39,,2568
+SCR SA.3,Clients by age group,2017–18,Own drug use,30–39,,2101
+SCR SA.3,Clients by age group,2016–17,Own drug use,30–39,,2377
+SCR SA.3,Clients by age group,2015–16,Own drug use,30–39,,2219
+SCR SA.3,Clients by age group,2014–15,Own drug use,30–39,,2509
+SCR SA.3,Clients by age group,2013–14,Own drug use,30–39,,2587
+SCR SA.3,Clients by age group,2024–25,Own drug use,40–49,,2103
+SCR SA.3,Clients by age group,2023–24,Own drug use,40–49,,1951
+SCR SA.3,Clients by age group,2022–23,Own drug use,40–49,,1583
+SCR SA.3,Clients by age group,2021–22,Own drug use,40–49,,1653
+SCR SA.3,Clients by age group,2020–21,Own drug use,40–49,,1717
+SCR SA.3,Clients by age group,2019–20,Own drug use,40–49,,1563
+SCR SA.3,Clients by age group,2018–19,Own drug use,40–49,,1922
+SCR SA.3,Clients by age group,2017–18,Own drug use,40–49,,1573
+SCR SA.3,Clients by age group,2016–17,Own drug use,40–49,,1677
+SCR SA.3,Clients by age group,2015–16,Own drug use,40–49,,1623
+SCR SA.3,Clients by age group,2014–15,Own drug use,40–49,,1769
+SCR SA.3,Clients by age group,2013–14,Own drug use,40–49,,1952
+SCR SA.3,Clients by age group,2024–25,Own drug use,50–59,,1123
+SCR SA.3,Clients by age group,2023–24,Own drug use,50–59,,1062
+SCR SA.3,Clients by age group,2022–23,Own drug use,50–59,,829
+SCR SA.3,Clients by age group,2021–22,Own drug use,50–59,,860
+SCR SA.3,Clients by age group,2020–21,Own drug use,50–59,,779
+SCR SA.3,Clients by age group,2019–20,Own drug use,50–59,,706
+SCR SA.3,Clients by age group,2018–19,Own drug use,50–59,,804
+SCR SA.3,Clients by age group,2017–18,Own drug use,50–59,,624
+SCR SA.3,Clients by age group,2016–17,Own drug use,50–59,,632
+SCR SA.3,Clients by age group,2015–16,Own drug use,50–59,,613
+SCR SA.3,Clients by age group,2014–15,Own drug use,50–59,,692
+SCR SA.3,Clients by age group,2013–14,Own drug use,50–59,,834
+SCR SA.3,Clients by age group,2024–25,Own drug use,60+,,412
+SCR SA.3,Clients by age group,2023–24,Own drug use,60+,,366
+SCR SA.3,Clients by age group,2022–23,Own drug use,60+,,327
+SCR SA.3,Clients by age group,2021–22,Own drug use,60+,,319
+SCR SA.3,Clients by age group,2020–21,Own drug use,60+,,263
+SCR SA.3,Clients by age group,2019–20,Own drug use,60+,,235
+SCR SA.3,Clients by age group,2018–19,Own drug use,60+,,222
+SCR SA.3,Clients by age group,2017–18,Own drug use,60+,,191
+SCR SA.3,Clients by age group,2016–17,Own drug use,60+,,179
+SCR SA.3,Clients by age group,2015–16,Own drug use,60+,,167
+SCR SA.3,Clients by age group,2014–15,Own drug use,60+,,202
+SCR SA.3,Clients by age group,2013–14,Own drug use,60+,,340
+SCR SA.3,Clients by age group,2024–25,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2023–24,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2022–23,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2021–22,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2020–21,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2019–20,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2018–19,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2017–18,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2016–17,Own drug use,Unknown,,1
+SCR SA.3,Clients by age group,2015–16,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2014–15,Own drug use,Unknown,,0
+SCR SA.3,Clients by age group,2013–14,Own drug use,Unknown,,1
+SCR SA.3,Clients by age group,2024–25,Own drug use,Total,,8587
+SCR SA.3,Clients by age group,2023–24,Own drug use,Total,,7882
+SCR SA.3,Clients by age group,2022–23,Own drug use,Total,,6660
+SCR SA.3,Clients by age group,2021–22,Own drug use,Total,,6929
+SCR SA.3,Clients by age group,2020–21,Own drug use,Total,,7283
+SCR SA.3,Clients by age group,2019–20,Own drug use,Total,,7045
+SCR SA.3,Clients by age group,2018–19,Own drug use,Total,,8505
+SCR SA.3,Clients by age group,2017–18,Own drug use,Total,,7369
+SCR SA.3,Clients by age group,2016–17,Own drug use,Total,,8334
+SCR SA.3,Clients by age group,2015–16,Own drug use,Total,,8025
+SCR SA.3,Clients by age group,2014–15,Own drug use,Total,,8782
+SCR SA.3,Clients by age group,2013–14,Own drug use,Total,,9136
+SCR SA.3,Clients by age group,2024–25,Other's drug use,10–19,,61
+SCR SA.3,Clients by age group,2023–24,Other's drug use,10–19,,38
+SCR SA.3,Clients by age group,2022–23,Other's drug use,10–19,,32
+SCR SA.3,Clients by age group,2021–22,Other's drug use,10–19,,5
+SCR SA.3,Clients by age group,2020–21,Other's drug use,10–19,,1
+SCR SA.3,Clients by age group,2019–20,Other's drug use,10–19,,1
+SCR SA.3,Clients by age group,2018–19,Other's drug use,10–19,,42
+SCR SA.3,Clients by age group,2017–18,Other's drug use,10–19,,96
+SCR SA.3,Clients by age group,2016–17,Other's drug use,10–19,,32
+SCR SA.3,Clients by age group,2015–16,Other's drug use,10–19,,3
+SCR SA.3,Clients by age group,2014–15,Other's drug use,10–19,,60
+SCR SA.3,Clients by age group,2013–14,Other's drug use,10–19,,9
+SCR SA.3,Clients by age group,2024–25,Other's drug use,20–29,,10
+SCR SA.3,Clients by age group,2023–24,Other's drug use,20–29,,11
+SCR SA.3,Clients by age group,2022–23,Other's drug use,20–29,,4
+SCR SA.3,Clients by age group,2021–22,Other's drug use,20–29,,2
+SCR SA.3,Clients by age group,2020–21,Other's drug use,20–29,,3
+SCR SA.3,Clients by age group,2019–20,Other's drug use,20–29,,5
+SCR SA.3,Clients by age group,2018–19,Other's drug use,20–29,,31
+SCR SA.3,Clients by age group,2017–18,Other's drug use,20–29,,43
+SCR SA.3,Clients by age group,2016–17,Other's drug use,20–29,,31
+SCR SA.3,Clients by age group,2015–16,Other's drug use,20–29,,10
+SCR SA.3,Clients by age group,2014–15,Other's drug use,20–29,,26
+SCR SA.3,Clients by age group,2013–14,Other's drug use,20–29,,5
+SCR SA.3,Clients by age group,2024–25,Other's drug use,30–39,,8
+SCR SA.3,Clients by age group,2023–24,Other's drug use,30–39,,9
+SCR SA.3,Clients by age group,2022–23,Other's drug use,30–39,,2
+SCR SA.3,Clients by age group,2021–22,Other's drug use,30–39,,5
+SCR SA.3,Clients by age group,2020–21,Other's drug use,30–39,,11
+SCR SA.3,Clients by age group,2019–20,Other's drug use,30–39,,13
+SCR SA.3,Clients by age group,2018–19,Other's drug use,30–39,,18
+SCR SA.3,Clients by age group,2017–18,Other's drug use,30–39,,2
+SCR SA.3,Clients by age group,2016–17,Other's drug use,30–39,,13
+SCR SA.3,Clients by age group,2015–16,Other's drug use,30–39,,6
+SCR SA.3,Clients by age group,2014–15,Other's drug use,30–39,,20
+SCR SA.3,Clients by age group,2013–14,Other's drug use,30–39,,14
+SCR SA.3,Clients by age group,2024–25,Other's drug use,40–49,,13
+SCR SA.3,Clients by age group,2023–24,Other's drug use,40–49,,13
+SCR SA.3,Clients by age group,2022–23,Other's drug use,40–49,,7
+SCR SA.3,Clients by age group,2021–22,Other's drug use,40–49,,6
+SCR SA.3,Clients by age group,2020–21,Other's drug use,40–49,,19
+SCR SA.3,Clients by age group,2019–20,Other's drug use,40–49,,18
+SCR SA.3,Clients by age group,2018–19,Other's drug use,40–49,,20
+SCR SA.3,Clients by age group,2017–18,Other's drug use,40–49,,9
+SCR SA.3,Clients by age group,2016–17,Other's drug use,40–49,,17
+SCR SA.3,Clients by age group,2015–16,Other's drug use,40–49,,13
+SCR SA.3,Clients by age group,2014–15,Other's drug use,40–49,,19
+SCR SA.3,Clients by age group,2013–14,Other's drug use,40–49,,18
+SCR SA.3,Clients by age group,2024–25,Other's drug use,50–59,,15
+SCR SA.3,Clients by age group,2023–24,Other's drug use,50–59,,14
+SCR SA.3,Clients by age group,2022–23,Other's drug use,50–59,,6
+SCR SA.3,Clients by age group,2021–22,Other's drug use,50–59,,7
+SCR SA.3,Clients by age group,2020–21,Other's drug use,50–59,,22
+SCR SA.3,Clients by age group,2019–20,Other's drug use,50–59,,31
+SCR SA.3,Clients by age group,2018–19,Other's drug use,50–59,,33
+SCR SA.3,Clients by age group,2017–18,Other's drug use,50–59,,13
+SCR SA.3,Clients by age group,2016–17,Other's drug use,50–59,,18
+SCR SA.3,Clients by age group,2015–16,Other's drug use,50–59,,15
+SCR SA.3,Clients by age group,2014–15,Other's drug use,50–59,,16
+SCR SA.3,Clients by age group,2013–14,Other's drug use,50–59,,19
+SCR SA.3,Clients by age group,2024–25,Other's drug use,60+,,27
+SCR SA.3,Clients by age group,2023–24,Other's drug use,60+,,22
+SCR SA.3,Clients by age group,2022–23,Other's drug use,60+,,7
+SCR SA.3,Clients by age group,2021–22,Other's drug use,60+,,6
+SCR SA.3,Clients by age group,2020–21,Other's drug use,60+,,13
+SCR SA.3,Clients by age group,2019–20,Other's drug use,60+,,18
+SCR SA.3,Clients by age group,2018–19,Other's drug use,60+,,32
+SCR SA.3,Clients by age group,2017–18,Other's drug use,60+,,12
+SCR SA.3,Clients by age group,2016–17,Other's drug use,60+,,18
+SCR SA.3,Clients by age group,2015–16,Other's drug use,60+,,17
+SCR SA.3,Clients by age group,2014–15,Other's drug use,60+,,16
+SCR SA.3,Clients by age group,2013–14,Other's drug use,60+,,14
+SCR SA.3,Clients by age group,2024–25,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2023–24,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2022–23,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2021–22,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2020–21,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2019–20,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2018–19,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2017–18,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2016–17,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2015–16,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2014–15,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2013–14,Other's drug use,Unknown,,0
+SCR SA.3,Clients by age group,2024–25,Other's drug use,Total,,134
+SCR SA.3,Clients by age group,2023–24,Other's drug use,Total,,107
+SCR SA.3,Clients by age group,2022–23,Other's drug use,Total,,58
+SCR SA.3,Clients by age group,2021–22,Other's drug use,Total,,31
+SCR SA.3,Clients by age group,2020–21,Other's drug use,Total,,69
+SCR SA.3,Clients by age group,2019–20,Other's drug use,Total,,86
+SCR SA.3,Clients by age group,2018–19,Other's drug use,Total,,176
+SCR SA.3,Clients by age group,2017–18,Other's drug use,Total,,175
+SCR SA.3,Clients by age group,2016–17,Other's drug use,Total,,129
+SCR SA.3,Clients by age group,2015–16,Other's drug use,Total,,64
+SCR SA.3,Clients by age group,2014–15,Other's drug use,Total,,157
+SCR SA.3,Clients by age group,2013–14,Other's drug use,Total,,79
+SCR SA.3,Clients by age group,2024–25,Total,10–19,,702
+SCR SA.3,Clients by age group,2023–24,Total,10–19,,668
+SCR SA.3,Clients by age group,2022–23,Total,10–19,,653
+SCR SA.3,Clients by age group,2021–22,Total,10–19,,572
+SCR SA.3,Clients by age group,2020–21,Total,10–19,,719
+SCR SA.3,Clients by age group,2019–20,Total,10–19,,760
+SCR SA.3,Clients by age group,2018–19,Total,10–19,,922
+SCR SA.3,Clients by age group,2017–18,Total,10–19,,1168
+SCR SA.3,Clients by age group,2016–17,Total,10–19,,1317
+SCR SA.3,Clients by age group,2015–16,Total,10–19,,1206
+SCR SA.3,Clients by age group,2014–15,Total,10–19,,1413
+SCR SA.3,Clients by age group,2013–14,Total,10–19,,1172
+SCR SA.3,Clients by age group,2024–25,Total,20–29,,1780
+SCR SA.3,Clients by age group,2023–24,Total,20–29,,1583
+SCR SA.3,Clients by age group,2022–23,Total,20–29,,1357
+SCR SA.3,Clients by age group,2021–22,Total,20–29,,1485
+SCR SA.3,Clients by age group,2020–21,Total,20–29,,1616
+SCR SA.3,Clients by age group,2019–20,Total,20–29,,1621
+SCR SA.3,Clients by age group,2018–19,Total,20–29,,2140
+SCR SA.3,Clients by age group,2017–18,Total,20–29,,1851
+SCR SA.3,Clients by age group,2016–17,Total,20–29,,2214
+SCR SA.3,Clients by age group,2015–16,Total,20–29,,2210
+SCR SA.3,Clients by age group,2014–15,Total,20–29,,2283
+SCR SA.3,Clients by age group,2013–14,Total,20–29,,2264
+SCR SA.3,Clients by age group,2024–25,Total,30–39,,2546
+SCR SA.3,Clients by age group,2023–24,Total,30–39,,2310
+SCR SA.3,Clients by age group,2022–23,Total,30–39,,1949
+SCR SA.3,Clients by age group,2021–22,Total,30–39,,2052
+SCR SA.3,Clients by age group,2020–21,Total,30–39,,2204
+SCR SA.3,Clients by age group,2019–20,Total,30–39,,2179
+SCR SA.3,Clients by age group,2018–19,Total,30–39,,2586
+SCR SA.3,Clients by age group,2017–18,Total,30–39,,2103
+SCR SA.3,Clients by age group,2016–17,Total,30–39,,2390
+SCR SA.3,Clients by age group,2015–16,Total,30–39,,2225
+SCR SA.3,Clients by age group,2014–15,Total,30–39,,2529
+SCR SA.3,Clients by age group,2013–14,Total,30–39,,2601
+SCR SA.3,Clients by age group,2024–25,Total,40–49,,2116
+SCR SA.3,Clients by age group,2023–24,Total,40–49,,1964
+SCR SA.3,Clients by age group,2022–23,Total,40–49,,1590
+SCR SA.3,Clients by age group,2021–22,Total,40–49,,1659
+SCR SA.3,Clients by age group,2020–21,Total,40–49,,1736
+SCR SA.3,Clients by age group,2019–20,Total,40–49,,1581
+SCR SA.3,Clients by age group,2018–19,Total,40–49,,1942
+SCR SA.3,Clients by age group,2017–18,Total,40–49,,1582
+SCR SA.3,Clients by age group,2016–17,Total,40–49,,1694
+SCR SA.3,Clients by age group,2015–16,Total,40–49,,1636
+SCR SA.3,Clients by age group,2014–15,Total,40–49,,1788
+SCR SA.3,Clients by age group,2013–14,Total,40–49,,1970
+SCR SA.3,Clients by age group,2024–25,Total,50–59,,1138
+SCR SA.3,Clients by age group,2023–24,Total,50–59,,1076
+SCR SA.3,Clients by age group,2022–23,Total,50–59,,835
+SCR SA.3,Clients by age group,2021–22,Total,50–59,,867
+SCR SA.3,Clients by age group,2020–21,Total,50–59,,801
+SCR SA.3,Clients by age group,2019–20,Total,50–59,,737
+SCR SA.3,Clients by age group,2018–19,Total,50–59,,837
+SCR SA.3,Clients by age group,2017–18,Total,50–59,,637
+SCR SA.3,Clients by age group,2016–17,Total,50–59,,650
+SCR SA.3,Clients by age group,2015–16,Total,50–59,,628
+SCR SA.3,Clients by age group,2014–15,Total,50–59,,708
+SCR SA.3,Clients by age group,2013–14,Total,50–59,,853
+SCR SA.3,Clients by age group,2024–25,Total,60+,,439
+SCR SA.3,Clients by age group,2023–24,Total,60+,,388
+SCR SA.3,Clients by age group,2022–23,Total,60+,,334
+SCR SA.3,Clients by age group,2021–22,Total,60+,,325
+SCR SA.3,Clients by age group,2020–21,Total,60+,,276
+SCR SA.3,Clients by age group,2019–20,Total,60+,,253
+SCR SA.3,Clients by age group,2018–19,Total,60+,,254
+SCR SA.3,Clients by age group,2017–18,Total,60+,,203
+SCR SA.3,Clients by age group,2016–17,Total,60+,,197
+SCR SA.3,Clients by age group,2015–16,Total,60+,,184
+SCR SA.3,Clients by age group,2014–15,Total,60+,,218
+SCR SA.3,Clients by age group,2013–14,Total,60+,,354
+SCR SA.3,Clients by age group,2024–25,Total,Unknown,,0
+SCR SA.3,Clients by age group,2023–24,Total,Unknown,,0
+SCR SA.3,Clients by age group,2022–23,Total,Unknown,,0
+SCR SA.3,Clients by age group,2021–22,Total,Unknown,,0
+SCR SA.3,Clients by age group,2020–21,Total,Unknown,,0
+SCR SA.3,Clients by age group,2019–20,Total,Unknown,,0
+SCR SA.3,Clients by age group,2018–19,Total,Unknown,,0
+SCR SA.3,Clients by age group,2017–18,Total,Unknown,,0
+SCR SA.3,Clients by age group,2016–17,Total,Unknown,,1
+SCR SA.3,Clients by age group,2015–16,Total,Unknown,,0
+SCR SA.3,Clients by age group,2014–15,Total,Unknown,,0
+SCR SA.3,Clients by age group,2013–14,Total,Unknown,,1
+SCR SA.3,Clients by age group,2024–25,Total,Total,,8721
+SCR SA.3,Clients by age group,2023–24,Total,Total,,7989
+SCR SA.3,Clients by age group,2022–23,Total,Total,,6718
+SCR SA.3,Clients by age group,2021–22,Total,Total,,6960
+SCR SA.3,Clients by age group,2020–21,Total,Total,,7352
+SCR SA.3,Clients by age group,2019–20,Total,Total,,7131
+SCR SA.3,Clients by age group,2018–19,Total,Total,,8681
+SCR SA.3,Clients by age group,2017–18,Total,Total,,7544
+SCR SA.3,Clients by age group,2016–17,Total,Total,,8463
+SCR SA.3,Clients by age group,2015–16,Total,Total,,8089
+SCR SA.3,Clients by age group,2014–15,Total,Total,,8939
+SCR SA.3,Clients by age group,2013–14,Total,Total,,9215
+SCR SA.4,Clients by Indigenous status,2024–25,Own drug use,First Nations people,,1536
+SCR SA.4,Clients by Indigenous status,2023–24,Own drug use,First Nations people,,1378
+SCR SA.4,Clients by Indigenous status,2022–23,Own drug use,First Nations people,,1137
+SCR SA.4,Clients by Indigenous status,2021–22,Own drug use,First Nations people,,1238
+SCR SA.4,Clients by Indigenous status,2020–21,Own drug use,First Nations people,,1142
+SCR SA.4,Clients by Indigenous status,2019–20,Own drug use,First Nations people,,954
+SCR SA.4,Clients by Indigenous status,2018–19,Own drug use,First Nations people,,1168
+SCR SA.4,Clients by Indigenous status,2017–18,Own drug use,First Nations people,,1041
+SCR SA.4,Clients by Indigenous status,2016–17,Own drug use,First Nations people,,960
+SCR SA.4,Clients by Indigenous status,2015–16,Own drug use,First Nations people,,986
+SCR SA.4,Clients by Indigenous status,2014–15,Own drug use,First Nations people,,946
+SCR SA.4,Clients by Indigenous status,2013–14,Own drug use,First Nations people,,1006
+SCR SA.4,Clients by Indigenous status,2024–25,Own drug use,Non-Indigenous Austalians,,6226
+SCR SA.4,Clients by Indigenous status,2023–24,Own drug use,Non-Indigenous Austalians,,6335
+SCR SA.4,Clients by Indigenous status,2022–23,Own drug use,Non-Indigenous Austalians,,5373
+SCR SA.4,Clients by Indigenous status,2021–22,Own drug use,Non-Indigenous Austalians,,5425
+SCR SA.4,Clients by Indigenous status,2020–21,Own drug use,Non-Indigenous Austalians,,5786
+SCR SA.4,Clients by Indigenous status,2019–20,Own drug use,Non-Indigenous Austalians,,5772
+SCR SA.4,Clients by Indigenous status,2018–19,Own drug use,Non-Indigenous Austalians,,7068
+SCR SA.4,Clients by Indigenous status,2017–18,Own drug use,Non-Indigenous Austalians,,5966
+SCR SA.4,Clients by Indigenous status,2016–17,Own drug use,Non-Indigenous Austalians,,6809
+SCR SA.4,Clients by Indigenous status,2015–16,Own drug use,Non-Indigenous Austalians,,6579
+SCR SA.4,Clients by Indigenous status,2014–15,Own drug use,Non-Indigenous Austalians,,4605
+SCR SA.4,Clients by Indigenous status,2013–14,Own drug use,Non-Indigenous Austalians,,6291
+SCR SA.4,Clients by Indigenous status,2024–25,Own drug use,Not stated,,825
+SCR SA.4,Clients by Indigenous status,2023–24,Own drug use,Not stated,,169
+SCR SA.4,Clients by Indigenous status,2022–23,Own drug use,Not stated,,150
+SCR SA.4,Clients by Indigenous status,2021–22,Own drug use,Not stated,,266
+SCR SA.4,Clients by Indigenous status,2020–21,Own drug use,Not stated,,355
+SCR SA.4,Clients by Indigenous status,2019–20,Own drug use,Not stated,,319
+SCR SA.4,Clients by Indigenous status,2018–19,Own drug use,Not stated,,269
+SCR SA.4,Clients by Indigenous status,2017–18,Own drug use,Not stated,,362
+SCR SA.4,Clients by Indigenous status,2016–17,Own drug use,Not stated,,565
+SCR SA.4,Clients by Indigenous status,2015–16,Own drug use,Not stated,,460
+SCR SA.4,Clients by Indigenous status,2014–15,Own drug use,Not stated,,3231
+SCR SA.4,Clients by Indigenous status,2013–14,Own drug use,Not stated,,1839
+SCR SA.4,Clients by Indigenous status,2024–25,Own drug use,Total,,8587
+SCR SA.4,Clients by Indigenous status,2023–24,Own drug use,Total,,7882
+SCR SA.4,Clients by Indigenous status,2022–23,Own drug use,Total,,6660
+SCR SA.4,Clients by Indigenous status,2021–22,Own drug use,Total,,6929
+SCR SA.4,Clients by Indigenous status,2020–21,Own drug use,Total,,7283
+SCR SA.4,Clients by Indigenous status,2019–20,Own drug use,Total,,7045
+SCR SA.4,Clients by Indigenous status,2018–19,Own drug use,Total,,8505
+SCR SA.4,Clients by Indigenous status,2017–18,Own drug use,Total,,7369
+SCR SA.4,Clients by Indigenous status,2016–17,Own drug use,Total,,8334
+SCR SA.4,Clients by Indigenous status,2015–16,Own drug use,Total,,8025
+SCR SA.4,Clients by Indigenous status,2014–15,Own drug use,Total,,8782
+SCR SA.4,Clients by Indigenous status,2013–14,Own drug use,Total,,9136
+SCR SA.4,Clients by Indigenous status,2024–25,Other's drug use,First Nations people,,41
+SCR SA.4,Clients by Indigenous status,2023–24,Other's drug use,First Nations people,,36
+SCR SA.4,Clients by Indigenous status,2022–23,Other's drug use,First Nations people,,31
+SCR SA.4,Clients by Indigenous status,2021–22,Other's drug use,First Nations people,,3
+SCR SA.4,Clients by Indigenous status,2020–21,Other's drug use,First Nations people,,3
+SCR SA.4,Clients by Indigenous status,2019–20,Other's drug use,First Nations people,,5
+SCR SA.4,Clients by Indigenous status,2018–19,Other's drug use,First Nations people,,13
+SCR SA.4,Clients by Indigenous status,2017–18,Other's drug use,First Nations people,,8
+SCR SA.4,Clients by Indigenous status,2016–17,Other's drug use,First Nations people,,9
+SCR SA.4,Clients by Indigenous status,2015–16,Other's drug use,First Nations people,,9
+SCR SA.4,Clients by Indigenous status,2014–15,Other's drug use,First Nations people,,19
+SCR SA.4,Clients by Indigenous status,2013–14,Other's drug use,First Nations people,,14
+SCR SA.4,Clients by Indigenous status,2024–25,Other's drug use,Non-Indigenous Austalians,,91
+SCR SA.4,Clients by Indigenous status,2023–24,Other's drug use,Non-Indigenous Austalians,,70
+SCR SA.4,Clients by Indigenous status,2022–23,Other's drug use,Non-Indigenous Austalians,,25
+SCR SA.4,Clients by Indigenous status,2021–22,Other's drug use,Non-Indigenous Austalians,,27
+SCR SA.4,Clients by Indigenous status,2020–21,Other's drug use,Non-Indigenous Austalians,,66
+SCR SA.4,Clients by Indigenous status,2019–20,Other's drug use,Non-Indigenous Austalians,,78
+SCR SA.4,Clients by Indigenous status,2018–19,Other's drug use,Non-Indigenous Austalians,,155
+SCR SA.4,Clients by Indigenous status,2017–18,Other's drug use,Non-Indigenous Austalians,,71
+SCR SA.4,Clients by Indigenous status,2016–17,Other's drug use,Non-Indigenous Austalians,,82
+SCR SA.4,Clients by Indigenous status,2015–16,Other's drug use,Non-Indigenous Austalians,,53
+SCR SA.4,Clients by Indigenous status,2014–15,Other's drug use,Non-Indigenous Austalians,,114
+SCR SA.4,Clients by Indigenous status,2013–14,Other's drug use,Non-Indigenous Austalians,,64
+SCR SA.4,Clients by Indigenous status,2024–25,Other's drug use,Not stated,,2
+SCR SA.4,Clients by Indigenous status,2023–24,Other's drug use,Not stated,,1
+SCR SA.4,Clients by Indigenous status,2022–23,Other's drug use,Not stated,,2
+SCR SA.4,Clients by Indigenous status,2021–22,Other's drug use,Not stated,,1
+SCR SA.4,Clients by Indigenous status,2020–21,Other's drug use,Not stated,,0
+SCR SA.4,Clients by Indigenous status,2019–20,Other's drug use,Not stated,,3
+SCR SA.4,Clients by Indigenous status,2018–19,Other's drug use,Not stated,,8
+SCR SA.4,Clients by Indigenous status,2017–18,Other's drug use,Not stated,,96
+SCR SA.4,Clients by Indigenous status,2016–17,Other's drug use,Not stated,,38
+SCR SA.4,Clients by Indigenous status,2015–16,Other's drug use,Not stated,,2
+SCR SA.4,Clients by Indigenous status,2014–15,Other's drug use,Not stated,,24
+SCR SA.4,Clients by Indigenous status,2013–14,Other's drug use,Not stated,,1
+SCR SA.4,Clients by Indigenous status,2024–25,Other's drug use,Total,,134
+SCR SA.4,Clients by Indigenous status,2023–24,Other's drug use,Total,,107
+SCR SA.4,Clients by Indigenous status,2022–23,Other's drug use,Total,,58
+SCR SA.4,Clients by Indigenous status,2021–22,Other's drug use,Total,,31
+SCR SA.4,Clients by Indigenous status,2020–21,Other's drug use,Total,,69
+SCR SA.4,Clients by Indigenous status,2019–20,Other's drug use,Total,,86
+SCR SA.4,Clients by Indigenous status,2018–19,Other's drug use,Total,,176
+SCR SA.4,Clients by Indigenous status,2017–18,Other's drug use,Total,,175
+SCR SA.4,Clients by Indigenous status,2016–17,Other's drug use,Total,,129
+SCR SA.4,Clients by Indigenous status,2015–16,Other's drug use,Total,,64
+SCR SA.4,Clients by Indigenous status,2014–15,Other's drug use,Total,,157
+SCR SA.4,Clients by Indigenous status,2013–14,Other's drug use,Total,,79
+SCR SA.4,Clients by Indigenous status,2024–25,Total,First Nations people,,1577
+SCR SA.4,Clients by Indigenous status,2023–24,Total,First Nations people,,1414
+SCR SA.4,Clients by Indigenous status,2022–23,Total,First Nations people,,1168
+SCR SA.4,Clients by Indigenous status,2021–22,Total,First Nations people,,1241
+SCR SA.4,Clients by Indigenous status,2020–21,Total,First Nations people,,1145
+SCR SA.4,Clients by Indigenous status,2019–20,Total,First Nations people,,959
+SCR SA.4,Clients by Indigenous status,2018–19,Total,First Nations people,,1181
+SCR SA.4,Clients by Indigenous status,2017–18,Total,First Nations people,,1049
+SCR SA.4,Clients by Indigenous status,2016–17,Total,First Nations people,,969
+SCR SA.4,Clients by Indigenous status,2015–16,Total,First Nations people,,995
+SCR SA.4,Clients by Indigenous status,2014–15,Total,First Nations people,,965
+SCR SA.4,Clients by Indigenous status,2013–14,Total,First Nations people,,1020
+SCR SA.4,Clients by Indigenous status,2024–25,Total,Non-Indigenous Austalians,,6317
+SCR SA.4,Clients by Indigenous status,2023–24,Total,Non-Indigenous Austalians,,6405
+SCR SA.4,Clients by Indigenous status,2022–23,Total,Non-Indigenous Austalians,,5398
+SCR SA.4,Clients by Indigenous status,2021–22,Total,Non-Indigenous Austalians,,5452
+SCR SA.4,Clients by Indigenous status,2020–21,Total,Non-Indigenous Austalians,,5852
+SCR SA.4,Clients by Indigenous status,2019–20,Total,Non-Indigenous Austalians,,5850
+SCR SA.4,Clients by Indigenous status,2018–19,Total,Non-Indigenous Austalians,,7223
+SCR SA.4,Clients by Indigenous status,2017–18,Total,Non-Indigenous Austalians,,6037
+SCR SA.4,Clients by Indigenous status,2016–17,Total,Non-Indigenous Austalians,,6891
+SCR SA.4,Clients by Indigenous status,2015–16,Total,Non-Indigenous Austalians,,6632
+SCR SA.4,Clients by Indigenous status,2014–15,Total,Non-Indigenous Austalians,,4719
+SCR SA.4,Clients by Indigenous status,2013–14,Total,Non-Indigenous Austalians,,6355
+SCR SA.4,Clients by Indigenous status,2024–25,Total,Not stated,,827
+SCR SA.4,Clients by Indigenous status,2023–24,Total,Not stated,,170
+SCR SA.4,Clients by Indigenous status,2022–23,Total,Not stated,,152
+SCR SA.4,Clients by Indigenous status,2021–22,Total,Not stated,,267
+SCR SA.4,Clients by Indigenous status,2020–21,Total,Not stated,,355
+SCR SA.4,Clients by Indigenous status,2019–20,Total,Not stated,,322
+SCR SA.4,Clients by Indigenous status,2018–19,Total,Not stated,,277
+SCR SA.4,Clients by Indigenous status,2017–18,Total,Not stated,,458
+SCR SA.4,Clients by Indigenous status,2016–17,Total,Not stated,,603
+SCR SA.4,Clients by Indigenous status,2015–16,Total,Not stated,,462
+SCR SA.4,Clients by Indigenous status,2014–15,Total,Not stated,,3255
+SCR SA.4,Clients by Indigenous status,2013–14,Total,Not stated,,1840
+SCR SA.4,Clients by Indigenous status,2024–25,Total,Total,,8721
+SCR SA.4,Clients by Indigenous status,2023–24,Total,Total,,7989
+SCR SA.4,Clients by Indigenous status,2022–23,Total,Total,,6718
+SCR SA.4,Clients by Indigenous status,2021–22,Total,Total,,6960
+SCR SA.4,Clients by Indigenous status,2020–21,Total,Total,,7352
+SCR SA.4,Clients by Indigenous status,2019–20,Total,Total,,7131
+SCR SA.4,Clients by Indigenous status,2018–19,Total,Total,,8681
+SCR SA.4,Clients by Indigenous status,2017–18,Total,Total,,7544
+SCR SA.4,Clients by Indigenous status,2016–17,Total,Total,,8463
+SCR SA.4,Clients by Indigenous status,2015–16,Total,Total,,8089
+SCR SA.4,Clients by Indigenous status,2014–15,Total,Total,,8939
+SCR SA.4,Clients by Indigenous status,2013–14,Total,Total,,9215
+SCR SA.5,Clients by principal drug of concern,2024–25,Heroin,,,252
+SCR SA.5,Clients by principal drug of concern,2023–24,Heroin,,,215
+SCR SA.5,Clients by principal drug of concern,2022–23,Heroin,,,213
+SCR SA.5,Clients by principal drug of concern,2021–22,Heroin,,,249
+SCR SA.5,Clients by principal drug of concern,2020–21,Heroin,,,254
+SCR SA.5,Clients by principal drug of concern,2019–20,Heroin,,,287
+SCR SA.5,Clients by principal drug of concern,2018–19,Heroin,,,336
+SCR SA.5,Clients by principal drug of concern,2017–18,Heroin,,,316
+SCR SA.5,Clients by principal drug of concern,2016–17,Heroin,,,307
+SCR SA.5,Clients by principal drug of concern,2015–16,Heroin,,,357
+SCR SA.5,Clients by principal drug of concern,2014–15,Heroin,,,540
+SCR SA.5,Clients by principal drug of concern,2013–14,Heroin,,,457
+SCR SA.5,Clients by principal drug of concern,2024–25,Alcohol,,,2755
+SCR SA.5,Clients by principal drug of concern,2023–24,Alcohol,,,2936
+SCR SA.5,Clients by principal drug of concern,2022–23,Alcohol,,,2372
+SCR SA.5,Clients by principal drug of concern,2021–22,Alcohol,,,2578
+SCR SA.5,Clients by principal drug of concern,2020–21,Alcohol,,,2381
+SCR SA.5,Clients by principal drug of concern,2019–20,Alcohol,,,1899
+SCR SA.5,Clients by principal drug of concern,2018–19,Alcohol,,,2265
+SCR SA.5,Clients by principal drug of concern,2017–18,Alcohol,,,1868
+SCR SA.5,Clients by principal drug of concern,2016–17,Alcohol,,,2065
+SCR SA.5,Clients by principal drug of concern,2015–16,Alcohol,,,2040
+SCR SA.5,Clients by principal drug of concern,2014–15,Alcohol,,,2578
+SCR SA.5,Clients by principal drug of concern,2013–14,Alcohol,,,3061
+SCR SA.5,Clients by principal drug of concern,2024–25,Methamphetamine,,,2172
+SCR SA.5,Clients by principal drug of concern,2023–24,Methamphetamine,,,1913
+SCR SA.5,Clients by principal drug of concern,2022–23,Methamphetamine,,,1750
+SCR SA.5,Clients by principal drug of concern,2021–22,Methamphetamine,,,1591
+SCR SA.5,Clients by principal drug of concern,2020–21,Methamphetamine,,,1671
+SCR SA.5,Clients by principal drug of concern,2019–20,Methamphetamine,,,2062
+SCR SA.5,Clients by principal drug of concern,2018–19,Methamphetamine,,,2285
+SCR SA.5,Clients by principal drug of concern,2017–18,Methamphetamine,,,1681
+SCR SA.5,Clients by principal drug of concern,2016–17,Methamphetamine,,,1738
+SCR SA.5,Clients by principal drug of concern,2015–16,Methamphetamine,,,1482
+SCR SA.5,Clients by principal drug of concern,2014–15,Methamphetamine,,,413
+SCR SA.5,Clients by principal drug of concern,2013–14,Methamphetamine,,,260
+SCR SA.5,Clients by principal drug of concern,2024–25,Other amphetamines,,,943
+SCR SA.5,Clients by principal drug of concern,2023–24,Other amphetamines,,,617
+SCR SA.5,Clients by principal drug of concern,2022–23,Other amphetamines,,,318
+SCR SA.5,Clients by principal drug of concern,2021–22,Other amphetamines,,,541
+SCR SA.5,Clients by principal drug of concern,2020–21,Other amphetamines,,,714
+SCR SA.5,Clients by principal drug of concern,2019–20,Other amphetamines,,,453
+SCR SA.5,Clients by principal drug of concern,2018–19,Other amphetamines,,,779
+SCR SA.5,Clients by principal drug of concern,2017–18,Other amphetamines,,,846
+SCR SA.5,Clients by principal drug of concern,2016–17,Other amphetamines,,,1342
+SCR SA.5,Clients by principal drug of concern,2015–16,Other amphetamines,,,1342
+SCR SA.5,Clients by principal drug of concern,2014–15,Other amphetamines,,,2137
+SCR SA.5,Clients by principal drug of concern,2013–14,Other amphetamines,,,2248
+SCR SA.5,Clients by principal drug of concern,2024–25,Cannabis,,,1169
+SCR SA.5,Clients by principal drug of concern,2023–24,Cannabis,,,1293
+SCR SA.5,Clients by principal drug of concern,2022–23,Cannabis,,,1163
+SCR SA.5,Clients by principal drug of concern,2021–22,Cannabis,,,1204
+SCR SA.5,Clients by principal drug of concern,2020–21,Cannabis,,,1318
+SCR SA.5,Clients by principal drug of concern,2019–20,Cannabis,,,1180
+SCR SA.5,Clients by principal drug of concern,2018–19,Cannabis,,,1502
+SCR SA.5,Clients by principal drug of concern,2017–18,Cannabis,,,1512
+SCR SA.5,Clients by principal drug of concern,2016–17,Cannabis,,,1680
+SCR SA.5,Clients by principal drug of concern,2015–16,Cannabis,,,1495
+SCR SA.5,Clients by principal drug of concern,2014–15,Cannabis,,,1758
+SCR SA.5,Clients by principal drug of concern,2013–14,Cannabis,,,1767
+SCR SA.5,Clients by principal drug of concern,2024–25,Pharmaceuticals,,,556
+SCR SA.5,Clients by principal drug of concern,2023–24,Pharmaceuticals,,,453
+SCR SA.5,Clients by principal drug of concern,2022–23,Pharmaceuticals,,,365
+SCR SA.5,Clients by principal drug of concern,2021–22,Pharmaceuticals,,,384
+SCR SA.5,Clients by principal drug of concern,2020–21,Pharmaceuticals,,,417
+SCR SA.5,Clients by principal drug of concern,2019–20,Pharmaceuticals,,,343
+SCR SA.5,Clients by principal drug of concern,2018–19,Pharmaceuticals,,,365
+SCR SA.5,Clients by principal drug of concern,2017–18,Pharmaceuticals,,,404
+SCR SA.5,Clients by principal drug of concern,2016–17,Pharmaceuticals,,,386
+SCR SA.5,Clients by principal drug of concern,2015–16,Pharmaceuticals,,,420
+SCR SA.5,Clients by principal drug of concern,2014–15,Pharmaceuticals,,,556
+SCR SA.5,Clients by principal drug of concern,2013–14,Pharmaceuticals,,,708
+SCR SA.5,Clients by principal drug of concern,2024–25,Cocaine and MDMA,,,202
+SCR SA.5,Clients by principal drug of concern,2023–24,Cocaine and MDMA,,,144
+SCR SA.5,Clients by principal drug of concern,2022–23,Cocaine and MDMA,,,130
+SCR SA.5,Clients by principal drug of concern,2021–22,Cocaine and MDMA,,,82
+SCR SA.5,Clients by principal drug of concern,2020–21,Cocaine and MDMA,,,133
+SCR SA.5,Clients by principal drug of concern,2019–20,Cocaine and MDMA,,,132
+SCR SA.5,Clients by principal drug of concern,2018–19,Cocaine and MDMA,,,139
+SCR SA.5,Clients by principal drug of concern,2017–18,Cocaine and MDMA,,,183
+SCR SA.5,Clients by principal drug of concern,2016–17,Cocaine and MDMA,,,201
+SCR SA.5,Clients by principal drug of concern,2015–16,Cocaine and MDMA,,,257
+SCR SA.5,Clients by principal drug of concern,2014–15,Cocaine and MDMA,,,244
+SCR SA.5,Clients by principal drug of concern,2013–14,Cocaine and MDMA,,,193
+SCR SA.5,Clients by principal drug of concern,2024–25,Nictoine,,,243
+SCR SA.5,Clients by principal drug of concern,2023–24,Nictoine,,,227
+SCR SA.5,Clients by principal drug of concern,2022–23,Nictoine,,,277
+SCR SA.5,Clients by principal drug of concern,2021–22,Nictoine,,,185
+SCR SA.5,Clients by principal drug of concern,2020–21,Nictoine,,,274
+SCR SA.5,Clients by principal drug of concern,2019–20,Nictoine,,,610
+SCR SA.5,Clients by principal drug of concern,2018–19,Nictoine,,,651
+SCR SA.5,Clients by principal drug of concern,2017–18,Nictoine,,,527
+SCR SA.5,Clients by principal drug of concern,2016–17,Nictoine,,,545
+SCR SA.5,Clients by principal drug of concern,2015–16,Nictoine,,,561
+SCR SA.5,Clients by principal drug of concern,2014–15,Nictoine,,,460
+SCR SA.5,Clients by principal drug of concern,2013–14,Nictoine,,,394
+SCR SA.5,Clients by principal drug of concern,2024–25,Volatile solvents,,,2
+SCR SA.5,Clients by principal drug of concern,2023–24,Volatile solvents,,,4
+SCR SA.5,Clients by principal drug of concern,2022–23,Volatile solvents,,,3
+SCR SA.5,Clients by principal drug of concern,2021–22,Volatile solvents,,,1
+SCR SA.5,Clients by principal drug of concern,2020–21,Volatile solvents,,,4
+SCR SA.5,Clients by principal drug of concern,2019–20,Volatile solvents,,,2
+SCR SA.5,Clients by principal drug of concern,2018–19,Volatile solvents,,,4
+SCR SA.5,Clients by principal drug of concern,2017–18,Volatile solvents,,,3
+SCR SA.5,Clients by principal drug of concern,2016–17,Volatile solvents,,,6
+SCR SA.5,Clients by principal drug of concern,2015–16,Volatile solvents,,,8
+SCR SA.5,Clients by principal drug of concern,2014–15,Volatile solvents,,,4
+SCR SA.5,Clients by principal drug of concern,2013–14,Volatile solvents,,,7
+SCR SA.5,Clients by principal drug of concern,2024–25,Not stated,,,46
+SCR SA.5,Clients by principal drug of concern,2023–24,Not stated,,,42
+SCR SA.5,Clients by principal drug of concern,2022–23,Not stated,,,28
+SCR SA.5,Clients by principal drug of concern,2021–22,Not stated,,,65
+SCR SA.5,Clients by principal drug of concern,2020–21,Not stated,,,79
+SCR SA.5,Clients by principal drug of concern,2019–20,Not stated,,,62
+SCR SA.5,Clients by principal drug of concern,2018–19,Not stated,,,146
+SCR SA.5,Clients by principal drug of concern,2017–18,Not stated,,,4
+SCR SA.5,Clients by principal drug of concern,2016–17,Not stated,,,1
+SCR SA.5,Clients by principal drug of concern,2015–16,Not stated,,,10
+SCR SA.5,Clients by principal drug of concern,2014–15,Not stated,,,52
+SCR SA.5,Clients by principal drug of concern,2013–14,Not stated,,,3
+SCR SA.5,Clients by principal drug of concern,2024–25,All other drugs,,,247
+SCR SA.5,Clients by principal drug of concern,2023–24,All other drugs,,,38
+SCR SA.5,Clients by principal drug of concern,2022–23,All other drugs,,,41
+SCR SA.5,Clients by principal drug of concern,2021–22,All other drugs,,,49
+SCR SA.5,Clients by principal drug of concern,2020–21,All other drugs,,,38
+SCR SA.5,Clients by principal drug of concern,2019–20,All other drugs,,,15
+SCR SA.5,Clients by principal drug of concern,2018–19,All other drugs,,,33
+SCR SA.5,Clients by principal drug of concern,2017–18,All other drugs,,,25
+SCR SA.5,Clients by principal drug of concern,2016–17,All other drugs,,,63
+SCR SA.5,Clients by principal drug of concern,2015–16,All other drugs,,,53
+SCR SA.5,Clients by principal drug of concern,2014–15,All other drugs,,,40
+SCR SA.5,Clients by principal drug of concern,2013–14,All other drugs,,,38
+SCR SA.5,Clients by principal drug of concern,2024–25,Total,,,8587
+SCR SA.5,Clients by principal drug of concern,2023–24,Total,,,7882
+SCR SA.5,Clients by principal drug of concern,2022–23,Total,,,6660
+SCR SA.5,Clients by principal drug of concern,2021–22,Total,,,6929
+SCR SA.5,Clients by principal drug of concern,2020–21,Total,,,7283
+SCR SA.5,Clients by principal drug of concern,2019–20,Total,,,7045
+SCR SA.5,Clients by principal drug of concern,2018–19,Total,,,8505
+SCR SA.5,Clients by principal drug of concern,2017–18,Total,,,7369
+SCR SA.5,Clients by principal drug of concern,2016–17,Total,,,8334
+SCR SA.5,Clients by principal drug of concern,2015–16,Total,,,8025
+SCR SA.5,Clients by principal drug of concern,2014–15,Total,,,8782
+SCR SA.5,Clients by principal drug of concern,2013–14,Total,,,9136
+SCR SA.6,Clients by main treatment type,2024–25,Counselling,,,3994
+SCR SA.6,Clients by main treatment type,2023–24,Counselling,,,3661
+SCR SA.6,Clients by main treatment type,2022–23,Counselling,,,2438
+SCR SA.6,Clients by main treatment type,2021–22,Counselling,,,2918
+SCR SA.6,Clients by main treatment type,2020–21,Counselling,,,3078
+SCR SA.6,Clients by main treatment type,2019–20,Counselling,,,2243
+SCR SA.6,Clients by main treatment type,2018–19,Counselling,,,2716
+SCR SA.6,Clients by main treatment type,2017–18,Counselling,,,1651
+SCR SA.6,Clients by main treatment type,2016–17,Counselling,,,2138
+SCR SA.6,Clients by main treatment type,2015–16,Counselling,,,1965
+SCR SA.6,Clients by main treatment type,2014–15,Counselling,,,2158
+SCR SA.6,Clients by main treatment type,2013–14,Counselling,,,2003
+SCR SA.6,Clients by main treatment type,2024–25,Withdrawal management,,,1144
+SCR SA.6,Clients by main treatment type,2023–24,Withdrawal management,,,1114
+SCR SA.6,Clients by main treatment type,2022–23,Withdrawal management,,,993
+SCR SA.6,Clients by main treatment type,2021–22,Withdrawal management,,,802
+SCR SA.6,Clients by main treatment type,2020–21,Withdrawal management,,,927
+SCR SA.6,Clients by main treatment type,2019–20,Withdrawal management,,,809
+SCR SA.6,Clients by main treatment type,2018–19,Withdrawal management,,,1006
+SCR SA.6,Clients by main treatment type,2017–18,Withdrawal management,,,1178
+SCR SA.6,Clients by main treatment type,2016–17,Withdrawal management,,,1151
+SCR SA.6,Clients by main treatment type,2015–16,Withdrawal management,,,950
+SCR SA.6,Clients by main treatment type,2014–15,Withdrawal management,,,979
+SCR SA.6,Clients by main treatment type,2013–14,Withdrawal management,,,974
+SCR SA.6,Clients by main treatment type,2024–25,Assessment only,,,1952
+SCR SA.6,Clients by main treatment type,2023–24,Assessment only,,,1929
+SCR SA.6,Clients by main treatment type,2022–23,Assessment only,,,2179
+SCR SA.6,Clients by main treatment type,2021–22,Assessment only,,,1863
+SCR SA.6,Clients by main treatment type,2020–21,Assessment only,,,2047
+SCR SA.6,Clients by main treatment type,2019–20,Assessment only,,,2671
+SCR SA.6,Clients by main treatment type,2018–19,Assessment only,,,3573
+SCR SA.6,Clients by main treatment type,2017–18,Assessment only,,,3587
+SCR SA.6,Clients by main treatment type,2016–17,Assessment only,,,3845
+SCR SA.6,Clients by main treatment type,2015–16,Assessment only,,,3966
+SCR SA.6,Clients by main treatment type,2014–15,Assessment only,,,3971
+SCR SA.6,Clients by main treatment type,2013–14,Assessment only,,,4517
+SCR SA.6,Clients by main treatment type,2024–25,Support and case management,,,728
+SCR SA.6,Clients by main treatment type,2023–24,Support and case management,,,466
+SCR SA.6,Clients by main treatment type,2022–23,Support and case management,,,439
+SCR SA.6,Clients by main treatment type,2021–22,Support and case management,,,526
+SCR SA.6,Clients by main treatment type,2020–21,Support and case management,,,587
+SCR SA.6,Clients by main treatment type,2019–20,Support and case management,,,506
+SCR SA.6,Clients by main treatment type,2018–19,Support and case management,,,319
+SCR SA.6,Clients by main treatment type,2017–18,Support and case management,,,260
+SCR SA.6,Clients by main treatment type,2016–17,Support and case management,,,223
+SCR SA.6,Clients by main treatment type,2015–16,Support and case management,,,142
+SCR SA.6,Clients by main treatment type,2014–15,Support and case management,,,192
+SCR SA.6,Clients by main treatment type,2013–14,Support and case management,,,108
+SCR SA.6,Clients by main treatment type,2024–25,Rehabilitation,,,46
+SCR SA.6,Clients by main treatment type,2023–24,Rehabilitation,,,76
+SCR SA.6,Clients by main treatment type,2022–23,Rehabilitation,,,74
+SCR SA.6,Clients by main treatment type,2021–22,Rehabilitation,,,92
+SCR SA.6,Clients by main treatment type,2020–21,Rehabilitation,,,108
+SCR SA.6,Clients by main treatment type,2019–20,Rehabilitation,,,219
+SCR SA.6,Clients by main treatment type,2018–19,Rehabilitation,,,290
+SCR SA.6,Clients by main treatment type,2017–18,Rehabilitation,,,146
+SCR SA.6,Clients by main treatment type,2016–17,Rehabilitation,,,488
+SCR SA.6,Clients by main treatment type,2015–16,Rehabilitation,,,379
+SCR SA.6,Clients by main treatment type,2014–15,Rehabilitation,,,691
+SCR SA.6,Clients by main treatment type,2013–14,Rehabilitation,,,829
+SCR SA.6,Clients by main treatment type,2024–25,Information and education,,,350
+SCR SA.6,Clients by main treatment type,2023–24,Information and education,,,312
+SCR SA.6,Clients by main treatment type,2022–23,Information and education,,,314
+SCR SA.6,Clients by main treatment type,2021–22,Information and education,,,281
+SCR SA.6,Clients by main treatment type,2020–21,Information and education,,,281
+SCR SA.6,Clients by main treatment type,2019–20,Information and education,,,219
+SCR SA.6,Clients by main treatment type,2018–19,Information and education,,,272
+SCR SA.6,Clients by main treatment type,2017–18,Information and education,,,286
+SCR SA.6,Clients by main treatment type,2016–17,Information and education,,,245
+SCR SA.6,Clients by main treatment type,2015–16,Information and education,,,250
+SCR SA.6,Clients by main treatment type,2014–15,Information and education,,,269
+SCR SA.6,Clients by main treatment type,2013–14,Information and education,,,322
+SCR SA.6,Clients by main treatment type,2024–25,Other,,,507
+SCR SA.6,Clients by main treatment type,2023–24,Other,,,431
+SCR SA.6,Clients by main treatment type,2022–23,Other,,,281
+SCR SA.6,Clients by main treatment type,2021–22,Other,,,478
+SCR SA.6,Clients by main treatment type,2020–21,Other,,,324
+SCR SA.6,Clients by main treatment type,2019–20,Other,,,464
+SCR SA.6,Clients by main treatment type,2018–19,Other,,,505
+SCR SA.6,Clients by main treatment type,2017–18,Other,,,436
+SCR SA.6,Clients by main treatment type,2016–17,Other,,,373
+SCR SA.6,Clients by main treatment type,2015–16,Other,,,437
+SCR SA.6,Clients by main treatment type,2014–15,Other,,,679
+SCR SA.6,Clients by main treatment type,2013–14,Other,,,462
+SCR SA.6,Clients by main treatment type,2024–25,Total,,,8721
+SCR SA.6,Clients by main treatment type,2023–24,Total,,,7989
+SCR SA.6,Clients by main treatment type,2022–23,Total,,,6718
+SCR SA.6,Clients by main treatment type,2021–22,Total,,,6960
+SCR SA.6,Clients by main treatment type,2020–21,Total,,,7352
+SCR SA.6,Clients by main treatment type,2019–20,Total,,,7131
+SCR SA.6,Clients by main treatment type,2018–19,Total,,,8681
+SCR SA.6,Clients by main treatment type,2017–18,Total,,,7544
+SCR SA.6,Clients by main treatment type,2016–17,Total,,,8463
+SCR SA.6,Clients by main treatment type,2015–16,Total,,,8089
+SCR SA.6,Clients by main treatment type,2014–15,Total,,,8939
+SCR SA.6,Clients by main treatment type,2013–14,Total,,,9215
+SCR SA.7,Clients by source of referral,2024–25,Self/family,,,2781
+SCR SA.7,Clients by source of referral,2023–24,Self/family,,,2579
+SCR SA.7,Clients by source of referral,2022–23,Self/family,,,1823
+SCR SA.7,Clients by source of referral,2021–22,Self/family,,,2193
+SCR SA.7,Clients by source of referral,2020–21,Self/family,,,2129
+SCR SA.7,Clients by source of referral,2019–20,Self/family,,,1958
+SCR SA.7,Clients by source of referral,2018–19,Self/family,,,2334
+SCR SA.7,Clients by source of referral,2017–18,Self/family,,,1912
+SCR SA.7,Clients by source of referral,2016–17,Self/family,,,2250
+SCR SA.7,Clients by source of referral,2015–16,Self/family,,,1904
+SCR SA.7,Clients by source of referral,2014–15,Self/family,,,2450
+SCR SA.7,Clients by source of referral,2013–14,Self/family,,,2080
+SCR SA.7,Clients by source of referral,2024–25,Health service,,,2951
+SCR SA.7,Clients by source of referral,2023–24,Health service,,,3004
+SCR SA.7,Clients by source of referral,2022–23,Health service,,,2639
+SCR SA.7,Clients by source of referral,2021–22,Health service,,,2582
+SCR SA.7,Clients by source of referral,2020–21,Health service,,,2649
+SCR SA.7,Clients by source of referral,2019–20,Health service,,,2049
+SCR SA.7,Clients by source of referral,2018–19,Health service,,,2206
+SCR SA.7,Clients by source of referral,2017–18,Health service,,,1750
+SCR SA.7,Clients by source of referral,2016–17,Health service,,,1865
+SCR SA.7,Clients by source of referral,2015–16,Health service,,,1857
+SCR SA.7,Clients by source of referral,2014–15,Health service,,,2095
+SCR SA.7,Clients by source of referral,2013–14,Health service,,,2644
+SCR SA.7,Clients by source of referral,2024–25,Corrections,,,787
+SCR SA.7,Clients by source of referral,2023–24,Corrections,,,696
+SCR SA.7,Clients by source of referral,2022–23,Corrections,,,566
+SCR SA.7,Clients by source of referral,2021–22,Corrections,,,689
+SCR SA.7,Clients by source of referral,2020–21,Corrections,,,664
+SCR SA.7,Clients by source of referral,2019–20,Corrections,,,572
+SCR SA.7,Clients by source of referral,2018–19,Corrections,,,744
+SCR SA.7,Clients by source of referral,2017–18,Corrections,,,443
+SCR SA.7,Clients by source of referral,2016–17,Corrections,,,753
+SCR SA.7,Clients by source of referral,2015–16,Corrections,,,772
+SCR SA.7,Clients by source of referral,2014–15,Corrections,,,847
+SCR SA.7,Clients by source of referral,2013–14,Corrections,,,726
+SCR SA.7,Clients by source of referral,2024–25,Diversion,,,1894
+SCR SA.7,Clients by source of referral,2023–24,Diversion,,,1469
+SCR SA.7,Clients by source of referral,2022–23,Diversion,,,1470
+SCR SA.7,Clients by source of referral,2021–22,Diversion,,,1124
+SCR SA.7,Clients by source of referral,2020–21,Diversion,,,1535
+SCR SA.7,Clients by source of referral,2019–20,Diversion,,,2184
+SCR SA.7,Clients by source of referral,2018–19,Diversion,,,2962
+SCR SA.7,Clients by source of referral,2017–18,Diversion,,,3050
+SCR SA.7,Clients by source of referral,2016–17,Diversion,,,3235
+SCR SA.7,Clients by source of referral,2015–16,Diversion,,,3215
+SCR SA.7,Clients by source of referral,2014–15,Diversion,,,3119
+SCR SA.7,Clients by source of referral,2013–14,Diversion,,,2886
+SCR SA.7,Clients by source of referral,2024–25,Other,,,308
+SCR SA.7,Clients by source of referral,2023–24,Other,,,241
+SCR SA.7,Clients by source of referral,2022–23,Other,,,220
+SCR SA.7,Clients by source of referral,2021–22,Other,,,372
+SCR SA.7,Clients by source of referral,2020–21,Other,,,375
+SCR SA.7,Clients by source of referral,2019–20,Other,,,368
+SCR SA.7,Clients by source of referral,2018–19,Other,,,435
+SCR SA.7,Clients by source of referral,2017–18,Other,,,389
+SCR SA.7,Clients by source of referral,2016–17,Other,,,360
+SCR SA.7,Clients by source of referral,2015–16,Other,,,341
+SCR SA.7,Clients by source of referral,2014–15,Other,,,428
+SCR SA.7,Clients by source of referral,2013–14,Other,,,879
+SCR SA.7,Clients by source of referral,2024–25,Total,,,8721
+SCR SA.7,Clients by source of referral,2023–24,Total,,,7989
+SCR SA.7,Clients by source of referral,2022–23,Total,,,6718
+SCR SA.7,Clients by source of referral,2021–22,Total,,,6960
+SCR SA.7,Clients by source of referral,2020–21,Total,,,7352
+SCR SA.7,Clients by source of referral,2019–20,Total,,,7131
+SCR SA.7,Clients by source of referral,2018–19,Total,,,8681
+SCR SA.7,Clients by source of referral,2017–18,Total,,,7544
+SCR SA.7,Clients by source of referral,2016–17,Total,,,8463
+SCR SA.7,Clients by source of referral,2015–16,Total,,,8089
+SCR SA.7,Clients by source of referral,2014–15,Total,,,8939
+SCR SA.7,Clients by source of referral,2013–14,Total,,,9215
+SCR SA.8,Clients by reason for cessation,2024–25,Expected/planned completion,,,5345
+SCR SA.8,Clients by reason for cessation,2023–24,Expected/planned completion,,,4832
+SCR SA.8,Clients by reason for cessation,2022–23,Expected/planned completion,,,4268
+SCR SA.8,Clients by reason for cessation,2021–22,Expected/planned completion,,,4084
+SCR SA.8,Clients by reason for cessation,2020–21,Expected/planned completion,,,4572
+SCR SA.8,Clients by reason for cessation,2019–20,Expected/planned completion,,,4783
+SCR SA.8,Clients by reason for cessation,2018–19,Expected/planned completion,,,6097
+SCR SA.8,Clients by reason for cessation,2017–18,Expected/planned completion,,,5515
+SCR SA.8,Clients by reason for cessation,2016–17,Expected/planned completion,,,5927
+SCR SA.8,Clients by reason for cessation,2015–16,Expected/planned completion,,,5616
+SCR SA.8,Clients by reason for cessation,2014–15,Expected/planned completion,,,5968
+SCR SA.8,Clients by reason for cessation,2013–14,Expected/planned completion,,,6392
+SCR SA.8,Clients by reason for cessation,2024–25,Ended due to unplanned completion,,,2756
+SCR SA.8,Clients by reason for cessation,2023–24,Ended due to unplanned completion,,,2477
+SCR SA.8,Clients by reason for cessation,2022–23,Ended due to unplanned completion,,,1595
+SCR SA.8,Clients by reason for cessation,2021–22,Ended due to unplanned completion,,,1996
+SCR SA.8,Clients by reason for cessation,2020–21,Ended due to unplanned completion,,,1943
+SCR SA.8,Clients by reason for cessation,2019–20,Ended due to unplanned completion,,,1575
+SCR SA.8,Clients by reason for cessation,2018–19,Ended due to unplanned completion,,,1736
+SCR SA.8,Clients by reason for cessation,2017–18,Ended due to unplanned completion,,,1373
+SCR SA.8,Clients by reason for cessation,2016–17,Ended due to unplanned completion,,,1685
+SCR SA.8,Clients by reason for cessation,2015–16,Ended due to unplanned completion,,,1665
+SCR SA.8,Clients by reason for cessation,2014–15,Ended due to unplanned completion,,,1802
+SCR SA.8,Clients by reason for cessation,2013–14,Ended due to unplanned completion,,,2005
+SCR SA.8,Clients by reason for cessation,2024–25,Referred to another service/change treatment mode,,,319
+SCR SA.8,Clients by reason for cessation,2023–24,Referred to another service/change treatment mode,,,408
+SCR SA.8,Clients by reason for cessation,2022–23,Referred to another service/change treatment mode,,,562
+SCR SA.8,Clients by reason for cessation,2021–22,Referred to another service/change treatment mode,,,578
+SCR SA.8,Clients by reason for cessation,2020–21,Referred to another service/change treatment mode,,,529
+SCR SA.8,Clients by reason for cessation,2019–20,Referred to another service/change treatment mode,,,539
+SCR SA.8,Clients by reason for cessation,2018–19,Referred to another service/change treatment mode,,,646
+SCR SA.8,Clients by reason for cessation,2017–18,Referred to another service/change treatment mode,,,410
+SCR SA.8,Clients by reason for cessation,2016–17,Referred to another service/change treatment mode,,,554
+SCR SA.8,Clients by reason for cessation,2015–16,Referred to another service/change treatment mode,,,566
+SCR SA.8,Clients by reason for cessation,2014–15,Referred to another service/change treatment mode,,,860
+SCR SA.8,Clients by reason for cessation,2013–14,Referred to another service/change treatment mode,,,569
+SCR SA.8,Clients by reason for cessation,2024–25,Other,,,301
+SCR SA.8,Clients by reason for cessation,2023–24,Other,,,272
+SCR SA.8,Clients by reason for cessation,2022–23,Other,,,293
+SCR SA.8,Clients by reason for cessation,2021–22,Other,,,302
+SCR SA.8,Clients by reason for cessation,2020–21,Other,,,308
+SCR SA.8,Clients by reason for cessation,2019–20,Other,,,234
+SCR SA.8,Clients by reason for cessation,2018–19,Other,,,202
+SCR SA.8,Clients by reason for cessation,2017–18,Other,,,246
+SCR SA.8,Clients by reason for cessation,2016–17,Other,,,297
+SCR SA.8,Clients by reason for cessation,2015–16,Other,,,242
+SCR SA.8,Clients by reason for cessation,2014–15,Other,,,309
+SCR SA.8,Clients by reason for cessation,2013–14,Other,,,249
+SCR SA.8,Clients by reason for cessation,2024–25,Total,,,8721
+SCR SA.8,Clients by reason for cessation,2023–24,Total,,,7989
+SCR SA.8,Clients by reason for cessation,2022–23,Total,,,6718
+SCR SA.8,Clients by reason for cessation,2021–22,Total,,,6960
+SCR SA.8,Clients by reason for cessation,2020–21,Total,,,7352
+SCR SA.8,Clients by reason for cessation,2019–20,Total,,,7131
+SCR SA.8,Clients by reason for cessation,2018–19,Total,,,8681
+SCR SA.8,Clients by reason for cessation,2017–18,Total,,,7544
+SCR SA.8,Clients by reason for cessation,2016–17,Total,,,8463
+SCR SA.8,Clients by reason for cessation,2015–16,Total,,,8089
+SCR SA.8,Clients by reason for cessation,2014–15,Total,,,8939
+SCR SA.8,Clients by reason for cessation,2013–14,Total,,,9215
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,English,,7844
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,English,,7737
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,English,,6557
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,English,,6788
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,English,,7140
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,English,,6926
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,English,,8359
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,English,,7249
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,English,,2529
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,English,,7928
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,English,,8485
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,English,,8719
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Australian Indigenous languages,,79
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Australian Indigenous languages,,56
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Australian Indigenous languages,,33
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Australian Indigenous languages,,54
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Australian Indigenous languages,,36
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Australian Indigenous languages,,49
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Australian Indigenous languages,,55
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Australian Indigenous languages,,21
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Australian Indigenous languages,,7
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Australian Indigenous languages,,23
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Australian Indigenous languages,,61
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Australian Indigenous languages,,30
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Italian,,4
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Italian,,2
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,French,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,French,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,French,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,French,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,French,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,French,,3
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Spanish,,3
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Spanish,,4
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Spanish,,3
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Spanish,,2
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Polish,,2
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Polish,,2
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,African,,4
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,African,,4
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,African,,4
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,African,,3
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,African,,8
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,African,,5
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,African,,5
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,African,,10
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,African,,13
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,African,,14
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,African,,20
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,African,,10
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Turkish,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Turkish,,2
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Turkish,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Turkish,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Iranic,,9
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Iranic,,10
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Iranic,,8
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Iranic,,12
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Iranic,,10
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Iranic,,8
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Iranic,,6
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Iranic,,11
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Iranic,,1
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Iranic,,6
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Iranic,,5
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Iranic,,8
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Arabic,,3
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Arabic,,4
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Arabic,,5
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Arabic,,4
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Arabic,,4
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Arabic,,2
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Arabic,,2
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Chinese,,1
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Chinese,,3
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Chinese,,5
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Chinese,,3
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Vietnamese,,6
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Vietnamese,,5
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Vietnamese,,4
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Vietnamese,,3
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Vietnamese,,19
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Vietnamese,,21
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Vietnamese,,29
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Vietnamese,,40
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Vietnamese,,30
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Vietnamese,,34
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Vietnamese,,50
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Vietnamese,,46
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,Not stated,,590
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,Not stated,,27
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,Not stated,,10
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,Not stated,,40
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,Not stated,,26
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,Not stated,,6
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,Not stated,,7
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,Not stated,,10
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,Not stated,,5743
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,Not stated,,2
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,Not stated,,125
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,Not stated,,286
+SCR SA.9,Clients by preferred language and client type,2024–25,Own drug use,All other languages,,44
+SCR SA.9,Clients by preferred language and client type,2023–24,Own drug use,All other languages,,38
+SCR SA.9,Clients by preferred language and client type,2022–23,Own drug use,All other languages,,31
+SCR SA.9,Clients by preferred language and client type,2021–22,Own drug use,All other languages,,24
+SCR SA.9,Clients by preferred language and client type,2020–21,Own drug use,All other languages,,37
+SCR SA.9,Clients by preferred language and client type,2019–20,Own drug use,All other languages,,22
+SCR SA.9,Clients by preferred language and client type,2018–19,Own drug use,All other languages,,30
+SCR SA.9,Clients by preferred language and client type,2017–18,Own drug use,All other languages,,21
+SCR SA.9,Clients by preferred language and client type,2016–17,Own drug use,All other languages,,6
+SCR SA.9,Clients by preferred language and client type,2015–16,Own drug use,All other languages,,14
+SCR SA.9,Clients by preferred language and client type,2014–15,Own drug use,All other languages,,24
+SCR SA.9,Clients by preferred language and client type,2013–14,Own drug use,All other languages,,25
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,English,,133
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,English,,105
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,English,,56
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,English,,31
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,English,,41
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,English,,66
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,English,,142
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,English,,158
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,English,,114
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,English,,53
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,English,,123
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,English,,46
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Australian Indigenous languages,,2
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Australian Indigenous languages,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Australian Indigenous languages,,1
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Australian Indigenous languages,,5
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Australian Indigenous languages,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,French,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,African,,6
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,African,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,African,,1
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,African,,2
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,African,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,African,,1
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Iranic,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Arabic,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Vietnamese,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Vietnamese,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Vietnamese,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Vietnamese,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Vietnamese,,19
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Vietnamese,,20
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Vietnamese,,31
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Vietnamese,,13
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Vietnamese,,14
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Vietnamese,,7
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Vietnamese,,26
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Vietnamese,,31
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,Not stated,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,Not stated,,1
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,Not stated,,4
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,Not stated,,2
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,Not stated,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Other's drug use,All other languages,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Other's drug use,All other languages,,3
+SCR SA.9,Clients by preferred language and client type,2019–20,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Other's drug use,All other languages,,2
+SCR SA.9,Clients by preferred language and client type,2017–18,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Other's drug use,All other languages,,1
+SCR SA.9,Clients by preferred language and client type,2014–15,Other's drug use,All other languages,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Other's drug use,All other languages,,1
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,English,,7977
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,English,,7842
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,English,,6613
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,English,,6819
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,English,,7181
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,English,,6992
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,English,,8501
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,English,,7407
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,English,,2643
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,English,,7981
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,English,,8608
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,English,,8765
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Australian Indigenous languages,,79
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Australian Indigenous languages,,58
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Australian Indigenous languages,,34
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Australian Indigenous languages,,54
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Australian Indigenous languages,,36
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Australian Indigenous languages,,49
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Australian Indigenous languages,,55
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Australian Indigenous languages,,21
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Australian Indigenous languages,,7
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Australian Indigenous languages,,24
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Australian Indigenous languages,,66
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Australian Indigenous languages,,30
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Italian,,4
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Italian,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Italian,,2
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Italian,,1
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,French,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,French,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,French,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,French,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,French,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,French,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,French,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,French,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,French,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,French,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,French,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,French,,3
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Spanish,,3
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Spanish,,4
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Spanish,,3
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Spanish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Spanish,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Spanish,,2
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Polish,,2
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Polish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Polish,,1
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Polish,,2
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,African,,4
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,African,,4
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,African,,4
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,African,,3
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,African,,14
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,African,,5
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,African,,5
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,African,,10
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,African,,14
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,African,,16
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,African,,21
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,African,,11
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Turkish,,1
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Turkish,,2
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Turkish,,1
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Turkish,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Turkish,,0
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Iranic,,9
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Iranic,,10
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Iranic,,8
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Iranic,,12
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Iranic,,10
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Iranic,,8
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Iranic,,6
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Iranic,,11
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Iranic,,1
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Iranic,,6
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Iranic,,5
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Iranic,,8
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Arabic,,3
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Arabic,,4
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Arabic,,5
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Arabic,,4
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Arabic,,4
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Arabic,,2
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Arabic,,2
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Arabic,,1
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Chinese,,1
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Chinese,,0
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Chinese,,3
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Chinese,,2
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Chinese,,5
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Chinese,,3
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Vietnamese,,6
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Vietnamese,,5
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Vietnamese,,4
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Vietnamese,,3
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Vietnamese,,38
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Vietnamese,,41
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Vietnamese,,60
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Vietnamese,,53
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Vietnamese,,44
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Vietnamese,,41
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Vietnamese,,76
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Vietnamese,,77
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,Not stated,,591
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,Not stated,,27
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,Not stated,,10
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,Not stated,,40
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,Not stated,,26
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,Not stated,,6
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,Not stated,,8
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,Not stated,,14
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,Not stated,,5743
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,Not stated,,2
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,Not stated,,127
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,Not stated,,286
+SCR SA.9,Clients by preferred language and client type,2024–25,Total,All other languages,,44
+SCR SA.9,Clients by preferred language and client type,2023–24,Total,All other languages,,38
+SCR SA.9,Clients by preferred language and client type,2022–23,Total,All other languages,,32
+SCR SA.9,Clients by preferred language and client type,2021–22,Total,All other languages,,24
+SCR SA.9,Clients by preferred language and client type,2020–21,Total,All other languages,,40
+SCR SA.9,Clients by preferred language and client type,2019–20,Total,All other languages,,22
+SCR SA.9,Clients by preferred language and client type,2018–19,Total,All other languages,,32
+SCR SA.9,Clients by preferred language and client type,2017–18,Total,All other languages,,21
+SCR SA.9,Clients by preferred language and client type,2016–17,Total,All other languages,,6
+SCR SA.9,Clients by preferred language and client type,2015–16,Total,All other languages,,15
+SCR SA.9,Clients by preferred language and client type,2014–15,Total,All other languages,,24
+SCR SA.9,Clients by preferred language and client type,2013–14,Total,All other languages,,26
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Australia,,7295
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Australia,,7181
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Australia,,6106
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Australia,,6329
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Australia,,6634
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Australia,,6416
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Australia,,7652
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Australia,,6716
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Australia,,7490
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Australia,,7063
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Australia,,7814
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Australia,,7996
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,New Zealand,,39
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,New Zealand,,37
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,New Zealand,,34
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,New Zealand,,36
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,New Zealand,,48
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,New Zealand,,47
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,New Zealand,,100
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,New Zealand,,60
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,New Zealand,,69
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,New Zealand,,70
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,New Zealand,,81
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,New Zealand,,73
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,United Kingdom,,151
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,United Kingdom,,162
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,United Kingdom,,133
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,United Kingdom,,124
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,United Kingdom,,140
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,United Kingdom,,137
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,United Kingdom,,205
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,United Kingdom,,149
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,United Kingdom,,178
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,United Kingdom,,205
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,United Kingdom,,241
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,United Kingdom,,255
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Germany,,6
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Germany,,4
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Germany,,5
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Germany,,3
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Germany,,2
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Germany,,7
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Germany,,11
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Germany,,13
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Germany,,17
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Germany,,18
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Germany,,13
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Germany,,15
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Ireland,,14
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Ireland,,8
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Ireland,,6
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Ireland,,8
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Ireland,,7
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Ireland,,7
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Ireland,,13
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Ireland,,17
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Ireland,,18
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Ireland,,16
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Ireland,,19
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Ireland,,19
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,USA,,11
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,USA,,11
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,USA,,12
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,USA,,10
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,USA,,13
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,USA,,10
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,USA,,7
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,USA,,10
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,USA,,11
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,USA,,10
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,USA,,11
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,USA,,14
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Vietnam,,13
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Vietnam,,17
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Vietnam,,26
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Vietnam,,23
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Vietnam,,39
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Vietnam,,50
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Vietnam,,66
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Vietnam,,75
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Vietnam,,65
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Vietnam,,73
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Vietnam,,102
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Vietnam,,105
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Philippines,,15
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Philippines,,16
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Philippines,,7
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Philippines,,8
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Philippines,,9
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Philippines,,4
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Philippines,,13
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Philippines,,11
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Philippines,,13
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Philippines,,22
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Philippines,,14
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Philippines,,13
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,India,,46
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,India,,41
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,India,,23
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,India,,15
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,India,,30
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,India,,14
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,India,,15
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,India,,15
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,India,,12
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,India,,9
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,India,,9
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,India,,13
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,South Africa,,14
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,South Africa,,13
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,South Africa,,12
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,South Africa,,14
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,South Africa,,7
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,South Africa,,19
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,South Africa,,5
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,South Africa,,8
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Sudan,,22
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Sudan,,21
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Sudan,,18
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Sudan,,18
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Sudan,,23
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Sudan,,17
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Sudan,,17
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Sudan,,14
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Sudan,,15
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Sudan,,21
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Sudan,,10
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Sudan,,13
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,Not stated,,657
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,Not stated,,115
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,Not stated,,72
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,Not stated,,149
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,Not stated,,83
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,Not stated,,107
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,Not stated,,141
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,Not stated,,49
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,Not stated,,176
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,Not stated,,273
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,Not stated,,171
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,Not stated,,305
+SCR SA.10,Clients by country of birth and client type,2024–25,Own drug use,All other countries,,304
+SCR SA.10,Clients by country of birth and client type,2023–24,Own drug use,All other countries,,254
+SCR SA.10,Clients by country of birth and client type,2022–23,Own drug use,All other countries,,205
+SCR SA.10,Clients by country of birth and client type,2021–22,Own drug use,All other countries,,194
+SCR SA.10,Clients by country of birth and client type,2020–21,Own drug use,All other countries,,241
+SCR SA.10,Clients by country of birth and client type,2019–20,Own drug use,All other countries,,222
+SCR SA.10,Clients by country of birth and client type,2018–19,Own drug use,All other countries,,246
+SCR SA.10,Clients by country of birth and client type,2017–18,Own drug use,All other countries,,225
+SCR SA.10,Clients by country of birth and client type,2016–17,Own drug use,All other countries,,265
+SCR SA.10,Clients by country of birth and client type,2015–16,Own drug use,All other countries,,237
+SCR SA.10,Clients by country of birth and client type,2014–15,Own drug use,All other countries,,282
+SCR SA.10,Clients by country of birth and client type,2013–14,Own drug use,All other countries,,300
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Australia,,122
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Australia,,93
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Australia,,54
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Australia,,24
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Australia,,37
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Australia,,55
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Australia,,109
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Australia,,143
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Australia,,94
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Australia,,46
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Australia,,110
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Australia,,40
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,New Zealand,,1
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,New Zealand,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,New Zealand,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,New Zealand,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,New Zealand,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,New Zealand,,1
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,New Zealand,,7
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,New Zealand,,2
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,New Zealand,,3
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,New Zealand,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,New Zealand,,2
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,New Zealand,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,United Kingdom,,1
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,United Kingdom,,1
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,United Kingdom,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,United Kingdom,,1
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,United Kingdom,,2
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,United Kingdom,,3
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,United Kingdom,,9
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,United Kingdom,,6
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,United Kingdom,,6
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,United Kingdom,,4
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,United Kingdom,,8
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,United Kingdom,,1
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Germany,,5
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Germany,,3
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Germany,,2
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Germany,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Ireland,,1
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Ireland,,1
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Ireland,,1
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Ireland,,3
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Ireland,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,USA,,1
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,USA,,2
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,USA,,2
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,USA,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Vietnam,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Vietnam,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Vietnam,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Vietnam,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Vietnam,,20
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Vietnam,,21
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Vietnam,,31
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Vietnam,,13
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Vietnam,,14
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Vietnam,,8
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Vietnam,,27
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Vietnam,,30
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Philippines,,1
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Philippines,,1
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Philippines,,1
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Philippines,,2
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Philippines,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,India,,1
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,India,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,South Africa,,1
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,South Africa,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Sudan,,3
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Sudan,,0
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Sudan,,1
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,Not stated,,6
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,Not stated,,7
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,Not stated,,2
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,Not stated,,2
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,Not stated,,0
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,Not stated,,0
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,Not stated,,1
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,Not stated,,1
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,Not stated,,1
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,Not stated,,3
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,Not stated,,2
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,Not stated,,0
+SCR SA.10,Clients by country of birth and client type,2024–25,Other's drug use,All other countries,,3
+SCR SA.10,Clients by country of birth and client type,2023–24,Other's drug use,All other countries,,6
+SCR SA.10,Clients by country of birth and client type,2022–23,Other's drug use,All other countries,,2
+SCR SA.10,Clients by country of birth and client type,2021–22,Other's drug use,All other countries,,2
+SCR SA.10,Clients by country of birth and client type,2020–21,Other's drug use,All other countries,,7
+SCR SA.10,Clients by country of birth and client type,2019–20,Other's drug use,All other countries,,4
+SCR SA.10,Clients by country of birth and client type,2018–19,Other's drug use,All other countries,,11
+SCR SA.10,Clients by country of birth and client type,2017–18,Other's drug use,All other countries,,6
+SCR SA.10,Clients by country of birth and client type,2016–17,Other's drug use,All other countries,,3
+SCR SA.10,Clients by country of birth and client type,2015–16,Other's drug use,All other countries,,3
+SCR SA.10,Clients by country of birth and client type,2014–15,Other's drug use,All other countries,,5
+SCR SA.10,Clients by country of birth and client type,2013–14,Other's drug use,All other countries,,7
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Australia,,7417
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Australia,,7274
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Australia,,6160
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Australia,,6353
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Australia,,6671
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Australia,,6471
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Australia,,7761
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Australia,,6859
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Australia,,7584
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Australia,,7109
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Australia,,7924
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Australia,,8036
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,New Zealand,,40
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,New Zealand,,37
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,New Zealand,,34
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,New Zealand,,36
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,New Zealand,,48
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,New Zealand,,48
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,New Zealand,,107
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,New Zealand,,62
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,New Zealand,,72
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,New Zealand,,70
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,New Zealand,,83
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,New Zealand,,73
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,United Kingdom,,152
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,United Kingdom,,163
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,United Kingdom,,133
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,United Kingdom,,125
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,United Kingdom,,142
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,United Kingdom,,140
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,United Kingdom,,214
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,United Kingdom,,155
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,United Kingdom,,184
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,United Kingdom,,209
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,United Kingdom,,249
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,United Kingdom,,256
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Germany,,6
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Germany,,4
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Germany,,5
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Germany,,3
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Germany,,2
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Germany,,7
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Germany,,16
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Germany,,16
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Germany,,19
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Germany,,18
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Germany,,13
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Germany,,15
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Ireland,,14
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Ireland,,8
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Ireland,,6
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Ireland,,9
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Ireland,,7
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Ireland,,8
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Ireland,,13
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Ireland,,18
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Ireland,,21
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Ireland,,16
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Ireland,,19
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Ireland,,19
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,USA,,11
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,USA,,11
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,USA,,12
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,USA,,11
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,USA,,13
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,USA,,10
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,USA,,9
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,USA,,10
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,USA,,13
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,USA,,10
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,USA,,11
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,USA,,14
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Vietnam,,13
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Vietnam,,17
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Vietnam,,26
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Vietnam,,23
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Vietnam,,59
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Vietnam,,71
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Vietnam,,97
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Vietnam,,88
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Vietnam,,79
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Vietnam,,81
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Vietnam,,129
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Vietnam,,135
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Philippines,,15
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Philippines,,16
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Philippines,,7
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Philippines,,8
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Philippines,,9
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Philippines,,5
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Philippines,,14
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Philippines,,11
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Philippines,,14
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Philippines,,22
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Philippines,,16
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Philippines,,13
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,India,,47
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,India,,41
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,India,,23
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,India,,15
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,India,,30
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,India,,14
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,India,,15
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,India,,15
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,India,,12
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,India,,9
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,India,,9
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,India,,13
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,South Africa,,14
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,South Africa,,13
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,South Africa,,12
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,South Africa,,14
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,South Africa,,7
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,South Africa,,19
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,South Africa,,5
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,South Africa,,8
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,South Africa,,16
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,South Africa,,15
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Sudan,,22
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Sudan,,21
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Sudan,,18
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Sudan,,18
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Sudan,,26
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Sudan,,17
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Sudan,,17
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Sudan,,14
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Sudan,,15
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Sudan,,21
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Sudan,,10
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Sudan,,14
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,Not stated,,663
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,Not stated,,122
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,Not stated,,74
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,Not stated,,151
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,Not stated,,83
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,Not stated,,107
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,Not stated,,142
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,Not stated,,50
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,Not stated,,177
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,Not stated,,276
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,Not stated,,173
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,Not stated,,305
+SCR SA.10,Clients by country of birth and client type,2024–25,Total,All other countries,,307
+SCR SA.10,Clients by country of birth and client type,2023–24,Total,All other countries,,260
+SCR SA.10,Clients by country of birth and client type,2022–23,Total,All other countries,,207
+SCR SA.10,Clients by country of birth and client type,2021–22,Total,All other countries,,196
+SCR SA.10,Clients by country of birth and client type,2020–21,Total,All other countries,,248
+SCR SA.10,Clients by country of birth and client type,2019–20,Total,All other countries,,226
+SCR SA.10,Clients by country of birth and client type,2018–19,Total,All other countries,,257
+SCR SA.10,Clients by country of birth and client type,2017–18,Total,All other countries,,231
+SCR SA.10,Clients by country of birth and client type,2016–17,Total,All other countries,,268
+SCR SA.10,Clients by country of birth and client type,2015–16,Total,All other countries,,240
+SCR SA.10,Clients by country of birth and client type,2014–15,Total,All other countries,,287
+SCR SA.10,Clients by country of birth and client type,2013–14,Total,All other countries,,307
