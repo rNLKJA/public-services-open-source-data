@@ -1,0 +1,107 @@
+financial_year,financial_year_total,act,act_total,application,type_total,count
+2020-21,5419,Administration (existing orders),525,Recommendation of disallowance of item of expenditure by the Public Trustee,1,1
+2020-21,5419,Administration (existing orders),525,"Request for advice, direction or approval (Administration)",47,47
+2020-21,5419,Administration (existing orders),525,Request for approval to pay above the prescribed limit for accommodation,3,3
+2020-21,5419,Administration (existing orders),525,Request for extension of Administration Order on death,7,7
+2020-21,5419,Administration (existing orders),525,Request for purchase of real estate,22,22
+2020-21,5419,Administration (existing orders),525,Request for sale of real estate,173,173
+2020-21,5419,Administration (existing orders),525,Request for variation or revocation of Administration Order,261,261
+2020-21,5419,Administration (existing orders),525,Request to lease out property over two years,3,3
+2020-21,5419,Administration (existing orders),525,Request to pay maintenance to child or grandchild above the prescribed limit,1,1
+2020-21,5419,Administration (existing orders),525,Request to pay maintenance to spouse above the prescribed limit,3,3
+2020-21,5419,Administration (existing orders),525,Request to pay premium above the prescribed limit for entry to a retirement village,2,2
+2020-21,5419,Administration (existing orders),525,Request to take on lease (excluding accommodation of person),2,2
+2020-21,5419,Advance Care Directives,154,Revoke an Advance Care Directive,93,93
+2020-21,5419,Advance Care Directives,154,Revoke appointment of substitute decision maker,37,37
+2020-21,5419,Advance Care Directives,154,Seek a declaration or direction,19,19
+2020-21,5419,Advance Care Directives,154,Vary or revoke a declaration or direction,5,5
+2020-21,5419,Advance Care Directives Review,3,Review a matter dealt with by the Public Advocate,3,3
+2020-21,5419,Consent to Medical Treatment & Palliative Care,21,Consent to medical treatment or dental treatment,21,21
+2020-21,5419,Guardianship (existing orders),869,Request for variation or revocation of Guardianship Order,331,331
+2020-21,5419,Guardianship (existing orders),869,Request for variation or revocation of Special Powers,89,89
+2020-21,5419,Guardianship (existing orders),869,Special Powers (Residence and/or Detention and/or Treatment),449,449
+2020-21,5419,Guardianship and Administration,2032,Administration and/or Guardianship Order with/without Special Powers,1914,1914
+2020-21,5419,Guardianship and Administration,2032,"Request for advice, direction or approval",118,118
+2020-21,5419,Mental Health,1203,Consent for Electro-Convulsive Therapy,81,81
+2020-21,5419,Mental Health,1203,Consent for Neurosurgery,1,1
+2020-21,5419,Mental Health,1203,Level 2 Community Treatment Order,938,938
+2020-21,5419,Mental Health,1203,Level 3 Inpatient Treatment Order,76,76
+2020-21,5419,Mental Health,1203,Vary or revoke a Level 2 Community Treatment Order,30,30
+2020-21,5419,Mental Health,1203,Vary or revoke a Level 3 Inpatient treatment Order,77,77
+2020-21,5419,Mental Health Review,597,Review of a Level 1 Community Treatment Order ,27,27
+2020-21,5419,Mental Health Review,597,Review of a Level 1 Inpatient Treatment Order,85,85
+2020-21,5419,Mental Health Review,597,Review of a Level 2 Inpatient Treatment Order,485,485
+2020-21,5419,Prescribed medical treatment,1,Request for sterilisation,1,1
+2020-21,5419,Protection Order,14,Advice from District Court regarding protection orders,14,14
+2021-22,4951,Administration (existing orders),546,Recommendation of disallowance of item of expenditure by the Public Trustee,1,1
+2021-22,4951,Administration (existing orders),546,"Request for advice, direction or approval (Administration)",52,52
+2021-22,4951,Administration (existing orders),546,Request for approval to pay above the prescribed limit for accommodation,3,3
+2021-22,4951,Administration (existing orders),546,Request for extension of Administration Order on death,5,5
+2021-22,4951,Administration (existing orders),546,Request for purchase of real estate,23,23
+2021-22,4951,Administration (existing orders),546,Request for remuneration of an Administrator,3,3
+2021-22,4951,Administration (existing orders),546,Request for sale of real estate,156,156
+2021-22,4951,Administration (existing orders),546,Request for variation or revocation of Administration Order,299,299
+2021-22,4951,Administration (existing orders),546,Request to lease out property over two years,1,1
+2021-22,4951,Administration (existing orders),546,Request to pay maintenance to child or grandchild above the prescribed limit,2,2
+2021-22,4951,Administration (existing orders),546,Request to take on lease (excluding accommodation of person),1,1
+2021-22,4951,Advance Care Directives,162,Revoke an Advance Care Directive,85,85
+2021-22,4951,Advance Care Directives,162,Revoke appointment of substitute decision maker,43,43
+2021-22,4951,Advance Care Directives,162,Seek a declaration or direction,28,28
+2021-22,4951,Advance Care Directives,162,Vary or revoke a declaration or direction,6,6
+2021-22,4951,Advance Care Directives Review,4,Review a matter dealt with by the Public Advocate,4,4
+2021-22,4951,Consent to Medical Treatment & Palliative Care,15,Consent to medical treatment or dental treatment,12,12
+2021-22,4951,Consent to Medical Treatment & Palliative Care,15,Seek a declaration or direction,2,2
+2021-22,4951,Consent to Medical Treatment & Palliative Care,15,Vary or revoke a declaration or direction,1,1
+2021-22,4951,Guardianship (existing orders),879,Request for variation or revocation of Guardianship Order,372,372
+2021-22,4951,Guardianship (existing orders),879,Request for variation or revocation of Special Powers,114,114
+2021-22,4951,Guardianship (existing orders),879,Special Powers (Residence and/or Detention and/or Treatment),393,393
+2021-22,4951,Guardianship and Administration,1906,Administration and/or Guardianship Order with/without Special Powers,1799,1799
+2021-22,4951,Guardianship and Administration,1906,"Request for advice, direction or approval",107,107
+2021-22,4951,Mental Health,1211,Consent for Electro-Convulsive Therapy,73,73
+2021-22,4951,Mental Health,1211,Consent for Psychiatric Neurosurgery,2,2
+2021-22,4951,Mental Health,1211,Level 2 Community Treatment Order,958,958
+2021-22,4951,Mental Health,1211,Level 3 Inpatient Treatment Order,76,76
+2021-22,4951,Mental Health,1211,Vary or revoke a Level 2 Community Treatment Order,19,19
+2021-22,4951,Mental Health,1211,Vary or revoke a Level 3 Inpatient treatment Order,83,83
+2021-22,4951,Mental Health Review,210,Review of a Level 1 Community Treatment Order ,11,11
+2021-22,4951,Mental Health Review,210,Review of a Level 1 Inpatient Treatment Order,9,9
+2021-22,4951,Mental Health Review,210,Review of a Level 2 Inpatient Treatment Order,164,164
+2021-22,4951,Mental Health Review,210,Review of an interstate transfer,1,1
+2021-22,4951,Mental Health Review,210,Review of s79 Mental Health Order  ,25,25
+2021-22,4951,Prescribed medical treatment,2,Request for sterilisation,1,1
+2021-22,4951,Prescribed medical treatment,2,Request for termination of pregnancy,1,1
+2021-22,4951,Protection Order,16,Advice from District Court regarding protection orders,16,16
+2022-23,5320,Administration (existing orders),577,Recommendation of disallowance of item of expenditure by the Public Trustee,1,1
+2022-23,5320,Administration (existing orders),577,"Request for advice, direction or approval (Administration)",76,76
+2022-23,5320,Administration (existing orders),577,Request for approval to pay above the prescribed limit for accommodation,2,2
+2022-23,5320,Administration (existing orders),577,Request for extension of Administration Order on death,1,1
+2022-23,5320,Administration (existing orders),577,Request for purchase of real estate,18,18
+2022-23,5320,Administration (existing orders),577,Request for remuneration of an Administrator,1,1
+2022-23,5320,Administration (existing orders),577,Request for sale of real estate,154,154
+2022-23,5320,Administration (existing orders),577,Request for variation or revocation of Administration Order,323,323
+2022-23,5320,Administration (existing orders),577,Request to pay premium above the prescribed limit for entry to a retirement village,1,1
+2022-23,5320,Advance Care Directives,165,Revoke an Advance Care Directive,60,60
+2022-23,5320,Advance Care Directives,165,Revoke appointment of substitute decision maker,56,56
+2022-23,5320,Advance Care Directives,165,Seek a declaration or direction,43,43
+2022-23,5320,Advance Care Directives,165,Vary or revoke a declaration or direction,6,6
+2022-23,5320,Advance Care Directives Review,5,Review a matter dealt with by the Public Advocate,5,5
+2022-23,5320,Consent to Medical Treatment & Palliative Care,10,Consent to medical treatment or dental treatment,7,7
+2022-23,5320,Consent to Medical Treatment & Palliative Care,10,Review a matter mediated by the Public Advocate,1,1
+2022-23,5320,Consent to Medical Treatment & Palliative Care,10,Seek a declaration or direction,2,2
+2022-23,5320,Guardianship (existing orders),969,Request for variation or revocation of Guardianship Order,374,374
+2022-23,5320,Guardianship (existing orders),969,Request for variation or revocation of Special Powers,117,117
+2022-23,5320,Guardianship (existing orders),969,Special Powers (Residence and/or Detention and/or Treatment),478,478
+2022-23,5320,Guardianship and Administration,2256,Administration and/or Guardianship Order with/without Special Powers,2101,2101
+2022-23,5320,Guardianship and Administration,2256,"Request for advice, direction or approval",155,155
+2022-23,5320,Mental Health,1287,Consent for Electro-Convulsive Therapy,112,112
+2022-23,5320,Mental Health,1287,Level 2 Community Treatment Order,1006,1006
+2022-23,5320,Mental Health,1287,Level 3 Inpatient Treatment Order,76,76
+2022-23,5320,Mental Health,1287,Vary or revoke a Level 2 Community Treatment Order,18,18
+2022-23,5320,Mental Health,1287,Vary or revoke a Level 3 Inpatient treatment Order,75,75
+2022-23,5320,Mental Health Review,48,Review of a Level 1 Community Treatment Order ,18,18
+2022-23,5320,Mental Health Review,48,Review of a Level 1 Inpatient Treatment Order,11,11
+2022-23,5320,Mental Health Review,48,Review of a Level 2 Inpatient Treatment Order,16,16
+2022-23,5320,Mental Health Review,48,Review of an interstate transfer,2,2
+2022-23,5320,Mental Health Review,48,Review of s79 Mental Health Order  ,1,1
+2022-23,5320,Prescribed medical treatment,3,Request for sterilisation,2,2
+2022-23,5320,Prescribed medical treatment,3,Request for termination of pregnancy,1,1
