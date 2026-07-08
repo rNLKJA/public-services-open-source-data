@@ -1,0 +1,2018 @@
+reference_quarter,measure,breakdown_1,breakdown_2,unit,series_id,value
+2003-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,11
+2003-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,19
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,11
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,8
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,46
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,31
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,9
+2003-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,7
+2003-Q1,Number of Disputes,Total disputes,,Number,A2540914W,146
+2003-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2003-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,6.8
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.9
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,5.3
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.5
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,4.9
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.1
+2003-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,4
+2003-Q1,Employees Involved,Total disputes,,000,A2540915X,25.4
+2003-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.7
+2003-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,8.9
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.9
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,11.2
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,5.4
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,3.5
+2003-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,3.6
+2003-Q1,Working days Lost,Total disputes,,000,A2540916A,39
+2003-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,5
+2003-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,19
+2003-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,6
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,10
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,12
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,33
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,24
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,6
+2003-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,7
+2003-Q2,Number of Disputes,Total disputes,,Number,A2540914W,126
+2003-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2003-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.7
+2003-Q2,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.4
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.9
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1.1
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,5.6
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.2
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,2.4
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.6
+2003-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,4.1
+2003-Q2,Employees Involved,Total disputes,,000,A2540915X,17.9
+2003-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.9
+2003-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4.1
+2003-Q2,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,1.8
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,1.8
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.4
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,5.7
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,1.7
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.3
+2003-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,2.2
+2003-Q2,Working days Lost,Total disputes,,000,A2540916A,22.8
+2003-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2003-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,19
+2003-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,5
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,10
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,7
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,52
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,12
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,39
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,14
+2003-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,10
+2003-Q3,Number of Disputes,Total disputes,,Number,A2540914W,178
+2003-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.2
+2003-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.8
+2003-Q3,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.8
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.2
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.7
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,12.2
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,2
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,8.9
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.9
+2003-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,20.1
+2003-Q3,Employees Involved,Total disputes,,000,A2540915X,51.7
+2003-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.8
+2003-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,7.9
+2003-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.6
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,2.3
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.2
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,14.4
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1.9
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,14.6
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1.4
+2003-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,33.3
+2003-Q3,Working days Lost,Total disputes,,000,A2540916A,79.5
+2003-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,23
+2003-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,8
+2003-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,12
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,10
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,7
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,46
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,10
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,33
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,10
+2003-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,18
+2003-Q4,Number of Disputes,Total disputes,,Number,A2540914W,177
+2003-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,16.4
+2003-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.1
+2003-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,2.3
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.5
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1.6
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,9.2
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1.7
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,6.6
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.4
+2003-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,69.3
+2003-Q4,Employees Involved,Total disputes,,000,A2540915X,119.2
+2003-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,34.3
+2003-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,44.3
+2003-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,5.2
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,2.5
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.9
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,11.9
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,15.6
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,15.8
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.9
+2003-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,54.8
+2003-Q4,Working days Lost,Total disputes,,000,A2540916A,186.4
+2004-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2004-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,9
+2004-Q1,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,6
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,12
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,6
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,60
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,13
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,35
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,14
+2004-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,7
+2004-Q1,Number of Disputes,Total disputes,,Number,A2540914W,172
+2004-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,8.1
+2004-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.2
+2004-Q1,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.5
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.9
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.6
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,10.5
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,2.7
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,6.2
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,2.6
+2004-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,4.7
+2004-Q1,Employees Involved,Total disputes,,000,A2540915X,46.8
+2004-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,15.6
+2004-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,56.5
+2004-Q1,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,1
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,1.6
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.6
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,14.8
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,3.9
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,12.2
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,3.5
+2004-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,5.5
+2004-Q1,Working days Lost,Total disputes,,000,A2540916A,115
+2004-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,13
+2004-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,14
+2004-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,5
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,12
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,9
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,49
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,13
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,36
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,22
+2004-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,11
+2004-Q2,Number of Disputes,Total disputes,,Number,A2540914W,184
+2004-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,87.4
+2004-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.6
+2004-Q2,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,2.9
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.9
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1.4
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,9.6
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,5.8
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,4.6
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,7.3
+2004-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,4.5
+2004-Q2,Employees Involved,Total disputes,,000,A2540915X,129
+2004-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,215.9
+2004-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,5.9
+2004-Q2,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,3.4
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,2.6
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.9
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,12.4
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,2.7
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,5.6
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,3.3
+2004-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,2.9
+2004-Q2,Working days Lost,Total disputes,,000,A2540916A,256.5
+2004-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,26
+2004-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,5
+2004-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,11
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,13
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,6
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,76
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,5
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,26
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,14
+2004-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,5
+2004-Q3,Number of Disputes,Total disputes,,Number,A2540914W,187
+2004-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,7.1
+2004-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,11.1
+2004-Q3,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,5
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,2.1
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.7
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,16.3
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,6.8
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,2.6
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,3.3
+2004-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,5.3
+2004-Q3,Employees Involved,Total disputes,,000,A2540915X,60.3
+2004-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,19.5
+2004-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,12
+2004-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,7.9
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,3.6
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.2
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,16.8
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,23.7
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,2.8
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,4.8
+2004-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,3.3
+2004-Q3,Working days Lost,Total disputes,,000,A2540916A,95.5
+2004-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,15
+2004-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,4
+2004-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,5
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,10
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,5
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,44
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,7
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,27
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,18
+2004-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,4
+2004-Q4,Number of Disputes,Total disputes,,Number,A2540914W,139
+2004-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,4.9
+2004-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.3
+2004-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,1.3
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.6
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.6
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,7.9
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.5
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,3.8
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,8.5
+2004-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.2
+2004-Q4,Employees Involved,Total disputes,,000,A2540915X,29.7
+2004-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,16
+2004-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,0.4
+2004-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,1.2
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,5.1
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.5
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,10.9
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,3.1
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,6.9
+2004-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.2
+2004-Q4,Working days Lost,Total disputes,,000,A2540916A,44.5
+2005-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,13
+2005-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,3
+2005-Q1,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,4
+2005-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,8
+2005-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,27
+2005-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,8
+2005-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,23
+2005-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,15
+2005-Q1,Number of Disputes,Total disputes,,Number,A2540914W,106
+2005-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.2
+2005-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.1
+2005-Q1,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.4
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,3.2
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.5
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,3.5
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1.6
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,3.9
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,2.6
+2005-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.9
+2005-Q1,Employees Involved,Total disputes,,000,A2540915X,18.9
+2005-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,14.9
+2005-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4
+2005-Q1,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,1
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,16
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.7
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,4.9
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,4.5
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,2.1
+2005-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.2
+2005-Q1,Working days Lost,Total disputes,,000,A2540916A,51.3
+2005-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,23
+2005-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,5
+2005-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,5
+2005-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,13
+2005-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,28
+2005-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,14
+2005-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,26
+2005-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,15
+2005-Q2,Number of Disputes,Total disputes,,Number,A2540914W,132
+2005-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,12.9
+2005-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.6
+2005-Q2,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.4
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.5
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1.9
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,5.6
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.8
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,3.2
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,8.7
+2005-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.1
+2005-Q2,Employees Involved,Total disputes,,000,A2540915X,35.8
+2005-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,23.1
+2005-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,3.1
+2005-Q2,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,2.9
+2005-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,1
+2005-Q2,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.3
+2005-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,5.1
+2005-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1.7
+2005-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,3.1
+2005-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,4.8
+2005-Q2,Working days Lost,Total disputes,,000,A2540916A,46
+2005-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,26
+2005-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2005-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,13
+2005-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,34
+2005-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,9
+2005-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,39
+2005-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,10
+2005-Q3,Number of Disputes,Total disputes,,Number,A2540914W,138
+2005-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,11.6
+2005-Q3,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.2
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1.4
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,7.4
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,3.9
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.2
+2005-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,62.3
+2005-Q3,Employees Involved,Total disputes,,000,A2540915X,89.1
+2005-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,9.5
+2005-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.4
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,2.4
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,9.4
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1.7
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,5
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1
+2005-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,31.1
+2005-Q3,Working days Lost,Total disputes,,000,A2540916A,60.7
+2005-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,27
+2005-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,4
+2005-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2005-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,19
+2005-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2005-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,26
+2005-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,3
+2005-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,4
+2005-Q4,Number of Disputes,Total disputes,,Number,A2540914W,94
+2005-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,11.7
+2005-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.8
+2005-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.3
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.6
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.4
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,3.1
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.6
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,3
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.2
+2005-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,83.1
+2005-Q4,Employees Involved,Total disputes,,000,A2540915X,103.8
+2005-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,11.7
+2005-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,5.9
+2005-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.7
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.2
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.2
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,7.1
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.6
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,2.8
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.2
+2005-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,53.4
+2005-Q4,Working days Lost,Total disputes,,000,A2540916A,82.8
+2006-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,19
+2006-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,7
+2006-Q1,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,3
+2006-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2006-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,9
+2006-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,13
+2006-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,12
+2006-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,30
+2006-Q1,Number of Disputes,Total disputes,,Number,A2540914W,100
+2006-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,8.9
+2006-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.5
+2006-Q1,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,1.2
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.8
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.7
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.4
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1.3
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,2.6
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.2
+2006-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.4
+2006-Q1,Employees Involved,Total disputes,,000,A2540915X,19
+2006-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,12.4
+2006-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,2.2
+2006-Q1,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,8.6
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.3
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.5
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,2
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.6
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,7.6
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1
+2006-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.2
+2006-Q1,Working days Lost,Total disputes,,000,A2540916A,35.4
+2006-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,3
+2006-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2006-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,8
+2006-Q2,Number of Disputes,Total disputes,,Number,A2540914W,20
+2006-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,5.1
+2006-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2006-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2006-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.6
+2006-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.2
+2006-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,33.1
+2006-Q2,Employees Involved,Total disputes,,000,A2540915X,40.5
+2006-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,5.1
+2006-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.8
+2006-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.1
+2006-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,1.8
+2006-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.2
+2006-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,23
+2006-Q2,Working days Lost,Total disputes,,000,A2540916A,30.9
+2006-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2006-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,7
+2006-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,5
+2006-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,7
+2006-Q3,Number of Disputes,Total disputes,,Number,A2540914W,34
+2006-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.7
+2006-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.4
+2006-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2006-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.4
+2006-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.2
+2006-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1.3
+2006-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.5
+2006-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.1
+2006-Q3,Employees Involved,Total disputes,,000,A2540915X,6.6
+2006-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,6.8
+2006-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,0.2
+2006-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2006-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.2
+2006-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2006-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,6
+2006-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,4.6
+2006-Q3,Working days Lost,Total disputes,,000,A2540916A,18.1
+2006-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,14
+2006-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,12
+2006-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2006-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,10
+2006-Q4,Number of Disputes,Total disputes,,Number,A2540914W,49
+2006-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.3
+2006-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.6
+2006-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.2
+2006-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2006-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.3
+2006-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,2
+2006-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,56.1
+2006-Q4,Employees Involved,Total disputes,,000,A2540915X,61.9
+2006-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,5.1
+2006-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,2.6
+2006-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.4
+2006-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.5
+2006-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,3.4
+2006-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,44
+2006-Q4,Working days Lost,Total disputes,,000,A2540916A,56
+2007-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2007-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,3
+2007-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2007-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,13
+2007-Q1,Number of Disputes,Total disputes,,Number,A2540914W,28
+2007-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.1
+2007-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.1
+2007-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1
+2007-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.2
+2007-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2007-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.1
+2007-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.2
+2007-Q1,Employees Involved,Total disputes,,000,A2540915X,2.6
+2007-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.4
+2007-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,3.9
+2007-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2007-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.5
+2007-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.1
+2007-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.6
+2007-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.1
+2007-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.1
+2007-Q1,Working days Lost,Total disputes,,000,A2540916A,5.6
+2007-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2007-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,4
+2007-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,3
+2007-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2007-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2007-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2007-Q2,Number of Disputes,Total disputes,,Number,A2540914W,28
+2007-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.7
+2007-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.9
+2007-Q2,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.2
+2007-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2007-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.3
+2007-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.6
+2007-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.9
+2007-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.1
+2007-Q2,Employees Involved,Total disputes,,000,A2540915X,3.7
+2007-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.1
+2007-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4.2
+2007-Q2,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.4
+2007-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.2
+2007-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2007-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.8
+2007-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,1.1
+2007-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.1
+2007-Q2,Working days Lost,Total disputes,,000,A2540916A,9.9
+2007-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2007-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,3
+2007-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,5
+2007-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2007-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2007-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2007-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,13
+2007-Q3,Number of Disputes,Total disputes,,Number,A2540914W,42
+2007-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.2
+2007-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.5
+2007-Q3,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.2
+2007-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.2
+2007-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.1
+2007-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2007-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2007-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.4
+2007-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1.8
+2007-Q3,Employees Involved,Total disputes,,000,A2540915X,5.8
+2007-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,5.1
+2007-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,1.7
+2007-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,1.9
+2007-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.2
+2007-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.3
+2007-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.1
+2007-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.9
+2007-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.3
+2007-Q3,Working days Lost,Total disputes,,000,A2540916A,11.5
+2007-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2007-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,9
+2007-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2007-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2007-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,6
+2007-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2007-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2007-Q4,Number of Disputes,Total disputes,,Number,A2540914W,33
+2007-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.6
+2007-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,19.7
+2007-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.2
+2007-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.4
+2007-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.5
+2007-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.4
+2007-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2007-Q4,Employees Involved,Total disputes,,000,A2540915X,22.5
+2007-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.2
+2007-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,20.2
+2007-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.4
+2007-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.6
+2007-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.3
+2007-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2007-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.9
+2007-Q4,Working days Lost,Total disputes,,000,A2540916A,23.7
+2008-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,5
+2008-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,4
+2008-Q1,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2008-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,2
+2008-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2008-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,6
+2008-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2008-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,9
+2008-Q1,Number of Disputes,Total disputes,,Number,A2540914W,31
+2008-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.6
+2008-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,13.2
+2008-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2008-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.2
+2008-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.8
+2008-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,6.4
+2008-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.9
+2008-Q1,Employees Involved,Total disputes,,000,A2540915X,22.2
+2008-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.3
+2008-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,10.7
+2008-Q1,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.1
+2008-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2008-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.2
+2008-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,2
+2008-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,4.6
+2008-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.8
+2008-Q1,Working days Lost,Total disputes,,000,A2540916A,18.6
+2008-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2008-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,8
+2008-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,9
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,13
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2008-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2008-Q2,Number of Disputes,Total disputes,,Number,A2540914W,52
+2008-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.9
+2008-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,20.6
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.5
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.6
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.9
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.3
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.9
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.2
+2008-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.5
+2008-Q2,Employees Involved,Total disputes,,000,A2540915X,26.5
+2008-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.5
+2008-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,30.1
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.6
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.2
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.3
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,10
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.2
+2008-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.3
+2008-Q2,Working days Lost,Total disputes,,000,A2540916A,43.4
+2008-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,12
+2008-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,18
+2008-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,2
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,7
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2008-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2008-Q3,Number of Disputes,Total disputes,,Number,A2540914W,51
+2008-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.7
+2008-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,17.9
+2008-Q3,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.3
+2008-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.3
+2008-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.2
+2008-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.7
+2008-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2008-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.9
+2008-Q3,Employees Involved,Total disputes,,000,A2540915X,21.9
+2008-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.6
+2008-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,32.3
+2008-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.2
+2008-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.3
+2008-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2008-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2008-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.7
+2008-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.6
+2008-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.6
+2008-Q3,Working days Lost,Total disputes,,000,A2540916A,36.6
+2008-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2008-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,12
+2008-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,3
+2008-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,5
+2008-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2008-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2008-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2008-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,8
+2008-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2008-Q4,Number of Disputes,Total disputes,,Number,A2540914W,40
+2008-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2008-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,48.2
+2008-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.3
+2008-Q4,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.3
+2008-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,37.7
+2008-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.1
+2008-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2008-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,4.7
+2008-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.1
+2008-Q4,Employees Involved,Total disputes,,000,A2540915X,94.6
+2008-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.5
+2008-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,20.9
+2008-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.3
+2008-Q4,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,1.9
+2008-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,59.5
+2008-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2008-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.1
+2008-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,6.9
+2008-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.8
+2008-Q4,Working days Lost,Total disputes,,000,A2540916A,92.9
+2009-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2009-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,8
+2009-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2009-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2009-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2009-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,8
+2009-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,8
+2009-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,3
+2009-Q1,Number of Disputes,Total disputes,,Number,A2540914W,42
+2009-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.3
+2009-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.2
+2009-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.5
+2009-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.6
+2009-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1.5
+2009-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.7
+2009-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.5
+2009-Q1,Employees Involved,Total disputes,,000,A2540915X,7.4
+2009-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.5
+2009-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,3.1
+2009-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.7
+2009-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.3
+2009-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,2
+2009-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.7
+2009-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.9
+2009-Q1,Working days Lost,Total disputes,,000,A2540916A,9.3
+2009-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,11
+2009-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,13
+2009-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2009-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2009-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2009-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,10
+2009-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2009-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,7
+2009-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2009-Q2,Number of Disputes,Total disputes,,Number,A2540914W,52
+2009-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,29.8
+2009-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,4.5
+2009-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.5
+2009-Q2,Employees Involved,Total disputes,,000,A2540915X,42.8
+2009-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,30.6
+2009-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,5.1
+2009-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,2.1
+2009-Q2,Working days Lost,Total disputes,,000,A2540916A,50.1
+2009-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,8
+2009-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,17
+2009-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,4
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,12
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,11
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2009-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2009-Q3,Number of Disputes,Total disputes,,Number,A2540914W,60
+2009-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.5
+2009-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.4
+2009-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.3
+2009-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.6
+2009-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.4
+2009-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.9
+2009-Q3,Employees Involved,Total disputes,,000,A2540915X,8
+2009-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.9
+2009-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,8.4
+2009-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.4
+2009-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.7
+2009-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1.2
+2009-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.8
+2009-Q3,Working days Lost,Total disputes,,000,A2540916A,18
+2009-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,16
+2009-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,32
+2009-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,6
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2009-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,4
+2009-Q4,Number of Disputes,Total disputes,,Number,A2540914W,69
+2009-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,3.4
+2009-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,17.6
+2009-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.1
+2009-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.2
+2009-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.9
+2009-Q4,Employees Involved,Total disputes,,000,A2540915X,27.8
+2009-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,5.5
+2009-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,31.3
+2009-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.3
+2009-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.6
+2009-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.4
+2009-Q4,Working days Lost,Total disputes,,000,A2540916A,45.1
+2010-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,12
+2010-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,23
+2010-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2010-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2010-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2010-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2010-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2010-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2010-Q1,Number of Disputes,Total disputes,,Number,A2540914W,46
+2010-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.2
+2010-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,6.8
+2010-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,2.7
+2010-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2010-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.7
+2010-Q1,Employees Involved,Total disputes,,000,A2540915X,13
+2010-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,4.8
+2010-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,19.1
+2010-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,14.3
+2010-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.4
+2010-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.2
+2010-Q1,Working days Lost,Total disputes,,000,A2540916A,39.5
+2010-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,12
+2010-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,24
+2010-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2010-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2010-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2010-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2010-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2010-Q2,Number of Disputes,Total disputes,,Number,A2540914W,46
+2010-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.5
+2010-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,4.2
+2010-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2010-Q2,Employees Involved,Total disputes,,000,A2540915X,10.1
+2010-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.8
+2010-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,9.2
+2010-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.7
+2010-Q2,Working days Lost,Total disputes,,000,A2540916A,17.1
+2010-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,12
+2010-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,38
+2010-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2010-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2010-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,8
+2010-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2010-Q3,Number of Disputes,Total disputes,,Number,A2540914W,65
+2010-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.9
+2010-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,6.9
+2010-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.8
+2010-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,6.2
+2010-Q3,Employees Involved,Total disputes,,000,A2540915X,17.7
+2010-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.5
+2010-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,40.4
+2010-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,3
+2010-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,4.6
+2010-Q3,Working days Lost,Total disputes,,000,A2540916A,51
+2010-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2010-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,29
+2010-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,4
+2010-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2010-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,7
+2010-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,6
+2010-Q4,Number of Disputes,Total disputes,,Number,A2540914W,64
+2010-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2010-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,11.9
+2010-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1
+2010-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.9
+2010-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2010-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.1
+2010-Q4,Employees Involved,Total disputes,,000,A2540915X,16.7
+2010-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,4.6
+2010-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,25.5
+2010-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.9
+2010-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.7
+2010-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.6
+2010-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1.5
+2010-Q4,Working days Lost,Total disputes,,000,A2540916A,33.7
+2011-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2011-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,10
+2011-Q1,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2011-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2011-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2011-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,5
+2011-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2011-Q1,Number of Disputes,Total disputes,,Number,A2540914W,27
+2011-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1
+2011-Q1,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.1
+2011-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2011-Q1,Employees Involved,Total disputes,,000,A2540915X,6
+2011-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4.1
+2011-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.4
+2011-Q1,Working days Lost,Total disputes,,000,A2540916A,12.7
+2011-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2011-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,11
+2011-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2011-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2011-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2011-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2011-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2011-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2011-Q2,Number of Disputes,Total disputes,,Number,A2540914W,40
+2011-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2011-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.4
+2011-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,4.3
+2011-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.4
+2011-Q2,Employees Involved,Total disputes,,000,A2540915X,9.6
+2011-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.4
+2011-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4.2
+2011-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,6.5
+2011-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.4
+2011-Q2,Working days Lost,Total disputes,,000,A2540916A,22
+2011-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2011-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,25
+2011-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2011-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2011-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2011-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,5
+2011-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2011-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2011-Q3,Number of Disputes,Total disputes,,Number,A2540914W,51
+2011-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.8
+2011-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,5.4
+2011-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.2
+2011-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.6
+2011-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,51.4
+2011-Q3,Employees Involved,Total disputes,,000,A2540915X,64.7
+2011-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.7
+2011-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,53.8
+2011-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2011-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.5
+2011-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,49.9
+2011-Q3,Working days Lost,Total disputes,,000,A2540916A,131.9
+2011-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,17
+2011-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,36
+2011-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2011-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2011-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,6
+2011-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,3
+2011-Q4,Number of Disputes,Total disputes,,Number,A2540914W,67
+2011-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,3.3
+2011-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,47.8
+2011-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2011-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2011-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.5
+2011-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.1
+2011-Q4,Employees Involved,Total disputes,,000,A2540915X,53.2
+2011-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,13.1
+2011-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,57.3
+2011-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.3
+2011-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2011-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.5
+2011-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1.3
+2011-Q4,Working days Lost,Total disputes,,000,A2540916A,72.6
+2012-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2012-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,18
+2012-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2012-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2012-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2012-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2012-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2012-Q1,Number of Disputes,Total disputes,,Number,A2540914W,37
+2012-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.4
+2012-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.3
+2012-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2012-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2012-Q1,Employees Involved,Total disputes,,000,A2540915X,5.1
+2012-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.6
+2012-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,19.6
+2012-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.4
+2012-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.2
+2012-Q1,Working days Lost,Total disputes,,000,A2540916A,21.6
+2012-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2012-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,24
+2012-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2012-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2012-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2012-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,6
+2012-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,3
+2012-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2012-Q2,Number of Disputes,Total disputes,,Number,A2540914W,49
+2012-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,25
+2012-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1
+2012-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.7
+2012-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.5
+2012-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,2.3
+2012-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,37.3
+2012-Q2,Employees Involved,Total disputes,,000,A2540915X,67.1
+2012-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,37.2
+2012-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.9
+2012-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1
+2012-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.4
+2012-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,2.3
+2012-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,45.4
+2012-Q2,Working days Lost,Total disputes,,000,A2540916A,89.5
+2012-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2012-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,15
+2012-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,4
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,4
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,6
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,5
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,8
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2012-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2012-Q3,Number of Disputes,Total disputes,,Number,A2540914W,60
+2012-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,11.2
+2012-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,4.8
+2012-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.3
+2012-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.5
+2012-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.3
+2012-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2012-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1.2
+2012-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,2.2
+2012-Q3,Employees Involved,Total disputes,,000,A2540915X,24.9
+2012-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,28.1
+2012-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,43.4
+2012-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.4
+2012-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.4
+2012-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,2
+2012-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.6
+2012-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,2
+2012-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.3
+2012-Q3,Working days Lost,Total disputes,,000,A2540916A,106.9
+2012-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2012-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,21
+2012-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2012-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,4
+2012-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,7
+2012-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2012-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2012-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,7
+2012-Q4,Number of Disputes,Total disputes,,Number,A2540914W,54
+2012-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2012-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,33.9
+2012-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1
+2012-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,9.1
+2012-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2012-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.6
+2012-Q4,Employees Involved,Total disputes,,000,A2540915X,46.4
+2012-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.9
+2012-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,51
+2012-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.5
+2012-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,5.4
+2012-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2012-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.2
+2012-Q4,Working days Lost,Total disputes,,000,A2540916A,58.4
+2013-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2013-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,12
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,6
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,6
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2013-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2013-Q1,Number of Disputes,Total disputes,,Number,A2540914W,51
+2013-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,35.3
+2013-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.9
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,1.4
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.4
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.6
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.4
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,3.1
+2013-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1
+2013-Q1,Employees Involved,Total disputes,,000,A2540915X,45.2
+2013-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,36.3
+2013-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4.1
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,3.1
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.3
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.9
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.1
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.7
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,3
+2013-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.7
+2013-Q1,Working days Lost,Total disputes,,000,A2540916A,49.1
+2013-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2013-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,19
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,7
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,6
+2013-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2013-Q2,Number of Disputes,Total disputes,,Number,A2540914W,50
+2013-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.8
+2013-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,4.4
+2013-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.3
+2013-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.8
+2013-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.4
+2013-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.9
+2013-Q2,Employees Involved,Total disputes,,000,A2540915X,10.4
+2013-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.3
+2013-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,10.1
+2013-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.3
+2013-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.8
+2013-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.7
+2013-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.6
+2013-Q2,Working days Lost,Total disputes,,000,A2540916A,17.7
+2013-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2013-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,19
+2013-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,8
+2013-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2013-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2013-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2013-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,5
+2013-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2013-Q3,Number of Disputes,Total disputes,,Number,A2540914W,60
+2013-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.7
+2013-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.7
+2013-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.5
+2013-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.7
+2013-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.3
+2013-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2013-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.6
+2013-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,14.5
+2013-Q3,Employees Involved,Total disputes,,000,A2540915X,19.2
+2013-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.1
+2013-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,11.7
+2013-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,2.3
+2013-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.9
+2013-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.1
+2013-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2013-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.7
+2013-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,5.2
+2013-Q3,Working days Lost,Total disputes,,000,A2540916A,23.2
+2013-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2013-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,22
+2013-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,5
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,6
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2013-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2013-Q4,Number of Disputes,Total disputes,,Number,A2540914W,57
+2013-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.5
+2013-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,48.1
+2013-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,1.2
+2013-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,1.3
+2013-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.5
+2013-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2013-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.8
+2013-Q4,Employees Involved,Total disputes,,000,A2540915X,57.4
+2013-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,6.5
+2013-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,20.1
+2013-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,1.8
+2013-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,1.2
+2013-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,2.4
+2013-Q4,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2013-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.5
+2013-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.1
+2013-Q4,Working days Lost,Total disputes,,000,A2540916A,34.8
+2014-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2014-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,11
+2014-Q1,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2014-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2014-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,6
+2014-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2014-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2014-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2014-Q1,Number of Disputes,Total disputes,,Number,A2540914W,31
+2014-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.3
+2014-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2014-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.6
+2014-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2014-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.3
+2014-Q1,Employees Involved,Total disputes,,000,A2540915X,5
+2014-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,3.3
+2014-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.5
+2014-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.8
+2014-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2014-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.5
+2014-Q1,Working days Lost,Total disputes,,000,A2540916A,6
+2014-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2014-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,18
+2014-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2014-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2014-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,6
+2014-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2014-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2014-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2014-Q2,Number of Disputes,Total disputes,,Number,A2540914W,50
+2014-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.2
+2014-Q2,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.3
+2014-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.6
+2014-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1
+2014-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.3
+2014-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,8.8
+2014-Q2,Employees Involved,Total disputes,,000,A2540915X,15.4
+2014-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,4
+2014-Q2,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.2
+2014-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.4
+2014-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,1
+2014-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2014-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,8.7
+2014-Q2,Working days Lost,Total disputes,,000,A2540916A,18
+2014-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,9
+2014-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,22
+2014-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2014-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2014-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2014-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2014-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,5
+2014-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2014-Q3,Number of Disputes,Total disputes,,Number,A2540914W,50
+2014-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.8
+2014-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,4.3
+2014-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2014-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.8
+2014-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,1.4
+2014-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,4
+2014-Q3,Employees Involved,Total disputes,,000,A2540915X,14.6
+2014-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.4
+2014-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,11.4
+2014-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2014-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,3.6
+2014-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,1.5
+2014-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,2.5
+2014-Q3,Working days Lost,Total disputes,,000,A2540916A,22.4
+2014-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,5
+2014-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,27
+2014-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2014-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2014-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2014-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2014-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2014-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,6
+2014-Q4,Number of Disputes,Total disputes,,Number,A2540914W,53
+2014-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.3
+2014-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,12
+2014-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.1
+2014-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.2
+2014-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.3
+2014-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2014-Q4,Employees Involved,Total disputes,,000,A2540915X,20.1
+2014-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,6.4
+2014-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,8.8
+2014-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2014-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.7
+2014-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2014-Q4,Working days Lost,Total disputes,,000,A2540916A,20
+2015-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,3
+2015-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,16
+2015-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2015-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2015-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2015-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2015-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2015-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2015-Q1,Number of Disputes,Total disputes,,Number,A2540914W,40
+2015-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.9
+2015-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.6
+2015-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2015-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.9
+2015-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.2
+2015-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.3
+2015-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,1
+2015-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,8.7
+2015-Q1,Employees Involved,Total disputes,,000,A2540915X,13.7
+2015-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.3
+2015-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,2.9
+2015-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2015-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.8
+2015-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2015-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.3
+2015-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.9
+2015-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,5.5
+2015-Q1,Working days Lost,Total disputes,,000,A2540916A,14
+2015-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,9
+2015-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,23
+2015-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2015-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2015-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,10
+2015-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2015-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2015-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2015-Q2,Number of Disputes,Total disputes,,Number,A2540914W,51
+2015-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.4
+2015-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.5
+2015-Q2,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.1
+2015-Q2,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.2
+2015-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.7
+2015-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.6
+2015-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,2.3
+2015-Q2,Employees Involved,Total disputes,,000,A2540915X,14.8
+2015-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.4
+2015-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,12.7
+2015-Q2,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.1
+2015-Q2,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2015-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.5
+2015-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.5
+2015-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,2
+2015-Q2,Working days Lost,Total disputes,,000,A2540916A,18.2
+2015-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2015-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,26
+2015-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2015-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2015-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,10
+2015-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,6
+2015-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,6
+2015-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,5
+2015-Q3,Number of Disputes,Total disputes,,Number,A2540914W,64
+2015-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.4
+2015-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.4
+2015-Q3,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.3
+2015-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.6
+2015-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.8
+2015-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.7
+2015-Q3,Employees Involved,Total disputes,,000,A2540915X,14.7
+2015-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1
+2015-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,23.9
+2015-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.2
+2015-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,4
+2015-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,2.7
+2015-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.8
+2015-Q3,Working days Lost,Total disputes,,000,A2540916A,33.2
+2015-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,8
+2015-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,18
+2015-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,3
+2015-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,26
+2015-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2015-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,7
+2015-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2015-Q4,Number of Disputes,Total disputes,,Number,A2540914W,67
+2015-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.3
+2015-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.7
+2015-Q4,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.2
+2015-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,4.1
+2015-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2015-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,6.6
+2015-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,8.3
+2015-Q4,Employees Involved,Total disputes,,000,A2540915X,29.3
+2015-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.7
+2015-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,12.4
+2015-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.3
+2015-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,4
+2015-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.2
+2015-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,5.5
+2015-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,6
+2015-Q4,Working days Lost,Total disputes,,000,A2540916A,29
+2016-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,3
+2016-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,26
+2016-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2016-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,25
+2016-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,4
+2016-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,6
+2016-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2016-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2016-Q1,Number of Disputes,Total disputes,,Number,A2540914W,72
+2016-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.1
+2016-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,15.7
+2016-Q1,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.1
+2016-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,4
+2016-Q1,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.7
+2016-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.5
+2016-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.6
+2016-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.2
+2016-Q1,Employees Involved,Total disputes,,000,A2540915X,21.9
+2016-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.1
+2016-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,16.8
+2016-Q1,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2016-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,7.3
+2016-Q1,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.8
+2016-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.5
+2016-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1.2
+2016-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.1
+2016-Q1,Working days Lost,Total disputes,,000,A2540916A,26.9
+2016-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,3
+2016-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,24
+2016-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2016-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2016-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2016-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2016-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2016-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,9
+2016-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2016-Q2,Number of Disputes,Total disputes,,Number,A2540914W,53
+2016-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.4
+2016-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,6.1
+2016-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2016-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.8
+2016-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.3
+2016-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2016-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,9.5
+2016-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,3.9
+2016-Q2,Employees Involved,Total disputes,,000,A2540915X,21.2
+2016-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.6
+2016-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,14
+2016-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2016-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.9
+2016-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.2
+2016-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.2
+2016-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,6.7
+2016-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,3.2
+2016-Q2,Working days Lost,Total disputes,,000,A2540916A,26
+2016-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,5
+2016-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,32
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,3
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,29
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,4
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,6
+2016-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2016-Q3,Number of Disputes,Total disputes,,Number,A2540914W,85
+2016-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.2
+2016-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,10.7
+2016-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.3
+2016-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,3.7
+2016-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.5
+2016-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,8.1
+2016-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.1
+2016-Q3,Employees Involved,Total disputes,,000,A2540915X,23.8
+2016-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.6
+2016-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,11.7
+2016-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.4
+2016-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,5.6
+2016-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.2
+2016-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,6.3
+2016-Q3,Working days Lost,Total disputes,,000,A2540916A,25.4
+2016-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,3
+2016-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,21
+2016-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2016-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,9
+2016-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2016-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2016-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2016-Q4,Number of Disputes,Total disputes,,Number,A2540914W,43
+2016-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.2
+2016-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,30.1
+2016-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.6
+2016-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.9
+2016-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,2.5
+2016-Q4,Employees Involved,Total disputes,,000,A2540915X,36.7
+2016-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.3
+2016-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,29
+2016-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,2
+2016-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,1.5
+2016-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.4
+2016-Q4,Working days Lost,Total disputes,,000,A2540916A,34.5
+2017-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,5
+2017-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,13
+2017-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2017-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2017-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2017-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2017-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2017-Q1,Number of Disputes,Total disputes,,Number,A2540914W,24
+2017-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.5
+2017-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.2
+2017-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,14.1
+2017-Q1,Employees Involved,Total disputes,,000,A2540915X,16.3
+2017-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,15
+2017-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2017-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,9.8
+2017-Q1,Working days Lost,Total disputes,,000,A2540916A,28
+2017-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2017-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,15
+2017-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2017-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,2
+2017-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2017-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,4
+2017-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2017-Q2,Number of Disputes,Total disputes,,Number,A2540914W,32
+2017-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,7.9
+2017-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.3
+2017-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,14.3
+2017-Q2,Employees Involved,Total disputes,,000,A2540915X,26.5
+2017-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,15.1
+2017-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.6
+2017-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,9.7
+2017-Q2,Working days Lost,Total disputes,,000,A2540916A,29.2
+2017-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2017-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,20
+2017-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2017-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2017-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2017-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2017-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2017-Q3,Number of Disputes,Total disputes,,Number,A2540914W,36
+2017-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3
+2017-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.3
+2017-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.7
+2017-Q3,Employees Involved,Total disputes,,000,A2540915X,5.6
+2017-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,16.2
+2017-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2017-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.7
+2017-Q3,Working days Lost,Total disputes,,000,A2540916A,24.6
+2017-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,14
+2017-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,35
+2017-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2017-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2017-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2017-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2017-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2017-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,4
+2017-Q4,Number of Disputes,Total disputes,,Number,A2540914W,62
+2017-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1
+2017-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,11.1
+2017-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.1
+2017-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2017-Q4,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.2
+2017-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,3.4
+2017-Q4,Employees Involved,Total disputes,,000,A2540915X,18
+2017-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2
+2017-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,49.6
+2017-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.2
+2017-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2017-Q4,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.2
+2017-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,2.1
+2017-Q4,Working days Lost,Total disputes,,000,A2540916A,56.4
+2018-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2018-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,10
+2018-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2018-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2018-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2018-Q1,Number of Disputes,Total disputes,,Number,A2540914W,18
+2018-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.2
+2018-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.8
+2018-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.2
+2018-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.7
+2018-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.9
+2018-Q1,Employees Involved,Total disputes,,000,A2540915X,3.8
+2018-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.2
+2018-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,32.7
+2018-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2018-Q1,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.5
+2018-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.6
+2018-Q1,Working days Lost,Total disputes,,000,A2540916A,34.1
+2018-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,11
+2018-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,18
+2018-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2018-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2018-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2018-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2018-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2018-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2018-Q2,Number of Disputes,Total disputes,,Number,A2540914W,41
+2018-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.8
+2018-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.6
+2018-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.9
+2018-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,1.2
+2018-Q2,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.1
+2018-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,6.3
+2018-Q2,Employees Involved,Total disputes,,000,A2540915X,14.3
+2018-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.9
+2018-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,2.6
+2018-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.8
+2018-Q2,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.7
+2018-Q2,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.1
+2018-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,4.5
+2018-Q2,Working days Lost,Total disputes,,000,A2540916A,12.9
+2018-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,16
+2018-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,14
+2018-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2018-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2018-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2018-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2018-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2018-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2018-Q3,Number of Disputes,Total disputes,,Number,A2540914W,42
+2018-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.4
+2018-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.6
+2018-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.7
+2018-Q3,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.7
+2018-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,3.6
+2018-Q3,Employees Involved,Total disputes,,000,A2540915X,10
+2018-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,3.6
+2018-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,35.6
+2018-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.8
+2018-Q3,Working days Lost,Non-Enterprise Bargaining related,Job security,000,A2540910L,0.7
+2018-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,2.4
+2018-Q3,Working days Lost,Total disputes,,000,A2540916A,44.5
+2018-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,14
+2018-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,26
+2018-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2018-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2018-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,3
+2018-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2018-Q4,Number of Disputes,Total disputes,,Number,A2540914W,49
+2018-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,12.9
+2018-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.1
+2018-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,11.4
+2018-Q4,Employees Involved,Total disputes,,000,A2540915X,27
+2018-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,11.5
+2018-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2018-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,7.6
+2018-Q4,Working days Lost,Total disputes,,000,A2540916A,28.8
+2019-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2019-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,16
+2019-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2019-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,9
+2019-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2019-Q1,Number of Disputes,Total disputes,,Number,A2540914W,34
+2019-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.1
+2019-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.2
+2019-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,4.3
+2019-Q1,Employees Involved,Total disputes,,000,A2540915X,7.6
+2019-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,4.5
+2019-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,6.2
+2019-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,6.3
+2019-Q1,Working days Lost,Total disputes,,000,A2540916A,17
+2019-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2019-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,14
+2019-Q2,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2019-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2019-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2019-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2019-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,4
+2019-Q2,Number of Disputes,Total disputes,,Number,A2540914W,36
+2019-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,3.9
+2019-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.4
+2019-Q2,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.1
+2019-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,11.4
+2019-Q2,Employees Involved,Total disputes,,000,A2540915X,20.2
+2019-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.8
+2019-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,8.3
+2019-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,7.3
+2019-Q2,Working days Lost,Total disputes,,000,A2540916A,19.7
+2019-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2019-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,17
+2019-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2019-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2019-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,7
+2019-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2019-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2019-Q3,Number of Disputes,Total disputes,,Number,A2540914W,39
+2019-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.5
+2019-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,12.8
+2019-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.5
+2019-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.9
+2019-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1.5
+2019-Q3,Employees Involved,Total disputes,,000,A2540915X,17.2
+2019-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.2
+2019-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,11.3
+2019-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.9
+2019-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2019-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.7
+2019-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.1
+2019-Q3,Working days Lost,Total disputes,,000,A2540916A,16.3
+2019-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,8
+2019-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,15
+2019-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2019-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2019-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2019-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2019-Q4,Number of Disputes,Total disputes,,Number,A2540914W,33
+2019-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.2
+2019-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,5.3
+2019-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.5
+2019-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.9
+2019-Q4,Employees Involved,Total disputes,,000,A2540915X,8
+2019-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,4.2
+2019-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,9.5
+2019-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.4
+2019-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.5
+2019-Q4,Working days Lost,Total disputes,,000,A2540916A,14.6
+2020-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2020-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,12
+2020-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2020-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2020-Q1,Number of Disputes,Total disputes,,Number,A2540914W,20
+2020-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.2
+2020-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.4
+2020-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.2
+2020-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2020-Q1,Employees Involved,Total disputes,,000,A2540915X,3.8
+2020-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.3
+2020-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,3.6
+2020-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2020-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2020-Q1,Working days Lost,Total disputes,,000,A2540916A,4.1
+2020-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,3
+2020-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2020-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2020-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2020-Q2,Number of Disputes,Total disputes,,Number,A2540914W,9
+2020-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.4
+2020-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2020-Q2,Employees Involved,Total disputes,,000,A2540915X,1.1
+2020-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,2.7
+2020-Q2,Working days Lost,Total disputes,,000,A2540916A,3.3
+2020-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2020-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,7
+2020-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2020-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2020-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,2
+2020-Q3,Number of Disputes,Total disputes,,Number,A2540914W,16
+2020-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.3
+2020-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.9
+2020-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2020-Q3,Employees Involved,Total disputes,,000,A2540915X,1.8
+2020-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.4
+2020-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,6.4
+2020-Q3,Working days Lost,Total disputes,,000,A2540916A,7.5
+2020-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,8
+2020-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,12
+2020-Q4,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2020-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2020-Q4,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2020-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2020-Q4,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2020-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2020-Q4,Number of Disputes,Total disputes,,Number,A2540914W,30
+2020-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.3
+2020-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.8
+2020-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.4
+2020-Q4,Employees Involved,Non-Enterprise Bargaining related,Job security,000,A2540909C,0.3
+2020-Q4,Employees Involved,Total disputes,,000,A2540915X,4.3
+2020-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.4
+2020-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,7.3
+2020-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.4
+2020-Q4,Working days Lost,Total disputes,,000,A2540916A,9.7
+2021-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,2
+2021-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,7
+2021-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2021-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2021-Q1,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2021-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2021-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2021-Q1,Number of Disputes,Total disputes,,Number,A2540914W,18
+2021-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.7
+2021-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.1
+2021-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2021-Q1,Employees Involved,Total disputes,,000,A2540915X,2.3
+2021-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,24.9
+2021-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.4
+2021-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2021-Q1,Working days Lost,Total disputes,,000,A2540916A,26.8
+2021-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,8
+2021-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,13
+2021-Q2,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2021-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2021-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2021-Q2,Number of Disputes,Total disputes,,Number,A2540914W,25
+2021-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.4
+2021-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.8
+2021-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.6
+2021-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1
+2021-Q2,Employees Involved,Total disputes,,000,A2540915X,3.8
+2021-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.8
+2021-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,8.1
+2021-Q2,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.1
+2021-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.3
+2021-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.8
+2021-Q2,Working days Lost,Total disputes,,000,A2540916A,11.2
+2021-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2021-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,18
+2021-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2021-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,5
+2021-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2021-Q3,Number of Disputes,Total disputes,,Number,A2540914W,32
+2021-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.2
+2021-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,4.6
+2021-Q3,Employees Involved,Non-Enterprise Bargaining related,Employment conditions,000,A2540912T,0.7
+2021-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.7
+2021-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.9
+2021-Q3,Employees Involved,Total disputes,,000,A2540915X,7.2
+2021-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.8
+2021-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,7
+2021-Q3,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.5
+2021-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.9
+2021-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.5
+2021-Q3,Working days Lost,Total disputes,,000,A2540916A,9.6
+2021-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,11
+2021-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,31
+2021-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,2
+2021-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2021-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2021-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2021-Q4,Number of Disputes,Total disputes,,Number,A2540914W,47
+2021-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,8.5
+2021-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.1
+2021-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1
+2021-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,44
+2021-Q4,Employees Involved,Total disputes,,000,A2540915X,54.5
+2021-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,27.3
+2021-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.1
+2021-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1
+2021-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,44.1
+2021-Q4,Working days Lost,Total disputes,,000,A2540916A,76.1
+2022-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2022-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,11
+2022-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2022-Q1,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2022-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2022-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2022-Q1,Number of Disputes,Total disputes,,Number,A2540914W,23
+2022-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.2
+2022-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,0.9
+2022-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,4.2
+2022-Q1,Employees Involved,Total disputes,,000,A2540915X,8
+2022-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.9
+2022-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,2.4
+2022-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,3.1
+2022-Q1,Working days Lost,Total disputes,,000,A2540916A,8.8
+2022-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,11
+2022-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,26
+2022-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2022-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2022-Q2,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2022-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2022-Q2,Number of Disputes,Total disputes,,Number,A2540914W,42
+2022-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,9.3
+2022-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,19.7
+2022-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.3
+2022-Q2,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2022-Q2,Employees Involved,Total disputes,,000,A2540915X,29.5
+2022-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,9.4
+2022-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,39.2
+2022-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.2
+2022-Q2,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.1
+2022-Q2,Working days Lost,Total disputes,,000,A2540916A,48.9
+2022-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,17
+2022-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,31
+2022-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2022-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2022-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2022-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,3
+2022-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2022-Q3,Number of Disputes,Total disputes,,Number,A2540914W,55
+2022-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,3.8
+2022-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,6.4
+2022-Q3,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,48.1
+2022-Q3,Employees Involved,Total disputes,,000,A2540915X,59.2
+2022-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,10.1
+2022-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,15.1
+2022-Q3,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,92
+2022-Q3,Working days Lost,Total disputes,,000,A2540916A,118.2
+2022-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,17
+2022-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,37
+2022-Q4,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,3
+2022-Q4,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2022-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2022-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2022-Q4,Number of Disputes,Total disputes,,Number,A2540914W,60
+2022-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.6
+2022-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,23.2
+2022-Q4,Employees Involved,Enterprise Bargaining related,Other,000,A2540897F,0.5
+2022-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.4
+2022-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1
+2022-Q4,Employees Involved,Total disputes,,000,A2540915X,26.7
+2022-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.8
+2022-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,20.2
+2022-Q4,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.2
+2022-Q4,Working days Lost,Non-Enterprise Bargaining related,Employment conditions,000,A2540913V,0.1
+2022-Q4,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.5
+2022-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.6
+2022-Q4,Working days Lost,Total disputes,,000,A2540916A,24.4
+2023-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,4
+2023-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,19
+2023-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2023-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2023-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2023-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2023-Q1,Number of Disputes,Total disputes,,Number,A2540914W,27
+2023-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.2
+2023-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,1.7
+2023-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.2
+2023-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.3
+2023-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,0.2
+2023-Q1,Employees Involved,Total disputes,,000,A2540915X,3.5
+2023-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.1
+2023-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,3.4
+2023-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.8
+2023-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.2
+2023-Q1,Working days Lost,Total disputes,,000,A2540916A,4.4
+2023-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,10
+2023-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,37
+2023-Q2,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2023-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,6
+2023-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,3
+2023-Q2,Number of Disputes,Total disputes,,Number,A2540914W,57
+2023-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.5
+2023-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.9
+2023-Q2,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,2.1
+2023-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,2.4
+2023-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1.1
+2023-Q2,Employees Involved,Total disputes,,000,A2540915X,9
+2023-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,0.6
+2023-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,6.1
+2023-Q2,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,1.5
+2023-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.9
+2023-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.7
+2023-Q2,Working days Lost,Total disputes,,000,A2540916A,10.7
+2023-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,14
+2023-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,23
+2023-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2023-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,2
+2023-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2023-Q3,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2023-Q3,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2023-Q3,Number of Disputes,Total disputes,,Number,A2540914W,47
+2023-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.5
+2023-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.7
+2023-Q3,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.1
+2023-Q3,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.3
+2023-Q3,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1.7
+2023-Q3,Employees Involved,Total disputes,,000,A2540915X,14.3
+2023-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,5.1
+2023-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,17.5
+2023-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.8
+2023-Q3,Working days Lost,Non-Enterprise Bargaining related,Union issues,000,A2540919J,0.2
+2023-Q3,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.5
+2023-Q3,Working days Lost,Total disputes,,000,A2540916A,26.3
+2023-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,20
+2023-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,30
+2023-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2023-Q4,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2023-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2023-Q4,Number of Disputes,Total disputes,,Number,A2540914W,55
+2023-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2.4
+2023-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,12.4
+2023-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.1
+2023-Q4,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.1
+2023-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,2.1
+2023-Q4,Employees Involved,Total disputes,,000,A2540915X,17
+2023-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,9.4
+2023-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,37.9
+2023-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.4
+2023-Q4,Working days Lost,Total disputes,,000,A2540916A,48.8
+2024-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2024-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,23
+2024-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,8
+2024-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2024-Q1,Number of Disputes,Total disputes,,Number,A2540914W,39
+2024-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.5
+2024-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,9.6
+2024-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1.4
+2024-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,1
+2024-Q1,Employees Involved,Total disputes,,000,A2540915X,12.5
+2024-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.1
+2024-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,20.5
+2024-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,1.6
+2024-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,0.8
+2024-Q1,Working days Lost,Total disputes,,000,A2540916A,25.1
+2024-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,6
+2024-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,23
+2024-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,11
+2024-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2024-Q2,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2024-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2024-Q2,Number of Disputes,Total disputes,,Number,A2540914W,43
+2024-Q2,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,0.4
+2024-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,10.4
+2024-Q2,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,5.9
+2024-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,3.1
+2024-Q2,Employees Involved,Total disputes,,000,A2540915X,21.7
+2024-Q2,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,1.6
+2024-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,7.6
+2024-Q2,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,4.7
+2024-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,1.6
+2024-Q2,Working days Lost,Total disputes,,000,A2540916A,16.7
+2024-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,13
+2024-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,23
+2024-Q3,Number of Disputes,Enterprise Bargaining related,Other,Number,A2540896C,1
+2024-Q3,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2024-Q3,Number of Disputes,Non-Enterprise Bargaining related,Employment conditions,Number,A2540911R,1
+2024-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2024-Q3,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2024-Q3,Number of Disputes,Total disputes,,Number,A2540914W,43
+2024-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.5
+2024-Q3,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,3.9
+2024-Q3,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.2
+2024-Q3,Employees Involved,Total disputes,,000,A2540915X,5.8
+2024-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2
+2024-Q3,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,16.8
+2024-Q3,Working days Lost,Enterprise Bargaining related,Other,000,A2540898J,0.4
+2024-Q3,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.4
+2024-Q3,Working days Lost,Total disputes,,000,A2540916A,19.8
+2024-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,12
+2024-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,41
+2024-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2024-Q4,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2024-Q4,Number of Disputes,Total disputes,,Number,A2540914W,59
+2024-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,2
+2024-Q4,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,20.8
+2024-Q4,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,1
+2024-Q4,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,23
+2024-Q4,Employees Involved,Total disputes,,000,A2540915X,46.7
+2024-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,9.5
+2024-Q4,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,46.4
+2024-Q4,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.8
+2024-Q4,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,24.5
+2024-Q4,Working days Lost,Total disputes,,000,A2540916A,81.3
+2025-Q1,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,7
+2025-Q1,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,24
+2025-Q1,Number of Disputes,Non-Enterprise Bargaining related,Remuneration,Number,A2540920T,1
+2025-Q1,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,3
+2025-Q1,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,2
+2025-Q1,Number of Disputes,Non-Enterprise Bargaining related,Union issues,Number,A2540917C,1
+2025-Q1,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,1
+2025-Q1,Number of Disputes,Total disputes,,Number,A2540914W,39
+2025-Q1,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,1.3
+2025-Q1,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,4.3
+2025-Q1,Employees Involved,Non-Enterprise Bargaining related,Remuneration,000,A2540921V,0.1
+2025-Q1,Employees Involved,Non-Enterprise Bargaining related,Health and safety,000,A2540900J,0.2
+2025-Q1,Employees Involved,Non-Enterprise Bargaining related,Managerial policy,000,A2540906W,0.2
+2025-Q1,Employees Involved,Non-Enterprise Bargaining related,Union issues,000,A2540918F,0.2
+2025-Q1,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,3.8
+2025-Q1,Employees Involved,Total disputes,,000,A2540915X,10.1
+2025-Q1,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,2.4
+2025-Q1,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,12.7
+2025-Q1,Working days Lost,Non-Enterprise Bargaining related,Remuneration,000,A2540922W,0.1
+2025-Q1,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.2
+2025-Q1,Working days Lost,Non-Enterprise Bargaining related,Managerial policy,000,A2540907X,0.3
+2025-Q1,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,2.8
+2025-Q1,Working days Lost,Total disputes,,000,A2540916A,18.4
+2025-Q2,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,8
+2025-Q2,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,16
+2025-Q2,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,4
+2025-Q2,Number of Disputes,Non-Enterprise Bargaining related,Job security,Number,A2540908A,1
+2025-Q2,Number of Disputes,Non-Enterprise Bargaining related,Other,Number,A2540902L,2
+2025-Q2,Number of Disputes,Total disputes,,Number,A2540914W,31
+2025-Q2,Employees Involved,Enterprise Bargaining related,Employment conditions,000,A2540924A,2.2
+2025-Q2,Employees Involved,Non-Enterprise Bargaining related,Other,000,A2540903R,4.4
+2025-Q2,Employees Involved,Total disputes,,000,A2540915X,13.7
+2025-Q2,Working days Lost,Enterprise Bargaining related,Employment conditions,000,A2540925C,5.6
+2025-Q2,Working days Lost,Non-Enterprise Bargaining related,Other,000,A2540904T,7.8
+2025-Q2,Working days Lost,Total disputes,,000,A2540916A,23.1
+2025-Q3,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,28
+2025-Q3,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,35
+2025-Q3,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,2
+2025-Q3,Number of Disputes,Non-Enterprise Bargaining related,Managerial policy,Number,A2540905V,1
+2025-Q3,Number of Disputes,Total disputes,,Number,A2540914W,66
+2025-Q3,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,34.6
+2025-Q3,Employees Involved,Total disputes,,000,A2540915X,39
+2025-Q3,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,40.5
+2025-Q3,Working days Lost,Non-Enterprise Bargaining related,Health and safety,000,A2540901K,0.1
+2025-Q3,Working days Lost,Total disputes,,000,A2540916A,51.6
+2025-Q4,Number of Disputes,Enterprise Bargaining related,Remuneration,Number,A2540893W,19
+2025-Q4,Number of Disputes,Enterprise Bargaining related,Employment conditions,Number,A2540923X,44
+2025-Q4,Number of Disputes,Non-Enterprise Bargaining related,Health and safety,Number,A2540899K,1
+2025-Q4,Number of Disputes,Total disputes,,Number,A2540914W,64
+2025-Q4,Employees Involved,Enterprise Bargaining related,Remuneration,000,A2540894X,28.8
+2025-Q4,Employees Involved,Total disputes,,000,A2540915X,47.1
+2025-Q4,Working days Lost,Enterprise Bargaining related,Remuneration,000,A2540895A,43.5
+2025-Q4,Working days Lost,Total disputes,,000,A2540916A,73.6

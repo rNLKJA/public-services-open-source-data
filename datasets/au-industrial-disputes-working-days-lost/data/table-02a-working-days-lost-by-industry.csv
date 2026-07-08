@@ -1,0 +1,500 @@
+reference_quarter,measure,breakdown_1,breakdown_2,unit,series_id,value
+2008-Q1,Working days Lost,Coal mining,,000,A2540851X,0.2
+2008-Q1,Working days Lost,Other mining,,000,A2540852A,0.1
+2008-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.2
+2008-Q1,Working days Lost,Other manufacturing,,000,A2540853C,0.2
+2008-Q1,Working days Lost,Construction,,000,A2540849L,2
+2008-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.4
+2008-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,34.4
+2008-Q1,Working days Lost,Other industries,,000,A2540848K,5.2
+2008-Q1,Working days Lost,All industries,,000,A2540854F,42.8
+2008-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,10.1
+2008-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.4
+2008-Q2,Working days Lost,Construction,,000,A2540849L,1.4
+2008-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.5
+2008-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,65.6
+2008-Q2,Working days Lost,Other industries,,000,A2540848K,7.5
+2008-Q2,Working days Lost,All industries,,000,A2540854F,86.5
+2008-Q3,Working days Lost,Coal mining,,000,A2540851X,1.6
+2008-Q3,Working days Lost,Other mining,,000,A2540852A,0.2
+2008-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.2
+2008-Q3,Working days Lost,Other manufacturing,,000,A2540853C,1.5
+2008-Q3,Working days Lost,Construction,,000,A2540849L,7.1
+2008-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.3
+2008-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,17.9
+2008-Q3,Working days Lost,Other industries,,000,A2540848K,6.3
+2008-Q3,Working days Lost,All industries,,000,A2540854F,36.2
+2008-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.6
+2008-Q4,Working days Lost,Other manufacturing,,000,A2540853C,0.3
+2008-Q4,Working days Lost,Construction,,000,A2540849L,3.3
+2008-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,19.5
+2008-Q4,Working days Lost,All industries,,000,A2540854F,31.1
+2009-Q1,Working days Lost,Coal mining,,000,A2540851X,0.7
+2009-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.6
+2009-Q1,Working days Lost,Other manufacturing,,000,A2540853C,1.6
+2009-Q1,Working days Lost,Construction,,000,A2540849L,4.3
+2009-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.7
+2009-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.1
+2009-Q1,Working days Lost,Other industries,,000,A2540848K,3.6
+2009-Q1,Working days Lost,All industries,,000,A2540854F,11.6
+2009-Q2,Working days Lost,Coal mining,,000,A2540851X,0.1
+2009-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.8
+2009-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.8
+2009-Q2,Working days Lost,Construction,,000,A2540849L,7.6
+2009-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.3
+2009-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,31.9
+2009-Q2,Working days Lost,Other industries,,000,A2540848K,5.9
+2009-Q2,Working days Lost,All industries,,000,A2540854F,47.3
+2009-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,6.3
+2009-Q3,Working days Lost,Other manufacturing,,000,A2540853C,3.2
+2009-Q3,Working days Lost,Construction,,000,A2540849L,4.7
+2009-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,8.1
+2009-Q3,Working days Lost,Other industries,,000,A2540848K,4.7
+2009-Q3,Working days Lost,All industries,,000,A2540854F,29.1
+2009-Q4,Working days Lost,Other mining,,000,A2540852A,0.2
+2009-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.9
+2009-Q4,Working days Lost,Other manufacturing,,000,A2540853C,3.9
+2009-Q4,Working days Lost,Construction,,000,A2540849L,7.1
+2009-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,15.7
+2009-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,5.8
+2009-Q4,Working days Lost,All industries,,000,A2540854F,44.7
+2010-Q1,Working days Lost,Other mining,,000,A2540852A,0.1
+2010-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.2
+2010-Q1,Working days Lost,Other manufacturing,,000,A2540853C,1.8
+2010-Q1,Working days Lost,Construction,,000,A2540849L,12.3
+2010-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,6
+2010-Q1,Working days Lost,Other industries,,000,A2540848K,3.6
+2010-Q1,Working days Lost,All industries,,000,A2540854F,28.8
+2010-Q2,Working days Lost,Coal mining,,000,A2540851X,1.6
+2010-Q2,Working days Lost,Other mining,,000,A2540852A,0.4
+2010-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,6.5
+2010-Q2,Working days Lost,Other manufacturing,,000,A2540853C,3.5
+2010-Q2,Working days Lost,Construction,,000,A2540849L,6.5
+2010-Q2,Working days Lost,Other industries,,000,A2540848K,3.3
+2010-Q2,Working days Lost,All industries,,000,A2540854F,24
+2010-Q3,Working days Lost,Coal mining,,000,A2540851X,20.8
+2010-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,6.2
+2010-Q3,Working days Lost,Other manufacturing,,000,A2540853C,4.2
+2010-Q3,Working days Lost,Construction,,000,A2540849L,9
+2010-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.6
+2010-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.8
+2010-Q3,Working days Lost,Other industries,,000,A2540848K,3
+2010-Q3,Working days Lost,All industries,,000,A2540854F,46.6
+2010-Q4,Working days Lost,Other mining,,000,A2540852A,0.5
+2010-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,8.8
+2010-Q4,Working days Lost,Other manufacturing,,000,A2540853C,2.7
+2010-Q4,Working days Lost,Construction,,000,A2540849L,3.2
+2010-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,5.4
+2010-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,4.9
+2010-Q4,Working days Lost,Other industries,,000,A2540848K,1.8
+2010-Q4,Working days Lost,All industries,,000,A2540854F,27.2
+2011-Q1,Working days Lost,Construction,,000,A2540849L,8.3
+2011-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,9.2
+2011-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.6
+2011-Q1,Working days Lost,All industries,,000,A2540854F,19.7
+2011-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.6
+2011-Q2,Working days Lost,Other manufacturing,,000,A2540853C,3.5
+2011-Q2,Working days Lost,Construction,,000,A2540849L,34.2
+2011-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.4
+2011-Q2,Working days Lost,All industries,,000,A2540854F,66.2
+2011-Q3,Working days Lost,Coal mining,,000,A2540851X,8.5
+2011-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,14
+2011-Q3,Working days Lost,Other manufacturing,,000,A2540853C,4.8
+2011-Q3,Working days Lost,Construction,,000,A2540849L,4.8
+2011-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,14.5
+2011-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,49.2
+2011-Q3,Working days Lost,Other industries,,000,A2540848K,5.4
+2011-Q3,Working days Lost,All industries,,000,A2540854F,101.3
+2011-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1
+2011-Q4,Working days Lost,Other manufacturing,,000,A2540853C,4.7
+2011-Q4,Working days Lost,Construction,,000,A2540849L,4
+2011-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.9
+2011-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,16.6
+2011-Q4,Working days Lost,Other industries,,000,A2540848K,5.1
+2011-Q4,Working days Lost,All industries,,000,A2540854F,54.3
+2012-Q1,Working days Lost,Coal mining,,000,A2540851X,15.4
+2012-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.5
+2012-Q1,Working days Lost,Other manufacturing,,000,A2540853C,7.1
+2012-Q1,Working days Lost,Construction,,000,A2540849L,6
+2012-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.2
+2012-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,2.4
+2012-Q1,Working days Lost,Other industries,,000,A2540848K,2.1
+2012-Q1,Working days Lost,All industries,,000,A2540854F,35.8
+2012-Q2,Working days Lost,Coal mining,,000,A2540851X,9.6
+2012-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.6
+2012-Q2,Working days Lost,Other manufacturing,,000,A2540853C,12.5
+2012-Q2,Working days Lost,Construction,,000,A2540849L,9
+2012-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.2
+2012-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,67.8
+2012-Q2,Working days Lost,Other industries,,000,A2540848K,2
+2012-Q2,Working days Lost,All industries,,000,A2540854F,101.7
+2012-Q3,Working days Lost,Coal mining,,000,A2540851X,0.8
+2012-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,4.2
+2012-Q3,Working days Lost,Other manufacturing,,000,A2540853C,13.3
+2012-Q3,Working days Lost,Construction,,000,A2540849L,44.7
+2012-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,40.4
+2012-Q3,Working days Lost,Other industries,,000,A2540848K,1.6
+2012-Q3,Working days Lost,All industries,,000,A2540854F,110
+2012-Q4,Working days Lost,Coal mining,,000,A2540851X,2.6
+2012-Q4,Working days Lost,Other manufacturing,,000,A2540853C,3
+2012-Q4,Working days Lost,Construction,,000,A2540849L,1.8
+2012-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,14.1
+2012-Q4,Working days Lost,Other industries,,000,A2540848K,2.3
+2012-Q4,Working days Lost,All industries,,000,A2540854F,25.7
+2013-Q1,Working days Lost,Coal mining,,000,A2540851X,0.2
+2013-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.6
+2013-Q1,Working days Lost,Other manufacturing,,000,A2540853C,1.8
+2013-Q1,Working days Lost,Construction,,000,A2540849L,8.7
+2013-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.4
+2013-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,37.6
+2013-Q1,Working days Lost,Other industries,,000,A2540848K,0.8
+2013-Q1,Working days Lost,All industries,,000,A2540854F,52.1
+2013-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,5.1
+2013-Q2,Working days Lost,Other manufacturing,,000,A2540853C,2.2
+2013-Q2,Working days Lost,Construction,,000,A2540849L,6.4
+2013-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,3.8
+2013-Q2,Working days Lost,Other industries,,000,A2540848K,1.1
+2013-Q2,Working days Lost,All industries,,000,A2540854F,19.8
+2013-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,3.4
+2013-Q3,Working days Lost,Other manufacturing,,000,A2540853C,0.4
+2013-Q3,Working days Lost,Construction,,000,A2540849L,6.8
+2013-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.9
+2013-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,7.2
+2013-Q3,Working days Lost,All industries,,000,A2540854F,23
+2013-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.3
+2013-Q4,Working days Lost,Other manufacturing,,000,A2540853C,1.5
+2013-Q4,Working days Lost,Construction,,000,A2540849L,7.7
+2013-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,3
+2013-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,17.8
+2013-Q4,Working days Lost,All industries,,000,A2540854F,36.1
+2014-Q1,Working days Lost,Coal mining,,000,A2540851X,0.2
+2014-Q1,Working days Lost,Other manufacturing,,000,A2540853C,1.4
+2014-Q1,Working days Lost,Construction,,000,A2540849L,1.7
+2014-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.2
+2014-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,3.8
+2014-Q1,Working days Lost,Other industries,,000,A2540848K,0.2
+2014-Q1,Working days Lost,All industries,,000,A2540854F,9.7
+2014-Q2,Working days Lost,Other manufacturing,,000,A2540853C,1.9
+2014-Q2,Working days Lost,Construction,,000,A2540849L,4.8
+2014-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1
+2014-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,9.8
+2014-Q2,Working days Lost,Other industries,,000,A2540848K,2.3
+2014-Q2,Working days Lost,All industries,,000,A2540854F,20.2
+2014-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.5
+2014-Q3,Working days Lost,Other manufacturing,,000,A2540853C,2.5
+2014-Q3,Working days Lost,Construction,,000,A2540849L,13.7
+2014-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,4.9
+2014-Q3,Working days Lost,Other industries,,000,A2540848K,2
+2014-Q3,Working days Lost,All industries,,000,A2540854F,24.6
+2014-Q4,Working days Lost,Coal mining,,000,A2540851X,0.1
+2014-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.4
+2014-Q4,Working days Lost,Other manufacturing,,000,A2540853C,1
+2014-Q4,Working days Lost,Construction,,000,A2540849L,3.2
+2014-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.6
+2014-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,3.5
+2014-Q4,Working days Lost,Other industries,,000,A2540848K,7.2
+2014-Q4,Working days Lost,All industries,,000,A2540854F,16.9
+2015-Q1,Working days Lost,Other mining,,000,A2540852A,0.9
+2015-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,5
+2015-Q1,Working days Lost,Construction,,000,A2540849L,8.7
+2015-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.2
+2015-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.6
+2015-Q1,Working days Lost,Other industries,,000,A2540848K,0.9
+2015-Q1,Working days Lost,All industries,,000,A2540854F,20.4
+2015-Q2,Working days Lost,Other mining,,000,A2540852A,0.3
+2015-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.5
+2015-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.4
+2015-Q2,Working days Lost,Construction,,000,A2540849L,4.2
+2015-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.3
+2015-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.4
+2015-Q2,Working days Lost,Other industries,,000,A2540848K,7.6
+2015-Q2,Working days Lost,All industries,,000,A2540854F,14.8
+2015-Q3,Working days Lost,Coal mining,,000,A2540851X,0.7
+2015-Q3,Working days Lost,Other mining,,000,A2540852A,1.7
+2015-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.5
+2015-Q3,Working days Lost,Other manufacturing,,000,A2540853C,2.4
+2015-Q3,Working days Lost,Construction,,000,A2540849L,10.8
+2015-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.9
+2015-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,1.2
+2015-Q3,Working days Lost,Other industries,,000,A2540848K,8.9
+2015-Q3,Working days Lost,All industries,,000,A2540854F,29.1
+2015-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.3
+2015-Q4,Working days Lost,Construction,,000,A2540849L,12.9
+2015-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,2.2
+2015-Q4,Working days Lost,Other industries,,000,A2540848K,2.5
+2015-Q4,Working days Lost,All industries,,000,A2540854F,19.1
+2016-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.6
+2016-Q1,Working days Lost,Construction,,000,A2540849L,10.8
+2016-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,4.2
+2016-Q1,Working days Lost,Other industries,,000,A2540848K,10.1
+2016-Q1,Working days Lost,All industries,,000,A2540854F,27.9
+2016-Q2,Working days Lost,Coal mining,,000,A2540851X,0.1
+2016-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.9
+2016-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.1
+2016-Q2,Working days Lost,Construction,,000,A2540849L,16.2
+2016-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.7
+2016-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.1
+2016-Q2,Working days Lost,Other industries,,000,A2540848K,3.4
+2016-Q2,Working days Lost,All industries,,000,A2540854F,24.5
+2016-Q3,Working days Lost,Coal mining,,000,A2540851X,4.3
+2016-Q3,Working days Lost,Other mining,,000,A2540852A,0.1
+2016-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1
+2016-Q3,Working days Lost,Other manufacturing,,000,A2540853C,1.9
+2016-Q3,Working days Lost,Construction,,000,A2540849L,14.5
+2016-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.9
+2016-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.5
+2016-Q3,Working days Lost,Other industries,,000,A2540848K,10.7
+2016-Q3,Working days Lost,All industries,,000,A2540854F,34.9
+2016-Q4,Working days Lost,Coal mining,,000,A2540851X,5.3
+2016-Q4,Working days Lost,Other manufacturing,,000,A2540853C,3.2
+2016-Q4,Working days Lost,Construction,,000,A2540849L,15.8
+2016-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.2
+2016-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,4.1
+2016-Q4,Working days Lost,All industries,,000,A2540854F,37.2
+2017-Q1,Working days Lost,Coal mining,,000,A2540851X,2.2
+2017-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.9
+2017-Q1,Working days Lost,Other manufacturing,,000,A2540853C,6.3
+2017-Q1,Working days Lost,Construction,,000,A2540849L,10.2
+2017-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.6
+2017-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.5
+2017-Q1,Working days Lost,Other industries,,000,A2540848K,4.8
+2017-Q1,Working days Lost,All industries,,000,A2540854F,25.6
+2017-Q2,Working days Lost,Coal mining,,000,A2540851X,5
+2017-Q2,Working days Lost,Other manufacturing,,000,A2540853C,14.7
+2017-Q2,Working days Lost,Construction,,000,A2540849L,12.3
+2017-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.7
+2017-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.4
+2017-Q2,Working days Lost,All industries,,000,A2540854F,40.2
+2017-Q3,Working days Lost,Coal mining,,000,A2540851X,30.8
+2017-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.4
+2017-Q3,Working days Lost,Other manufacturing,,000,A2540853C,2.6
+2017-Q3,Working days Lost,Construction,,000,A2540849L,7.7
+2017-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.9
+2017-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,2.8
+2017-Q3,Working days Lost,Other industries,,000,A2540848K,0.7
+2017-Q3,Working days Lost,All industries,,000,A2540854F,45.9
+2017-Q4,Working days Lost,Coal mining,,000,A2540851X,20.7
+2017-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.4
+2017-Q4,Working days Lost,Other manufacturing,,000,A2540853C,2.5
+2017-Q4,Working days Lost,Construction,,000,A2540849L,4.1
+2017-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.3
+2017-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,6
+2017-Q4,Working days Lost,Other industries,,000,A2540848K,0.7
+2017-Q4,Working days Lost,All industries,,000,A2540854F,36.7
+2018-Q1,Working days Lost,Coal mining,,000,A2540851X,6.6
+2018-Q1,Working days Lost,Other mining,,000,A2540852A,0.2
+2018-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.1
+2018-Q1,Working days Lost,Other manufacturing,,000,A2540853C,3.2
+2018-Q1,Working days Lost,Construction,,000,A2540849L,1.2
+2018-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.8
+2018-Q1,Working days Lost,Other industries,,000,A2540848K,0.8
+2018-Q1,Working days Lost,All industries,,000,A2540854F,14.9
+2018-Q2,Working days Lost,Coal mining,,000,A2540851X,0.1
+2018-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.8
+2018-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.6
+2018-Q2,Working days Lost,Construction,,000,A2540849L,7.2
+2018-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.1
+2018-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.4
+2018-Q2,Working days Lost,Other industries,,000,A2540848K,1.3
+2018-Q2,Working days Lost,All industries,,000,A2540854F,12.5
+2018-Q3,Working days Lost,Coal mining,,000,A2540851X,0.4
+2018-Q3,Working days Lost,Other mining,,000,A2540852A,7.7
+2018-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,28
+2018-Q3,Working days Lost,Other manufacturing,,000,A2540853C,0.7
+2018-Q3,Working days Lost,Construction,,000,A2540849L,6.9
+2018-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.4
+2018-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.5
+2018-Q3,Working days Lost,Other industries,,000,A2540848K,1.8
+2018-Q3,Working days Lost,All industries,,000,A2540854F,47.4
+2018-Q4,Working days Lost,Other mining,,000,A2540852A,0.1
+2018-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,4.4
+2018-Q4,Working days Lost,Other manufacturing,,000,A2540853C,0.8
+2018-Q4,Working days Lost,Construction,,000,A2540849L,13.2
+2018-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.5
+2018-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,6.3
+2018-Q4,Working days Lost,Other industries,,000,A2540848K,3.6
+2018-Q4,Working days Lost,All industries,,000,A2540854F,30.9
+2019-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1
+2019-Q1,Working days Lost,Construction,,000,A2540849L,4.9
+2019-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,7.2
+2019-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.1
+2019-Q1,Working days Lost,Other industries,,000,A2540848K,2.9
+2019-Q1,Working days Lost,All industries,,000,A2540854F,16.6
+2019-Q2,Working days Lost,Construction,,000,A2540849L,9.9
+2019-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.3
+2019-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,1.1
+2019-Q2,Working days Lost,Other industries,,000,A2540848K,3.7
+2019-Q2,Working days Lost,All industries,,000,A2540854F,17.6
+2019-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.2
+2019-Q3,Working days Lost,Other manufacturing,,000,A2540853C,2.4
+2019-Q3,Working days Lost,Construction,,000,A2540849L,1.8
+2019-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,3.3
+2019-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,6.7
+2019-Q3,Working days Lost,All industries,,000,A2540854F,17.8
+2019-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.8
+2019-Q4,Working days Lost,Other manufacturing,,000,A2540853C,2.7
+2019-Q4,Working days Lost,Construction,,000,A2540849L,1.2
+2019-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.5
+2019-Q4,Working days Lost,Other industries,,000,A2540848K,0.7
+2019-Q4,Working days Lost,All industries,,000,A2540854F,12.4
+2020-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.1
+2020-Q1,Working days Lost,Other manufacturing,,000,A2540853C,0.9
+2020-Q1,Working days Lost,Construction,,000,A2540849L,0.2
+2020-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.5
+2020-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.1
+2020-Q1,Working days Lost,Other industries,,000,A2540848K,0.1
+2020-Q1,Working days Lost,All industries,,000,A2540854F,3.9
+2020-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.6
+2020-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.8
+2020-Q2,Working days Lost,All industries,,000,A2540854F,1.5
+2020-Q3,Working days Lost,Other manufacturing,,000,A2540853C,1.4
+2020-Q3,Working days Lost,Construction,,000,A2540849L,0.7
+2020-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,9.5
+2020-Q3,Working days Lost,Other industries,,000,A2540848K,0.1
+2020-Q3,Working days Lost,All industries,,000,A2540854F,11.7
+2020-Q4,Working days Lost,Other manufacturing,,000,A2540853C,2.3
+2020-Q4,Working days Lost,Construction,,000,A2540849L,0.9
+2020-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,12.4
+2020-Q4,Working days Lost,All industries,,000,A2540854F,16.5
+2021-Q1,Working days Lost,Coal mining,,000,A2540851X,1.7
+2021-Q1,Working days Lost,Other manufacturing,,000,A2540853C,1.8
+2021-Q1,Working days Lost,Construction,,000,A2540849L,1.3
+2021-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,13.1
+2021-Q1,Working days Lost,Other industries,,000,A2540848K,1.2
+2021-Q1,Working days Lost,All industries,,000,A2540854F,19.2
+2021-Q2,Working days Lost,Coal mining,,000,A2540851X,0.7
+2021-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1
+2021-Q2,Working days Lost,Other manufacturing,,000,A2540853C,1.9
+2021-Q2,Working days Lost,Construction,,000,A2540849L,2.2
+2021-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.3
+2021-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.2
+2021-Q2,Working days Lost,Other industries,,000,A2540848K,3.2
+2021-Q2,Working days Lost,All industries,,000,A2540854F,10.4
+2021-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.8
+2021-Q3,Working days Lost,Other manufacturing,,000,A2540853C,1.3
+2021-Q3,Working days Lost,Construction,,000,A2540849L,3.3
+2021-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,8.7
+2021-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.1
+2021-Q3,Working days Lost,Other industries,,000,A2540848K,3.2
+2021-Q3,Working days Lost,All industries,,000,A2540854F,18.5
+2021-Q4,Working days Lost,Coal mining,,000,A2540851X,1.2
+2021-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.5
+2021-Q4,Working days Lost,Other manufacturing,,000,A2540853C,4.2
+2021-Q4,Working days Lost,Construction,,000,A2540849L,1.1
+2021-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,11.4
+2021-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,44
+2021-Q4,Working days Lost,Other industries,,000,A2540848K,4
+2021-Q4,Working days Lost,All industries,,000,A2540854F,68.5
+2022-Q1,Working days Lost,Other mining,,000,A2540852A,0.2
+2022-Q1,Working days Lost,Other manufacturing,,000,A2540853C,1.8
+2022-Q1,Working days Lost,Construction,,000,A2540849L,1.6
+2022-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.8
+2022-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,8.2
+2022-Q1,Working days Lost,Other industries,,000,A2540848K,6.6
+2022-Q1,Working days Lost,All industries,,000,A2540854F,19.6
+2022-Q2,Working days Lost,Other mining,,000,A2540852A,0.1
+2022-Q2,Working days Lost,Other manufacturing,,000,A2540853C,0.7
+2022-Q2,Working days Lost,Construction,,000,A2540849L,0.6
+2022-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.6
+2022-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,116.6
+2022-Q2,Working days Lost,Other industries,,000,A2540848K,6.9
+2022-Q2,Working days Lost,All industries,,000,A2540854F,128.1
+2022-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.8
+2022-Q3,Working days Lost,Other manufacturing,,000,A2540853C,1
+2022-Q3,Working days Lost,Construction,,000,A2540849L,3.1
+2022-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.9
+2022-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,7.6
+2022-Q3,Working days Lost,Other industries,,000,A2540848K,4.1
+2022-Q3,Working days Lost,All industries,,000,A2540854F,28.1
+2022-Q4,Working days Lost,Coal mining,,000,A2540851X,0.1
+2022-Q4,Working days Lost,Other manufacturing,,000,A2540853C,6.2
+2022-Q4,Working days Lost,Construction,,000,A2540849L,2.5
+2022-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.9
+2022-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,8.6
+2022-Q4,Working days Lost,Other industries,,000,A2540848K,2.1
+2022-Q4,Working days Lost,All industries,,000,A2540854F,21
+2023-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.2
+2023-Q1,Working days Lost,Other manufacturing,,000,A2540853C,0.3
+2023-Q1,Working days Lost,Construction,,000,A2540849L,1.7
+2023-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1
+2023-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,1.3
+2023-Q1,Working days Lost,All industries,,000,A2540854F,7.7
+2023-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.7
+2023-Q2,Working days Lost,Construction,,000,A2540849L,3.7
+2023-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.6
+2023-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,2.6
+2023-Q2,Working days Lost,Other industries,,000,A2540848K,1.1
+2023-Q2,Working days Lost,All industries,,000,A2540854F,10.2
+2023-Q3,Working days Lost,Other mining,,000,A2540852A,1.5
+2023-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,3.3
+2023-Q3,Working days Lost,Other manufacturing,,000,A2540853C,2.4
+2023-Q3,Working days Lost,Construction,,000,A2540849L,3.9
+2023-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,9.8
+2023-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,9.1
+2023-Q3,Working days Lost,All industries,,000,A2540854F,37.1
+2023-Q4,Working days Lost,Other manufacturing,,000,A2540853C,12.8
+2023-Q4,Working days Lost,Construction,,000,A2540849L,2.5
+2023-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,13.3
+2023-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,9.2
+2023-Q4,Working days Lost,Other industries,,000,A2540848K,3.8
+2023-Q4,Working days Lost,All industries,,000,A2540854F,44.2
+2024-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.6
+2024-Q1,Working days Lost,Other manufacturing,,000,A2540853C,0.1
+2024-Q1,Working days Lost,Construction,,000,A2540849L,3.2
+2024-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,5.4
+2024-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,0.4
+2024-Q1,Working days Lost,Other industries,,000,A2540848K,7.1
+2024-Q1,Working days Lost,All industries,,000,A2540854F,16.8
+2024-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.2
+2024-Q2,Working days Lost,Other manufacturing,,000,A2540853C,3.9
+2024-Q2,Working days Lost,Construction,,000,A2540849L,8.9
+2024-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.6
+2024-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,4.9
+2024-Q2,Working days Lost,Other industries,,000,A2540848K,1.4
+2024-Q2,Working days Lost,All industries,,000,A2540854F,21.9
+2024-Q3,Working days Lost,Coal mining,,000,A2540851X,0.2
+2024-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.3
+2024-Q3,Working days Lost,Other manufacturing,,000,A2540853C,3.6
+2024-Q3,Working days Lost,Construction,,000,A2540849L,27.5
+2024-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.4
+2024-Q3,Working days Lost,Education & training,health care & social assistance,000,A2540846F,6
+2024-Q3,Working days Lost,Other industries,,000,A2540848K,5.6
+2024-Q3,Working days Lost,All industries,,000,A2540854F,46.6
+2024-Q4,Working days Lost,Coal mining,,000,A2540851X,1
+2024-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,3.6
+2024-Q4,Working days Lost,Construction,,000,A2540849L,7.5
+2024-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,33
+2024-Q4,Working days Lost,Education & training,health care & social assistance,000,A2540846F,6.4
+2024-Q4,Working days Lost,Other industries,,000,A2540848K,1.7
+2024-Q4,Working days Lost,All industries,,000,A2540854F,53.8
+2025-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,1.8
+2025-Q1,Working days Lost,Other manufacturing,,000,A2540853C,4.1
+2025-Q1,Working days Lost,Construction,,000,A2540849L,3.4
+2025-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.7
+2025-Q1,Working days Lost,Other industries,,000,A2540848K,1
+2025-Q1,Working days Lost,All industries,,000,A2540854F,13.9
+2025-Q2,Working days Lost,Other mining,,000,A2540852A,0.1
+2025-Q2,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.2
+2025-Q2,Working days Lost,Other manufacturing,,000,A2540853C,1.6
+2025-Q2,Working days Lost,Construction,,000,A2540849L,13.4
+2025-Q2,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,1.6
+2025-Q2,Working days Lost,Education & training,health care & social assistance,000,A2540846F,7.8
+2025-Q2,Working days Lost,All industries,,000,A2540854F,28.5
+2025-Q3,Working days Lost,Metal product etc manufacturing,,000,A2540850W,2.8
+2025-Q3,Working days Lost,Construction,,000,A2540849L,9.6
+2025-Q3,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,2.9
+2025-Q3,Working days Lost,Other industries,,000,A2540848K,2.7
+2025-Q3,Working days Lost,All industries,,000,A2540854F,54.6
+2025-Q4,Working days Lost,Metal product etc manufacturing,,000,A2540850W,3.1
+2025-Q4,Working days Lost,Other manufacturing,,000,A2540853C,1.7
+2025-Q4,Working days Lost,Construction,,000,A2540849L,3.8
+2025-Q4,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,3.4
+2025-Q4,Working days Lost,Other industries,,000,A2540848K,16.4
+2025-Q4,Working days Lost,All industries,,000,A2540854F,69.6
+2026-Q1,Working days Lost,Metal product etc manufacturing,,000,A2540850W,0.3
+2026-Q1,Working days Lost,Other manufacturing,,000,A2540853C,0.9
+2026-Q1,Working days Lost,Construction,,000,A2540849L,1
+2026-Q1,Working days Lost,"Transport, postal & warehousing",,000,A2540847J,0.9
+2026-Q1,Working days Lost,Education & training,health care & social assistance,000,A2540846F,41.2
+2026-Q1,Working days Lost,Other industries,,000,A2540848K,3.2
+2026-Q1,Working days Lost,All industries,,000,A2540854F,47.6

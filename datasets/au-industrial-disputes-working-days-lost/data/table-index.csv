@@ -1,0 +1,9 @@
+table,title,rows,file
+01,"National quarterly disputes, employees involved and working days lost",1644,table-01-national-quarterly-summary.csv
+02a,Working days lost by industry ('000),499,table-02a-working-days-lost-by-industry.csv
+02b,"Working days lost per 1,000 employees by industry",507,table-02b-working-days-lost-per-1000-employees-by-industry.csv
+03a,Working days lost by state and territory ('000),1218,table-03a-working-days-lost-by-state.csv
+03b,"Working days lost per 1,000 employees by state and territory",1252,table-03b-working-days-lost-per-1000-employees-by-state.csv
+04a,"Disputes, employees involved and working days lost by cause (Enterprise Bargaining related vs not)",2017,table-04a-disputes-by-cause.csv
+04b,"Disputes, employees involved and working days lost by working-days-lost-per-employee band",1435,table-04b-disputes-by-duration-band.csv
+04c,"Disputes, employees involved and working days lost by reason work resumed",1473,table-04c-disputes-by-reason-work-resumed.csv

@@ -1,0 +1,508 @@
+reference_quarter,measure,breakdown_1,breakdown_2,unit,series_id,value
+2008-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,6.2
+2008-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.6
+2008-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,0.6
+2008-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.3
+2008-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,2.9
+2008-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.9
+2008-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,19.5
+2008-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1
+2008-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.6
+2008-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,28.7
+2008-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.6
+2008-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,2
+2008-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,3
+2008-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,35.9
+2008-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.4
+2008-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,9.1
+2008-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,49.5
+2008-Q3,Working days lost per 1000 employees,Other mining,,Number,A2540872K,1.7
+2008-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,0.5
+2008-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,2.5
+2008-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,10.3
+2008-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.7
+2008-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,9.9
+2008-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.2
+2008-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.8
+2008-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.8
+2008-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.5
+2008-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,4.6
+2008-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,10.9
+2008-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.3
+2009-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,20.8
+2009-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.3
+2009-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.6
+2009-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,2.6
+2009-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,6.1
+2009-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.3
+2009-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.1
+2009-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.7
+2009-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.2
+2009-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,2.9
+2009-Q2,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.1
+2009-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,2.4
+2009-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.3
+2009-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,10.6
+2009-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.6
+2009-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,16.8
+2009-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.1
+2009-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.9
+2009-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,19.3
+2009-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5.3
+2009-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,6.9
+2009-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,4.2
+2009-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.9
+2009-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.1
+2009-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,1.4
+2009-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,8.8
+2009-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,6.5
+2009-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,10.3
+2009-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,31.5
+2009-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,3
+2009-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.7
+2010-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.5
+2010-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3.5
+2010-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3
+2010-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,17.3
+2010-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,3.2
+2010-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.7
+2010-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,3
+2010-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,45.4
+2010-Q2,Working days lost per 1000 employees,Other mining,,Number,A2540872K,2.7
+2010-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,19.9
+2010-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,6.1
+2010-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,8.9
+2010-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2010-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.5
+2010-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,497.8
+2010-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,19.4
+2010-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,7.2
+2010-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,12.8
+2010-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,5.5
+2010-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.4
+2010-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2010-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.8
+2010-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,3
+2010-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,26.5
+2010-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,4.7
+2010-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,4.2
+2010-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,10.9
+2010-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.4
+2010-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.3
+2010-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.8
+2011-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,11.6
+2011-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,17.7
+2011-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.3
+2011-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,2
+2011-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.8
+2011-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,6.3
+2011-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,45.7
+2011-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2011-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,6.7
+2011-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,167.9
+2011-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,44.7
+2011-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,9.9
+2011-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,6.6
+2011-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,28.9
+2011-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,24.2
+2011-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1
+2011-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,10.4
+2011-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3.2
+2011-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,9.5
+2011-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,5.3
+2011-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,5.8
+2011-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,8
+2011-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.9
+2011-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,5.5
+2012-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,303.5
+2012-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.4
+2012-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,14.2
+2012-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,8.2
+2012-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.6
+2012-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.2
+2012-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.4
+2012-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.6
+2012-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,160.3
+2012-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.8
+2012-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,25.4
+2012-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,12.3
+2012-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.5
+2012-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,32.1
+2012-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.3
+2012-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,10.1
+2012-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,17.2
+2012-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,13.5
+2012-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,26.4
+2012-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,63.7
+2012-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,19
+2012-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.3
+2012-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,11.1
+2012-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,61
+2012-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5.9
+2012-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,2.3
+2012-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,6.6
+2012-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.4
+2012-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.5
+2013-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,5
+2013-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,5.3
+2013-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.6
+2013-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,11.4
+2013-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.6
+2013-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,17.6
+2013-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.1
+2013-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,5.1
+2013-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,17.2
+2013-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,4.7
+2013-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,8.5
+2013-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.8
+2013-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2013-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.9
+2013-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,10.7
+2013-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.9
+2013-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,8.7
+2013-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.7
+2013-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,3.4
+2013-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.3
+2013-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3.9
+2013-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3
+2013-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,10.1
+2013-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,5.6
+2013-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,8.2
+2013-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.5
+2014-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,3.9
+2014-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.2
+2014-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,0.1
+2014-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,2.7
+2014-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,2.2
+2014-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.2
+2014-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.7
+2014-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,0.9
+2014-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.9
+2014-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,6.2
+2014-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.9
+2014-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,4.5
+2014-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.4
+2014-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,2
+2014-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,4.7
+2014-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5.1
+2014-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,18.2
+2014-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.2
+2014-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.3
+2014-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.4
+2014-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,1.3
+2014-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.2
+2014-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.5
+2014-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.9
+2014-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,4
+2014-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,3
+2014-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.6
+2014-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.2
+2014-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.6
+2015-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,6.3
+2015-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,16.6
+2015-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,11.1
+2015-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.3
+2015-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.3
+2015-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2015-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,2
+2015-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,0.8
+2015-Q2,Working days lost per 1000 employees,Other mining,,Number,A2540872K,1.8
+2015-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,5.2
+2015-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.8
+2015-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,5.3
+2015-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.6
+2015-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2015-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.3
+2015-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.4
+2015-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,15.4
+2015-Q3,Working days lost per 1000 employees,Other mining,,Number,A2540872K,10.1
+2015-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.8
+2015-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5
+2015-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,14.2
+2015-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,5.3
+2015-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.5
+2015-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.5
+2015-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.8
+2015-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1
+2015-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,16.7
+2015-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1
+2015-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.4
+2015-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.8
+2016-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.2
+2016-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,2
+2016-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,13.8
+2016-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.8
+2016-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.7
+2016-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.6
+2016-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,3.3
+2016-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,9.2
+2016-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.2
+2016-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,19.6
+2016-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,3.1
+2016-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.1
+2016-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2016-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.3
+2016-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,82.1
+2016-Q3,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.4
+2016-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3.4
+2016-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.9
+2016-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,18.4
+2016-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,3.6
+2016-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2016-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1.8
+2016-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.3
+2016-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,121.8
+2016-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.1
+2016-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,6.1
+2016-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,19.7
+2016-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.3
+2016-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.7
+2016-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.5
+2017-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,51.4
+2017-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.1
+2017-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3
+2017-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,12.1
+2017-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,12.1
+2017-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1
+2017-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2017-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.8
+2017-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.4
+2017-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,105.4
+2017-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,28.4
+2017-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,14.2
+2017-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,3
+2017-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.1
+2017-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.7
+2017-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,671
+2017-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.2
+2017-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5.2
+2017-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,8.7
+2017-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.6
+2017-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.1
+2017-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.1
+2017-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.2
+2017-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,398.6
+2017-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.3
+2017-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5
+2017-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,4.5
+2017-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4
+2017-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.4
+2017-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.1
+2017-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.3
+2018-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,115.4
+2018-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,1.5
+2018-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,7.1
+2018-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,5.9
+2018-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.2
+2018-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.4
+2018-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.1
+2018-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.3
+2018-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,1.4
+2018-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,5.3
+2018-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.1
+2018-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,7.7
+2018-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2
+2018-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2018-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2018-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.1
+2018-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,6.6
+2018-Q3,Working days lost per 1000 employees,Other mining,,Number,A2540872K,40.7
+2018-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,85.1
+2018-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.3
+2018-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,7.4
+2018-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.5
+2018-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2018-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.3
+2018-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.2
+2018-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.5
+2018-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,15.3
+2018-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.4
+2018-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,14.4
+2018-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.3
+2018-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.4
+2018-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2018-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.7
+2019-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3.4
+2019-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,5.3
+2019-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,12.1
+2019-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.1
+2019-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.5
+2019-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.4
+2019-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,10.5
+2019-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.4
+2019-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.4
+2019-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2019-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.5
+2019-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,0.5
+2019-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,4.7
+2019-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.9
+2019-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,5.7
+2019-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.5
+2019-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.5
+2019-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.1
+2019-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,2.5
+2019-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,4.9
+2019-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.3
+2019-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.2
+2019-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.1
+2019-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.1
+2020-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,0.3
+2020-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.7
+2020-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,0.2
+2020-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.3
+2020-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,0.3
+2020-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.2
+2020-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.6
+2020-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,0.1
+2020-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,2.8
+2020-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,0.8
+2020-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,17.6
+2020-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,1
+2020-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,4.6
+2020-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,1
+2020-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,21.6
+2020-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.4
+2021-Q1,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,33.3
+2021-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.1
+2021-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.5
+2021-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.4
+2021-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,21.8
+2021-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2021-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.6
+2021-Q2,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,14.6
+2021-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,3.1
+2021-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.4
+2021-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,2.4
+2021-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.3
+2021-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.1
+2021-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.5
+2021-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,0.9
+2021-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,5
+2021-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,2.5
+2021-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,3.7
+2021-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,15.8
+2021-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.5
+2021-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.6
+2021-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,28.1
+2021-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.2
+2021-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,7.9
+2021-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,8.4
+2021-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.2
+2021-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,19.7
+2021-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,15.5
+2021-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2021-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,5.7
+2022-Q1,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.7
+2022-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.7
+2022-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.7
+2022-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.4
+2022-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.8
+2022-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1
+2022-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.6
+2022-Q2,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.5
+2022-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.4
+2022-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,0.6
+2022-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.3
+2022-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,39
+2022-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1
+2022-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,10.4
+2022-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,6
+2022-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,1.9
+2022-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,3
+2022-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,3.1
+2022-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.5
+2022-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2022-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.3
+2022-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,1.3
+2022-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,12.1
+2022-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,2.3
+2022-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.4
+2022-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.8
+2022-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.3
+2022-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.7
+2023-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,6.6
+2023-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.6
+2023-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,1.6
+2023-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.6
+2023-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.4
+2023-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,0.6
+2023-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,2.2
+2023-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,3.4
+2023-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.6
+2023-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.8
+2023-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2023-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,0.8
+2023-Q3,Working days lost per 1000 employees,Other mining,,Number,A2540872K,6
+2023-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,10.4
+2023-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,4.3
+2023-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,3.6
+2023-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,15.6
+2023-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.9
+2023-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.9
+2023-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,23.2
+2023-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,2.3
+2023-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,19.9
+2023-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.8
+2023-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.6
+2023-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.4
+2024-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,1.8
+2024-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,0.1
+2024-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,3
+2024-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,8.3
+2024-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,0.1
+2024-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,1
+2024-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.3
+2024-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,6.4
+2024-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,7.7
+2024-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,7.9
+2024-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,0.9
+2024-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.5
+2024-Q2,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2024-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,1.7
+2024-Q3,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,5.7
+2024-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,7.1
+2024-Q3,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,7.1
+2024-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,25.6
+2024-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.3
+2024-Q3,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.8
+2024-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.8
+2024-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.5
+2024-Q4,Working days lost per 1000 employees,Coal mining,,Number,A2540871J,22.6
+2024-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,11.3
+2024-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,6.7
+2024-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,49.6
+2024-Q4,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,1.9
+2024-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.2
+2024-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,4
+2025-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,5.6
+2025-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,8.2
+2025-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,3
+2025-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.1
+2025-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.1
+2025-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,1
+2025-Q2,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.3
+2025-Q2,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,7.3
+2025-Q2,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.1
+2025-Q2,Working days lost per 1000 employees,Construction,,Number,A2540869W,12.3
+2025-Q2,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,2.4
+2025-Q2,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,2.3
+2025-Q2,Working days lost per 1000 employees,All industries,,Number,A2540874R,2.1
+2025-Q3,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,9.5
+2025-Q3,Working days lost per 1000 employees,Construction,,Number,A2540869W,8.7
+2025-Q3,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,4.5
+2025-Q3,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.4
+2025-Q3,Working days lost per 1000 employees,All industries,,Number,A2540874R,4.1
+2025-Q4,Working days lost per 1000 employees,Other mining,,Number,A2540872K,0.1
+2025-Q4,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,10.6
+2025-Q4,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,3.3
+2025-Q4,Working days lost per 1000 employees,Construction,,Number,A2540869W,3.4
+2025-Q4,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,5.3
+2025-Q4,Working days lost per 1000 employees,Other industries,,Number,A2540868V,2.3
+2025-Q4,Working days lost per 1000 employees,All industries,,Number,A2540874R,5.2
+2026-Q1,Working days lost per 1000 employees,Metal product etc manufacturing,,Number,A2540870F,0.7
+2026-Q1,Working days lost per 1000 employees,Other manufacturing,,Number,A2540873L,2
+2026-Q1,Working days lost per 1000 employees,Construction,,Number,A2540869W,0.9
+2026-Q1,Working days lost per 1000 employees,"Transport, postal & warehousing",,Number,A2540867T,1.4
+2026-Q1,Working days lost per 1000 employees,Education & training,health care & social assistance,Number,A2540866R,11.8
+2026-Q1,Working days lost per 1000 employees,Other industries,,Number,A2540868V,0.4
+2026-Q1,Working days lost per 1000 employees,All industries,,Number,A2540874R,3.5
