@@ -1,0 +1,28 @@
+financial_year,subject_category,complaints_number,complaints_pct,reports_number,reports_pct,total_number,total_pct
+2020-21,Ombudsman,2,0.3,1,0.2,3,0.2
+2020-21,Inquiry Agency,,,,,,
+2020-21,Local government,112,18.8,141,22.0,253,20.4
+2020-21,Member of Parliament,35,5.9,14,2.2,49,4.0
+2020-21,Statutory Authority,112,18.8,99,15.4,211,17.0
+2020-21,State government,334,56.0,386,60.1,720,58.2
+2020-21,SA Police,,,,,,
+2020-21,Private / unknown,1,0.2,1,0.2,2,0.2
+2020-21,Total,596,100,642,100.1,1238,100.0
+2019-20,Ombudsman,2,0.4,1,0.1,3,0.2
+2019-20,Inquiry Agency,,,,,,
+2019-20,Local government,89,18,201,26.4,290,23.1
+2019-20,Member of Parliament,13,2.6,9,1.2,22,1.8
+2019-20,Statutory Authority,105,21.2,120,15.7,225,17.9
+2019-20,State government,285,57.6,429,56.3,714,56.8
+2019-20,SA Police,,,,,,
+2019-20,Private / unknown,1,0.2,2,0.3,3,0.2
+2019-20,Total,495,100,762,100,1257,100
+2018-19,Ombudsman,2,0.4,0,0,2,0.2
+2018-19,Inquiry Agency,,,,,,
+2018-19,Local government,105,21.6,136,18.3,241,19.6
+2018-19,Member of Parliament,16,3.3,14,1.9,30,2.4
+2018-19,Statutory Authority,126,25.9,86,11.6,212,17.2
+2018-19,State government,237,48.7,504,67.9,741,60.3
+2018-19,SA Police,,,,,,
+2018-19,Private / unknown,1,0.2,2,0.3,3,0.2
+2018-19,Total,487,100,742,100,1229,99.9
