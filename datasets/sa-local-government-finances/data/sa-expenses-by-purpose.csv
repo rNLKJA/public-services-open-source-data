@@ -1,0 +1,111 @@
+row_order,line_item,is_total_row,year,value_million_aud
+1,General public services,False,2015-16,164
+1,General public services,False,2016-17,150
+1,General public services,False,2017-18,158
+1,General public services,False,2018-19,151
+1,General public services,False,2019-20,147
+1,General public services,False,2020-21,148
+1,General public services,False,2021-22,157
+1,General public services,False,2022-23,168
+1,General public services,False,2023-24,158
+1,General public services,False,2024-25,182
+2,Public order and safety,False,2015-16,41
+2,Public order and safety,False,2016-17,44
+2,Public order and safety,False,2017-18,49
+2,Public order and safety,False,2018-19,50
+2,Public order and safety,False,2019-20,58
+2,Public order and safety,False,2020-21,64
+2,Public order and safety,False,2021-22,57
+2,Public order and safety,False,2022-23,69
+2,Public order and safety,False,2023-24,72
+2,Public order and safety,False,2024-25,74
+3,Economic affairs,False,2015-16,160
+3,Economic affairs,False,2016-17,154
+3,Economic affairs,False,2017-18,152
+3,Economic affairs,False,2018-19,160
+3,Economic affairs,False,2019-20,162
+3,Economic affairs,False,2020-21,165
+3,Economic affairs,False,2021-22,186
+3,Economic affairs,False,2022-23,191
+3,Economic affairs,False,2023-24,205
+3,Economic affairs,False,2024-25,211
+4,Environmental Protection,False,2015-16,369
+4,Environmental Protection,False,2016-17,387
+4,Environmental Protection,False,2017-18,396
+4,Environmental Protection,False,2018-19,412
+4,Environmental Protection,False,2019-20,446
+4,Environmental Protection,False,2020-21,454
+4,Environmental Protection,False,2021-22,459
+4,Environmental Protection,False,2022-23,525
+4,Environmental Protection,False,2023-24,558
+4,Environmental Protection,False,2024-25,575
+5,Housing and community amenities,False,2015-16,194
+5,Housing and community amenities,False,2016-17,201
+5,Housing and community amenities,False,2017-18,220
+5,Housing and community amenities,False,2018-19,219
+5,Housing and community amenities,False,2019-20,219
+5,Housing and community amenities,False,2020-21,239
+5,Housing and community amenities,False,2021-22,249
+5,Housing and community amenities,False,2022-23,254
+5,Housing and community amenities,False,2023-24,280
+5,Housing and community amenities,False,2024-25,289
+6,Health,False,2015-16,58
+6,Health,False,2016-17,59
+6,Health,False,2017-18,61
+6,Health,False,2018-19,60
+6,Health,False,2019-20,61
+6,Health,False,2020-21,62
+6,Health,False,2021-22,66
+6,Health,False,2022-23,78
+6,Health,False,2023-24,91
+6,Health,False,2024-25,94
+7,"Recreation, culture and religion",False,2015-16,488
+7,"Recreation, culture and religion",False,2016-17,511
+7,"Recreation, culture and religion",False,2017-18,535
+7,"Recreation, culture and religion",False,2018-19,569
+7,"Recreation, culture and religion",False,2019-20,594
+7,"Recreation, culture and religion",False,2020-21,612
+7,"Recreation, culture and religion",False,2021-22,632
+7,"Recreation, culture and religion",False,2022-23,681
+7,"Recreation, culture and religion",False,2023-24,755
+7,"Recreation, culture and religion",False,2024-25,770
+8,Education,False,2015-16,0
+8,Education,False,2016-17,0
+8,Education,False,2017-18,0
+8,Education,False,2018-19,0
+8,Education,False,2019-20,0
+8,Education,False,2020-21,0
+8,Education,False,2021-22,0
+8,Education,False,2022-23,0
+8,Education,False,2023-24,0
+8,Education,False,2024-25,0
+9,Social Protection,False,2015-16,130
+9,Social Protection,False,2016-17,130
+9,Social Protection,False,2017-18,126
+9,Social Protection,False,2018-19,132
+9,Social Protection,False,2019-20,134
+9,Social Protection,False,2020-21,130
+9,Social Protection,False,2021-22,131
+9,Social Protection,False,2022-23,156
+9,Social Protection,False,2023-24,161
+9,Social Protection,False,2024-25,166
+10,Transport,False,2015-16,466
+10,Transport,False,2016-17,497
+10,Transport,False,2017-18,497
+10,Transport,False,2018-19,525
+10,Transport,False,2019-20,533
+10,Transport,False,2020-21,533
+10,Transport,False,2021-22,540
+10,Transport,False,2022-23,576
+10,Transport,False,2023-24,635
+10,Transport,False,2024-25,670
+11,Total Expenses,True,2015-16,2070
+11,Total Expenses,True,2016-17,2133
+11,Total Expenses,True,2017-18,2194
+11,Total Expenses,True,2018-19,2278
+11,Total Expenses,True,2019-20,2354
+11,Total Expenses,True,2020-21,2408
+11,Total Expenses,True,2021-22,2478
+11,Total Expenses,True,2022-23,2699
+11,Total Expenses,True,2023-24,2916
+11,Total Expenses,True,2024-25,3031

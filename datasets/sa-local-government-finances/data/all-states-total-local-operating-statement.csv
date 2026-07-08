@@ -1,0 +1,251 @@
+row_order,line_item,is_total_row,year,value_million_aud
+1,Taxation revenue,False,2015-16,16620
+1,Taxation revenue,False,2016-17,17399
+1,Taxation revenue,False,2017-18,18083
+1,Taxation revenue,False,2018-19,18904
+1,Taxation revenue,False,2019-20,19578
+1,Taxation revenue,False,2020-21,20089
+1,Taxation revenue,False,2021-22,20888
+1,Taxation revenue,False,2022-23,21824
+1,Taxation revenue,False,2023-24,23100
+1,Taxation revenue,False,2024-25,24554
+2,Current grants and subsidies,False,2015-16,3520
+2,Current grants and subsidies,False,2016-17,4850
+2,Current grants and subsidies,False,2017-18,4472
+2,Current grants and subsidies,False,2018-19,4912
+2,Current grants and subsidies,False,2019-20,5154
+2,Current grants and subsidies,False,2020-21,6304
+2,Current grants and subsidies,False,2021-22,8004
+2,Current grants and subsidies,False,2022-23,8813
+2,Current grants and subsidies,False,2023-24,7262
+2,Current grants and subsidies,False,2024-25,5726
+3,Sales of goods and services,False,2015-16,11701
+3,Sales of goods and services,False,2016-17,12217
+3,Sales of goods and services,False,2017-18,12712
+3,Sales of goods and services,False,2018-19,13219
+3,Sales of goods and services,False,2019-20,13113
+3,Sales of goods and services,False,2020-21,13491
+3,Sales of goods and services,False,2021-22,14280
+3,Sales of goods and services,False,2022-23,15552
+3,Sales of goods and services,False,2023-24,16531
+3,Sales of goods and services,False,2024-25,17673
+4,Interest income,False,2015-16,795
+4,Interest income,False,2016-17,772
+4,Interest income,False,2017-18,803
+4,Interest income,False,2018-19,883
+4,Interest income,False,2019-20,674
+4,Interest income,False,2020-21,442
+4,Interest income,False,2021-22,370
+4,Interest income,False,2022-23,1191
+4,Interest income,False,2023-24,1831
+4,Interest income,False,2024-25,2004
+5,Capital Grants,False,2015-16,1924
+5,Capital Grants,False,2016-17,1886
+5,Capital Grants,False,2017-18,1920
+5,Capital Grants,False,2018-19,1845
+5,Capital Grants,False,2019-20,1915
+5,Capital Grants,False,2020-21,2816
+5,Capital Grants,False,2021-22,2754
+5,Capital Grants,False,2022-23,3049
+5,Capital Grants,False,2023-24,3936
+5,Capital Grants,False,2024-25,4734
+6,Other revenue,False,2015-16,8477
+6,Other revenue,False,2016-17,8723
+6,Other revenue,False,2017-18,8856
+6,Other revenue,False,2018-19,8662
+6,Other revenue,False,2019-20,8519
+6,Other revenue,False,2020-21,9682
+6,Other revenue,False,2021-22,8569
+6,Other revenue,False,2022-23,9342
+6,Other revenue,False,2023-24,11502
+6,Other revenue,False,2024-25,13137
+7,Total GFS revenue,True,2015-16,43036
+7,Total GFS revenue,True,2016-17,45847
+7,Total GFS revenue,True,2017-18,46846
+7,Total GFS revenue,True,2018-19,48425
+7,Total GFS revenue,True,2019-20,48952
+7,Total GFS revenue,True,2020-21,52824
+7,Total GFS revenue,True,2021-22,54864
+7,Total GFS revenue,True,2022-23,59770
+7,Total GFS revenue,True,2023-24,64162
+7,Total GFS revenue,True,2024-25,67829
+8,Depreciation,False,2015-16,7223
+8,Depreciation,False,2016-17,7652
+8,Depreciation,False,2017-18,7903
+8,Depreciation,False,2018-19,8205
+8,Depreciation,False,2019-20,8614
+8,Depreciation,False,2020-21,9072
+8,Depreciation,False,2021-22,9420
+8,Depreciation,False,2022-23,10056
+8,Depreciation,False,2023-24,11054
+8,Depreciation,False,2024-25,11801
+9,Superannuation expenses,False,2015-16,1188
+9,Superannuation expenses,False,2016-17,1211
+9,Superannuation expenses,False,2017-18,1238
+9,Superannuation expenses,False,2018-19,1301
+9,Superannuation expenses,False,2019-20,1349
+9,Superannuation expenses,False,2020-21,1393
+9,Superannuation expenses,False,2021-22,1445
+9,Superannuation expenses,False,2022-23,1533
+9,Superannuation expenses,False,2023-24,1671
+9,Superannuation expenses,False,2024-25,1812
+10,Other employee expenses,False,2015-16,11777
+10,Other employee expenses,False,2016-17,12106
+10,Other employee expenses,False,2017-18,12394
+10,Other employee expenses,False,2018-19,13005
+10,Other employee expenses,False,2019-20,13526
+10,Other employee expenses,False,2020-21,13958
+10,Other employee expenses,False,2021-22,14332
+10,Other employee expenses,False,2022-23,15227
+10,Other employee expenses,False,2023-24,16280
+10,Other employee expenses,False,2024-25,17357
+11,Non-employee expenses,False,2015-16,12938
+11,Non-employee expenses,False,2016-17,13573
+11,Non-employee expenses,False,2017-18,14345
+11,Non-employee expenses,False,2018-19,15133
+11,Non-employee expenses,False,2019-20,15689
+11,Non-employee expenses,False,2020-21,15989
+11,Non-employee expenses,False,2021-22,17046
+11,Non-employee expenses,False,2022-23,19453
+11,Non-employee expenses,False,2023-24,20764
+11,Non-employee expenses,False,2024-25,21618
+12,Total gross operating expenses,True,2015-16,33126
+12,Total gross operating expenses,True,2016-17,34542
+12,Total gross operating expenses,True,2017-18,35880
+12,Total gross operating expenses,True,2018-19,37644
+12,Total gross operating expenses,True,2019-20,39177
+12,Total gross operating expenses,True,2020-21,40413
+12,Total gross operating expenses,True,2021-22,42243
+12,Total gross operating expenses,True,2022-23,46268
+12,Total gross operating expenses,True,2023-24,49769
+12,Total gross operating expenses,True,2024-25,52588
+13,Interest on defined benefit superannuation,False,2015-16,0
+13,Interest on defined benefit superannuation,False,2016-17,0
+13,Interest on defined benefit superannuation,False,2017-18,0
+13,Interest on defined benefit superannuation,False,2018-19,0
+13,Interest on defined benefit superannuation,False,2019-20,0
+13,Interest on defined benefit superannuation,False,2020-21,0
+13,Interest on defined benefit superannuation,False,2021-22,0
+13,Interest on defined benefit superannuation,False,2022-23,0
+13,Interest on defined benefit superannuation,False,2023-24,0
+13,Interest on defined benefit superannuation,False,2024-25,0
+14,Other interest expenses,False,2015-16,735
+14,Other interest expenses,False,2016-17,659
+14,Other interest expenses,False,2017-18,618
+14,Other interest expenses,False,2018-19,611
+14,Other interest expenses,False,2019-20,564
+14,Other interest expenses,False,2020-21,578
+14,Other interest expenses,False,2021-22,461
+14,Other interest expenses,False,2022-23,491
+14,Other interest expenses,False,2023-24,524
+14,Other interest expenses,False,2024-25,584
+15,Other property expenses,False,2015-16,1
+15,Other property expenses,False,2016-17,1
+15,Other property expenses,False,2017-18,1
+15,Other property expenses,False,2018-19,1
+15,Other property expenses,False,2019-20,1
+15,Other property expenses,False,2020-21,2
+15,Other property expenses,False,2021-22,0
+15,Other property expenses,False,2022-23,0
+15,Other property expenses,False,2023-24,0
+15,Other property expenses,False,2024-25,0
+16,Current transfer expenses,False,2015-16,364
+16,Current transfer expenses,False,2016-17,385
+16,Current transfer expenses,False,2017-18,419
+16,Current transfer expenses,False,2018-19,427
+16,Current transfer expenses,False,2019-20,457
+16,Current transfer expenses,False,2020-21,395
+16,Current transfer expenses,False,2021-22,548
+16,Current transfer expenses,False,2022-23,490
+16,Current transfer expenses,False,2023-24,526
+16,Current transfer expenses,False,2024-25,567
+17,Capital transfer expenses,False,2015-16,159
+17,Capital transfer expenses,False,2016-17,231
+17,Capital transfer expenses,False,2017-18,201
+17,Capital transfer expenses,False,2018-19,251
+17,Capital transfer expenses,False,2019-20,156
+17,Capital transfer expenses,False,2020-21,1569
+17,Capital transfer expenses,False,2021-22,314
+17,Capital transfer expenses,False,2022-23,567
+17,Capital transfer expenses,False,2023-24,314
+17,Capital transfer expenses,False,2024-25,478
+18,Total GFS expenses,True,2015-16,34385
+18,Total GFS expenses,True,2016-17,35818
+18,Total GFS expenses,True,2017-18,37119
+18,Total GFS expenses,True,2018-19,38934
+18,Total GFS expenses,True,2019-20,40356
+18,Total GFS expenses,True,2020-21,42957
+18,Total GFS expenses,True,2021-22,43565
+18,Total GFS expenses,True,2022-23,47815
+18,Total GFS expenses,True,2023-24,51133
+18,Total GFS expenses,True,2024-25,54217
+19,GFS Net operating balance,True,2015-16,8651
+19,GFS Net operating balance,True,2016-17,10029
+19,GFS Net operating balance,True,2017-18,9727
+19,GFS Net operating balance,True,2018-19,9491
+19,GFS Net operating balance,True,2019-20,8596
+19,GFS Net operating balance,True,2020-21,9867
+19,GFS Net operating balance,True,2021-22,11298
+19,GFS Net operating balance,True,2022-23,11954
+19,GFS Net operating balance,True,2023-24,13029
+19,GFS Net operating balance,True,2024-25,13612
+20,Gross fixed capital formation,False,2015-16,12943
+20,Gross fixed capital formation,False,2016-17,13568
+20,Gross fixed capital formation,False,2017-18,14729
+20,Gross fixed capital formation,False,2018-19,15795
+20,Gross fixed capital formation,False,2019-20,16865
+20,Gross fixed capital formation,False,2020-21,17362
+20,Gross fixed capital formation,False,2021-22,17536
+20,Gross fixed capital formation,False,2022-23,19655
+20,Gross fixed capital formation,False,2023-24,23630
+20,Gross fixed capital formation,False,2024-25,23121
+21,less Depreciation,False,2015-16,-7223
+21,less Depreciation,False,2016-17,-7652
+21,less Depreciation,False,2017-18,-7903
+21,less Depreciation,False,2018-19,-8205
+21,less Depreciation,False,2019-20,-8614
+21,less Depreciation,False,2020-21,-9072
+21,less Depreciation,False,2021-22,-9420
+21,less Depreciation,False,2022-23,-10056
+21,less Depreciation,False,2023-24,-11054
+21,less Depreciation,False,2024-25,-11801
+22,plus Change in inventories,False,2015-16,-21
+22,plus Change in inventories,False,2016-17,-15
+22,plus Change in inventories,False,2017-18,-17
+22,plus Change in inventories,False,2018-19,-5
+22,plus Change in inventories,False,2019-20,-22
+22,plus Change in inventories,False,2020-21,3
+22,plus Change in inventories,False,2021-22,-14
+22,plus Change in inventories,False,2022-23,10
+22,plus Change in inventories,False,2023-24,0
+22,plus Change in inventories,False,2024-25,0
+23,plus Other transactions in non-financial assets,False,2015-16,483
+23,plus Other transactions in non-financial assets,False,2016-17,121
+23,plus Other transactions in non-financial assets,False,2017-18,332
+23,plus Other transactions in non-financial assets,False,2018-19,1024
+23,plus Other transactions in non-financial assets,False,2019-20,620
+23,plus Other transactions in non-financial assets,False,2020-21,-881
+23,plus Other transactions in non-financial assets,False,2021-22,572
+23,plus Other transactions in non-financial assets,False,2022-23,1011
+23,plus Other transactions in non-financial assets,False,2023-24,1006
+23,plus Other transactions in non-financial assets,False,2024-25,949
+24,Total net acquisition of non-financial assets,True,2015-16,6181
+24,Total net acquisition of non-financial assets,True,2016-17,6022
+24,Total net acquisition of non-financial assets,True,2017-18,7141
+24,Total net acquisition of non-financial assets,True,2018-19,8608
+24,Total net acquisition of non-financial assets,True,2019-20,8850
+24,Total net acquisition of non-financial assets,True,2020-21,7412
+24,Total net acquisition of non-financial assets,True,2021-22,8674
+24,Total net acquisition of non-financial assets,True,2022-23,10620
+24,Total net acquisition of non-financial assets,True,2023-24,13582
+24,Total net acquisition of non-financial assets,True,2024-25,12269
+25,GFS NET LENDING(+)/BORROWING(-),True,2015-16,2469
+25,GFS NET LENDING(+)/BORROWING(-),True,2016-17,4007
+25,GFS NET LENDING(+)/BORROWING(-),True,2017-18,2586
+25,GFS NET LENDING(+)/BORROWING(-),True,2018-19,883
+25,GFS NET LENDING(+)/BORROWING(-),True,2019-20,-254
+25,GFS NET LENDING(+)/BORROWING(-),True,2020-21,2456
+25,GFS NET LENDING(+)/BORROWING(-),True,2021-22,2624
+25,GFS NET LENDING(+)/BORROWING(-),True,2022-23,1335
+25,GFS NET LENDING(+)/BORROWING(-),True,2023-24,-553
+25,GFS NET LENDING(+)/BORROWING(-),True,2024-25,1343

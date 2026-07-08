@@ -1,0 +1,711 @@
+table,row_order,line_item,is_total_row,year,value_million_aud
+operating_statement,1,Taxation revenue,False,2015-16,1433
+operating_statement,1,Taxation revenue,False,2016-17,1490
+operating_statement,1,Taxation revenue,False,2017-18,1543
+operating_statement,1,Taxation revenue,False,2018-19,1602
+operating_statement,1,Taxation revenue,False,2019-20,1661
+operating_statement,1,Taxation revenue,False,2020-21,1696
+operating_statement,1,Taxation revenue,False,2021-22,1749
+operating_statement,1,Taxation revenue,False,2022-23,1827
+operating_statement,1,Taxation revenue,False,2023-24,1984
+operating_statement,1,Taxation revenue,False,2024-25,2132
+operating_statement,2,Current grants and subsidies,False,2015-16,148
+operating_statement,2,Current grants and subsidies,False,2016-17,298
+operating_statement,2,Current grants and subsidies,False,2017-18,238
+operating_statement,2,Current grants and subsidies,False,2018-19,274
+operating_statement,2,Current grants and subsidies,False,2019-20,248
+operating_statement,2,Current grants and subsidies,False,2020-21,233
+operating_statement,2,Current grants and subsidies,False,2021-22,383
+operating_statement,2,Current grants and subsidies,False,2022-23,367
+operating_statement,2,Current grants and subsidies,False,2023-24,291
+operating_statement,2,Current grants and subsidies,False,2024-25,301
+operating_statement,3,Sales of goods and services,False,2015-16,406
+operating_statement,3,Sales of goods and services,False,2016-17,423
+operating_statement,3,Sales of goods and services,False,2017-18,432
+operating_statement,3,Sales of goods and services,False,2018-19,430
+operating_statement,3,Sales of goods and services,False,2019-20,437
+operating_statement,3,Sales of goods and services,False,2020-21,455
+operating_statement,3,Sales of goods and services,False,2021-22,476
+operating_statement,3,Sales of goods and services,False,2022-23,511
+operating_statement,3,Sales of goods and services,False,2023-24,553
+operating_statement,3,Sales of goods and services,False,2024-25,587
+operating_statement,4,Interest income,False,2015-16,21
+operating_statement,4,Interest income,False,2016-17,19
+operating_statement,4,Interest income,False,2017-18,20
+operating_statement,4,Interest income,False,2018-19,20
+operating_statement,4,Interest income,False,2019-20,16
+operating_statement,4,Interest income,False,2020-21,20
+operating_statement,4,Interest income,False,2021-22,18
+operating_statement,4,Interest income,False,2022-23,33
+operating_statement,4,Interest income,False,2023-24,38
+operating_statement,4,Interest income,False,2024-25,44
+operating_statement,5,Capital Grants,False,2015-16,84
+operating_statement,5,Capital Grants,False,2016-17,77
+operating_statement,5,Capital Grants,False,2017-18,66
+operating_statement,5,Capital Grants,False,2018-19,42
+operating_statement,5,Capital Grants,False,2019-20,67
+operating_statement,5,Capital Grants,False,2020-21,130
+operating_statement,5,Capital Grants,False,2021-22,96
+operating_statement,5,Capital Grants,False,2022-23,102
+operating_statement,5,Capital Grants,False,2023-24,101
+operating_statement,5,Capital Grants,False,2024-25,115
+operating_statement,6,Other revenue,False,2015-16,166
+operating_statement,6,Other revenue,False,2016-17,160
+operating_statement,6,Other revenue,False,2017-18,189
+operating_statement,6,Other revenue,False,2018-19,208
+operating_statement,6,Other revenue,False,2019-20,205
+operating_statement,6,Other revenue,False,2020-21,247
+operating_statement,6,Other revenue,False,2021-22,177
+operating_statement,6,Other revenue,False,2022-23,223
+operating_statement,6,Other revenue,False,2023-24,149
+operating_statement,6,Other revenue,False,2024-25,420
+operating_statement,7,Total GFS revenue,True,2015-16,2258
+operating_statement,7,Total GFS revenue,True,2016-17,2468
+operating_statement,7,Total GFS revenue,True,2017-18,2487
+operating_statement,7,Total GFS revenue,True,2018-19,2575
+operating_statement,7,Total GFS revenue,True,2019-20,2634
+operating_statement,7,Total GFS revenue,True,2020-21,2781
+operating_statement,7,Total GFS revenue,True,2021-22,2899
+operating_statement,7,Total GFS revenue,True,2022-23,3062
+operating_statement,7,Total GFS revenue,True,2023-24,3115
+operating_statement,7,Total GFS revenue,True,2024-25,3599
+operating_statement,8,Depreciation,False,2015-16,470
+operating_statement,8,Depreciation,False,2016-17,496
+operating_statement,8,Depreciation,False,2017-18,508
+operating_statement,8,Depreciation,False,2018-19,518
+operating_statement,8,Depreciation,False,2019-20,547
+operating_statement,8,Depreciation,False,2020-21,571
+operating_statement,8,Depreciation,False,2021-22,599
+operating_statement,8,Depreciation,False,2022-23,631
+operating_statement,8,Depreciation,False,2023-24,695
+operating_statement,8,Depreciation,False,2024-25,749
+operating_statement,9,Superannuation expenses,False,2015-16,63
+operating_statement,9,Superannuation expenses,False,2016-17,64
+operating_statement,9,Superannuation expenses,False,2017-18,67
+operating_statement,9,Superannuation expenses,False,2018-19,69
+operating_statement,9,Superannuation expenses,False,2019-20,72
+operating_statement,9,Superannuation expenses,False,2020-21,73
+operating_statement,9,Superannuation expenses,False,2021-22,77
+operating_statement,9,Superannuation expenses,False,2022-23,86
+operating_statement,9,Superannuation expenses,False,2023-24,98
+operating_statement,9,Superannuation expenses,False,2024-25,109
+operating_statement,10,Other employee expenses,False,2015-16,689
+operating_statement,10,Other employee expenses,False,2016-17,708
+operating_statement,10,Other employee expenses,False,2017-18,722
+operating_statement,10,Other employee expenses,False,2018-19,748
+operating_statement,10,Other employee expenses,False,2019-20,776
+operating_statement,10,Other employee expenses,False,2020-21,795
+operating_statement,10,Other employee expenses,False,2021-22,808
+operating_statement,10,Other employee expenses,False,2022-23,862
+operating_statement,10,Other employee expenses,False,2023-24,928
+operating_statement,10,Other employee expenses,False,2024-25,960
+operating_statement,11,Non-employee expenses,False,2015-16,804
+operating_statement,11,Non-employee expenses,False,2016-17,825
+operating_statement,11,Non-employee expenses,False,2017-18,852
+operating_statement,11,Non-employee expenses,False,2018-19,896
+operating_statement,11,Non-employee expenses,False,2019-20,917
+operating_statement,11,Non-employee expenses,False,2020-21,928
+operating_statement,11,Non-employee expenses,False,2021-22,958
+operating_statement,11,Non-employee expenses,False,2022-23,1076
+operating_statement,11,Non-employee expenses,False,2023-24,1139
+operating_statement,11,Non-employee expenses,False,2024-25,1157
+operating_statement,12,Total gross operating expenses,True,2015-16,2026
+operating_statement,12,Total gross operating expenses,True,2016-17,2093
+operating_statement,12,Total gross operating expenses,True,2017-18,2149
+operating_statement,12,Total gross operating expenses,True,2018-19,2230
+operating_statement,12,Total gross operating expenses,True,2019-20,2312
+operating_statement,12,Total gross operating expenses,True,2020-21,2368
+operating_statement,12,Total gross operating expenses,True,2021-22,2442
+operating_statement,12,Total gross operating expenses,True,2022-23,2655
+operating_statement,12,Total gross operating expenses,True,2023-24,2861
+operating_statement,12,Total gross operating expenses,True,2024-25,2975
+operating_statement,13,Interest on defined benefit superannuation,False,2015-16,0
+operating_statement,13,Interest on defined benefit superannuation,False,2016-17,0
+operating_statement,13,Interest on defined benefit superannuation,False,2017-18,0
+operating_statement,13,Interest on defined benefit superannuation,False,2018-19,0
+operating_statement,13,Interest on defined benefit superannuation,False,2019-20,0
+operating_statement,13,Interest on defined benefit superannuation,False,2020-21,0
+operating_statement,13,Interest on defined benefit superannuation,False,2021-22,0
+operating_statement,13,Interest on defined benefit superannuation,False,2022-23,0
+operating_statement,13,Interest on defined benefit superannuation,False,2023-24,0
+operating_statement,13,Interest on defined benefit superannuation,False,2024-25,0
+operating_statement,14,Other interest expenses,False,2015-16,30
+operating_statement,14,Other interest expenses,False,2016-17,26
+operating_statement,14,Other interest expenses,False,2017-18,27
+operating_statement,14,Other interest expenses,False,2018-19,27
+operating_statement,14,Other interest expenses,False,2019-20,21
+operating_statement,14,Other interest expenses,False,2020-21,17
+operating_statement,14,Other interest expenses,False,2021-22,15
+operating_statement,14,Other interest expenses,False,2022-23,20
+operating_statement,14,Other interest expenses,False,2023-24,22
+operating_statement,14,Other interest expenses,False,2024-25,34
+operating_statement,15,Other property expenses,False,2015-16,0
+operating_statement,15,Other property expenses,False,2016-17,0
+operating_statement,15,Other property expenses,False,2017-18,0
+operating_statement,15,Other property expenses,False,2018-19,0
+operating_statement,15,Other property expenses,False,2019-20,0
+operating_statement,15,Other property expenses,False,2020-21,0
+operating_statement,15,Other property expenses,False,2021-22,0
+operating_statement,15,Other property expenses,False,2022-23,0
+operating_statement,15,Other property expenses,False,2023-24,0
+operating_statement,15,Other property expenses,False,2024-25,0
+operating_statement,16,Current transfer expenses,False,2015-16,14
+operating_statement,16,Current transfer expenses,False,2016-17,14
+operating_statement,16,Current transfer expenses,False,2017-18,17
+operating_statement,16,Current transfer expenses,False,2018-19,19
+operating_statement,16,Current transfer expenses,False,2019-20,20
+operating_statement,16,Current transfer expenses,False,2020-21,22
+operating_statement,16,Current transfer expenses,False,2021-22,21
+operating_statement,16,Current transfer expenses,False,2022-23,23
+operating_statement,16,Current transfer expenses,False,2023-24,20
+operating_statement,16,Current transfer expenses,False,2024-25,20
+operating_statement,17,Capital transfer expenses,False,2015-16,1
+operating_statement,17,Capital transfer expenses,False,2016-17,1
+operating_statement,17,Capital transfer expenses,False,2017-18,1
+operating_statement,17,Capital transfer expenses,False,2018-19,2
+operating_statement,17,Capital transfer expenses,False,2019-20,1
+operating_statement,17,Capital transfer expenses,False,2020-21,1
+operating_statement,17,Capital transfer expenses,False,2021-22,1
+operating_statement,17,Capital transfer expenses,False,2022-23,2
+operating_statement,17,Capital transfer expenses,False,2023-24,13
+operating_statement,17,Capital transfer expenses,False,2024-25,2
+operating_statement,18,Total GFS expenses,True,2015-16,2070
+operating_statement,18,Total GFS expenses,True,2016-17,2133
+operating_statement,18,Total GFS expenses,True,2017-18,2194
+operating_statement,18,Total GFS expenses,True,2018-19,2278
+operating_statement,18,Total GFS expenses,True,2019-20,2354
+operating_statement,18,Total GFS expenses,True,2020-21,2408
+operating_statement,18,Total GFS expenses,True,2021-22,2478
+operating_statement,18,Total GFS expenses,True,2022-23,2699
+operating_statement,18,Total GFS expenses,True,2023-24,2916
+operating_statement,18,Total GFS expenses,True,2024-25,3031
+operating_statement,19,GFS Net operating balance,True,2015-16,187
+operating_statement,19,GFS Net operating balance,True,2016-17,334
+operating_statement,19,GFS Net operating balance,True,2017-18,293
+operating_statement,19,GFS Net operating balance,True,2018-19,297
+operating_statement,19,GFS Net operating balance,True,2019-20,280
+operating_statement,19,GFS Net operating balance,True,2020-21,373
+operating_statement,19,GFS Net operating balance,True,2021-22,421
+operating_statement,19,GFS Net operating balance,True,2022-23,363
+operating_statement,19,GFS Net operating balance,True,2023-24,199
+operating_statement,19,GFS Net operating balance,True,2024-25,568
+operating_statement,20,Gross fixed capital formation,False,2015-16,649
+operating_statement,20,Gross fixed capital formation,False,2016-17,712
+operating_statement,20,Gross fixed capital formation,False,2017-18,800
+operating_statement,20,Gross fixed capital formation,False,2018-19,907
+operating_statement,20,Gross fixed capital formation,False,2019-20,875
+operating_statement,20,Gross fixed capital formation,False,2020-21,867
+operating_statement,20,Gross fixed capital formation,False,2021-22,938
+operating_statement,20,Gross fixed capital formation,False,2022-23,945
+operating_statement,20,Gross fixed capital formation,False,2023-24,1161
+operating_statement,20,Gross fixed capital formation,False,2024-25,1238
+operating_statement,21,less Depreciation,False,2015-16,-470
+operating_statement,21,less Depreciation,False,2016-17,-496
+operating_statement,21,less Depreciation,False,2017-18,-508
+operating_statement,21,less Depreciation,False,2018-19,-518
+operating_statement,21,less Depreciation,False,2019-20,-547
+operating_statement,21,less Depreciation,False,2020-21,-571
+operating_statement,21,less Depreciation,False,2021-22,-599
+operating_statement,21,less Depreciation,False,2022-23,-631
+operating_statement,21,less Depreciation,False,2023-24,-695
+operating_statement,21,less Depreciation,False,2024-25,-749
+operating_statement,22,plus Change in inventories,False,2015-16,-3
+operating_statement,22,plus Change in inventories,False,2016-17,-3
+operating_statement,22,plus Change in inventories,False,2017-18,-3
+operating_statement,22,plus Change in inventories,False,2018-19,-4
+operating_statement,22,plus Change in inventories,False,2019-20,-4
+operating_statement,22,plus Change in inventories,False,2020-21,-3
+operating_statement,22,plus Change in inventories,False,2021-22,-4
+operating_statement,22,plus Change in inventories,False,2022-23,-6
+operating_statement,22,plus Change in inventories,False,2023-24,-4
+operating_statement,22,plus Change in inventories,False,2024-25,-5
+operating_statement,23,plus Other transactions in non-financial assets,False,2015-16,3
+operating_statement,23,plus Other transactions in non-financial assets,False,2016-17,-21
+operating_statement,23,plus Other transactions in non-financial assets,False,2017-18,43
+operating_statement,23,plus Other transactions in non-financial assets,False,2018-19,13
+operating_statement,23,plus Other transactions in non-financial assets,False,2019-20,19
+operating_statement,23,plus Other transactions in non-financial assets,False,2020-21,17
+operating_statement,23,plus Other transactions in non-financial assets,False,2021-22,-24
+operating_statement,23,plus Other transactions in non-financial assets,False,2022-23,9
+operating_statement,23,plus Other transactions in non-financial assets,False,2023-24,11
+operating_statement,23,plus Other transactions in non-financial assets,False,2024-25,3
+operating_statement,24,Total net acquisition of non-financial assets,True,2015-16,180
+operating_statement,24,Total net acquisition of non-financial assets,True,2016-17,191
+operating_statement,24,Total net acquisition of non-financial assets,True,2017-18,333
+operating_statement,24,Total net acquisition of non-financial assets,True,2018-19,398
+operating_statement,24,Total net acquisition of non-financial assets,True,2019-20,343
+operating_statement,24,Total net acquisition of non-financial assets,True,2020-21,309
+operating_statement,24,Total net acquisition of non-financial assets,True,2021-22,311
+operating_statement,24,Total net acquisition of non-financial assets,True,2022-23,317
+operating_statement,24,Total net acquisition of non-financial assets,True,2023-24,473
+operating_statement,24,Total net acquisition of non-financial assets,True,2024-25,487
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2015-16,7
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2016-17,143
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2017-18,-39
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2018-19,-101
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2019-20,-63
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2020-21,64
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2021-22,110
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2022-23,47
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2023-24,-274
+operating_statement,25,GFS NET LENDING(+)/BORROWING(-),True,2024-25,81
+cash_flow_statement,1,Cash receipts from operating activities,False,2015-16,2185
+cash_flow_statement,1,Cash receipts from operating activities,False,2016-17,2436
+cash_flow_statement,1,Cash receipts from operating activities,False,2017-18,2483
+cash_flow_statement,1,Cash receipts from operating activities,False,2018-19,2494
+cash_flow_statement,1,Cash receipts from operating activities,False,2019-20,2573
+cash_flow_statement,1,Cash receipts from operating activities,False,2020-21,2683
+cash_flow_statement,1,Cash receipts from operating activities,False,2021-22,2832
+cash_flow_statement,1,Cash receipts from operating activities,False,2022-23,2915
+cash_flow_statement,1,Cash receipts from operating activities,False,2023-24,3001
+cash_flow_statement,1,Cash receipts from operating activities,False,2024-25,3605
+cash_flow_statement,2,Cash payments from operating activities,False,2015-16,-1589
+cash_flow_statement,2,Cash payments from operating activities,False,2016-17,-1649
+cash_flow_statement,2,Cash payments from operating activities,False,2017-18,-1662
+cash_flow_statement,2,Cash payments from operating activities,False,2018-19,-1712
+cash_flow_statement,2,Cash payments from operating activities,False,2019-20,-1787
+cash_flow_statement,2,Cash payments from operating activities,False,2020-21,-1790
+cash_flow_statement,2,Cash payments from operating activities,False,2021-22,-1813
+cash_flow_statement,2,Cash payments from operating activities,False,2022-23,-2047
+cash_flow_statement,2,Cash payments from operating activities,False,2023-24,-2151
+cash_flow_statement,2,Cash payments from operating activities,False,2024-25,-2265
+cash_flow_statement,3,Total net cash flows from operating activities,True,2015-16,596
+cash_flow_statement,3,Total net cash flows from operating activities,True,2016-17,786
+cash_flow_statement,3,Total net cash flows from operating activities,True,2017-18,821
+cash_flow_statement,3,Total net cash flows from operating activities,True,2018-19,782
+cash_flow_statement,3,Total net cash flows from operating activities,True,2019-20,786
+cash_flow_statement,3,Total net cash flows from operating activities,True,2020-21,893
+cash_flow_statement,3,Total net cash flows from operating activities,True,2021-22,1020
+cash_flow_statement,3,Total net cash flows from operating activities,True,2022-23,868
+cash_flow_statement,3,Total net cash flows from operating activities,True,2023-24,850
+cash_flow_statement,3,Total net cash flows from operating activities,True,2024-25,1340
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2015-16,-589
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2016-17,-631
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2017-18,-783
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2018-19,-836
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2019-20,-794
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2020-21,-760
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2021-22,-804
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2022-23,-868
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2023-24,-1028
+cash_flow_statement,4,Total net cash flows from transactions in non-financial assets,True,2024-25,-1141
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2015-16,7
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2016-17,155
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2017-18,38
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2018-19,-54
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2019-20,-9
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2020-21,133
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2021-22,216
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2022-23,0
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2023-24,-178
+cash_flow_statement,5,GFS CASH SURPLUS (+) / DEFICIT (-),True,2024-25,199
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2015-16,0
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2016-17,-1
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2017-18,-2
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2018-19,1
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2019-20,1
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2020-21,1
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2021-22,1
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2022-23,-1
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2023-24,3
+cash_flow_statement,6,Total net cash flows from investments in financial assets for policy purposes,True,2024-25,-1
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2015-16,10
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2016-17,16
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2017-18,-29
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2018-19,13
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2019-20,-26
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2020-21,30
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2021-22,-30
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2022-23,1
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2023-24,-16
+cash_flow_statement,7,Total net cash flows from investments in financial assets for liquidity purposes,True,2024-25,-52
+cash_flow_statement,8,Total net cash flows from financing activities,True,2015-16,-24
+cash_flow_statement,8,Total net cash flows from financing activities,True,2016-17,-137
+cash_flow_statement,8,Total net cash flows from financing activities,True,2017-18,-16
+cash_flow_statement,8,Total net cash flows from financing activities,True,2018-19,1
+cash_flow_statement,8,Total net cash flows from financing activities,True,2019-20,6
+cash_flow_statement,8,Total net cash flows from financing activities,True,2020-21,-149
+cash_flow_statement,8,Total net cash flows from financing activities,True,2021-22,-191
+cash_flow_statement,8,Total net cash flows from financing activities,True,2022-23,9
+cash_flow_statement,8,Total net cash flows from financing activities,True,2023-24,330
+cash_flow_statement,8,Total net cash flows from financing activities,True,2024-25,-321
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2015-16,-7
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2016-17,33
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2017-18,-10
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2018-19,-39
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2019-20,-27
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2020-21,15
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2021-22,-5
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2022-23,9
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2023-24,139
+cash_flow_statement,9,NET CHANGE IN THE STOCK OF CASH,True,2024-25,-175
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2015-16,7
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2016-17,155
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2017-18,38
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2018-19,-54
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2019-20,-9
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2020-21,133
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2021-22,216
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2022-23,0
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2023-24,-178
+cash_flow_statement,10,GFS Cash Surplus (+) / Deficit (-),True,2024-25,199
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2015-16,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2016-17,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2017-18,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2018-19,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2019-20,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2020-21,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2021-22,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2022-23,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2023-24,0
+cash_flow_statement,11,Acquisitions of non-financial assets under new finance leases,False,2024-25,0
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2015-16,7
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2016-17,155
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2017-18,38
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2018-19,-54
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2019-20,-9
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2020-21,133
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2021-22,216
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2022-23,0
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2023-24,-178
+cash_flow_statement,12,GFS CASH SURPLUS (+) / DEFICIT (-) (alternative),True,2024-25,199
+balance_sheet,1,Buildings and structures,False,2015-16,16295
+balance_sheet,1,Buildings and structures,False,2016-17,16799
+balance_sheet,1,Buildings and structures,False,2017-18,17381
+balance_sheet,1,Buildings and structures,False,2018-19,18285
+balance_sheet,1,Buildings and structures,False,2019-20,18843
+balance_sheet,1,Buildings and structures,False,2020-21,19506
+balance_sheet,1,Buildings and structures,False,2021-22,20591
+balance_sheet,1,Buildings and structures,False,2022-23,21815
+balance_sheet,1,Buildings and structures,False,2023-24,23857
+balance_sheet,1,Buildings and structures,False,2024-25,25889
+balance_sheet,2,Machinery and equipment,False,2015-16,359
+balance_sheet,2,Machinery and equipment,False,2016-17,349
+balance_sheet,2,Machinery and equipment,False,2017-18,363
+balance_sheet,2,Machinery and equipment,False,2018-19,381
+balance_sheet,2,Machinery and equipment,False,2019-20,382
+balance_sheet,2,Machinery and equipment,False,2020-21,371
+balance_sheet,2,Machinery and equipment,False,2021-22,384
+balance_sheet,2,Machinery and equipment,False,2022-23,388
+balance_sheet,2,Machinery and equipment,False,2023-24,392
+balance_sheet,2,Machinery and equipment,False,2024-25,422
+balance_sheet,3,Other fixed produced assets,False,2015-16,0
+balance_sheet,3,Other fixed produced assets,False,2016-17,0
+balance_sheet,3,Other fixed produced assets,False,2017-18,0
+balance_sheet,3,Other fixed produced assets,False,2018-19,0
+balance_sheet,3,Other fixed produced assets,False,2019-20,0
+balance_sheet,3,Other fixed produced assets,False,2020-21,0
+balance_sheet,3,Other fixed produced assets,False,2021-22,0
+balance_sheet,3,Other fixed produced assets,False,2022-23,0
+balance_sheet,3,Other fixed produced assets,False,2023-24,0
+balance_sheet,3,Other fixed produced assets,False,2024-25,0
+balance_sheet,4,Other produced assets,False,2015-16,12
+balance_sheet,4,Other produced assets,False,2016-17,12
+balance_sheet,4,Other produced assets,False,2017-18,12
+balance_sheet,4,Other produced assets,False,2018-19,14
+balance_sheet,4,Other produced assets,False,2019-20,18
+balance_sheet,4,Other produced assets,False,2020-21,13
+balance_sheet,4,Other produced assets,False,2021-22,14
+balance_sheet,4,Other produced assets,False,2022-23,17
+balance_sheet,4,Other produced assets,False,2023-24,17
+balance_sheet,4,Other produced assets,False,2024-25,19
+balance_sheet,5,Land,False,2015-16,6241
+balance_sheet,5,Land,False,2016-17,6459
+balance_sheet,5,Land,False,2017-18,6545
+balance_sheet,5,Land,False,2018-19,6774
+balance_sheet,5,Land,False,2019-20,6921
+balance_sheet,5,Land,False,2020-21,7091
+balance_sheet,5,Land,False,2021-22,7566
+balance_sheet,5,Land,False,2022-23,8275
+balance_sheet,5,Land,False,2023-24,9933
+balance_sheet,5,Land,False,2024-25,10778
+balance_sheet,6,Other non-produced assets,False,2015-16,0
+balance_sheet,6,Other non-produced assets,False,2016-17,0
+balance_sheet,6,Other non-produced assets,False,2017-18,0
+balance_sheet,6,Other non-produced assets,False,2018-19,0
+balance_sheet,6,Other non-produced assets,False,2019-20,0
+balance_sheet,6,Other non-produced assets,False,2020-21,0
+balance_sheet,6,Other non-produced assets,False,2021-22,0
+balance_sheet,6,Other non-produced assets,False,2022-23,0
+balance_sheet,6,Other non-produced assets,False,2023-24,0
+balance_sheet,6,Other non-produced assets,False,2024-25,0
+balance_sheet,7,Total non-financial assets,True,2015-16,22907
+balance_sheet,7,Total non-financial assets,True,2016-17,23618
+balance_sheet,7,Total non-financial assets,True,2017-18,24301
+balance_sheet,7,Total non-financial assets,True,2018-19,25454
+balance_sheet,7,Total non-financial assets,True,2019-20,26164
+balance_sheet,7,Total non-financial assets,True,2020-21,26981
+balance_sheet,7,Total non-financial assets,True,2021-22,28555
+balance_sheet,7,Total non-financial assets,True,2022-23,30494
+balance_sheet,7,Total non-financial assets,True,2023-24,34199
+balance_sheet,7,Total non-financial assets,True,2024-25,37108
+balance_sheet,8,Currency and deposits,False,2015-16,45
+balance_sheet,8,Currency and deposits,False,2016-17,52
+balance_sheet,8,Currency and deposits,False,2017-18,52
+balance_sheet,8,Currency and deposits,False,2018-19,42
+balance_sheet,8,Currency and deposits,False,2019-20,48
+balance_sheet,8,Currency and deposits,False,2020-21,57
+balance_sheet,8,Currency and deposits,False,2021-22,67
+balance_sheet,8,Currency and deposits,False,2022-23,64
+balance_sheet,8,Currency and deposits,False,2023-24,229
+balance_sheet,8,Currency and deposits,False,2024-25,54
+balance_sheet,9,Advances,False,2015-16,91
+balance_sheet,9,Advances,False,2016-17,90
+balance_sheet,9,Advances,False,2017-18,99
+balance_sheet,9,Advances,False,2018-19,113
+balance_sheet,9,Advances,False,2019-20,117
+balance_sheet,9,Advances,False,2020-21,108
+balance_sheet,9,Advances,False,2021-22,68
+balance_sheet,9,Advances,False,2022-23,93
+balance_sheet,9,Advances,False,2023-24,118
+balance_sheet,9,Advances,False,2024-25,128
+balance_sheet,10,Other loans and placements,False,2015-16,19
+balance_sheet,10,Other loans and placements,False,2016-17,19
+balance_sheet,10,Other loans and placements,False,2017-18,22
+balance_sheet,10,Other loans and placements,False,2018-19,21
+balance_sheet,10,Other loans and placements,False,2019-20,22
+balance_sheet,10,Other loans and placements,False,2020-21,19
+balance_sheet,10,Other loans and placements,False,2021-22,19
+balance_sheet,10,Other loans and placements,False,2022-23,20
+balance_sheet,10,Other loans and placements,False,2023-24,17
+balance_sheet,10,Other loans and placements,False,2024-25,16
+balance_sheet,11,Equity including contributed capital,False,2015-16,67
+balance_sheet,11,Equity including contributed capital,False,2016-17,100
+balance_sheet,11,Equity including contributed capital,False,2017-18,103
+balance_sheet,11,Equity including contributed capital,False,2018-19,113
+balance_sheet,11,Equity including contributed capital,False,2019-20,119
+balance_sheet,11,Equity including contributed capital,False,2020-21,138
+balance_sheet,11,Equity including contributed capital,False,2021-22,147
+balance_sheet,11,Equity including contributed capital,False,2022-23,170
+balance_sheet,11,Equity including contributed capital,False,2023-24,224
+balance_sheet,11,Equity including contributed capital,False,2024-25,237
+balance_sheet,12,Other financial assets,False,2015-16,196
+balance_sheet,12,Other financial assets,False,2016-17,216
+balance_sheet,12,Other financial assets,False,2017-18,254
+balance_sheet,12,Other financial assets,False,2018-19,260
+balance_sheet,12,Other financial assets,False,2019-20,256
+balance_sheet,12,Other financial assets,False,2020-21,227
+balance_sheet,12,Other financial assets,False,2021-22,285
+balance_sheet,12,Other financial assets,False,2022-23,305
+balance_sheet,12,Other financial assets,False,2023-24,353
+balance_sheet,12,Other financial assets,False,2024-25,388
+balance_sheet,13,Total financial assets,True,2015-16,417
+balance_sheet,13,Total financial assets,True,2016-17,477
+balance_sheet,13,Total financial assets,True,2017-18,530
+balance_sheet,13,Total financial assets,True,2018-19,549
+balance_sheet,13,Total financial assets,True,2019-20,562
+balance_sheet,13,Total financial assets,True,2020-21,550
+balance_sheet,13,Total financial assets,True,2021-22,588
+balance_sheet,13,Total financial assets,True,2022-23,652
+balance_sheet,13,Total financial assets,True,2023-24,942
+balance_sheet,13,Total financial assets,True,2024-25,822
+balance_sheet,14,Total Assets,True,2015-16,23325
+balance_sheet,14,Total Assets,True,2016-17,24096
+balance_sheet,14,Total Assets,True,2017-18,24831
+balance_sheet,14,Total Assets,True,2018-19,26003
+balance_sheet,14,Total Assets,True,2019-20,26726
+balance_sheet,14,Total Assets,True,2020-21,27531
+balance_sheet,14,Total Assets,True,2021-22,29142
+balance_sheet,14,Total Assets,True,2022-23,31146
+balance_sheet,14,Total Assets,True,2023-24,35141
+balance_sheet,14,Total Assets,True,2024-25,37930
+balance_sheet,15,Currency and deposits,False,2015-16,183
+balance_sheet,15,Currency and deposits,False,2016-17,158
+balance_sheet,15,Currency and deposits,False,2017-18,177
+balance_sheet,15,Currency and deposits,False,2018-19,195
+balance_sheet,15,Currency and deposits,False,2019-20,159
+balance_sheet,15,Currency and deposits,False,2020-21,160
+balance_sheet,15,Currency and deposits,False,2021-22,159
+balance_sheet,15,Currency and deposits,False,2022-23,241
+balance_sheet,15,Currency and deposits,False,2023-24,409
+balance_sheet,15,Currency and deposits,False,2024-25,256
+balance_sheet,16,Advances,False,2015-16,195
+balance_sheet,16,Advances,False,2016-17,201
+balance_sheet,16,Advances,False,2017-18,182
+balance_sheet,16,Advances,False,2018-19,204
+balance_sheet,16,Advances,False,2019-20,199
+balance_sheet,16,Advances,False,2020-21,241
+balance_sheet,16,Advances,False,2021-22,236
+balance_sheet,16,Advances,False,2022-23,210
+balance_sheet,16,Advances,False,2023-24,24
+balance_sheet,16,Advances,False,2024-25,18
+balance_sheet,17,Other loans and placements,False,2015-16,235
+balance_sheet,17,Other loans and placements,False,2016-17,160
+balance_sheet,17,Other loans and placements,False,2017-18,209
+balance_sheet,17,Other loans and placements,False,2018-19,284
+balance_sheet,17,Other loans and placements,False,2019-20,369
+balance_sheet,17,Other loans and placements,False,2020-21,109
+balance_sheet,17,Other loans and placements,False,2021-22,110
+balance_sheet,17,Other loans and placements,False,2022-23,97
+balance_sheet,17,Other loans and placements,False,2023-24,22
+balance_sheet,17,Other loans and placements,False,2024-25,17
+balance_sheet,18,Debt securities,False,2015-16,0
+balance_sheet,18,Debt securities,False,2016-17,0
+balance_sheet,18,Debt securities,False,2017-18,0
+balance_sheet,18,Debt securities,False,2018-19,0
+balance_sheet,18,Debt securities,False,2019-20,0
+balance_sheet,18,Debt securities,False,2020-21,0
+balance_sheet,18,Debt securities,False,2021-22,0
+balance_sheet,18,Debt securities,False,2022-23,0
+balance_sheet,18,Debt securities,False,2023-24,0
+balance_sheet,18,Debt securities,False,2024-25,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2015-16,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2016-17,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2017-18,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2018-19,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2019-20,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2020-21,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2021-22,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2022-23,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2023-24,0
+balance_sheet,19,Provisions for defined benefit superannuation,False,2024-25,0
+balance_sheet,20,Other liabilities,False,2015-16,473
+balance_sheet,20,Other liabilities,False,2016-17,463
+balance_sheet,20,Other liabilities,False,2017-18,499
+balance_sheet,20,Other liabilities,False,2018-19,548
+balance_sheet,20,Other liabilities,False,2019-20,573
+balance_sheet,20,Other liabilities,False,2020-21,698
+balance_sheet,20,Other liabilities,False,2021-22,691
+balance_sheet,20,Other liabilities,False,2022-23,684
+balance_sheet,20,Other liabilities,False,2023-24,1088
+balance_sheet,20,Other liabilities,False,2024-25,1088
+balance_sheet,21,Total Liabilities,True,2015-16,1086
+balance_sheet,21,Total Liabilities,True,2016-17,982
+balance_sheet,21,Total Liabilities,True,2017-18,1067
+balance_sheet,21,Total Liabilities,True,2018-19,1232
+balance_sheet,21,Total Liabilities,True,2019-20,1301
+balance_sheet,21,Total Liabilities,True,2020-21,1208
+balance_sheet,21,Total Liabilities,True,2021-22,1195
+balance_sheet,21,Total Liabilities,True,2022-23,1231
+balance_sheet,21,Total Liabilities,True,2023-24,1543
+balance_sheet,21,Total Liabilities,True,2024-25,1379
+balance_sheet,22,GFS NET WORTH,True,2015-16,22238
+balance_sheet,22,GFS NET WORTH,True,2016-17,23114
+balance_sheet,22,GFS NET WORTH,True,2017-18,23764
+balance_sheet,22,GFS NET WORTH,True,2018-19,24771
+balance_sheet,22,GFS NET WORTH,True,2019-20,25426
+balance_sheet,22,GFS NET WORTH,True,2020-21,26323
+balance_sheet,22,GFS NET WORTH,True,2021-22,27947
+balance_sheet,22,GFS NET WORTH,True,2022-23,29915
+balance_sheet,22,GFS NET WORTH,True,2023-24,33597
+balance_sheet,22,GFS NET WORTH,True,2024-25,36551
+balance_sheet,23,Net financial worth,True,2015-16,-669
+balance_sheet,23,Net financial worth,True,2016-17,-504
+balance_sheet,23,Net financial worth,True,2017-18,-537
+balance_sheet,23,Net financial worth,True,2018-19,-683
+balance_sheet,23,Net financial worth,True,2019-20,-739
+balance_sheet,23,Net financial worth,True,2020-21,-659
+balance_sheet,23,Net financial worth,True,2021-22,-608
+balance_sheet,23,Net financial worth,True,2022-23,-579
+balance_sheet,23,Net financial worth,True,2023-24,-601
+balance_sheet,23,Net financial worth,True,2024-25,-557
+expenses_by_purpose,1,General public services,False,2015-16,164
+expenses_by_purpose,1,General public services,False,2016-17,150
+expenses_by_purpose,1,General public services,False,2017-18,158
+expenses_by_purpose,1,General public services,False,2018-19,151
+expenses_by_purpose,1,General public services,False,2019-20,147
+expenses_by_purpose,1,General public services,False,2020-21,148
+expenses_by_purpose,1,General public services,False,2021-22,157
+expenses_by_purpose,1,General public services,False,2022-23,168
+expenses_by_purpose,1,General public services,False,2023-24,158
+expenses_by_purpose,1,General public services,False,2024-25,182
+expenses_by_purpose,2,Public order and safety,False,2015-16,41
+expenses_by_purpose,2,Public order and safety,False,2016-17,44
+expenses_by_purpose,2,Public order and safety,False,2017-18,49
+expenses_by_purpose,2,Public order and safety,False,2018-19,50
+expenses_by_purpose,2,Public order and safety,False,2019-20,58
+expenses_by_purpose,2,Public order and safety,False,2020-21,64
+expenses_by_purpose,2,Public order and safety,False,2021-22,57
+expenses_by_purpose,2,Public order and safety,False,2022-23,69
+expenses_by_purpose,2,Public order and safety,False,2023-24,72
+expenses_by_purpose,2,Public order and safety,False,2024-25,74
+expenses_by_purpose,3,Economic affairs,False,2015-16,160
+expenses_by_purpose,3,Economic affairs,False,2016-17,154
+expenses_by_purpose,3,Economic affairs,False,2017-18,152
+expenses_by_purpose,3,Economic affairs,False,2018-19,160
+expenses_by_purpose,3,Economic affairs,False,2019-20,162
+expenses_by_purpose,3,Economic affairs,False,2020-21,165
+expenses_by_purpose,3,Economic affairs,False,2021-22,186
+expenses_by_purpose,3,Economic affairs,False,2022-23,191
+expenses_by_purpose,3,Economic affairs,False,2023-24,205
+expenses_by_purpose,3,Economic affairs,False,2024-25,211
+expenses_by_purpose,4,Environmental Protection,False,2015-16,369
+expenses_by_purpose,4,Environmental Protection,False,2016-17,387
+expenses_by_purpose,4,Environmental Protection,False,2017-18,396
+expenses_by_purpose,4,Environmental Protection,False,2018-19,412
+expenses_by_purpose,4,Environmental Protection,False,2019-20,446
+expenses_by_purpose,4,Environmental Protection,False,2020-21,454
+expenses_by_purpose,4,Environmental Protection,False,2021-22,459
+expenses_by_purpose,4,Environmental Protection,False,2022-23,525
+expenses_by_purpose,4,Environmental Protection,False,2023-24,558
+expenses_by_purpose,4,Environmental Protection,False,2024-25,575
+expenses_by_purpose,5,Housing and community amenities,False,2015-16,194
+expenses_by_purpose,5,Housing and community amenities,False,2016-17,201
+expenses_by_purpose,5,Housing and community amenities,False,2017-18,220
+expenses_by_purpose,5,Housing and community amenities,False,2018-19,219
+expenses_by_purpose,5,Housing and community amenities,False,2019-20,219
+expenses_by_purpose,5,Housing and community amenities,False,2020-21,239
+expenses_by_purpose,5,Housing and community amenities,False,2021-22,249
+expenses_by_purpose,5,Housing and community amenities,False,2022-23,254
+expenses_by_purpose,5,Housing and community amenities,False,2023-24,280
+expenses_by_purpose,5,Housing and community amenities,False,2024-25,289
+expenses_by_purpose,6,Health,False,2015-16,58
+expenses_by_purpose,6,Health,False,2016-17,59
+expenses_by_purpose,6,Health,False,2017-18,61
+expenses_by_purpose,6,Health,False,2018-19,60
+expenses_by_purpose,6,Health,False,2019-20,61
+expenses_by_purpose,6,Health,False,2020-21,62
+expenses_by_purpose,6,Health,False,2021-22,66
+expenses_by_purpose,6,Health,False,2022-23,78
+expenses_by_purpose,6,Health,False,2023-24,91
+expenses_by_purpose,6,Health,False,2024-25,94
+expenses_by_purpose,7,"Recreation, culture and religion",False,2015-16,488
+expenses_by_purpose,7,"Recreation, culture and religion",False,2016-17,511
+expenses_by_purpose,7,"Recreation, culture and religion",False,2017-18,535
+expenses_by_purpose,7,"Recreation, culture and religion",False,2018-19,569
+expenses_by_purpose,7,"Recreation, culture and religion",False,2019-20,594
+expenses_by_purpose,7,"Recreation, culture and religion",False,2020-21,612
+expenses_by_purpose,7,"Recreation, culture and religion",False,2021-22,632
+expenses_by_purpose,7,"Recreation, culture and religion",False,2022-23,681
+expenses_by_purpose,7,"Recreation, culture and religion",False,2023-24,755
+expenses_by_purpose,7,"Recreation, culture and religion",False,2024-25,770
+expenses_by_purpose,8,Education,False,2015-16,0
+expenses_by_purpose,8,Education,False,2016-17,0
+expenses_by_purpose,8,Education,False,2017-18,0
+expenses_by_purpose,8,Education,False,2018-19,0
+expenses_by_purpose,8,Education,False,2019-20,0
+expenses_by_purpose,8,Education,False,2020-21,0
+expenses_by_purpose,8,Education,False,2021-22,0
+expenses_by_purpose,8,Education,False,2022-23,0
+expenses_by_purpose,8,Education,False,2023-24,0
+expenses_by_purpose,8,Education,False,2024-25,0
+expenses_by_purpose,9,Social Protection,False,2015-16,130
+expenses_by_purpose,9,Social Protection,False,2016-17,130
+expenses_by_purpose,9,Social Protection,False,2017-18,126
+expenses_by_purpose,9,Social Protection,False,2018-19,132
+expenses_by_purpose,9,Social Protection,False,2019-20,134
+expenses_by_purpose,9,Social Protection,False,2020-21,130
+expenses_by_purpose,9,Social Protection,False,2021-22,131
+expenses_by_purpose,9,Social Protection,False,2022-23,156
+expenses_by_purpose,9,Social Protection,False,2023-24,161
+expenses_by_purpose,9,Social Protection,False,2024-25,166
+expenses_by_purpose,10,Transport,False,2015-16,466
+expenses_by_purpose,10,Transport,False,2016-17,497
+expenses_by_purpose,10,Transport,False,2017-18,497
+expenses_by_purpose,10,Transport,False,2018-19,525
+expenses_by_purpose,10,Transport,False,2019-20,533
+expenses_by_purpose,10,Transport,False,2020-21,533
+expenses_by_purpose,10,Transport,False,2021-22,540
+expenses_by_purpose,10,Transport,False,2022-23,576
+expenses_by_purpose,10,Transport,False,2023-24,635
+expenses_by_purpose,10,Transport,False,2024-25,670
+expenses_by_purpose,11,Total Expenses,True,2015-16,2070
+expenses_by_purpose,11,Total Expenses,True,2016-17,2133
+expenses_by_purpose,11,Total Expenses,True,2017-18,2194
+expenses_by_purpose,11,Total Expenses,True,2018-19,2278
+expenses_by_purpose,11,Total Expenses,True,2019-20,2354
+expenses_by_purpose,11,Total Expenses,True,2020-21,2408
+expenses_by_purpose,11,Total Expenses,True,2021-22,2478
+expenses_by_purpose,11,Total Expenses,True,2022-23,2699
+expenses_by_purpose,11,Total Expenses,True,2023-24,2916
+expenses_by_purpose,11,Total Expenses,True,2024-25,3031

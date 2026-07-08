@@ -1,0 +1,6 @@
+table,title,geography,rows,file
+operating_statement,South Australia Local General Government Operating Statement,South Australia (local government sector total),250,sa-operating-statement.csv
+cash_flow_statement,South Australia Local General Government Cash Flow Statement,South Australia (local government sector total),120,sa-cash-flow-statement.csv
+balance_sheet,South Australia Local General Government Balance Sheet,South Australia (local government sector total),230,sa-balance-sheet.csv
+expenses_by_purpose,South Australia Local General Government Expenses by Purpose (COFOG),South Australia (local government sector total),110,sa-expenses-by-purpose.csv
+operating_statement,Total Local General Government Operating Statement (all states/territories combined),Australia (all states/territories local government sector total),250,all-states-total-local-operating-statement.csv
