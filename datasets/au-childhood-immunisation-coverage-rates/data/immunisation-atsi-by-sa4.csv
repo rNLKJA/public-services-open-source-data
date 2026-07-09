@@ -1,0 +1,1318 @@
+state,south_australia_related,sa4_code,sa4_name,reporting_year,age_group,num_registered_children,num_fully_immunised,num_not_fully_immunised,percent_fully_immunised,interpret_with_caution
+NSW,False,101,Capital Region,2016-17,1 year,184,171,13,92.9,
+NSW,False,102,Central Coast,2016-17,1 year,276,267,9,96.7,
+NSW,False,103,Central West,2016-17,1 year,392,372,20,94.9,
+NSW,False,104,Coffs Harbour - Grafton,2016-17,1 year,182,176,6,96.7,
+NSW,False,105,Far West and Orana,2016-17,1 year,518,473,45,91.3,
+NSW,False,106,Hunter Valley exc Newcastle,2016-17,1 year,428,404,24,94.4,
+NSW,False,107,Illawarra,2016-17,1 year,182,176,6,96.7,
+NSW,False,108,Mid North Coast,2016-17,1 year,359,341,18,95,
+NSW,False,109,Murray,2016-17,1 year,143,136,7,95.1,
+NSW,False,110,New England and North West,2016-17,1 year,599,566,33,94.5,
+NSW,False,111,Newcastle and Lake Macquarie,2016-17,1 year,277,268,9,96.8,
+NSW,False,112,Richmond - Tweed,2016-17,1 year,217,204,13,94,
+NSW,False,113,Riverina,2016-17,1 year,216,202,14,93.5,
+NSW,False,114,Southern Highlands and Shoalhaven,2016-17,1 year,172,166,6,96.5,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2016-17,1 year,NP,NP,NP,97.3,#
+NSW,False,116,Sydney - Blacktown,2016-17,1 year,199,185,14,93,
+NSW,False,117,Sydney - City and Inner South,2016-17,1 year,NP,NP,NP,95.6,#
+NSW,False,118,Sydney - Eastern Suburbs,2016-17,1 year,55,48,7,87.3,#
+NSW,False,119,Sydney - Inner South West,2016-17,1 year,73,66,7,90.4,#
+NSW,False,120,Sydney - Inner West,2016-17,1 year,NP,NP,NP,94.7,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2016-17,1 year,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2016-17,1 year,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2016-17,1 year,211,198,13,93.8,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2016-17,1 year,211,199,12,94.3,
+NSW,False,125,Sydney - Parramatta,2016-17,1 year,62,56,6,90.3,#
+NSW,False,126,Sydney - Ryde,2016-17,1 year,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2016-17,1 year,99,93,6,93.9,#
+NSW,False,128,Sydney - Sutherland,2016-17,1 year,57,51,6,89.5,#
+VIC,False,201,Ballarat,2016-17,1 year,68,61,7,89.7,#
+VIC,False,202,Bendigo,2016-17,1 year,68,60,8,88.2,#
+VIC,False,203,Geelong,2016-17,1 year,104,94,10,90.4,
+VIC,False,204,Hume,2016-17,1 year,NP,NP,NP,94.4,#
+VIC,False,205,Latrobe - Gippsland,2016-17,1 year,127,111,16,87.4,
+VIC,False,206,Melbourne - Inner,2016-17,1 year,NP,NP,NP,95.8,#
+VIC,False,207,Melbourne - Inner East,2016-17,1 year,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2016-17,1 year,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2016-17,1 year,101,88,13,87.1,
+VIC,False,210,Melbourne - North West,2016-17,1 year,62,56,6,90.3,#
+VIC,False,211,Melbourne - Outer East,2016-17,1 year,101,95,6,94.1,
+VIC,False,212,Melbourne - South East,2016-17,1 year,NP,NP,NP,94.6,#
+VIC,False,213,Melbourne - West,2016-17,1 year,264,245,19,92.8,
+VIC,False,214,Mornington Peninsula,2016-17,1 year,NP,NP,NP,92.6,#
+VIC,False,215,North West,2016-17,1 year,147,126,21,85.7,
+VIC,False,216,Shepparton,2016-17,1 year,213,194,19,91.1,
+VIC,False,217,Warrnambool and South West,2016-17,1 year,65,58,7,89.2,#
+QLD,False,301,Brisbane - East,2016-17,1 year,126,114,12,90.5,
+QLD,False,302,Brisbane - North,2016-17,1 year,NP,NP,NP,94.9,#
+QLD,False,303,Brisbane - South,2016-17,1 year,97,88,9,90.7,#
+QLD,False,304,Brisbane - West,2016-17,1 year,NP,NP,NP,92.3,#
+QLD,False,305,Brisbane Inner City,2016-17,1 year,NP,NP,NP,89.4,#
+QLD,False,306,Cairns,2016-17,1 year,757,684,73,90.4,
+QLD,False,307,Darling Downs - Maranoa,2016-17,1 year,228,208,20,91.2,
+QLD,False,308,Fitzroy,2016-17,1 year,373,343,30,92,
+QLD,False,309,Gold Coast,2016-17,1 year,197,183,14,92.9,
+QLD,False,310,Ipswich,2016-17,1 year,387,368,19,95.1,
+QLD,False,311,Logan - Beaudesert,2016-17,1 year,354,329,25,92.9,
+QLD,False,312,Mackay,2016-17,1 year,233,219,14,94,
+QLD,False,313,Moreton Bay - North,2016-17,1 year,263,242,21,92,
+QLD,False,314,Moreton Bay - South,2016-17,1 year,NP,NP,NP,97.7,
+QLD,False,315,Queensland - Outback,2016-17,1 year,648,611,37,94.3,
+QLD,False,316,Sunshine Coast,2016-17,1 year,138,121,17,87.7,
+QLD,False,317,Toowoomba,2016-17,1 year,201,188,13,93.5,
+QLD,False,318,Townsville,2016-17,1 year,603,538,65,89.2,
+QLD,False,319,Wide Bay,2016-17,1 year,424,384,40,90.6,
+SA,True,401,Adelaide - Central and Hills,2016-17,1 year,NP,NP,NP,87.9,#
+SA,True,402,Adelaide - North,2016-17,1 year,278,255,23,91.7,
+SA,True,403,Adelaide - South,2016-17,1 year,96,88,8,91.7,#
+SA,True,404,Adelaide - West,2016-17,1 year,105,89,16,84.8,
+SA,True,405,Barossa - Yorke - Mid North,2016-17,1 year,55,49,6,89.1,#
+SA,True,406,South Australia - Outback,2016-17,1 year,198,188,10,94.9,
+SA,True,407,South Australia - South East,2016-17,1 year,109,102,7,93.6,
+WA,False,501,Bunbury,2016-17,1 year,94,85,9,90.4,#
+WA,False,502,Mandurah,2016-17,1 year,63,55,8,87.3,#
+WA,False,503,Perth - Inner,2016-17,1 year,NP,NP,NP,85.7,#
+WA,False,504,Perth - North East,2016-17,1 year,166,142,24,85.5,
+WA,False,505,Perth - North West,2016-17,1 year,168,143,25,85.1,
+WA,False,506,Perth - South East,2016-17,1 year,280,225,55,80.4,
+WA,False,507,Perth - South West,2016-17,1 year,174,160,14,92,
+WA,False,508,Western Australia - Outback,2016-17,1 year,975,883,92,90.6,
+WA,False,509,Western Australia - Wheat Belt,2016-17,1 year,179,171,8,95.5,
+TAS,False,601,Hobart,2016-17,1 year,154,146,8,94.8,
+TAS,False,602,Launceston and North East,2016-17,1 year,101,85,16,84.2,
+TAS,False,603,South East,2016-17,1 year,NP,NP,NP,95.3,#
+TAS,False,604,West and North West,2016-17,1 year,NP,NP,NP,95.9,
+NT,False,701,Darwin,2016-17,1 year,392,353,39,90.1,
+NT,False,702,Northern Territory - Outback,2016-17,1 year,897,825,72,92,
+ACT,False,801,Australian Capital Territory,2016-17,1 year,125,119,6,95.2,
+OTH,False,901,Other Territories,2016-17,1 year,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2016-17,2 years,178,156,22,87.6,
+NSW,False,102,Central Coast,2016-17,2 years,258,242,16,93.8,
+NSW,False,103,Central West,2016-17,2 years,344,322,22,93.6,
+NSW,False,104,Coffs Harbour - Grafton,2016-17,2 years,165,156,9,94.5,
+NSW,False,105,Far West and Orana,2016-17,2 years,524,453,71,86.5,
+NSW,False,106,Hunter Valley exc Newcastle,2016-17,2 years,353,330,23,93.5,
+NSW,False,107,Illawarra,2016-17,2 years,208,189,19,90.9,
+NSW,False,108,Mid North Coast,2016-17,2 years,410,375,35,91.5,
+NSW,False,109,Murray,2016-17,2 years,138,120,18,87,
+NSW,False,110,New England and North West,2016-17,2 years,544,484,60,89,
+NSW,False,111,Newcastle and Lake Macquarie,2016-17,2 years,298,279,19,93.6,
+NSW,False,112,Richmond - Tweed,2016-17,2 years,252,225,27,89.3,
+NSW,False,113,Riverina,2016-17,2 years,233,208,25,89.3,
+NSW,False,114,Southern Highlands and Shoalhaven,2016-17,2 years,171,159,12,93,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2016-17,2 years,NP,NP,NP,94.1,#
+NSW,False,116,Sydney - Blacktown,2016-17,2 years,238,205,33,86.1,
+NSW,False,117,Sydney - City and Inner South,2016-17,2 years,86,79,7,91.9,#
+NSW,False,118,Sydney - Eastern Suburbs,2016-17,2 years,37,31,6,83.8,#
+NSW,False,119,Sydney - Inner South West,2016-17,2 years,60,54,6,90,#
+NSW,False,120,Sydney - Inner West,2016-17,2 years,NP,NP,NP,93.3,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2016-17,2 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2016-17,2 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2016-17,2 years,183,169,14,92.3,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2016-17,2 years,226,207,19,91.6,
+NSW,False,125,Sydney - Parramatta,2016-17,2 years,64,58,6,90.6,#
+NSW,False,126,Sydney - Ryde,2016-17,2 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2016-17,2 years,NP,NP,NP,93.4,#
+NSW,False,128,Sydney - Sutherland,2016-17,2 years,NP,NP,NP,91.7,#
+VIC,False,201,Ballarat,2016-17,2 years,81,75,6,92.6,#
+VIC,False,202,Bendigo,2016-17,2 years,NP,NP,NP,89.6,#
+VIC,False,203,Geelong,2016-17,2 years,107,101,6,94.4,
+VIC,False,204,Hume,2016-17,2 years,75,67,8,89.3,#
+VIC,False,205,Latrobe - Gippsland,2016-17,2 years,123,107,16,87,
+VIC,False,206,Melbourne - Inner,2016-17,2 years,NP,NP,NP,91.9,#
+VIC,False,207,Melbourne - Inner East,2016-17,2 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2016-17,2 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2016-17,2 years,96,89,7,92.7,#
+VIC,False,210,Melbourne - North West,2016-17,2 years,NP,NP,NP,92.2,#
+VIC,False,211,Melbourne - Outer East,2016-17,2 years,NP,NP,NP,94.5,#
+VIC,False,212,Melbourne - South East,2016-17,2 years,74,64,10,86.5,#
+VIC,False,213,Melbourne - West,2016-17,2 years,193,179,14,92.7,
+VIC,False,214,Mornington Peninsula,2016-17,2 years,NP,NP,NP,90.9,#
+VIC,False,215,North West,2016-17,2 years,134,104,30,77.6,
+VIC,False,216,Shepparton,2016-17,2 years,180,167,13,92.8,
+VIC,False,217,Warrnambool and South West,2016-17,2 years,57,46,11,80.7,#
+QLD,False,301,Brisbane - East,2016-17,2 years,128,111,17,86.7,
+QLD,False,302,Brisbane - North,2016-17,2 years,125,109,16,87.2,
+QLD,False,303,Brisbane - South,2016-17,2 years,80,71,9,88.8,#
+QLD,False,304,Brisbane - West,2016-17,2 years,NP,NP,NP,87.1,#
+QLD,False,305,Brisbane Inner City,2016-17,2 years,50,41,9,82,#
+QLD,False,306,Cairns,2016-17,2 years,739,653,86,88.4,
+QLD,False,307,Darling Downs - Maranoa,2016-17,2 years,229,206,23,90,
+QLD,False,308,Fitzroy,2016-17,2 years,419,368,51,87.8,
+QLD,False,309,Gold Coast,2016-17,2 years,191,174,17,91.1,
+QLD,False,310,Ipswich,2016-17,2 years,367,334,33,91,
+QLD,False,311,Logan - Beaudesert,2016-17,2 years,331,292,39,88.2,
+QLD,False,312,Mackay,2016-17,2 years,252,223,29,88.5,
+QLD,False,313,Moreton Bay - North,2016-17,2 years,265,232,33,87.5,
+QLD,False,314,Moreton Bay - South,2016-17,2 years,126,115,11,91.3,
+QLD,False,315,Queensland - Outback,2016-17,2 years,684,622,62,90.9,
+QLD,False,316,Sunshine Coast,2016-17,2 years,131,117,14,89.3,
+QLD,False,317,Toowoomba,2016-17,2 years,211,189,22,89.6,
+QLD,False,318,Townsville,2016-17,2 years,597,515,82,86.3,
+QLD,False,319,Wide Bay,2016-17,2 years,417,371,46,89,
+SA,True,401,Adelaide - Central and Hills,2016-17,2 years,NP,NP,NP,83.9,#
+SA,True,402,Adelaide - North,2016-17,2 years,278,246,32,88.5,
+SA,True,403,Adelaide - South,2016-17,2 years,99,90,9,90.9,#
+SA,True,404,Adelaide - West,2016-17,2 years,97,80,17,82.5,#
+SA,True,405,Barossa - Yorke - Mid North,2016-17,2 years,NP,NP,NP,94,#
+SA,True,406,South Australia - Outback,2016-17,2 years,183,158,25,86.3,
+SA,True,407,South Australia - South East,2016-17,2 years,106,96,10,90.6,
+WA,False,501,Bunbury,2016-17,2 years,102,91,11,89.2,
+WA,False,502,Mandurah,2016-17,2 years,NP,NP,NP,97.1,#
+WA,False,503,Perth - Inner,2016-17,2 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2016-17,2 years,159,135,24,84.9,
+WA,False,505,Perth - North West,2016-17,2 years,170,137,33,80.6,
+WA,False,506,Perth - South East,2016-17,2 years,294,220,74,74.8,
+WA,False,507,Perth - South West,2016-17,2 years,196,161,35,82.1,
+WA,False,508,Western Australia - Outback,2016-17,2 years,954,794,160,83.2,
+WA,False,509,Western Australia - Wheat Belt,2016-17,2 years,156,150,6,96.2,
+TAS,False,601,Hobart,2016-17,2 years,165,153,12,92.7,
+TAS,False,602,Launceston and North East,2016-17,2 years,106,96,10,90.6,
+TAS,False,603,South East,2016-17,2 years,NP,NP,NP,93.2,#
+TAS,False,604,West and North West,2016-17,2 years,146,129,17,88.4,
+NT,False,701,Darwin,2016-17,2 years,408,355,53,87,
+NT,False,702,Northern Territory - Outback,2016-17,2 years,939,799,140,85.1,
+ACT,False,801,Australian Capital Territory,2016-17,2 years,141,125,16,88.7,
+OTH,False,901,Other Territories,2016-17,2 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2016-17,5 years,155,147,8,94.8,
+NSW,False,102,Central Coast,2016-17,5 years,NP,NP,NP,97.9,
+NSW,False,103,Central West,2016-17,5 years,332,320,12,96.4,
+NSW,False,104,Coffs Harbour - Grafton,2016-17,5 years,175,169,6,96.6,
+NSW,False,105,Far West and Orana,2016-17,5 years,531,515,16,97,
+NSW,False,106,Hunter Valley exc Newcastle,2016-17,5 years,314,305,9,97.1,
+NSW,False,107,Illawarra,2016-17,5 years,218,211,7,96.8,
+NSW,False,108,Mid North Coast,2016-17,5 years,351,341,10,97.2,
+NSW,False,109,Murray,2016-17,5 years,NP,NP,NP,97.2,
+NSW,False,110,New England and North West,2016-17,5 years,523,497,26,95,
+NSW,False,111,Newcastle and Lake Macquarie,2016-17,5 years,NP,NP,NP,98.4,
+NSW,False,112,Richmond - Tweed,2016-17,5 years,240,231,9,96.3,
+NSW,False,113,Riverina,2016-17,5 years,NP,NP,NP,98.1,
+NSW,False,114,Southern Highlands and Shoalhaven,2016-17,5 years,NP,NP,NP,97.6,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2016-17,5 years,NP,NP,NP,96.3,#
+NSW,False,116,Sydney - Blacktown,2016-17,5 years,216,206,10,95.4,
+NSW,False,117,Sydney - City and Inner South,2016-17,5 years,82,76,6,92.7,#
+NSW,False,118,Sydney - Eastern Suburbs,2016-17,5 years,NP,NP,NP,94.3,#
+NSW,False,119,Sydney - Inner South West,2016-17,5 years,NP,NP,NP,96.7,#
+NSW,False,120,Sydney - Inner West,2016-17,5 years,NP,NP,NP,NP,
+NSW,False,121,Sydney - North Sydney and Hornsby,2016-17,5 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2016-17,5 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2016-17,5 years,NP,NP,NP,98,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2016-17,5 years,NP,NP,NP,98.3,
+NSW,False,125,Sydney - Parramatta,2016-17,5 years,NP,NP,NP,94.4,#
+NSW,False,126,Sydney - Ryde,2016-17,5 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2016-17,5 years,NP,NP,NP,97.1,
+NSW,False,128,Sydney - Sutherland,2016-17,5 years,NP,NP,NP,93.3,#
+VIC,False,201,Ballarat,2016-17,5 years,NP,NP,NP,93,#
+VIC,False,202,Bendigo,2016-17,5 years,NP,NP,NP,96.2,#
+VIC,False,203,Geelong,2016-17,5 years,84,72,12,85.7,#
+VIC,False,204,Hume,2016-17,5 years,NP,NP,NP,92.6,#
+VIC,False,205,Latrobe - Gippsland,2016-17,5 years,NP,NP,NP,96.4,
+VIC,False,206,Melbourne - Inner,2016-17,5 years,NP,NP,NP,86.8,#
+VIC,False,207,Melbourne - Inner East,2016-17,5 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2016-17,5 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2016-17,5 years,NP,NP,NP,98.8,#
+VIC,False,210,Melbourne - North West,2016-17,5 years,NP,NP,NP,93.6,#
+VIC,False,211,Melbourne - Outer East,2016-17,5 years,NP,NP,NP,95.6,#
+VIC,False,212,Melbourne - South East,2016-17,5 years,NP,NP,NP,93,#
+VIC,False,213,Melbourne - West,2016-17,5 years,157,147,10,93.6,
+VIC,False,214,Mornington Peninsula,2016-17,5 years,NP,NP,NP,94.7,#
+VIC,False,215,North West,2016-17,5 years,101,95,6,94.1,
+VIC,False,216,Shepparton,2016-17,5 years,144,136,8,94.4,
+VIC,False,217,Warrnambool and South West,2016-17,5 years,NP,NP,NP,89.6,#
+QLD,False,301,Brisbane - East,2016-17,5 years,NP,NP,NP,96,
+QLD,False,302,Brisbane - North,2016-17,5 years,NP,NP,NP,96.2,
+QLD,False,303,Brisbane - South,2016-17,5 years,NP,NP,NP,96.1,#
+QLD,False,304,Brisbane - West,2016-17,5 years,NP,NP,NP,NP,
+QLD,False,305,Brisbane Inner City,2016-17,5 years,NP,NP,NP,95.1,#
+QLD,False,306,Cairns,2016-17,5 years,708,691,17,97.6,
+QLD,False,307,Darling Downs - Maranoa,2016-17,5 years,208,202,6,97.1,
+QLD,False,308,Fitzroy,2016-17,5 years,377,364,13,96.6,
+QLD,False,309,Gold Coast,2016-17,5 years,199,190,9,95.5,
+QLD,False,310,Ipswich,2016-17,5 years,318,306,12,96.2,
+QLD,False,311,Logan - Beaudesert,2016-17,5 years,304,286,18,94.1,
+QLD,False,312,Mackay,2016-17,5 years,205,198,7,96.6,
+QLD,False,313,Moreton Bay - North,2016-17,5 years,240,233,7,97.1,
+QLD,False,314,Moreton Bay - South,2016-17,5 years,NP,NP,NP,96.5,
+QLD,False,315,Queensland - Outback,2016-17,5 years,716,695,21,97.1,
+QLD,False,316,Sunshine Coast,2016-17,5 years,123,116,7,94.3,
+QLD,False,317,Toowoomba,2016-17,5 years,191,181,10,94.8,
+QLD,False,318,Townsville,2016-17,5 years,552,532,20,96.4,
+QLD,False,319,Wide Bay,2016-17,5 years,411,390,21,94.9,
+SA,True,401,Adelaide - Central and Hills,2016-17,5 years,NP,NP,NP,93.3,#
+SA,True,402,Adelaide - North,2016-17,5 years,254,240,14,94.5,
+SA,True,403,Adelaide - South,2016-17,5 years,103,91,12,88.3,
+SA,True,404,Adelaide - West,2016-17,5 years,93,82,11,88.2,#
+SA,True,405,Barossa - Yorke - Mid North,2016-17,5 years,NP,NP,NP,91.2,#
+SA,True,406,South Australia - Outback,2016-17,5 years,210,201,9,95.7,
+SA,True,407,South Australia - South East,2016-17,5 years,NP,NP,NP,98.3,
+WA,False,501,Bunbury,2016-17,5 years,114,108,6,94.7,
+WA,False,502,Mandurah,2016-17,5 years,NP,NP,NP,94,#
+WA,False,503,Perth - Inner,2016-17,5 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2016-17,5 years,136,121,15,89,
+WA,False,505,Perth - North West,2016-17,5 years,143,129,14,90.2,
+WA,False,506,Perth - South East,2016-17,5 years,287,268,19,93.4,
+WA,False,507,Perth - South West,2016-17,5 years,160,152,8,95,
+WA,False,508,Western Australia - Outback,2016-17,5 years,903,867,36,96,
+WA,False,509,Western Australia - Wheat Belt,2016-17,5 years,NP,NP,NP,96.7,
+TAS,False,601,Hobart,2016-17,5 years,NP,NP,NP,96.6,
+TAS,False,602,Launceston and North East,2016-17,5 years,120,111,9,92.5,
+TAS,False,603,South East,2016-17,5 years,NP,NP,NP,96,#
+TAS,False,604,West and North West,2016-17,5 years,NP,NP,NP,96.8,
+NT,False,701,Darwin,2016-17,5 years,364,348,16,95.6,
+NT,False,702,Northern Territory - Outback,2016-17,5 years,924,872,52,94.4,
+ACT,False,801,Australian Capital Territory,2016-17,5 years,120,114,6,95,
+OTH,False,901,Other Territories,2016-17,5 years,NP,NP,NP,NP,
+NSW,False,102,Central Coast,2015-16,1 year,247,237,10,95.9,
+NSW,False,103,Central West,2015-16,1 year,342,324,18,94.6,
+NSW,False,104,Coffs Harbour - Grafton,2015-16,1 year,160,153,7,95.6,
+NSW,False,105,Far West and Orana,2015-16,1 year,533,469,64,88,
+NSW,False,106,Hunter Valley exc Newcastle,2015-16,1 year,343,322,21,93.7,
+NSW,False,107,Illawarra,2015-16,1 year,217,201,16,92.6,
+NSW,False,108,Mid North Coast,2015-16,1 year,415,380,35,91.6,
+NSW,False,109,Murray,2015-16,1 year,143,136,7,95.1,
+NSW,False,110,New England and North West,2015-16,1 year,539,496,43,92.1,
+NSW,False,111,Newcastle and Lake Macquarie,2015-16,1 year,285,271,14,94.8,
+NSW,False,112,Richmond - Tweed,2015-16,1 year,242,223,19,92.1,
+NSW,False,113,Riverina,2015-16,1 year,220,199,21,90.5,
+NSW,False,114,Southern Highlands and Shoalhaven,2015-16,1 year,174,159,15,91.3,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2015-16,1 year,NP,NP,NP,NP,
+NSW,False,116,Sydney - Blacktown,2015-16,1 year,243,214,29,88.2,
+NSW,False,117,Sydney - City and Inner South,2015-16,1 year,86,80,6,92.4,#
+NSW,False,118,Sydney - Eastern Suburbs,2015-16,1 year,NP,NP,NP,87.5,#
+NSW,False,119,Sydney - Inner South West,2015-16,1 year,NP,NP,NP,94.7,#
+NSW,False,120,Sydney - Inner West,2015-16,1 year,NP,NP,NP,93,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2015-16,1 year,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2015-16,1 year,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2015-16,1 year,181,162,19,89.5,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2015-16,1 year,210,193,17,91.9,
+NSW,False,125,Sydney - Parramatta,2015-16,1 year,66,58,8,86.8,#
+NSW,False,126,Sydney - Ryde,2015-16,1 year,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2015-16,1 year,NP,NP,NP,94.9,#
+NSW,False,128,Sydney - Sutherland,2015-16,1 year,NP,NP,NP,97.1,#
+VIC,False,201,Ballarat,2015-16,1 year,NP,NP,NP,94.5,#
+VIC,False,202,Bendigo,2015-16,1 year,NP,NP,NP,90.3,#
+VIC,False,203,Geelong,2015-16,1 year,NP,NP,NP,96.2,#
+VIC,False,204,Hume,2015-16,1 year,71,65,6,91.6,#
+VIC,False,205,Latrobe - Gippsland,2015-16,1 year,120,110,10,91.7,
+VIC,False,206,Melbourne - Inner,2015-16,1 year,NP,NP,NP,89.9,#
+VIC,False,207,Melbourne - Inner East,2015-16,1 year,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2015-16,1 year,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2015-16,1 year,93,83,10,89.1,#
+VIC,False,210,Melbourne - North West,2015-16,1 year,52,45,7,86.2,#
+VIC,False,211,Melbourne - Outer East,2015-16,1 year,75,68,7,89.6,#
+VIC,False,212,Melbourne - South East,2015-16,1 year,69,60,9,86.8,#
+VIC,False,213,Melbourne - West,2015-16,1 year,183,169,14,92.3,
+VIC,False,214,Mornington Peninsula,2015-16,1 year,NP,NP,NP,100,#
+VIC,False,215,North West,2015-16,1 year,129,108,21,83.7,
+VIC,False,216,Shepparton,2015-16,1 year,186,166,20,89.2,
+VIC,False,217,Warrnambool and South West,2015-16,1 year,59,53,6,89.8,#
+QLD,False,301,Brisbane - East,2015-16,1 year,129,109,20,84.5,
+QLD,False,302,Brisbane - North,2015-16,1 year,139,125,14,90.1,
+QLD,False,303,Brisbane - South,2015-16,1 year,81,70,11,85.9,#
+QLD,False,304,Brisbane - West,2015-16,1 year,NP,NP,NP,89.7,#
+QLD,False,305,Brisbane Inner City,2015-16,1 year,58,51,7,87.7,#
+QLD,False,306,Cairns,2015-16,1 year,736,617,119,83.9,
+QLD,False,307,Darling Downs - Maranoa,2015-16,1 year,233,203,30,87.1,
+QLD,False,308,Fitzroy,2015-16,1 year,399,351,48,88,
+QLD,False,309,Gold Coast,2015-16,1 year,185,169,16,91.6,
+QLD,False,310,Ipswich,2015-16,1 year,354,317,37,89.6,
+QLD,False,311,Logan - Beaudesert,2015-16,1 year,312,271,41,86.7,
+QLD,False,312,Mackay,2015-16,1 year,253,233,20,92.1,
+QLD,False,313,Moreton Bay - North,2015-16,1 year,256,225,31,87.9,
+QLD,False,314,Moreton Bay - South,2015-16,1 year,109,102,7,93.1,
+QLD,False,315,Queensland - Outback,2015-16,1 year,722,666,56,92.2,
+QLD,False,316,Sunshine Coast,2015-16,1 year,140,121,19,86.4,
+QLD,False,317,Toowoomba,2015-16,1 year,212,196,16,92.5,
+QLD,False,318,Townsville,2015-16,1 year,588,491,97,83.5,
+QLD,False,319,Wide Bay,2015-16,1 year,398,358,40,90,
+SA,True,401,Adelaide - Central and Hills,2015-16,1 year,NP,NP,NP,90.1,#
+SA,True,402,Adelaide - North,2015-16,1 year,255,227,28,89,
+SA,True,403,Adelaide - South,2015-16,1 year,NP,NP,NP,95.2,#
+SA,True,404,Adelaide - West,2015-16,1 year,98,86,12,87.3,#
+SA,True,405,Barossa - Yorke - Mid North,2015-16,1 year,NP,NP,NP,98,#
+SA,True,406,South Australia - Outback,2015-16,1 year,196,176,20,89.8,
+SA,True,407,South Australia - South East,2015-16,1 year,107,99,8,92.5,
+WA,False,501,Bunbury,2015-16,1 year,93,77,16,82.8,#
+WA,False,502,Mandurah,2015-16,1 year,66,60,6,90.9,#
+WA,False,503,Perth - Inner,2015-16,1 year,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2015-16,1 year,171,134,37,78.1,
+WA,False,505,Perth - North West,2015-16,1 year,156,113,43,72.4,
+WA,False,506,Perth - South East,2015-16,1 year,272,207,65,76.1,
+WA,False,507,Perth - South West,2015-16,1 year,158,134,24,84.8,
+WA,False,508,Western Australia - Outback,2015-16,1 year,950,832,118,87.6,
+WA,False,509,Western Australia - Wheat Belt,2015-16,1 year,166,150,16,90.4,
+TAS,False,601,Hobart,2015-16,1 year,156,149,7,95.9,
+TAS,False,602,Launceston and North East,2015-16,1 year,107,100,7,93.4,
+TAS,False,603,South East,2015-16,1 year,NP,NP,NP,95.3,#
+TAS,False,604,West and North West,2015-16,1 year,132,122,10,92.4,
+NT,False,701,Darwin,2015-16,1 year,414,377,37,91.1,
+NT,False,702,Northern Territory - Outback,2015-16,1 year,965,906,59,93.9,
+ACT,False,801,Australian Capital Territory,2015-16,1 year,139,130,9,93.5,
+OTH,False,901,Other Territories,2015-16,1 year,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2015-16,2 years,165,147,18,89.1,
+NSW,False,102,Central Coast,2015-16,2 years,264,244,20,92.5,
+NSW,False,103,Central West,2015-16,2 years,334,311,23,93.2,
+NSW,False,104,Coffs Harbour - Grafton,2015-16,2 years,156,150,6,96,
+NSW,False,105,Far West and Orana,2015-16,2 years,539,457,82,84.7,
+NSW,False,106,Hunter Valley exc Newcastle,2015-16,2 years,329,302,27,91.8,
+NSW,False,107,Illawarra,2015-16,2 years,171,158,13,92.4,
+NSW,False,108,Mid North Coast,2015-16,2 years,350,328,22,93.7,
+NSW,False,109,Murray,2015-16,2 years,117,111,6,94.1,
+NSW,False,110,New England and North West,2015-16,2 years,530,470,60,88.6,
+NSW,False,111,Newcastle and Lake Macquarie,2015-16,2 years,253,237,16,93.5,
+NSW,False,112,Richmond - Tweed,2015-16,2 years,275,235,40,85.6,
+NSW,False,113,Riverina,2015-16,2 years,214,186,28,86.9,
+NSW,False,114,Southern Highlands and Shoalhaven,2015-16,2 years,155,144,11,92.9,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2015-16,2 years,NP,NP,NP,88.7,#
+NSW,False,116,Sydney - Blacktown,2015-16,2 years,221,185,36,83.8,
+NSW,False,117,Sydney - City and Inner South,2015-16,2 years,68,59,9,86.1,#
+NSW,False,118,Sydney - Eastern Suburbs,2015-16,2 years,NP,NP,NP,85.3,#
+NSW,False,119,Sydney - Inner South West,2015-16,2 years,65,58,7,89.2,#
+NSW,False,120,Sydney - Inner West,2015-16,2 years,NP,NP,NP,94.7,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2015-16,2 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2015-16,2 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2015-16,2 years,160,148,12,92.5,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2015-16,2 years,185,163,22,88.3,
+NSW,False,125,Sydney - Parramatta,2015-16,2 years,65,58,7,89.2,#
+NSW,False,126,Sydney - Ryde,2015-16,2 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2015-16,2 years,81,75,6,92.6,#
+NSW,False,128,Sydney - Sutherland,2015-16,2 years,NP,NP,NP,94.7,#
+VIC,False,201,Ballarat,2015-16,2 years,51,45,6,88.2,#
+VIC,False,202,Bendigo,2015-16,2 years,49,43,6,87.7,#
+VIC,False,203,Geelong,2015-16,2 years,56,45,11,80.4,#
+VIC,False,204,Hume,2015-16,2 years,NP,NP,NP,95.5,#
+VIC,False,205,Latrobe - Gippsland,2015-16,2 years,122,106,16,86.8,
+VIC,False,206,Melbourne - Inner,2015-16,2 years,49,38,11,78,#
+VIC,False,207,Melbourne - Inner East,2015-16,2 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2015-16,2 years,NP,NP,NP,92.8,#
+VIC,False,209,Melbourne - North East,2015-16,2 years,67,56,11,83,#
+VIC,False,210,Melbourne - North West,2015-16,2 years,44,38,6,86.9,#
+VIC,False,211,Melbourne - Outer East,2015-16,2 years,67,60,7,88.8,#
+VIC,False,212,Melbourne - South East,2015-16,2 years,77,71,6,92,#
+VIC,False,213,Melbourne - West,2015-16,2 years,160,141,19,87.9,
+VIC,False,214,Mornington Peninsula,2015-16,2 years,54,44,10,81.7,#
+VIC,False,215,North West,2015-16,2 years,137,119,18,86.9,
+VIC,False,216,Shepparton,2015-16,2 years,119,100,19,84,
+VIC,False,217,Warrnambool and South West,2015-16,2 years,NP,NP,NP,90,#
+QLD,False,301,Brisbane - East,2015-16,2 years,107,90,17,84.1,
+QLD,False,302,Brisbane - North,2015-16,2 years,124,112,12,90,
+QLD,False,303,Brisbane - South,2015-16,2 years,84,74,10,87.7,#
+QLD,False,304,Brisbane - West,2015-16,2 years,NP,NP,NP,91.5,#
+QLD,False,305,Brisbane Inner City,2015-16,2 years,51,42,9,82.8,#
+QLD,False,306,Cairns,2015-16,2 years,710,627,83,88.2,
+QLD,False,307,Darling Downs - Maranoa,2015-16,2 years,209,175,34,83.5,
+QLD,False,308,Fitzroy,2015-16,2 years,371,307,64,82.8,
+QLD,False,309,Gold Coast,2015-16,2 years,169,149,20,88.1,
+QLD,False,310,Ipswich,2015-16,2 years,320,282,38,88.1,
+QLD,False,311,Logan - Beaudesert,2015-16,2 years,299,269,30,90,
+QLD,False,312,Mackay,2015-16,2 years,220,201,19,91.3,
+QLD,False,313,Moreton Bay - North,2015-16,2 years,268,236,32,88,
+QLD,False,314,Moreton Bay - South,2015-16,2 years,108,99,9,91.8,
+QLD,False,315,Queensland - Outback,2015-16,2 years,670,611,59,91.1,
+QLD,False,316,Sunshine Coast,2015-16,2 years,137,115,22,84,
+QLD,False,317,Toowoomba,2015-16,2 years,184,161,23,87.3,
+QLD,False,318,Townsville,2015-16,2 years,518,429,89,82.8,
+QLD,False,319,Wide Bay,2015-16,2 years,381,332,49,87.1,
+SA,True,401,Adelaide - Central and Hills,2015-16,2 years,NP,NP,NP,91,#
+SA,True,402,Adelaide - North,2015-16,2 years,244,212,32,86.9,
+SA,True,403,Adelaide - South,2015-16,2 years,90,77,13,85.9,#
+SA,True,404,Adelaide - West,2015-16,2 years,83,62,21,74.1,#
+SA,True,405,Barossa - Yorke - Mid North,2015-16,2 years,51,45,6,88.2,#
+SA,True,406,South Australia - Outback,2015-16,2 years,209,176,33,84.2,
+SA,True,407,South Australia - South East,2015-16,2 years,124,112,12,90.3,
+WA,False,501,Bunbury,2015-16,2 years,94,80,14,85.1,#
+WA,False,502,Mandurah,2015-16,2 years,47,39,8,83,#
+WA,False,503,Perth - Inner,2015-16,2 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2015-16,2 years,151,124,27,82.5,
+WA,False,505,Perth - North West,2015-16,2 years,161,128,33,79.5,
+WA,False,506,Perth - South East,2015-16,2 years,278,198,80,71.2,
+WA,False,507,Perth - South West,2015-16,2 years,174,141,33,81,
+WA,False,508,Western Australia - Outback,2015-16,2 years,927,815,112,87.9,
+WA,False,509,Western Australia - Wheat Belt,2015-16,2 years,176,159,17,90.3,
+TAS,False,601,Hobart,2015-16,2 years,133,123,10,92.1,
+TAS,False,602,Launceston and North East,2015-16,2 years,103,92,11,89.6,
+TAS,False,603,South East,2015-16,2 years,NP,NP,NP,93.8,#
+TAS,False,604,West and North West,2015-16,2 years,119,103,16,86.6,
+NT,False,701,Darwin,2015-16,2 years,390,345,45,88.4,
+NT,False,702,Northern Territory - Outback,2015-16,2 years,858,752,106,87.7,
+ACT,False,801,Australian Capital Territory,2015-16,2 years,134,112,22,83.6,
+NSW,False,101,Capital Region,2015-16,5 years,NP,NP,NP,98.1,
+NSW,False,102,Central Coast,2015-16,5 years,NP,NP,NP,98.3,
+NSW,False,103,Central West,2015-16,5 years,280,273,7,97.5,
+NSW,False,104,Coffs Harbour - Grafton,2015-16,5 years,152,146,6,96,
+NSW,False,105,Far West and Orana,2015-16,5 years,449,429,20,95.6,
+NSW,False,106,Hunter Valley exc Newcastle,2015-16,5 years,277,270,7,97.7,
+NSW,False,107,Illawarra,2015-16,5 years,NP,NP,NP,96.7,
+NSW,False,108,Mid North Coast,2015-16,5 years,324,318,6,98.1,
+NSW,False,109,Murray,2015-16,5 years,NP,NP,NP,100,
+NSW,False,110,New England and North West,2015-16,5 years,475,448,27,94.3,
+NSW,False,111,Newcastle and Lake Macquarie,2015-16,5 years,250,240,10,96.2,
+NSW,False,112,Richmond - Tweed,2015-16,5 years,251,234,17,93.2,
+NSW,False,113,Riverina,2015-16,5 years,202,192,10,95.1,
+NSW,False,114,Southern Highlands and Shoalhaven,2015-16,5 years,168,162,6,96.4,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2015-16,5 years,NP,NP,NP,94.3,#
+NSW,False,116,Sydney - Blacktown,2015-16,5 years,193,179,14,92.7,
+NSW,False,117,Sydney - City and Inner South,2015-16,5 years,86,80,6,92.9,#
+NSW,False,118,Sydney - Eastern Suburbs,2015-16,5 years,NP,NP,NP,87.7,#
+NSW,False,119,Sydney - Inner South West,2015-16,5 years,NP,NP,NP,94.3,#
+NSW,False,120,Sydney - Inner West,2015-16,5 years,NP,NP,NP,NP,
+NSW,False,121,Sydney - North Sydney and Hornsby,2015-16,5 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2015-16,5 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2015-16,5 years,167,154,13,92.2,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2015-16,5 years,NP,NP,NP,97.4,
+NSW,False,125,Sydney - Parramatta,2015-16,5 years,NP,NP,NP,91.5,#
+NSW,False,126,Sydney - Ryde,2015-16,5 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2015-16,5 years,114,108,6,94.7,
+NSW,False,128,Sydney - Sutherland,2015-16,5 years,NP,NP,NP,92.6,#
+VIC,False,201,Ballarat,2015-16,5 years,NP,NP,NP,97.2,#
+VIC,False,202,Bendigo,2015-16,5 years,NP,NP,NP,97.3,#
+VIC,False,203,Geelong,2015-16,5 years,46,39,7,84.8,#
+VIC,False,204,Hume,2015-16,5 years,NP,NP,NP,94.3,#
+VIC,False,205,Latrobe - Gippsland,2015-16,5 years,109,103,6,93.8,
+VIC,False,206,Melbourne - Inner,2015-16,5 years,NP,NP,NP,92,#
+VIC,False,207,Melbourne - Inner East,2015-16,5 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2015-16,5 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2015-16,5 years,68,62,6,91.3,#
+VIC,False,210,Melbourne - North West,2015-16,5 years,NP,NP,NP,97.4,#
+VIC,False,211,Melbourne - Outer East,2015-16,5 years,NP,NP,NP,96.9,#
+VIC,False,212,Melbourne - South East,2015-16,5 years,NP,NP,NP,93.2,#
+VIC,False,213,Melbourne - West,2015-16,5 years,NP,NP,NP,96.8,
+VIC,False,214,Mornington Peninsula,2015-16,5 years,NP,NP,NP,96.1,#
+VIC,False,215,North West,2015-16,5 years,NP,NP,NP,98.2,
+VIC,False,216,Shepparton,2015-16,5 years,109,99,10,90.8,
+VIC,False,217,Warrnambool and South West,2015-16,5 years,38,32,6,84.2,#
+QLD,False,301,Brisbane - East,2015-16,5 years,NP,NP,NP,95.2,
+QLD,False,302,Brisbane - North,2015-16,5 years,83,76,7,92.3,#
+QLD,False,303,Brisbane - South,2015-16,5 years,81,70,11,86.4,#
+QLD,False,304,Brisbane - West,2015-16,5 years,NP,NP,NP,89.3,#
+QLD,False,305,Brisbane Inner City,2015-16,5 years,NP,NP,NP,91.9,#
+QLD,False,306,Cairns,2015-16,5 years,781,754,27,96.6,
+QLD,False,307,Darling Downs - Maranoa,2015-16,5 years,212,196,16,92.3,
+QLD,False,308,Fitzroy,2015-16,5 years,341,316,25,92.7,
+QLD,False,309,Gold Coast,2015-16,5 years,NP,NP,NP,98.8,
+QLD,False,310,Ipswich,2015-16,5 years,300,281,19,93.7,
+QLD,False,311,Logan - Beaudesert,2015-16,5 years,276,262,14,95,
+QLD,False,312,Mackay,2015-16,5 years,211,203,8,96.2,
+QLD,False,313,Moreton Bay - North,2015-16,5 years,236,221,15,93.6,
+QLD,False,314,Moreton Bay - South,2015-16,5 years,NP,NP,NP,94.5,#
+QLD,False,315,Queensland - Outback,2015-16,5 years,733,704,29,96.1,
+QLD,False,316,Sunshine Coast,2015-16,5 years,143,131,12,91.6,
+QLD,False,317,Toowoomba,2015-16,5 years,156,142,14,91.2,
+QLD,False,318,Townsville,2015-16,5 years,543,512,31,94.4,
+QLD,False,319,Wide Bay,2015-16,5 years,367,340,27,92.6,
+SA,True,401,Adelaide - Central and Hills,2015-16,5 years,37,31,6,83.9,#
+SA,True,402,Adelaide - North,2015-16,5 years,236,222,14,94.1,
+SA,True,403,Adelaide - South,2015-16,5 years,NP,NP,NP,95,#
+SA,True,404,Adelaide - West,2015-16,5 years,92,81,11,89,#
+SA,True,405,Barossa - Yorke - Mid North,2015-16,5 years,NP,NP,NP,91.9,#
+SA,True,406,South Australia - Outback,2015-16,5 years,190,183,7,96.3,
+SA,True,407,South Australia - South East,2015-16,5 years,NP,NP,NP,98.9,#
+WA,False,501,Bunbury,2015-16,5 years,NP,NP,NP,96,#
+WA,False,502,Mandurah,2015-16,5 years,NP,NP,NP,97.9,#
+WA,False,503,Perth - Inner,2015-16,5 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2015-16,5 years,137,126,11,92.3,
+WA,False,505,Perth - North West,2015-16,5 years,165,145,20,87.9,
+WA,False,506,Perth - South East,2015-16,5 years,267,234,33,87.6,
+WA,False,507,Perth - South West,2015-16,5 years,152,138,14,90.8,
+WA,False,508,Western Australia - Outback,2015-16,5 years,935,892,43,95.4,
+WA,False,509,Western Australia - Wheat Belt,2015-16,5 years,161,155,6,96.3,
+TAS,False,601,Hobart,2015-16,5 years,150,142,8,95.1,
+TAS,False,602,Launceston and North East,2015-16,5 years,96,89,7,92.7,#
+TAS,False,603,South East,2015-16,5 years,NP,NP,NP,95.9,#
+TAS,False,604,West and North West,2015-16,5 years,NP,NP,NP,98.2,
+NT,False,701,Darwin,2015-16,5 years,390,366,24,93.8,
+NT,False,702,Northern Territory - Outback,2015-16,5 years,917,864,53,94.2,
+ACT,False,801,Australian Capital Territory,2015-16,5 years,128,117,11,91.4,
+OTH,False,901,Other Territories,2015-16,5 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2014-15,1 year,170,145,25,85.2,
+NSW,False,102,Central Coast,2014-15,1 year,249,236,13,94.7,
+NSW,False,103,Central West,2014-15,1 year,331,300,31,90.8,
+NSW,False,104,Coffs Harbour - Grafton,2014-15,1 year,157,147,10,93.4,
+NSW,False,105,Far West and Orana,2014-15,1 year,556,484,72,87,
+NSW,False,106,Hunter Valley exc Newcastle,2014-15,1 year,324,299,25,92,
+NSW,False,107,Illawarra,2014-15,1 year,163,149,14,91.4,
+NSW,False,108,Mid North Coast,2014-15,1 year,383,355,28,92.7,
+NSW,False,109,Murray,2014-15,1 year,120,110,10,91.7,
+NSW,False,110,New England and North West,2014-15,1 year,557,499,58,89.7,
+NSW,False,111,Newcastle and Lake Macquarie,2014-15,1 year,234,222,12,94.8,
+NSW,False,112,Richmond - Tweed,2014-15,1 year,276,243,33,88.3,
+NSW,False,113,Riverina,2014-15,1 year,205,186,19,90.7,
+NSW,False,114,Southern Highlands and Shoalhaven,2014-15,1 year,146,139,7,95.2,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2014-15,1 year,NP,NP,NP,NP,
+NSW,False,116,Sydney - Blacktown,2014-15,1 year,212,182,30,85.5,
+NSW,False,117,Sydney - City and Inner South,2014-15,1 year,80,73,7,91.1,#
+NSW,False,118,Sydney - Eastern Suburbs,2014-15,1 year,39,31,8,79.9,#
+NSW,False,119,Sydney - Inner South West,2014-15,1 year,60,54,6,90,#
+NSW,False,120,Sydney - Inner West,2014-15,1 year,NP,NP,NP,100,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2014-15,1 year,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2014-15,1 year,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2014-15,1 year,152,134,18,88.2,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2014-15,1 year,174,156,18,89.6,
+NSW,False,125,Sydney - Parramatta,2014-15,1 year,58,52,6,88.6,#
+NSW,False,126,Sydney - Ryde,2014-15,1 year,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2014-15,1 year,76,68,8,89.4,#
+NSW,False,128,Sydney - Sutherland,2014-15,1 year,NP,NP,NP,100,#
+VIC,False,201,Ballarat,2014-15,1 year,NP,NP,NP,89.9,#
+VIC,False,202,Bendigo,2014-15,1 year,NP,NP,NP,89.9,#
+VIC,False,203,Geelong,2014-15,1 year,56,45,11,80.4,#
+VIC,False,204,Hume,2014-15,1 year,NP,NP,NP,91.5,#
+VIC,False,205,Latrobe - Gippsland,2014-15,1 year,138,113,25,81.8,
+VIC,False,206,Melbourne - Inner,2014-15,1 year,57,51,6,89.5,#
+VIC,False,207,Melbourne - Inner East,2014-15,1 year,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2014-15,1 year,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2014-15,1 year,87,77,10,88.4,#
+VIC,False,210,Melbourne - North West,2014-15,1 year,42,33,9,78.6,#
+VIC,False,211,Melbourne - Outer East,2014-15,1 year,73,63,10,86.4,#
+VIC,False,212,Melbourne - South East,2014-15,1 year,72,61,11,85.3,#
+VIC,False,213,Melbourne - West,2014-15,1 year,163,146,17,89.6,
+VIC,False,214,Mornington Peninsula,2014-15,1 year,55,46,9,84.6,#
+VIC,False,215,North West,2014-15,1 year,136,107,29,78.7,
+VIC,False,216,Shepparton,2014-15,1 year,103,88,15,85.4,
+VIC,False,217,Warrnambool and South West,2014-15,1 year,NP,NP,NP,95.7,#
+QLD,False,301,Brisbane - East,2014-15,1 year,110,93,17,84.6,
+QLD,False,302,Brisbane - North,2014-15,1 year,105,97,8,92.3,
+QLD,False,303,Brisbane - South,2014-15,1 year,81,71,10,88.8,#
+QLD,False,304,Brisbane - West,2014-15,1 year,NP,NP,NP,86.5,#
+QLD,False,305,Brisbane Inner City,2014-15,1 year,46,39,7,84.8,#
+QLD,False,306,Cairns,2014-15,1 year,757,655,102,86.5,
+QLD,False,307,Darling Downs - Maranoa,2014-15,1 year,212,176,36,82.8,
+QLD,False,308,Fitzroy,2014-15,1 year,384,329,55,85.6,
+QLD,False,309,Gold Coast,2014-15,1 year,154,130,24,84.6,
+QLD,False,310,Ipswich,2014-15,1 year,320,284,36,88.8,
+QLD,False,311,Logan - Beaudesert,2014-15,1 year,278,246,32,88.4,
+QLD,False,312,Mackay,2014-15,1 year,220,198,22,90.2,
+QLD,False,313,Moreton Bay - North,2014-15,1 year,245,221,24,90.2,
+QLD,False,314,Moreton Bay - South,2014-15,1 year,93,87,6,93.1,#
+QLD,False,315,Queensland - Outback,2014-15,1 year,689,629,60,91.2,
+QLD,False,316,Sunshine Coast,2014-15,1 year,144,122,22,84.8,
+QLD,False,317,Toowoomba,2014-15,1 year,181,156,25,86,
+QLD,False,318,Townsville,2014-15,1 year,523,418,105,80,
+QLD,False,319,Wide Bay,2014-15,1 year,396,337,59,85.1,
+SA,True,401,Adelaide - Central and Hills,2014-15,1 year,NP,NP,NP,95.8,#
+SA,True,402,Adelaide - North,2014-15,1 year,232,205,27,88.2,
+SA,True,403,Adelaide - South,2014-15,1 year,91,79,12,86.8,#
+SA,True,404,Adelaide - West,2014-15,1 year,91,79,12,86.8,#
+SA,True,405,Barossa - Yorke - Mid North,2014-15,1 year,46,39,7,84.6,#
+SA,True,406,South Australia - Outback,2014-15,1 year,220,193,27,87.7,
+SA,True,407,South Australia - South East,2014-15,1 year,125,114,11,91.2,
+WA,False,501,Bunbury,2014-15,1 year,95,85,10,89.5,#
+WA,False,502,Mandurah,2014-15,1 year,41,33,8,80.5,#
+WA,False,503,Perth - Inner,2014-15,1 year,26,20,6,74.4,#
+WA,False,504,Perth - North East,2014-15,1 year,147,122,25,83,
+WA,False,505,Perth - North West,2014-15,1 year,153,121,32,78.9,
+WA,False,506,Perth - South East,2014-15,1 year,270,189,81,70,
+WA,False,507,Perth - South West,2014-15,1 year,159,132,27,83,
+WA,False,508,Western Australia - Outback,2014-15,1 year,936,819,117,87.5,
+WA,False,509,Western Australia - Wheat Belt,2014-15,1 year,185,168,17,90.8,
+TAS,False,601,Hobart,2014-15,1 year,122,104,18,84.9,
+TAS,False,602,Launceston and North East,2014-15,1 year,106,88,18,82.8,
+TAS,False,603,South East,2014-15,1 year,45,39,6,88.2,#
+TAS,False,604,West and North West,2014-15,1 year,118,107,11,90.7,
+NT,False,701,Darwin,2014-15,1 year,411,354,57,86.3,
+NT,False,702,Northern Territory - Outback,2014-15,1 year,1022,910,112,89,
+ACT,False,801,Australian Capital Territory,2014-15,1 year,127,118,9,92.9,
+NSW,False,101,Capital Region,2014-15,2 years,163,140,23,85.6,
+NSW,False,102,Central Coast,2014-15,2 years,260,234,26,89.8,
+NSW,False,103,Central West,2014-15,2 years,307,283,24,92,
+NSW,False,104,Coffs Harbour - Grafton,2014-15,2 years,169,154,15,91.2,
+NSW,False,105,Far West and Orana,2014-15,2 years,555,484,71,87.3,
+NSW,False,106,Hunter Valley exc Newcastle,2014-15,2 years,303,278,25,91.8,
+NSW,False,107,Illawarra,2014-15,2 years,174,151,23,86.8,
+NSW,False,108,Mid North Coast,2014-15,2 years,328,290,38,88.7,
+NSW,False,109,Murray,2014-15,2 years,102,94,8,92.1,
+NSW,False,110,New England and North West,2014-15,2 years,521,459,62,88,
+NSW,False,111,Newcastle and Lake Macquarie,2014-15,2 years,253,227,26,90,
+NSW,False,112,Richmond - Tweed,2014-15,2 years,258,228,30,88.2,
+NSW,False,113,Riverina,2014-15,2 years,194,165,29,85.1,
+NSW,False,114,Southern Highlands and Shoalhaven,2014-15,2 years,144,126,18,87.2,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2014-15,2 years,NP,NP,NP,87,#
+NSW,False,116,Sydney - Blacktown,2014-15,2 years,197,173,24,87.5,
+NSW,False,117,Sydney - City and Inner South,2014-15,2 years,NP,NP,NP,93.1,#
+NSW,False,118,Sydney - Eastern Suburbs,2014-15,2 years,NP,NP,NP,NP,
+NSW,False,119,Sydney - Inner South West,2014-15,2 years,65,59,6,91.7,#
+NSW,False,120,Sydney - Inner West,2014-15,2 years,NP,NP,NP,92.2,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2014-15,2 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2014-15,2 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2014-15,2 years,160,149,11,92.6,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2014-15,2 years,203,181,22,89.4,
+NSW,False,125,Sydney - Parramatta,2014-15,2 years,61,49,12,80,#
+NSW,False,126,Sydney - Ryde,2014-15,2 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2014-15,2 years,93,79,14,84.9,#
+NSW,False,128,Sydney - Sutherland,2014-15,2 years,NP,NP,NP,93.5,#
+VIC,False,201,Ballarat,2014-15,2 years,NP,NP,NP,93.7,#
+VIC,False,202,Bendigo,2014-15,2 years,53,43,10,81.2,#
+VIC,False,203,Geelong,2014-15,2 years,NP,NP,NP,89.1,#
+VIC,False,204,Hume,2014-15,2 years,NP,NP,NP,86.5,#
+VIC,False,205,Latrobe - Gippsland,2014-15,2 years,112,96,16,85.7,
+VIC,False,206,Melbourne - Inner,2014-15,2 years,NP,NP,NP,88.6,#
+VIC,False,207,Melbourne - Inner East,2014-15,2 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2014-15,2 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2014-15,2 years,75,60,15,80.1,#
+VIC,False,210,Melbourne - North West,2014-15,2 years,51,41,10,80.1,#
+VIC,False,211,Melbourne - Outer East,2014-15,2 years,65,53,12,81.6,#
+VIC,False,212,Melbourne - South East,2014-15,2 years,63,56,7,88.9,#
+VIC,False,213,Melbourne - West,2014-15,2 years,137,120,17,87.6,
+VIC,False,214,Mornington Peninsula,2014-15,2 years,NP,NP,NP,90.6,#
+VIC,False,215,North West,2014-15,2 years,120,94,26,78.3,
+VIC,False,216,Shepparton,2014-15,2 years,102,82,20,80.4,
+VIC,False,217,Warrnambool and South West,2014-15,2 years,54,47,7,87,#
+QLD,False,301,Brisbane - East,2014-15,2 years,122,104,18,85.2,
+QLD,False,302,Brisbane - North,2014-15,2 years,95,83,12,87,#
+QLD,False,303,Brisbane - South,2014-15,2 years,78,61,17,78.6,#
+QLD,False,304,Brisbane - West,2014-15,2 years,NP,NP,NP,NP,
+QLD,False,305,Brisbane Inner City,2014-15,2 years,NP,NP,NP,87.9,#
+QLD,False,306,Cairns,2014-15,2 years,805,724,81,89.9,
+QLD,False,307,Darling Downs - Maranoa,2014-15,2 years,217,181,36,83.7,
+QLD,False,308,Fitzroy,2014-15,2 years,395,342,53,86.6,
+QLD,False,309,Gold Coast,2014-15,2 years,159,141,18,88.3,
+QLD,False,310,Ipswich,2014-15,2 years,358,307,51,85.7,
+QLD,False,311,Logan - Beaudesert,2014-15,2 years,305,267,38,87.5,
+QLD,False,312,Mackay,2014-15,2 years,213,192,21,90.1,
+QLD,False,313,Moreton Bay - North,2014-15,2 years,214,190,24,88.8,
+QLD,False,314,Moreton Bay - South,2014-15,2 years,98,91,7,92.6,#
+QLD,False,315,Queensland - Outback,2014-15,2 years,665,597,68,89.8,
+QLD,False,316,Sunshine Coast,2014-15,2 years,141,118,23,83.7,
+QLD,False,317,Toowoomba,2014-15,2 years,182,157,25,86.1,
+QLD,False,318,Townsville,2014-15,2 years,549,441,108,80.4,
+QLD,False,319,Wide Bay,2014-15,2 years,405,355,50,87.6,
+SA,True,401,Adelaide - Central and Hills,2014-15,2 years,NP,NP,NP,83.1,#
+SA,True,402,Adelaide - North,2014-15,2 years,252,209,43,83,
+SA,True,403,Adelaide - South,2014-15,2 years,81,68,13,84,#
+SA,True,404,Adelaide - West,2014-15,2 years,77,59,18,76.7,#
+SA,True,405,Barossa - Yorke - Mid North,2014-15,2 years,NP,NP,NP,89.1,#
+SA,True,406,South Australia - Outback,2014-15,2 years,202,168,34,83.2,
+SA,True,407,South Australia - South East,2014-15,2 years,91,77,14,84.6,#
+WA,False,501,Bunbury,2014-15,2 years,107,91,16,85,
+WA,False,502,Mandurah,2014-15,2 years,NP,NP,NP,93.2,#
+WA,False,503,Perth - Inner,2014-15,2 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2014-15,2 years,152,115,37,75.6,
+WA,False,505,Perth - North West,2014-15,2 years,148,114,34,77.1,
+WA,False,506,Perth - South East,2014-15,2 years,303,231,72,76.2,
+WA,False,507,Perth - South West,2014-15,2 years,142,119,23,83.8,
+WA,False,508,Western Australia - Outback,2014-15,2 years,894,775,119,86.7,
+WA,False,509,Western Australia - Wheat Belt,2014-15,2 years,176,150,26,85.2,
+TAS,False,601,Hobart,2014-15,2 years,137,119,18,86.8,
+TAS,False,602,Launceston and North East,2014-15,2 years,105,83,22,79,
+TAS,False,603,South East,2014-15,2 years,NP,NP,NP,90.9,#
+TAS,False,604,West and North West,2014-15,2 years,137,114,23,83.2,
+NT,False,701,Darwin,2014-15,2 years,363,326,37,89.9,
+NT,False,702,Northern Territory - Outback,2014-15,2 years,938,829,109,88.4,
+ACT,False,801,Australian Capital Territory,2014-15,2 years,124,105,19,84.7,
+OTH,False,901,Other Territories,2014-15,2 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2014-15,5 years,139,130,9,93.5,
+NSW,False,102,Central Coast,2014-15,5 years,NP,NP,NP,97.4,
+NSW,False,103,Central West,2014-15,5 years,267,258,9,96.4,
+NSW,False,104,Coffs Harbour - Grafton,2014-15,5 years,164,157,7,96.1,
+NSW,False,105,Far West and Orana,2014-15,5 years,476,462,14,97,
+NSW,False,106,Hunter Valley exc Newcastle,2014-15,5 years,234,227,7,97.2,
+NSW,False,107,Illawarra,2014-15,5 years,162,156,6,96.3,
+NSW,False,108,Mid North Coast,2014-15,5 years,283,272,11,96.1,
+NSW,False,109,Murray,2014-15,5 years,NP,NP,NP,96,#
+NSW,False,110,New England and North West,2014-15,5 years,411,387,24,94.1,
+NSW,False,111,Newcastle and Lake Macquarie,2014-15,5 years,206,197,9,95.4,
+NSW,False,112,Richmond - Tweed,2014-15,5 years,207,193,14,93.5,
+NSW,False,113,Riverina,2014-15,5 years,158,151,7,95.5,
+NSW,False,114,Southern Highlands and Shoalhaven,2014-15,5 years,122,114,8,93.5,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2014-15,5 years,NP,NP,NP,NP,
+NSW,False,116,Sydney - Blacktown,2014-15,5 years,185,175,10,94.5,
+NSW,False,117,Sydney - City and Inner South,2014-15,5 years,NP,NP,NP,94.4,#
+NSW,False,118,Sydney - Eastern Suburbs,2014-15,5 years,NP,NP,NP,NP,
+NSW,False,119,Sydney - Inner South West,2014-15,5 years,NP,NP,NP,93.1,#
+NSW,False,120,Sydney - Inner West,2014-15,5 years,NP,NP,NP,89.2,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2014-15,5 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2014-15,5 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2014-15,5 years,NP,NP,NP,96.6,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2014-15,5 years,162,153,9,94.3,
+NSW,False,125,Sydney - Parramatta,2014-15,5 years,NP,NP,NP,97.8,#
+NSW,False,126,Sydney - Ryde,2014-15,5 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2014-15,5 years,78,69,9,88.5,#
+NSW,False,128,Sydney - Sutherland,2014-15,5 years,NP,NP,NP,100,#
+VIC,False,201,Ballarat,2014-15,5 years,NP,NP,NP,88.2,#
+VIC,False,202,Bendigo,2014-15,5 years,NP,NP,NP,94.5,#
+VIC,False,203,Geelong,2014-15,5 years,NP,NP,NP,95.4,#
+VIC,False,204,Hume,2014-15,5 years,NP,NP,NP,97.2,#
+VIC,False,205,Latrobe - Gippsland,2014-15,5 years,109,102,7,93.6,
+VIC,False,206,Melbourne - Inner,2014-15,5 years,NP,NP,NP,93.1,#
+VIC,False,207,Melbourne - Inner East,2014-15,5 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2014-15,5 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2014-15,5 years,NP,NP,NP,94.1,#
+VIC,False,210,Melbourne - North West,2014-15,5 years,NP,NP,NP,96.2,#
+VIC,False,211,Melbourne - Outer East,2014-15,5 years,NP,NP,NP,90.3,#
+VIC,False,212,Melbourne - South East,2014-15,5 years,63,56,7,89,#
+VIC,False,213,Melbourne - West,2014-15,5 years,117,100,17,85.5,
+VIC,False,214,Mornington Peninsula,2014-15,5 years,NP,NP,NP,86.2,#
+VIC,False,215,North West,2014-15,5 years,75,69,6,92,#
+VIC,False,216,Shepparton,2014-15,5 years,97,90,7,92.8,#
+VIC,False,217,Warrnambool and South West,2014-15,5 years,NP,NP,NP,89.2,#
+QLD,False,301,Brisbane - East,2014-15,5 years,92,85,7,92.4,#
+QLD,False,302,Brisbane - North,2014-15,5 years,NP,NP,NP,97,#
+QLD,False,303,Brisbane - South,2014-15,5 years,71,65,6,91.5,#
+QLD,False,304,Brisbane - West,2014-15,5 years,NP,NP,NP,NP,
+QLD,False,305,Brisbane Inner City,2014-15,5 years,NP,NP,NP,92.6,#
+QLD,False,306,Cairns,2014-15,5 years,763,727,36,95.3,
+QLD,False,307,Darling Downs - Maranoa,2014-15,5 years,202,192,10,95,
+QLD,False,308,Fitzroy,2014-15,5 years,354,320,34,90.4,
+QLD,False,309,Gold Coast,2014-15,5 years,182,175,7,96.1,
+QLD,False,310,Ipswich,2014-15,5 years,328,305,23,93.3,
+QLD,False,311,Logan - Beaudesert,2014-15,5 years,243,222,21,91.4,
+QLD,False,312,Mackay,2014-15,5 years,210,203,7,96.7,
+QLD,False,313,Moreton Bay - North,2014-15,5 years,182,167,15,91.7,
+QLD,False,314,Moreton Bay - South,2014-15,5 years,83,77,6,92.6,#
+QLD,False,315,Queensland - Outback,2014-15,5 years,718,677,41,94.4,
+QLD,False,316,Sunshine Coast,2014-15,5 years,142,128,14,90.2,
+QLD,False,317,Toowoomba,2014-15,5 years,175,165,10,94.4,
+QLD,False,318,Townsville,2014-15,5 years,480,449,31,93.5,
+QLD,False,319,Wide Bay,2014-15,5 years,331,284,47,86,
+SA,True,401,Adelaide - Central and Hills,2014-15,5 years,NP,NP,NP,96.6,#
+SA,True,402,Adelaide - North,2014-15,5 years,219,199,20,90.9,
+SA,True,403,Adelaide - South,2014-15,5 years,84,72,12,85.6,#
+SA,True,404,Adelaide - West,2014-15,5 years,80,71,9,88.7,#
+SA,True,405,Barossa - Yorke - Mid North,2014-15,5 years,46,39,7,84.7,#
+SA,True,406,South Australia - Outback,2014-15,5 years,184,167,17,90.8,
+SA,True,407,South Australia - South East,2014-15,5 years,94,85,9,90.4,#
+WA,False,501,Bunbury,2014-15,5 years,119,107,12,89.9,
+WA,False,502,Mandurah,2014-15,5 years,50,42,8,84,#
+WA,False,503,Perth - Inner,2014-15,5 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2014-15,5 years,131,115,16,88.1,
+WA,False,505,Perth - North West,2014-15,5 years,157,141,16,89.8,
+WA,False,506,Perth - South East,2014-15,5 years,236,203,33,86,
+WA,False,507,Perth - South West,2014-15,5 years,149,133,16,89.3,
+WA,False,508,Western Australia - Outback,2014-15,5 years,887,843,44,95,
+WA,False,509,Western Australia - Wheat Belt,2014-15,5 years,166,154,12,92.8,
+TAS,False,601,Hobart,2014-15,5 years,140,129,11,91.9,
+TAS,False,602,Launceston and North East,2014-15,5 years,115,108,7,94.2,
+TAS,False,603,South East,2014-15,5 years,NP,NP,NP,92.1,#
+TAS,False,604,West and North West,2014-15,5 years,126,116,10,92.1,
+NT,False,701,Darwin,2014-15,5 years,347,321,26,92.6,
+NT,False,702,Northern Territory - Outback,2014-15,5 years,986,945,41,95.8,
+ACT,False,801,Australian Capital Territory,2014-15,5 years,122,116,6,95.1,
+OTH,False,901,Other Territories,2014-15,5 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2013-14,1 year,168,152,16,90.1,
+NSW,False,102,Central Coast,2013-14,1 year,255,234,21,91.6,
+NSW,False,103,Central West,2013-14,1 year,310,287,23,92.4,
+NSW,False,104,Coffs Harbour - Grafton,2013-14,1 year,176,152,24,86.4,
+NSW,False,105,Far West and Orana,2013-14,1 year,574,475,99,82.7,
+NSW,False,106,Hunter Valley exc Newcastle,2013-14,1 year,293,266,27,90.8,
+NSW,False,107,Illawarra,2013-14,1 year,166,147,19,88.6,
+NSW,False,108,Mid North Coast,2013-14,1 year,322,280,42,86.8,
+NSW,False,109,Murray,2013-14,1 year,103,96,7,93.1,
+NSW,False,110,New England and North West,2013-14,1 year,528,473,55,89.6,
+NSW,False,111,Newcastle and Lake Macquarie,2013-14,1 year,247,223,24,90.5,
+NSW,False,112,Richmond - Tweed,2013-14,1 year,264,228,36,86.5,
+NSW,False,113,Riverina,2013-14,1 year,187,161,26,86.1,
+NSW,False,114,Southern Highlands and Shoalhaven,2013-14,1 year,137,122,15,88.7,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2013-14,1 year,NP,NP,NP,85.3,#
+NSW,False,116,Sydney - Blacktown,2013-14,1 year,187,156,31,83.2,
+NSW,False,117,Sydney - City and Inner South,2013-14,1 year,NP,NP,NP,94.1,#
+NSW,False,118,Sydney - Eastern Suburbs,2013-14,1 year,26,20,6,76.4,#
+NSW,False,119,Sydney - Inner South West,2013-14,1 year,72,63,9,86.6,#
+NSW,False,120,Sydney - Inner West,2013-14,1 year,45,36,9,80.1,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2013-14,1 year,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2013-14,1 year,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2013-14,1 year,162,141,21,87.1,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2013-14,1 year,163,145,18,88.6,
+NSW,False,125,Sydney - Parramatta,2013-14,1 year,44,35,9,79.3,#
+NSW,False,126,Sydney - Ryde,2013-14,1 year,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2013-14,1 year,86,70,16,80.6,#
+NSW,False,128,Sydney - Sutherland,2013-14,1 year,NP,NP,NP,94.4,#
+VIC,False,201,Ballarat,2013-14,1 year,NP,NP,NP,92.5,#
+VIC,False,202,Bendigo,2013-14,1 year,NP,NP,NP,89.1,#
+VIC,False,203,Geelong,2013-14,1 year,49,41,8,83.7,#
+VIC,False,204,Hume,2013-14,1 year,NP,NP,NP,92.2,#
+VIC,False,205,Latrobe - Gippsland,2013-14,1 year,104,90,14,86.5,
+VIC,False,206,Melbourne - Inner,2013-14,1 year,NP,NP,NP,90.1,#
+VIC,False,207,Melbourne - Inner East,2013-14,1 year,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2013-14,1 year,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2013-14,1 year,86,74,12,86,#
+VIC,False,210,Melbourne - North West,2013-14,1 year,51,44,7,86.3,#
+VIC,False,211,Melbourne - Outer East,2013-14,1 year,56,47,9,84,#
+VIC,False,212,Melbourne - South East,2013-14,1 year,70,61,9,86,#
+VIC,False,213,Melbourne - West,2013-14,1 year,123,106,17,86.2,
+VIC,False,214,Mornington Peninsula,2013-14,1 year,NP,NP,NP,88.9,#
+VIC,False,215,North West,2013-14,1 year,121,91,30,75.2,
+VIC,False,216,Shepparton,2013-14,1 year,104,88,16,84.6,
+VIC,False,217,Warrnambool and South West,2013-14,1 year,53,46,7,86.8,#
+QLD,False,301,Brisbane - East,2013-14,1 year,111,90,21,81.1,
+QLD,False,302,Brisbane - North,2013-14,1 year,100,85,15,85.2,#
+QLD,False,303,Brisbane - South,2013-14,1 year,76,59,17,77.6,#
+QLD,False,304,Brisbane - West,2013-14,1 year,NP,NP,NP,89.5,#
+QLD,False,305,Brisbane Inner City,2013-14,1 year,NP,NP,NP,95.2,#
+QLD,False,306,Cairns,2013-14,1 year,834,736,98,88.3,
+QLD,False,307,Darling Downs - Maranoa,2013-14,1 year,213,189,24,89,
+QLD,False,308,Fitzroy,2013-14,1 year,386,313,73,81.1,
+QLD,False,309,Gold Coast,2013-14,1 year,174,154,20,88.2,
+QLD,False,310,Ipswich,2013-14,1 year,340,301,39,88.5,
+QLD,False,311,Logan - Beaudesert,2013-14,1 year,262,235,27,89.6,
+QLD,False,312,Mackay,2013-14,1 year,229,205,24,89.5,
+QLD,False,313,Moreton Bay - North,2013-14,1 year,220,188,32,85.4,
+QLD,False,314,Moreton Bay - South,2013-14,1 year,87,78,9,89.2,#
+QLD,False,315,Queensland - Outback,2013-14,1 year,680,601,79,88.3,
+QLD,False,316,Sunshine Coast,2013-14,1 year,139,116,23,83.5,
+QLD,False,317,Toowoomba,2013-14,1 year,180,147,33,81.9,
+QLD,False,318,Townsville,2013-14,1 year,547,438,109,80.1,
+QLD,False,319,Wide Bay,2013-14,1 year,412,360,52,87.4,
+SA,True,401,Adelaide - Central and Hills,2013-14,1 year,NP,NP,NP,86.8,#
+SA,True,402,Adelaide - North,2013-14,1 year,248,200,48,80.7,
+SA,True,403,Adelaide - South,2013-14,1 year,82,67,15,81.7,#
+SA,True,404,Adelaide - West,2013-14,1 year,79,54,25,68.4,#
+SA,True,405,Barossa - Yorke - Mid North,2013-14,1 year,48,35,13,72.8,#
+SA,True,406,South Australia - Outback,2013-14,1 year,204,158,46,77.5,
+SA,True,407,South Australia - South East,2013-14,1 year,99,89,10,89.9,#
+WA,False,501,Bunbury,2013-14,1 year,98,89,9,90.8,#
+WA,False,502,Mandurah,2013-14,1 year,NP,NP,NP,90.9,#
+WA,False,503,Perth - Inner,2013-14,1 year,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2013-14,1 year,142,98,44,69.3,
+WA,False,505,Perth - North West,2013-14,1 year,149,116,33,77.9,
+WA,False,506,Perth - South East,2013-14,1 year,274,197,77,71.9,
+WA,False,507,Perth - South West,2013-14,1 year,123,101,22,82.1,
+WA,False,508,Western Australia - Outback,2013-14,1 year,928,809,119,87.2,
+WA,False,509,Western Australia - Wheat Belt,2013-14,1 year,176,158,18,89.8,
+TAS,False,601,Hobart,2013-14,1 year,130,108,22,83.1,
+TAS,False,602,Launceston and North East,2013-14,1 year,107,94,13,87.8,
+TAS,False,603,South East,2013-14,1 year,42,36,6,87.7,#
+TAS,False,604,West and North West,2013-14,1 year,136,122,14,89.7,
+NT,False,701,Darwin,2013-14,1 year,386,334,52,86.5,
+NT,False,702,Northern Territory - Outback,2013-14,1 year,1072,970,102,90.5,
+ACT,False,801,Australian Capital Territory,2013-14,1 year,125,112,13,89.6,
+OTH,False,901,Other Territories,2013-14,1 year,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2013-14,2 years,150,140,10,93.3,
+NSW,False,102,Central Coast,2013-14,2 years,215,199,16,92.3,
+NSW,False,103,Central West,2013-14,2 years,310,298,12,95.8,
+NSW,False,104,Coffs Harbour - Grafton,2013-14,2 years,161,152,9,94.7,
+NSW,False,105,Far West and Orana,2013-14,2 years,546,495,51,90.7,
+NSW,False,106,Hunter Valley exc Newcastle,2013-14,2 years,277,256,21,92.6,
+NSW,False,107,Illawarra,2013-14,2 years,197,176,21,89.3,
+NSW,False,108,Mid North Coast,2013-14,2 years,320,302,18,94.4,
+NSW,False,109,Murray,2013-14,2 years,NP,NP,NP,94.2,#
+NSW,False,110,New England and North West,2013-14,2 years,525,482,43,91.8,
+NSW,False,111,Newcastle and Lake Macquarie,2013-14,2 years,234,223,11,95.4,
+NSW,False,112,Richmond - Tweed,2013-14,2 years,236,211,25,89.3,
+NSW,False,113,Riverina,2013-14,2 years,198,180,18,91.3,
+NSW,False,114,Southern Highlands and Shoalhaven,2013-14,2 years,142,126,16,88.7,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2013-14,2 years,NP,NP,NP,NP,
+NSW,False,116,Sydney - Blacktown,2013-14,2 years,187,169,18,90.1,
+NSW,False,117,Sydney - City and Inner South,2013-14,2 years,84,75,9,88.5,#
+NSW,False,118,Sydney - Eastern Suburbs,2013-14,2 years,NP,NP,NP,93.2,#
+NSW,False,119,Sydney - Inner South West,2013-14,2 years,NP,NP,NP,91,#
+NSW,False,120,Sydney - Inner West,2013-14,2 years,NP,NP,NP,NP,
+NSW,False,121,Sydney - North Sydney and Hornsby,2013-14,2 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2013-14,2 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2013-14,2 years,120,109,11,90.8,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2013-14,2 years,163,150,13,92.5,
+NSW,False,125,Sydney - Parramatta,2013-14,2 years,46,38,8,83.5,#
+NSW,False,126,Sydney - Ryde,2013-14,2 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2013-14,2 years,96,87,9,90.6,#
+NSW,False,128,Sydney - Sutherland,2013-14,2 years,NP,NP,NP,89.7,#
+VIC,False,201,Ballarat,2013-14,2 years,NP,NP,NP,97.2,#
+VIC,False,202,Bendigo,2013-14,2 years,49,41,8,83.9,#
+VIC,False,203,Geelong,2013-14,2 years,NP,NP,NP,91.7,#
+VIC,False,204,Hume,2013-14,2 years,NP,NP,NP,93.2,#
+VIC,False,205,Latrobe - Gippsland,2013-14,2 years,NP,NP,NP,94.7,#
+VIC,False,206,Melbourne - Inner,2013-14,2 years,NP,NP,NP,90.6,#
+VIC,False,207,Melbourne - Inner East,2013-14,2 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2013-14,2 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2013-14,2 years,NP,NP,NP,95.7,#
+VIC,False,210,Melbourne - North West,2013-14,2 years,NP,NP,NP,87.4,#
+VIC,False,211,Melbourne - Outer East,2013-14,2 years,48,41,7,85.6,#
+VIC,False,212,Melbourne - South East,2013-14,2 years,77,70,7,90.2,#
+VIC,False,213,Melbourne - West,2013-14,2 years,95,81,14,84.9,#
+VIC,False,214,Mornington Peninsula,2013-14,2 years,NP,NP,NP,91.7,#
+VIC,False,215,North West,2013-14,2 years,112,99,13,88.5,
+VIC,False,216,Shepparton,2013-14,2 years,113,104,9,92,
+VIC,False,217,Warrnambool and South West,2013-14,2 years,NP,NP,NP,97.1,#
+QLD,False,301,Brisbane - East,2013-14,2 years,105,99,6,94.3,
+QLD,False,302,Brisbane - North,2013-14,2 years,99,93,6,93.6,#
+QLD,False,303,Brisbane - South,2013-14,2 years,83,74,9,89.1,#
+QLD,False,304,Brisbane - West,2013-14,2 years,NP,NP,NP,98.6,#
+QLD,False,305,Brisbane Inner City,2013-14,2 years,NP,NP,NP,97.1,#
+QLD,False,306,Cairns,2013-14,2 years,783,742,41,94.7,
+QLD,False,307,Darling Downs - Maranoa,2013-14,2 years,214,199,15,92.9,
+QLD,False,308,Fitzroy,2013-14,2 years,374,340,34,90.9,
+QLD,False,309,Gold Coast,2013-14,2 years,187,177,10,94.6,
+QLD,False,310,Ipswich,2013-14,2 years,305,277,28,90.8,
+QLD,False,311,Logan - Beaudesert,2013-14,2 years,287,269,18,93.8,
+QLD,False,312,Mackay,2013-14,2 years,205,191,14,93.2,
+QLD,False,313,Moreton Bay - North,2013-14,2 years,202,186,16,92.1,
+QLD,False,314,Moreton Bay - South,2013-14,2 years,NP,NP,NP,95.3,#
+QLD,False,315,Queensland - Outback,2013-14,2 years,733,703,30,95.9,
+QLD,False,316,Sunshine Coast,2013-14,2 years,112,104,8,92.8,
+QLD,False,317,Toowoomba,2013-14,2 years,145,132,13,90.5,
+QLD,False,318,Townsville,2013-14,2 years,532,484,48,91,
+QLD,False,319,Wide Bay,2013-14,2 years,361,331,30,91.7,
+SA,True,401,Adelaide - Central and Hills,2013-14,2 years,NP,NP,NP,NP,
+SA,True,402,Adelaide - North,2013-14,2 years,239,210,29,87.9,
+SA,True,403,Adelaide - South,2013-14,2 years,95,80,15,84.3,#
+SA,True,404,Adelaide - West,2013-14,2 years,85,67,18,78.7,#
+SA,True,405,Barossa - Yorke - Mid North,2013-14,2 years,56,43,13,77.1,#
+SA,True,406,South Australia - Outback,2013-14,2 years,199,172,27,86.4,
+SA,True,407,South Australia - South East,2013-14,2 years,106,96,10,90.5,
+WA,False,501,Bunbury,2013-14,2 years,101,94,7,93.1,
+WA,False,502,Mandurah,2013-14,2 years,NP,NP,NP,93.9,#
+WA,False,503,Perth - Inner,2013-14,2 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2013-14,2 years,140,115,25,82.3,
+WA,False,505,Perth - North West,2013-14,2 years,146,125,21,85.6,
+WA,False,506,Perth - South East,2013-14,2 years,293,247,46,84.3,
+WA,False,507,Perth - South West,2013-14,2 years,136,125,11,91.9,
+WA,False,508,Western Australia - Outback,2013-14,2 years,918,867,51,94.4,
+WA,False,509,Western Australia - Wheat Belt,2013-14,2 years,NP,NP,NP,97.9,
+TAS,False,601,Hobart,2013-14,2 years,120,113,7,94.2,
+TAS,False,602,Launceston and North East,2013-14,2 years,115,107,8,93,
+TAS,False,603,South East,2013-14,2 years,NP,NP,NP,95,#
+TAS,False,604,West and North West,2013-14,2 years,141,128,13,90.8,
+NT,False,701,Darwin,2013-14,2 years,344,325,19,94.5,
+NT,False,702,Northern Territory - Outback,2013-14,2 years,1051,1014,37,96.5,
+ACT,False,801,Australian Capital Territory,2013-14,2 years,113,107,6,94.7,
+OTH,False,901,Other Territories,2013-14,2 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2013-14,5 years,127,117,10,92.1,
+NSW,False,102,Central Coast,2013-14,5 years,181,174,7,96.2,
+NSW,False,103,Central West,2013-14,5 years,247,236,11,95.6,
+NSW,False,104,Coffs Harbour - Grafton,2013-14,5 years,NP,NP,NP,97,
+NSW,False,105,Far West and Orana,2013-14,5 years,463,419,44,90.5,
+NSW,False,106,Hunter Valley exc Newcastle,2013-14,5 years,246,237,9,96.4,
+NSW,False,107,Illawarra,2013-14,5 years,122,116,6,95.1,
+NSW,False,108,Mid North Coast,2013-14,5 years,303,286,17,94.4,
+NSW,False,109,Murray,2013-14,5 years,NP,NP,NP,93.4,#
+NSW,False,110,New England and North West,2013-14,5 years,442,421,21,95.4,
+NSW,False,111,Newcastle and Lake Macquarie,2013-14,5 years,200,183,17,91.9,
+NSW,False,112,Richmond - Tweed,2013-14,5 years,238,224,14,93.9,
+NSW,False,113,Riverina,2013-14,5 years,176,165,11,93.5,
+NSW,False,114,Southern Highlands and Shoalhaven,2013-14,5 years,112,106,6,94.6,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2013-14,5 years,NP,NP,NP,NP,
+NSW,False,116,Sydney - Blacktown,2013-14,5 years,161,149,12,92.6,
+NSW,False,117,Sydney - City and Inner South,2013-14,5 years,89,78,11,87.8,#
+NSW,False,118,Sydney - Eastern Suburbs,2013-14,5 years,33,26,7,78.7,#
+NSW,False,119,Sydney - Inner South West,2013-14,5 years,NP,NP,NP,87.7,#
+NSW,False,120,Sydney - Inner West,2013-14,5 years,NP,NP,NP,82.5,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2013-14,5 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2013-14,5 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2013-14,5 years,147,137,10,92.6,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2013-14,5 years,137,128,9,93.5,
+NSW,False,125,Sydney - Parramatta,2013-14,5 years,49,43,6,88.6,#
+NSW,False,126,Sydney - Ryde,2013-14,5 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2013-14,5 years,NP,NP,NP,99.9,#
+NSW,False,128,Sydney - Sutherland,2013-14,5 years,NP,NP,NP,88.5,#
+VIC,False,201,Ballarat,2013-14,5 years,NP,NP,NP,84.4,#
+VIC,False,202,Bendigo,2013-14,5 years,NP,NP,NP,93.3,#
+VIC,False,203,Geelong,2013-14,5 years,NP,NP,NP,96.7,#
+VIC,False,204,Hume,2013-14,5 years,46,39,7,84.9,#
+VIC,False,205,Latrobe - Gippsland,2013-14,5 years,101,95,6,94,
+VIC,False,206,Melbourne - Inner,2013-14,5 years,NP,NP,NP,87.1,#
+VIC,False,207,Melbourne - Inner East,2013-14,5 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2013-14,5 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2013-14,5 years,NP,NP,NP,92.9,#
+VIC,False,210,Melbourne - North West,2013-14,5 years,29,22,7,75.6,#
+VIC,False,211,Melbourne - Outer East,2013-14,5 years,39,33,6,84.5,#
+VIC,False,212,Melbourne - South East,2013-14,5 years,NP,NP,NP,98.1,#
+VIC,False,213,Melbourne - West,2013-14,5 years,NP,NP,NP,94.3,#
+VIC,False,214,Mornington Peninsula,2013-14,5 years,NP,NP,NP,NP,
+VIC,False,215,North West,2013-14,5 years,101,90,11,89.1,
+VIC,False,216,Shepparton,2013-14,5 years,93,86,7,92.5,#
+VIC,False,217,Warrnambool and South West,2013-14,5 years,NP,NP,NP,87.5,#
+QLD,False,301,Brisbane - East,2013-14,5 years,112,102,10,91.1,
+QLD,False,302,Brisbane - North,2013-14,5 years,NP,NP,NP,93.6,#
+QLD,False,303,Brisbane - South,2013-14,5 years,87,77,10,88.8,#
+QLD,False,304,Brisbane - West,2013-14,5 years,NP,NP,NP,97.9,#
+QLD,False,305,Brisbane Inner City,2013-14,5 years,NP,NP,NP,85.2,#
+QLD,False,306,Cairns,2013-14,5 years,819,785,34,95.8,
+QLD,False,307,Darling Downs - Maranoa,2013-14,5 years,185,166,19,89.6,
+QLD,False,308,Fitzroy,2013-14,5 years,325,304,21,93.5,
+QLD,False,309,Gold Coast,2013-14,5 years,163,156,7,95.7,
+QLD,False,310,Ipswich,2013-14,5 years,332,315,17,94.9,
+QLD,False,311,Logan - Beaudesert,2013-14,5 years,235,223,12,94.9,
+QLD,False,312,Mackay,2013-14,5 years,212,195,17,92,
+QLD,False,313,Moreton Bay - North,2013-14,5 years,NP,NP,NP,97.4,
+QLD,False,314,Moreton Bay - South,2013-14,5 years,NP,NP,NP,96.6,#
+QLD,False,315,Queensland - Outback,2013-14,5 years,710,673,37,94.8,
+QLD,False,316,Sunshine Coast,2013-14,5 years,96,86,10,89.6,#
+QLD,False,317,Toowoomba,2013-14,5 years,182,166,16,90.9,
+QLD,False,318,Townsville,2013-14,5 years,488,452,36,92.5,
+QLD,False,319,Wide Bay,2013-14,5 years,320,296,24,92.5,
+SA,True,401,Adelaide - Central and Hills,2013-14,5 years,31,25,6,80.5,#
+SA,True,402,Adelaide - North,2013-14,5 years,238,205,33,86.2,
+SA,True,403,Adelaide - South,2013-14,5 years,87,77,10,88.6,#
+SA,True,404,Adelaide - West,2013-14,5 years,89,72,17,80.9,#
+SA,True,405,Barossa - Yorke - Mid North,2013-14,5 years,NP,NP,NP,92.6,#
+SA,True,406,South Australia - Outback,2013-14,5 years,196,166,30,84.7,
+SA,True,407,South Australia - South East,2013-14,5 years,NP,NP,NP,96,#
+WA,False,501,Bunbury,2013-14,5 years,NP,NP,NP,97.4,#
+WA,False,502,Mandurah,2013-14,5 years,NP,NP,NP,90,#
+WA,False,503,Perth - Inner,2013-14,5 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2013-14,5 years,160,133,27,82.9,
+WA,False,505,Perth - North West,2013-14,5 years,138,113,25,81.9,
+WA,False,506,Perth - South East,2013-14,5 years,259,227,32,87.6,
+WA,False,507,Perth - South West,2013-14,5 years,143,130,13,90.9,
+WA,False,508,Western Australia - Outback,2013-14,5 years,928,872,56,94,
+WA,False,509,Western Australia - Wheat Belt,2013-14,5 years,158,152,6,96.4,
+TAS,False,601,Hobart,2013-14,5 years,117,107,10,91,
+TAS,False,602,Launceston and North East,2013-14,5 years,114,105,9,91.6,
+TAS,False,603,South East,2013-14,5 years,NP,NP,NP,96.5,#
+TAS,False,604,West and North West,2013-14,5 years,128,120,8,93.8,
+NT,False,701,Darwin,2013-14,5 years,389,363,26,93.4,
+NT,False,702,Northern Territory - Outback,2013-14,5 years,957,924,33,96.5,
+ACT,False,801,Australian Capital Territory,2013-14,5 years,94,88,6,93.6,#
+OTH,False,901,Other Territories,2013-14,5 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2012-13,1 year,134,108,26,80.6,
+NSW,False,102,Central Coast,2012-13,1 year,206,185,21,89.9,
+NSW,False,103,Central West,2012-13,1 year,317,271,46,85.4,
+NSW,False,104,Coffs Harbour - Grafton,2012-13,1 year,155,134,21,86.3,
+NSW,False,105,Far West and Orana,2012-13,1 year,547,440,107,80.5,
+NSW,False,106,Hunter Valley exc Newcastle,2012-13,1 year,266,238,28,89.5,
+NSW,False,107,Illawarra,2012-13,1 year,190,164,26,86.3,
+NSW,False,108,Mid North Coast,2012-13,1 year,319,286,33,89.7,
+NSW,False,109,Murray,2012-13,1 year,88,76,12,86.5,#
+NSW,False,110,New England and North West,2012-13,1 year,507,435,72,85.6,
+NSW,False,111,Newcastle and Lake Macquarie,2012-13,1 year,221,204,17,92.2,
+NSW,False,112,Richmond - Tweed,2012-13,1 year,234,191,43,81.6,
+NSW,False,113,Riverina,2012-13,1 year,202,171,31,84.6,
+NSW,False,114,Southern Highlands and Shoalhaven,2012-13,1 year,149,123,26,82.5,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2012-13,1 year,NP,NP,NP,NP,
+NSW,False,116,Sydney - Blacktown,2012-13,1 year,180,149,31,82.6,
+NSW,False,117,Sydney - City and Inner South,2012-13,1 year,80,66,14,83.1,#
+NSW,False,118,Sydney - Eastern Suburbs,2012-13,1 year,NP,NP,NP,90.5,#
+NSW,False,119,Sydney - Inner South West,2012-13,1 year,48,38,10,79.6,#
+NSW,False,120,Sydney - Inner West,2012-13,1 year,NP,NP,NP,85.8,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2012-13,1 year,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2012-13,1 year,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2012-13,1 year,107,96,11,89.7,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2012-13,1 year,130,116,14,88.7,
+NSW,False,125,Sydney - Parramatta,2012-13,1 year,47,37,10,78.6,#
+NSW,False,126,Sydney - Ryde,2012-13,1 year,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2012-13,1 year,105,89,16,84.8,
+NSW,False,128,Sydney - Sutherland,2012-13,1 year,26,19,7,73.1,#
+VIC,False,201,Ballarat,2012-13,1 year,NP,NP,NP,97.4,#
+VIC,False,202,Bendigo,2012-13,1 year,48,39,9,81.3,#
+VIC,False,203,Geelong,2012-13,1 year,NP,NP,NP,89.1,#
+VIC,False,204,Hume,2012-13,1 year,NP,NP,NP,88,#
+VIC,False,205,Latrobe - Gippsland,2012-13,1 year,108,97,11,89.8,
+VIC,False,206,Melbourne - Inner,2012-13,1 year,NP,NP,NP,84.3,#
+VIC,False,207,Melbourne - Inner East,2012-13,1 year,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2012-13,1 year,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2012-13,1 year,73,64,9,88.8,#
+VIC,False,210,Melbourne - North West,2012-13,1 year,36,28,8,78.5,#
+VIC,False,211,Melbourne - Outer East,2012-13,1 year,NP,NP,NP,87.7,#
+VIC,False,212,Melbourne - South East,2012-13,1 year,79,66,13,84.2,#
+VIC,False,213,Melbourne - West,2012-13,1 year,81,69,12,85.2,#
+VIC,False,214,Mornington Peninsula,2012-13,1 year,NP,NP,NP,92.6,#
+VIC,False,215,North West,2012-13,1 year,115,95,20,82.6,
+VIC,False,216,Shepparton,2012-13,1 year,109,94,15,86.2,
+VIC,False,217,Warrnambool and South West,2012-13,1 year,NP,NP,NP,91.4,#
+QLD,False,301,Brisbane - East,2012-13,1 year,108,96,12,88.9,
+QLD,False,302,Brisbane - North,2012-13,1 year,90,81,9,90.6,#
+QLD,False,303,Brisbane - South,2012-13,1 year,91,84,7,92,#
+QLD,False,304,Brisbane - West,2012-13,1 year,NP,NP,NP,NP,
+QLD,False,305,Brisbane Inner City,2012-13,1 year,NP,NP,NP,89.1,#
+QLD,False,306,Cairns,2012-13,1 year,761,650,111,85.4,
+QLD,False,307,Darling Downs - Maranoa,2012-13,1 year,202,180,22,89.5,
+QLD,False,308,Fitzroy,2012-13,1 year,366,310,56,84.7,
+QLD,False,309,Gold Coast,2012-13,1 year,164,144,20,87.7,
+QLD,False,310,Ipswich,2012-13,1 year,276,236,40,85.5,
+QLD,False,311,Logan - Beaudesert,2012-13,1 year,273,245,28,89.5,
+QLD,False,312,Mackay,2012-13,1 year,194,173,21,89.2,
+QLD,False,313,Moreton Bay - North,2012-13,1 year,201,164,37,81.5,
+QLD,False,314,Moreton Bay - South,2012-13,1 year,83,73,10,88.3,#
+QLD,False,315,Queensland - Outback,2012-13,1 year,720,634,86,88,
+QLD,False,316,Sunshine Coast,2012-13,1 year,107,97,10,90.7,
+QLD,False,317,Toowoomba,2012-13,1 year,154,122,32,79.4,
+QLD,False,318,Townsville,2012-13,1 year,504,402,102,79.7,
+QLD,False,319,Wide Bay,2012-13,1 year,377,326,51,86.4,
+SA,True,401,Adelaide - Central and Hills,2012-13,1 year,NP,NP,NP,NP,
+SA,True,402,Adelaide - North,2012-13,1 year,221,176,45,79.6,
+SA,True,403,Adelaide - South,2012-13,1 year,93,73,20,79,#
+SA,True,404,Adelaide - West,2012-13,1 year,86,58,28,66.9,#
+SA,True,405,Barossa - Yorke - Mid North,2012-13,1 year,44,33,11,75.1,#
+SA,True,406,South Australia - Outback,2012-13,1 year,204,156,48,76.5,
+SA,True,407,South Australia - South East,2012-13,1 year,102,81,21,79.4,
+WA,False,501,Bunbury,2012-13,1 year,92,79,13,85.9,#
+WA,False,502,Mandurah,2012-13,1 year,NP,NP,NP,90.2,#
+WA,False,503,Perth - Inner,2012-13,1 year,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2012-13,1 year,135,103,32,75.8,
+WA,False,505,Perth - North West,2012-13,1 year,139,99,40,71.2,
+WA,False,506,Perth - South East,2012-13,1 year,287,207,80,72.1,
+WA,False,507,Perth - South West,2012-13,1 year,117,99,18,84.6,
+WA,False,508,Western Australia - Outback,2012-13,1 year,923,758,165,82.1,
+WA,False,509,Western Australia - Wheat Belt,2012-13,1 year,154,128,26,83.5,
+TAS,False,601,Hobart,2012-13,1 year,NP,NP,NP,94.2,#
+TAS,False,602,Launceston and North East,2012-13,1 year,112,102,10,91,
+TAS,False,603,South East,2012-13,1 year,NP,NP,NP,91.7,#
+TAS,False,604,West and North West,2012-13,1 year,133,115,18,86.5,
+NT,False,701,Darwin,2012-13,1 year,357,309,48,86.4,
+NT,False,702,Northern Territory - Outback,2012-13,1 year,1125,1026,99,91.3,
+ACT,False,801,Australian Capital Territory,2012-13,1 year,113,101,12,89.4,
+OTH,False,901,Other Territories,2012-13,1 year,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2012-13,2 years,152,141,11,92.8,
+NSW,False,102,Central Coast,2012-13,2 years,202,195,7,96.6,
+NSW,False,103,Central West,2012-13,2 years,246,227,19,92.4,
+NSW,False,104,Coffs Harbour - Grafton,2012-13,2 years,141,133,8,94.1,
+NSW,False,105,Far West and Orana,2012-13,2 years,475,432,43,90.9,
+NSW,False,106,Hunter Valley exc Newcastle,2012-13,2 years,226,213,13,94.3,
+NSW,False,107,Illawarra,2012-13,2 years,NP,NP,NP,96.4,
+NSW,False,108,Mid North Coast,2012-13,2 years,308,288,20,93.6,
+NSW,False,109,Murray,2012-13,2 years,NP,NP,NP,94.7,#
+NSW,False,110,New England and North West,2012-13,2 years,473,431,42,91.1,
+NSW,False,111,Newcastle and Lake Macquarie,2012-13,2 years,226,204,22,90.6,
+NSW,False,112,Richmond - Tweed,2012-13,2 years,226,194,32,85.7,
+NSW,False,113,Riverina,2012-13,2 years,192,175,17,91.1,
+NSW,False,114,Southern Highlands and Shoalhaven,2012-13,2 years,153,140,13,91.5,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2012-13,2 years,NP,NP,NP,89.3,#
+NSW,False,116,Sydney - Blacktown,2012-13,2 years,155,131,24,84.2,
+NSW,False,117,Sydney - City and Inner South,2012-13,2 years,69,59,10,84.8,#
+NSW,False,118,Sydney - Eastern Suburbs,2012-13,2 years,NP,NP,NP,88.1,#
+NSW,False,119,Sydney - Inner South West,2012-13,2 years,55,49,6,89.1,#
+NSW,False,120,Sydney - Inner West,2012-13,2 years,NP,NP,NP,NP,
+NSW,False,121,Sydney - North Sydney and Hornsby,2012-13,2 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2012-13,2 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2012-13,2 years,147,136,11,92.5,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2012-13,2 years,153,135,18,87.8,
+NSW,False,125,Sydney - Parramatta,2012-13,2 years,49,42,7,86.1,#
+NSW,False,126,Sydney - Ryde,2012-13,2 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2012-13,2 years,123,106,17,86.3,
+NSW,False,128,Sydney - Sutherland,2012-13,2 years,NP,NP,NP,100,#
+VIC,False,201,Ballarat,2012-13,2 years,NP,NP,NP,92.7,#
+VIC,False,202,Bendigo,2012-13,2 years,NP,NP,NP,96.2,#
+VIC,False,203,Geelong,2012-13,2 years,NP,NP,NP,90.5,#
+VIC,False,204,Hume,2012-13,2 years,NP,NP,NP,92.3,#
+VIC,False,205,Latrobe - Gippsland,2012-13,2 years,90,84,6,93.3,#
+VIC,False,206,Melbourne - Inner,2012-13,2 years,NP,NP,NP,NP,
+VIC,False,207,Melbourne - Inner East,2012-13,2 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2012-13,2 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2012-13,2 years,NP,NP,NP,96.5,#
+VIC,False,210,Melbourne - North West,2012-13,2 years,NP,NP,NP,92.2,#
+VIC,False,211,Melbourne - Outer East,2012-13,2 years,NP,NP,NP,NP,
+VIC,False,212,Melbourne - South East,2012-13,2 years,NP,NP,NP,89.9,#
+VIC,False,213,Melbourne - West,2012-13,2 years,NP,NP,NP,93.8,#
+VIC,False,214,Mornington Peninsula,2012-13,2 years,NP,NP,NP,NP,
+VIC,False,215,North West,2012-13,2 years,108,94,14,87,
+VIC,False,216,Shepparton,2012-13,2 years,116,106,10,91.4,
+VIC,False,217,Warrnambool and South West,2012-13,2 years,NP,NP,NP,94.6,#
+QLD,False,301,Brisbane - East,2012-13,2 years,105,97,8,92.4,
+QLD,False,302,Brisbane - North,2012-13,2 years,NP,NP,NP,96.4,#
+QLD,False,303,Brisbane - South,2012-13,2 years,83,77,6,93.6,#
+QLD,False,304,Brisbane - West,2012-13,2 years,NP,NP,NP,NP,
+QLD,False,305,Brisbane Inner City,2012-13,2 years,28,22,6,78,#
+QLD,False,306,Cairns,2012-13,2 years,817,791,26,96.9,
+QLD,False,307,Darling Downs - Maranoa,2012-13,2 years,209,197,12,94.1,
+QLD,False,308,Fitzroy,2012-13,2 years,370,335,35,90.5,
+QLD,False,309,Gold Coast,2012-13,2 years,133,125,8,94.5,
+QLD,False,310,Ipswich,2012-13,2 years,284,260,24,91.6,
+QLD,False,311,Logan - Beaudesert,2012-13,2 years,253,229,24,90.6,
+QLD,False,312,Mackay,2012-13,2 years,212,200,12,94.3,
+QLD,False,313,Moreton Bay - North,2012-13,2 years,213,196,17,92,
+QLD,False,314,Moreton Bay - South,2012-13,2 years,NP,NP,NP,92.2,#
+QLD,False,315,Queensland - Outback,2012-13,2 years,775,734,41,94.6,
+QLD,False,316,Sunshine Coast,2012-13,2 years,112,101,11,90.2,
+QLD,False,317,Toowoomba,2012-13,2 years,176,162,14,91.7,
+QLD,False,318,Townsville,2012-13,2 years,498,456,42,91.6,
+QLD,False,319,Wide Bay,2012-13,2 years,333,296,37,88.9,
+SA,True,401,Adelaide - Central and Hills,2012-13,2 years,NP,NP,NP,85.2,#
+SA,True,402,Adelaide - North,2012-13,2 years,228,194,34,85.1,
+SA,True,403,Adelaide - South,2012-13,2 years,88,81,7,92.6,#
+SA,True,404,Adelaide - West,2012-13,2 years,97,78,19,80.6,#
+SA,True,405,Barossa - Yorke - Mid North,2012-13,2 years,NP,NP,NP,93.8,#
+SA,True,406,South Australia - Outback,2012-13,2 years,183,159,24,86.9,
+SA,True,407,South Australia - South East,2012-13,2 years,74,66,8,89.2,#
+WA,False,501,Bunbury,2012-13,2 years,96,87,9,90.6,#
+WA,False,502,Mandurah,2012-13,2 years,NP,NP,NP,98,#
+WA,False,503,Perth - Inner,2012-13,2 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2012-13,2 years,119,103,16,86.5,
+WA,False,505,Perth - North West,2012-13,2 years,165,141,24,85.5,
+WA,False,506,Perth - South East,2012-13,2 years,279,236,43,84.6,
+WA,False,507,Perth - South West,2012-13,2 years,125,111,14,88.8,
+WA,False,508,Western Australia - Outback,2012-13,2 years,950,881,69,92.7,
+WA,False,509,Western Australia - Wheat Belt,2012-13,2 years,162,151,11,93.2,
+TAS,False,601,Hobart,2012-13,2 years,113,105,8,92.8,
+TAS,False,602,Launceston and North East,2012-13,2 years,NP,NP,NP,94.9,#
+TAS,False,603,South East,2012-13,2 years,NP,NP,NP,89.8,#
+TAS,False,604,West and North West,2012-13,2 years,NP,NP,NP,96.6,
+NT,False,701,Darwin,2012-13,2 years,383,361,22,94.1,
+NT,False,702,Northern Territory - Outback,2012-13,2 years,1021,990,31,97,
+ACT,False,801,Australian Capital Territory,2012-13,2 years,120,109,11,90.8,
+OTH,False,901,Other Territories,2012-13,2 years,NP,NP,NP,NP,
+NSW,False,101,Capital Region,2012-13,5 years,109,103,6,94.5,
+NSW,False,102,Central Coast,2012-13,5 years,181,174,7,96.2,
+NSW,False,103,Central West,2012-13,5 years,264,243,21,92.1,
+NSW,False,104,Coffs Harbour - Grafton,2012-13,5 years,167,158,9,94.4,
+NSW,False,105,Far West and Orana,2012-13,5 years,449,413,36,92,
+NSW,False,106,Hunter Valley exc Newcastle,2012-13,5 years,213,205,8,96.3,
+NSW,False,107,Illawarra,2012-13,5 years,136,129,7,94.9,
+NSW,False,108,Mid North Coast,2012-13,5 years,254,234,20,92.1,
+NSW,False,109,Murray,2012-13,5 years,65,59,6,90.9,#
+NSW,False,110,New England and North West,2012-13,5 years,393,361,32,92,
+NSW,False,111,Newcastle and Lake Macquarie,2012-13,5 years,207,196,11,94.6,
+NSW,False,112,Richmond - Tweed,2012-13,5 years,236,218,18,92.3,
+NSW,False,113,Riverina,2012-13,5 years,171,152,19,89.4,
+NSW,False,114,Southern Highlands and Shoalhaven,2012-13,5 years,NP,NP,NP,95.5,
+NSW,False,115,Sydney - Baulkham Hills and Hawkesbury,2012-13,5 years,NP,NP,NP,98.1,#
+NSW,False,116,Sydney - Blacktown,2012-13,5 years,161,148,13,91.9,
+NSW,False,117,Sydney - City and Inner South,2012-13,5 years,NP,NP,NP,93.4,#
+NSW,False,118,Sydney - Eastern Suburbs,2012-13,5 years,NP,NP,NP,NP,
+NSW,False,119,Sydney - Inner South West,2012-13,5 years,NP,NP,NP,90.3,#
+NSW,False,120,Sydney - Inner West,2012-13,5 years,NP,NP,NP,89.9,#
+NSW,False,121,Sydney - North Sydney and Hornsby,2012-13,5 years,NP,NP,NP,NP,
+NSW,False,122,Sydney - Northern Beaches,2012-13,5 years,NP,NP,NP,NP,
+NSW,False,123,Sydney - Outer South West,2012-13,5 years,144,137,7,95.2,
+NSW,False,124,Sydney - Outer West and Blue Mountains,2012-13,5 years,114,106,8,92.6,
+NSW,False,125,Sydney - Parramatta,2012-13,5 years,42,36,6,85.6,#
+NSW,False,126,Sydney - Ryde,2012-13,5 years,NP,NP,NP,NP,
+NSW,False,127,Sydney - South West,2012-13,5 years,87,81,6,93.1,#
+NSW,False,128,Sydney - Sutherland,2012-13,5 years,NP,NP,NP,100,#
+VIC,False,201,Ballarat,2012-13,5 years,NP,NP,NP,97.1,#
+VIC,False,202,Bendigo,2012-13,5 years,NP,NP,NP,NP,
+VIC,False,203,Geelong,2012-13,5 years,NP,NP,NP,98.7,#
+VIC,False,204,Hume,2012-13,5 years,NP,NP,NP,95.8,#
+VIC,False,205,Latrobe - Gippsland,2012-13,5 years,NP,NP,NP,97,
+VIC,False,206,Melbourne - Inner,2012-13,5 years,NP,NP,NP,97.1,#
+VIC,False,207,Melbourne - Inner East,2012-13,5 years,NP,NP,NP,NP,
+VIC,False,208,Melbourne - Inner South,2012-13,5 years,NP,NP,NP,NP,
+VIC,False,209,Melbourne - North East,2012-13,5 years,NP,NP,NP,98.5,#
+VIC,False,210,Melbourne - North West,2012-13,5 years,NP,NP,NP,87.9,#
+VIC,False,211,Melbourne - Outer East,2012-13,5 years,NP,NP,NP,91.4,#
+VIC,False,212,Melbourne - South East,2012-13,5 years,63,56,7,88.9,#
+VIC,False,213,Melbourne - West,2012-13,5 years,64,55,9,85.9,#
+VIC,False,214,Mornington Peninsula,2012-13,5 years,NP,NP,NP,89.6,#
+VIC,False,215,North West,2012-13,5 years,104,90,14,86.5,
+VIC,False,216,Shepparton,2012-13,5 years,96,78,18,81.2,#
+VIC,False,217,Warrnambool and South West,2012-13,5 years,NP,NP,NP,100,#
+QLD,False,301,Brisbane - East,2012-13,5 years,85,78,7,91.8,#
+QLD,False,302,Brisbane - North,2012-13,5 years,100,92,8,92,#
+QLD,False,303,Brisbane - South,2012-13,5 years,77,69,8,90.7,#
+QLD,False,304,Brisbane - West,2012-13,5 years,NP,NP,NP,NP,
+QLD,False,305,Brisbane Inner City,2012-13,5 years,NP,NP,NP,94.2,#
+QLD,False,306,Cairns,2012-13,5 years,827,775,52,93.8,
+QLD,False,307,Darling Downs - Maranoa,2012-13,5 years,185,172,13,92.9,
+QLD,False,308,Fitzroy,2012-13,5 years,313,286,27,91.4,
+QLD,False,309,Gold Coast,2012-13,5 years,147,139,8,94.5,
+QLD,False,310,Ipswich,2012-13,5 years,317,296,21,93.4,
+QLD,False,311,Logan - Beaudesert,2012-13,5 years,227,203,24,89.1,
+QLD,False,312,Mackay,2012-13,5 years,201,188,13,93.5,
+QLD,False,313,Moreton Bay - North,2012-13,5 years,160,147,13,91.8,
+QLD,False,314,Moreton Bay - South,2012-13,5 years,NP,NP,NP,94.6,#
+QLD,False,315,Queensland - Outback,2012-13,5 years,737,700,37,95,
+QLD,False,316,Sunshine Coast,2012-13,5 years,103,92,11,89.3,
+QLD,False,317,Toowoomba,2012-13,5 years,155,149,6,95.6,
+QLD,False,318,Townsville,2012-13,5 years,476,435,41,91.3,
+QLD,False,319,Wide Bay,2012-13,5 years,274,245,29,89.4,
+SA,True,401,Adelaide - Central and Hills,2012-13,5 years,NP,NP,NP,88.5,#
+SA,True,402,Adelaide - North,2012-13,5 years,177,156,21,88.1,
+SA,True,403,Adelaide - South,2012-13,5 years,NP,NP,NP,95.2,#
+SA,True,404,Adelaide - West,2012-13,5 years,79,61,18,77.1,#
+SA,True,405,Barossa - Yorke - Mid North,2012-13,5 years,40,34,6,85,#
+SA,True,406,South Australia - Outback,2012-13,5 years,186,164,22,88.2,
+SA,True,407,South Australia - South East,2012-13,5 years,95,85,10,89.4,#
+WA,False,501,Bunbury,2012-13,5 years,109,102,7,93.6,
+WA,False,502,Mandurah,2012-13,5 years,53,47,6,88.7,#
+WA,False,503,Perth - Inner,2012-13,5 years,NP,NP,NP,NP,
+WA,False,504,Perth - North East,2012-13,5 years,144,120,24,83,
+WA,False,505,Perth - North West,2012-13,5 years,151,127,24,84.1,
+WA,False,506,Perth - South East,2012-13,5 years,229,189,40,82.5,
+WA,False,507,Perth - South West,2012-13,5 years,141,119,22,84.4,
+WA,False,508,Western Australia - Outback,2012-13,5 years,956,878,78,91.8,
+WA,False,509,Western Australia - Wheat Belt,2012-13,5 years,166,156,10,94,
+TAS,False,601,Hobart,2012-13,5 years,168,156,12,92.7,
+TAS,False,602,Launceston and North East,2012-13,5 years,NP,NP,NP,96,#
+TAS,False,603,South East,2012-13,5 years,NP,NP,NP,93.3,#
+TAS,False,604,West and North West,2012-13,5 years,138,129,9,93.5,
+NT,False,701,Darwin,2012-13,5 years,373,341,32,91.4,
+NT,False,702,Northern Territory - Outback,2012-13,5 years,991,945,46,95.4,
+ACT,False,801,Australian Capital Territory,2012-13,5 years,111,103,8,92.8,
+OTH,False,901,Other Territories,2012-13,5 years,NP,NP,NP,NP,
