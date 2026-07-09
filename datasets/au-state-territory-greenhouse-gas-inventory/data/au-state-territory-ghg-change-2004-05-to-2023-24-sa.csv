@@ -1,0 +1,60 @@
+jurisdiction,category,change_2004_05_to_2023_24_pct,notation_key,notation_meaning
+SA,Total (net emissions),-0.39957019242539454,,
+SA,1. Energy,-0.34922513673139,,
+SA,A. Fuel combustion (sectoral approach),-0.3363417351343795,,
+SA,1.  Energy industries,-0.7132533821092459,,
+SA,2.  Manufacturing industries and construction,-0.011565439495808117,,
+SA,3.  Transport,0.09802384043340949,,
+SA,4.  Other sectors,-0.1159073918271793,,
+SA,5.  Other,,NA,Not applicable
+SA,B. Fugitive emissions from fuels,-0.4189320349935164,,
+SA,1.  Solid fuels,,NA,Not applicable
+SA,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+SA,C. CO₂ transport and storage,,NA,Not applicable
+SA,2.  Industrial Processes,-0.07364196434091617,,
+SA,A.  Mineral industry,-0.212197442442669,,
+SA,B.  Chemical industry,-0.5765176344490536,,
+SA,C.  Metal industry,,NA,Not applicable
+SA,D.  Non-energy products from fuels and solvent use,0.039166666666666926,,
+SA,E.  Electronic industry,,NA,Not applicable
+SA,F.  Product uses as ODS substitutes,1.7281432077479164,,
+SA,G.  Other product manufacture and use,-0.5674010388467698,,
+SA,H.  Other,,NA,Not applicable
+SA,3.  Agriculture,-0.09007287703596308,,
+SA,A.  Enteric fermentation,-0.17278355163840534,,
+SA,B.  Manure management,0.25846471600609283,,
+SA,C.  Rice cultivation,,NA,Not applicable
+SA,D.  Agricultural soils,0.14780234762243086,,
+SA,E.  Prescribed burning of savannas,,NA,Not applicable
+SA,F.  Field burning of agricultural residues,0.012850844776909485,,
+SA,G. Liming,-0.14842519413460298,,
+SA,H. Urea application,0.9080435100774278,,
+SA,I.  Other carbon-containing fertilizers,,NA,Not applicable
+SA,J.  Other,,NA,Not applicable
+SA,"4. Land Use, Land-Use Change and Forestry",-2.24109301661564,,
+SA,A. Forest Land,-3.8480085929552676,,
+SA,1.  Forest land remaining forest land,764.2682863322415,,
+SA,2.  Land converted to forest land,-5.509404986024336,,
+SA,B. Cropland,-2.3720255485690602,,
+SA,1.  Cropland remaining cropland,-3.0538804173914014,,
+SA,2.  Land converted to cropland,-0.0678640482070523,,
+SA,C. Grassland,-0.5348736765697456,,
+SA,1.  Grassland remaining grassland,-2.0798853724379547,,
+SA,2.  Land converted to grassland,0.34896041963463503,,
+SA,D. Wetland,-0.03677512663922152,,
+SA,1.  Wetland remaining wetland,-0.3017144663239501,,
+SA,2.  Land converted to wetland,0.043469815716425074,,
+SA,E. Settlements,-0.5691247153177947,,
+SA,1.  Settlements remaining settlements,-0.496510608357288,,
+SA,2.  Land converted to settlements,-0.5665036240153202,,
+SA,G. Harvested Wood Products,-0.9159847336601303,,
+SA,Memo items:,,NA,Not applicable
+SA,Forest converted to other land uses,,NA,Not applicable
+SA,Direct emissions from forest clearing,,NA,Not applicable
+SA,Emissions from post-clearing land uses,,NA,Not applicable
+SA,5.  Waste,0.21306399490280725,,
+SA,A.  Solid waste disposal,0.31361078464732645,,
+SA,B.  Biological treatment of solid waste,0.9414266874408171,,
+SA,C.  Incineration and open burning of waste,,NA,Not applicable
+SA,D.  Waste water treatment and discharge,-0.09398524884925219,,
+SA,E.  Other,,NA,Not applicable

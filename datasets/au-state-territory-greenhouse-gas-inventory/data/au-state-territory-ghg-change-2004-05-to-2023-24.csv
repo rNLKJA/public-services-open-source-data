@@ -1,0 +1,591 @@
+jurisdiction,category,change_2004_05_to_2023_24_pct,notation_key,notation_meaning
+Australia,Total (net emissions),-0.23251558561622818,,
+Australia,1. Energy,-0.010339290482144025,,
+Australia,A. Fuel combustion (sectoral approach),-0.024511381964745428,,
+Australia,1.  Energy industries,-0.13314856012162687,,
+Australia,2.  Manufacturing industries and construction,-0.03175862777792575,,
+Australia,3.  Transport,0.22696059925699863,,
+Australia,4.  Other sectors,0.11071949221310748,,
+Australia,5.  Other,0.6100205674130743,,
+Australia,B. Fugitive emissions from fuels,0.10934745926974325,,
+Australia,1.  Solid fuels,-0.19540406831431528,,
+Australia,2.  Oil and natural gas and other emissions from energy production,0.9321060385582058,,
+Australia,C. CO₂ transport and storage,,NA,Not applicable
+Australia,2.  Industrial Processes,0.023770580767083993,,
+Australia,A.  Mineral industry,-0.200474561478517,,
+Australia,B.  Chemical industry,-0.2058990225144592,,
+Australia,C.  Metal industry,-0.2950104625292648,,
+Australia,D.  Non-energy products from fuels and solvent use,-0.31027472527472516,,
+Australia,E.  Electronic industry,,NA,Not applicable
+Australia,F.  Product uses as ODS substitutes,2.00368868945037,,
+Australia,G.  Other product manufacture and use,-0.5237080652534415,,
+Australia,H.  Other,0.18533378345301904,,
+Australia,3.  Agriculture,-0.08532834856726164,,
+Australia,A.  Enteric fermentation,-0.11383225550577884,,
+Australia,B.  Manure management,-0.053719245009561295,,
+Australia,C.  Rice cultivation,-0.15972840380206754,,
+Australia,D.  Agricultural soils,-0.021297947209470095,,
+Australia,E.  Prescribed burning of savannas,,NA,Not applicable
+Australia,F.  Field burning of agricultural residues,0.2463373950030347,,
+Australia,G. Liming,0.5026769485908533,,
+Australia,H. Urea application,0.3934825562200587,,
+Australia,I.  Other carbon-containing fertilizers,,NA,Not applicable
+Australia,J.  Other,,NA,Not applicable
+Australia,"4. Land Use, Land-Use Change and Forestry",-1.6786780683679299,,
+Australia,A. Forest Land,-0.7617799983742611,,
+Australia,1.  Forest land remaining forest land,-0.2572329063721883,,
+Australia,2.  Land converted to forest land,-1.2206272309490938,,
+Australia,B. Cropland,-1.6740104362681776,,
+Australia,1.  Cropland remaining cropland,-2.3690784506853864,,
+Australia,2.  Land converted to cropland,-0.6053464194758138,,
+Australia,C. Grassland,-0.8596770194363017,,
+Australia,1.  Grassland remaining grassland,-1.15440899833382,,
+Australia,2.  Land converted to grassland,-0.7951090529422017,,
+Australia,D. Wetland,-0.11973549198098886,,
+Australia,1.  Wetland remaining wetland,-0.2326714364238081,,
+Australia,2.  Land converted to wetland,0.014476631343516044,,
+Australia,E. Settlements,-0.8319665596422643,,
+Australia,1.  Settlements remaining settlements,-3.359253248845726,,
+Australia,2.  Land converted to settlements,-0.8060560231699747,,
+Australia,G. Harvested Wood Products,0.3350692966707099,,
+Australia,Memo items:,,NA,Not applicable
+Australia,Forest converted to other land uses,,NA,Not applicable
+Australia,Direct emissions from forest clearing,,NA,Not applicable
+Australia,Emissions from post-clearing land uses,,NA,Not applicable
+Australia,5.  Waste,-0.1160005264090979,,
+Australia,A.  Solid waste disposal,-0.151320722670834,,
+Australia,B.  Biological treatment of solid waste,1.0703112073573784,,
+Australia,C.  Incineration and open burning of waste,0.1447156281697602,,
+Australia,D.  Waste water treatment and discharge,-0.03887090908426659,,
+Australia,E.  Other,,NA,Not applicable
+NSW,Total (net emissions),-0.29666336274052324,,
+NSW,1. Energy,-0.21251274110120105,,
+NSW,A. Fuel combustion (sectoral approach),-0.16583695061394546,,
+NSW,1.  Energy industries,-0.2782535766894124,,
+NSW,2.  Manufacturing industries and construction,-0.4011227431935426,,
+NSW,3.  Transport,0.12976314767264266,,
+NSW,4.  Other sectors,0.2716089241313314,,
+NSW,5.  Other,,NA,Not applicable
+NSW,B. Fugitive emissions from fuels,-0.4488058436451455,,
+NSW,1.  Solid fuels,-0.4526463856798506,,
+NSW,2.  Oil and natural gas and other emissions from energy production,-0.35946599506673305,,
+NSW,C. CO₂ transport and storage,,NA,Not applicable
+NSW,2.  Industrial Processes,-0.11103437835885555,,
+NSW,A.  Mineral industry,-0.2868554141839223,,
+NSW,B.  Chemical industry,-0.7073211463403943,,
+NSW,C.  Metal industry,,NA,Not applicable
+NSW,D.  Non-energy products from fuels and solvent use,-0.4634042553191488,,
+NSW,E.  Electronic industry,,NA,Not applicable
+NSW,F.  Product uses as ODS substitutes,1.8029361884514845,,
+NSW,G.  Other product manufacture and use,-0.5555411901181443,,
+NSW,H.  Other,,NA,Not applicable
+NSW,3.  Agriculture,-0.10153796478456224,,
+NSW,A.  Enteric fermentation,-0.12350966521558969,,
+NSW,B.  Manure management,-0.18283421745552195,,
+NSW,C.  Rice cultivation,-0.15893293415271628,,
+NSW,D.  Agricultural soils,-0.03266730684733137,,
+NSW,E.  Prescribed burning of savannas,,NA,Not applicable
+NSW,F.  Field burning of agricultural residues,0.18805634753918654,,
+NSW,G. Liming,0.19159105067104681,,
+NSW,H. Urea application,0.8888387918056534,,
+NSW,I.  Other carbon-containing fertilizers,,NA,Not applicable
+NSW,J.  Other,,NA,Not applicable
+NSW,"4. Land Use, Land-Use Change and Forestry",-1.5415722675793657,,
+NSW,A. Forest Land,0.43399199867804755,,
+NSW,1.  Forest land remaining forest land,0.7802434343982475,,
+NSW,2.  Land converted to forest land,-1.383925013587525,,
+NSW,B. Cropland,-1.5789485592496175,,
+NSW,1.  Cropland remaining cropland,-1.8130406008657967,,
+NSW,2.  Land converted to cropland,-0.6202851950645105,,
+NSW,C. Grassland,-1.5370157493684788,,
+NSW,1.  Grassland remaining grassland,-32.91420314556403,,
+NSW,2.  Land converted to grassland,-0.7762455486792116,,
+NSW,D. Wetland,0.5342638235776119,,
+NSW,1.  Wetland remaining wetland,0.582523256041469,,
+NSW,2.  Land converted to wetland,0.11534975552232819,,
+NSW,E. Settlements,-1.3848323907535247,,
+NSW,1.  Settlements remaining settlements,-18.954387460691503,,
+NSW,2.  Land converted to settlements,-1.3286013979017792,,
+NSW,G. Harvested Wood Products,0.4445477251136859,,
+NSW,Memo items:,,NA,Not applicable
+NSW,Forest converted to other land uses,,NA,Not applicable
+NSW,Direct emissions from forest clearing,,NA,Not applicable
+NSW,Emissions from post-clearing land uses,,NA,Not applicable
+NSW,5.  Waste,-0.2505719328502009,,
+NSW,A.  Solid waste disposal,-0.27577560843281806,,
+NSW,B.  Biological treatment of solid waste,0.9934997767235154,,
+NSW,C.  Incineration and open burning of waste,0.2713838580189444,,
+NSW,D.  Waste water treatment and discharge,-0.2055999905094448,,
+NSW,E.  Other,,NA,Not applicable
+Vic,Total (net emissions),-0.2853356453182183,,
+Vic,1. Energy,-0.2556467331671882,,
+Vic,A. Fuel combustion (sectoral approach),-0.25670558410084443,,
+Vic,1.  Energy industries,-0.37170051615232225,,
+Vic,2.  Manufacturing industries and construction,-0.38759599676174145,,
+Vic,3.  Transport,0.10314212346106641,,
+Vic,4.  Other sectors,-0.09450950589049906,,
+Vic,5.  Other,,NA,Not applicable
+Vic,B. Fugitive emissions from fuels,-0.20943803770825486,,
+Vic,1.  Solid fuels,,NA,Not applicable
+Vic,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+Vic,C. CO₂ transport and storage,,NA,Not applicable
+Vic,2.  Industrial Processes,0.28544937537639886,,
+Vic,A.  Mineral industry,-0.7712373258964204,,
+Vic,B.  Chemical industry,0.8079547539885397,,
+Vic,C.  Metal industry,,NA,Not applicable
+Vic,D.  Non-energy products from fuels and solvent use,-0.5407500000000002,,
+Vic,E.  Electronic industry,,NA,Not applicable
+Vic,F.  Product uses as ODS substitutes,2.107737984228419,,
+Vic,G.  Other product manufacture and use,-0.5072090718348126,,
+Vic,H.  Other,,NA,Not applicable
+Vic,3.  Agriculture,-0.1552163676669646,,
+Vic,A.  Enteric fermentation,-0.1948286987731647,,
+Vic,B.  Manure management,-0.26822332361052525,,
+Vic,C.  Rice cultivation,-0.8243058597658877,,
+Vic,D.  Agricultural soils,0.0158430292904268,,
+Vic,E.  Prescribed burning of savannas,,NA,Not applicable
+Vic,F.  Field burning of agricultural residues,1.2631573646922356,,
+Vic,G. Liming,0.2609572728541443,,
+Vic,H. Urea application,1.0084081682395882,,
+Vic,I.  Other carbon-containing fertilizers,,NA,Not applicable
+Vic,J.  Other,,NA,Not applicable
+Vic,"4. Land Use, Land-Use Change and Forestry",-0.8783334747189895,,
+Vic,A. Forest Land,0.07700548788050413,,
+Vic,1.  Forest land remaining forest land,0.4602322516562346,,
+Vic,2.  Land converted to forest land,-0.7380004493738801,,
+Vic,B. Cropland,-2.138268996305884,,
+Vic,1.  Cropland remaining cropland,-2.5997050565079167,,
+Vic,2.  Land converted to cropland,-0.3340256194660673,,
+Vic,C. Grassland,-0.9607927359134669,,
+Vic,1.  Grassland remaining grassland,-3.591044566331083,,
+Vic,2.  Land converted to grassland,-0.42365058837463737,,
+Vic,D. Wetland,0.14115290289140908,,
+Vic,1.  Wetland remaining wetland,0.10543732640935591,,
+Vic,2.  Land converted to wetland,0.25635991540721975,,
+Vic,E. Settlements,-0.26918251590287995,,
+Vic,1.  Settlements remaining settlements,-3.640215915879099,,
+Vic,2.  Land converted to settlements,-0.11474371879235258,,
+Vic,G. Harvested Wood Products,0.715593382159476,,
+Vic,Memo items:,,NA,Not applicable
+Vic,Forest converted to other land uses,,NA,Not applicable
+Vic,Direct emissions from forest clearing,,NA,Not applicable
+Vic,Emissions from post-clearing land uses,,NA,Not applicable
+Vic,5.  Waste,-0.20521362446584276,,
+Vic,A.  Solid waste disposal,-0.29081805366657465,,
+Vic,B.  Biological treatment of solid waste,1.1368024797530387,,
+Vic,C.  Incineration and open burning of waste,0,,
+Vic,D.  Waste water treatment and discharge,0.08535823436431932,,
+Vic,E.  Other,,NA,Not applicable
+Qld,Total (net emissions),-0.3041142220927908,,
+Qld,1. Energy,0.1775981890938769,,
+Qld,A. Fuel combustion (sectoral approach),0.1436402386958412,,
+Qld,1.  Energy industries,0.09108291230760539,,
+Qld,2.  Manufacturing industries and construction,0.022462812351101407,,
+Qld,3.  Transport,0.3396235605910133,,
+Qld,4.  Other sectors,0.2933376667976519,,
+Qld,5.  Other,,NA,Not applicable
+Qld,B. Fugitive emissions from fuels,0.39229640602119725,,
+Qld,1.  Solid fuels,0.2032287188534307,,
+Qld,2.  Oil and natural gas and other emissions from energy production,3.157407581689619,,
+Qld,C. CO₂ transport and storage,,NA,Not applicable
+Qld,2.  Industrial Processes,0.06421525696843249,,
+Qld,A.  Mineral industry,-0.013128276552420357,,
+Qld,B.  Chemical industry,-0.2926179942248468,,
+Qld,C.  Metal industry,,NA,Not applicable
+Qld,D.  Non-energy products from fuels and solvent use,-0.2603921568627451,,
+Qld,E.  Electronic industry,,NA,Not applicable
+Qld,F.  Product uses as ODS substitutes,2.1803480484851536,,
+Qld,G.  Other product manufacture and use,-0.4956953660009232,,
+Qld,H.  Other,,NA,Not applicable
+Qld,3.  Agriculture,0.005171820753246263,,
+Qld,A.  Enteric fermentation,0.02517926279127515,,
+Qld,B.  Manure management,0.15584740592174262,,
+Qld,C.  Rice cultivation,,NA,Not applicable
+Qld,D.  Agricultural soils,-0.21170893549803227,,
+Qld,E.  Prescribed burning of savannas,,NA,Not applicable
+Qld,F.  Field burning of agricultural residues,,NA,Not applicable
+Qld,G. Liming,-0.11987403783024783,,
+Qld,H. Urea application,-0.4844749036818468,,
+Qld,I.  Other carbon-containing fertilizers,,NA,Not applicable
+Qld,J.  Other,,NA,Not applicable
+Qld,"4. Land Use, Land-Use Change and Forestry",,NA,Not applicable
+Qld,A. Forest Land,-6.453672276635931,,
+Qld,1.  Forest land remaining forest land,-0.9349429554200207,,
+Qld,2.  Land converted to forest land,-1.6942370020227895,,
+Qld,B. Cropland,0.009585230464504274,,
+Qld,1.  Cropland remaining cropland,-0.5816583587987975,,
+Qld,2.  Land converted to cropland,20.20790589989925,,
+Qld,C. Grassland,-0.9863994834120597,,
+Qld,1.  Grassland remaining grassland,-1.2250599215427165,,
+Qld,2.  Land converted to grassland,-0.9388865121211128,,
+Qld,D. Wetland,-0.4227653034735241,,
+Qld,1.  Wetland remaining wetland,-0.6446680826296164,,
+Qld,2.  Land converted to wetland,-0.04621454376913527,,
+Qld,E. Settlements,-0.9320621077081215,,
+Qld,1.  Settlements remaining settlements,-1.8887129596682262,,
+Qld,2.  Land converted to settlements,-0.9275700642738739,,
+Qld,G. Harvested Wood Products,0.1612472161646675,,
+Qld,Memo items:,,NA,Not applicable
+Qld,Forest converted to other land uses,,NA,Not applicable
+Qld,Direct emissions from forest clearing,,NA,Not applicable
+Qld,Emissions from post-clearing land uses,,NA,Not applicable
+Qld,5.  Waste,-0.020638317206511273,,
+Qld,A.  Solid waste disposal,-0.10234429397757942,,
+Qld,B.  Biological treatment of solid waste,1.1222746006656747,,
+Qld,C.  Incineration and open burning of waste,0.4174598750055182,,
+Qld,D.  Waste water treatment and discharge,0.1791928102349648,,
+Qld,E.  Other,,NA,Not applicable
+SA,Total (net emissions),-0.39957019242539454,,
+SA,1. Energy,-0.34922513673139,,
+SA,A. Fuel combustion (sectoral approach),-0.3363417351343795,,
+SA,1.  Energy industries,-0.7132533821092459,,
+SA,2.  Manufacturing industries and construction,-0.011565439495808117,,
+SA,3.  Transport,0.09802384043340949,,
+SA,4.  Other sectors,-0.1159073918271793,,
+SA,5.  Other,,NA,Not applicable
+SA,B. Fugitive emissions from fuels,-0.4189320349935164,,
+SA,1.  Solid fuels,,NA,Not applicable
+SA,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+SA,C. CO₂ transport and storage,,NA,Not applicable
+SA,2.  Industrial Processes,-0.07364196434091617,,
+SA,A.  Mineral industry,-0.212197442442669,,
+SA,B.  Chemical industry,-0.5765176344490536,,
+SA,C.  Metal industry,,NA,Not applicable
+SA,D.  Non-energy products from fuels and solvent use,0.039166666666666926,,
+SA,E.  Electronic industry,,NA,Not applicable
+SA,F.  Product uses as ODS substitutes,1.7281432077479164,,
+SA,G.  Other product manufacture and use,-0.5674010388467698,,
+SA,H.  Other,,NA,Not applicable
+SA,3.  Agriculture,-0.09007287703596308,,
+SA,A.  Enteric fermentation,-0.17278355163840534,,
+SA,B.  Manure management,0.25846471600609283,,
+SA,C.  Rice cultivation,,NA,Not applicable
+SA,D.  Agricultural soils,0.14780234762243086,,
+SA,E.  Prescribed burning of savannas,,NA,Not applicable
+SA,F.  Field burning of agricultural residues,0.012850844776909485,,
+SA,G. Liming,-0.14842519413460298,,
+SA,H. Urea application,0.9080435100774278,,
+SA,I.  Other carbon-containing fertilizers,,NA,Not applicable
+SA,J.  Other,,NA,Not applicable
+SA,"4. Land Use, Land-Use Change and Forestry",-2.24109301661564,,
+SA,A. Forest Land,-3.8480085929552676,,
+SA,1.  Forest land remaining forest land,764.2682863322415,,
+SA,2.  Land converted to forest land,-5.509404986024336,,
+SA,B. Cropland,-2.3720255485690602,,
+SA,1.  Cropland remaining cropland,-3.0538804173914014,,
+SA,2.  Land converted to cropland,-0.0678640482070523,,
+SA,C. Grassland,-0.5348736765697456,,
+SA,1.  Grassland remaining grassland,-2.0798853724379547,,
+SA,2.  Land converted to grassland,0.34896041963463503,,
+SA,D. Wetland,-0.03677512663922152,,
+SA,1.  Wetland remaining wetland,-0.3017144663239501,,
+SA,2.  Land converted to wetland,0.043469815716425074,,
+SA,E. Settlements,-0.5691247153177947,,
+SA,1.  Settlements remaining settlements,-0.496510608357288,,
+SA,2.  Land converted to settlements,-0.5665036240153202,,
+SA,G. Harvested Wood Products,-0.9159847336601303,,
+SA,Memo items:,,NA,Not applicable
+SA,Forest converted to other land uses,,NA,Not applicable
+SA,Direct emissions from forest clearing,,NA,Not applicable
+SA,Emissions from post-clearing land uses,,NA,Not applicable
+SA,5.  Waste,0.21306399490280725,,
+SA,A.  Solid waste disposal,0.31361078464732645,,
+SA,B.  Biological treatment of solid waste,0.9414266874408171,,
+SA,C.  Incineration and open burning of waste,,NA,Not applicable
+SA,D.  Waste water treatment and discharge,-0.09398524884925219,,
+SA,E.  Other,,NA,Not applicable
+WA,Total (net emissions),0.1998047606429529,,
+WA,1. Energy,0.6307488631204604,,
+WA,A. Fuel combustion (sectoral approach),0.5347286841603357,,
+WA,1.  Energy industries,0.5250712991749807,,
+WA,2.  Manufacturing industries and construction,0.5449135111135339,,
+WA,3.  Transport,0.5676849188280899,,
+WA,4.  Other sectors,0.43628176123258977,,
+WA,5.  Other,,NA,Not applicable
+WA,B. Fugitive emissions from fuels,1.835467265106138,,
+WA,1.  Solid fuels,,NA,Not applicable
+WA,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+WA,C. CO₂ transport and storage,,NA,Not applicable
+WA,2.  Industrial Processes,0.3409868922970169,,
+WA,A.  Mineral industry,-0.1357543217458882,,
+WA,B.  Chemical industry,0.24478073202427653,,
+WA,C.  Metal industry,,NA,Not applicable
+WA,D.  Non-energy products from fuels and solvent use,0.13730769230769238,,
+WA,E.  Electronic industry,,NA,Not applicable
+WA,F.  Product uses as ODS substitutes,2.340712318146289,,
+WA,G.  Other product manufacture and use,-0.4702665628997941,,
+WA,H.  Other,,NA,Not applicable
+WA,3.  Agriculture,-0.17659368230687067,,
+WA,A.  Enteric fermentation,-0.32178056128558546,,
+WA,B.  Manure management,0.17763352686859044,,
+WA,C.  Rice cultivation,,NA,Not applicable
+WA,D.  Agricultural soils,0.0798722587183168,,
+WA,E.  Prescribed burning of savannas,,NA,Not applicable
+WA,F.  Field burning of agricultural residues,0.050508668332230534,,
+WA,G. Liming,1.0551822661661363,,
+WA,H. Urea application,0.24423757823546305,,
+WA,I.  Other carbon-containing fertilizers,,NA,Not applicable
+WA,J.  Other,,NA,Not applicable
+WA,"4. Land Use, Land-Use Change and Forestry",-1.5899336113326616,,
+WA,A. Forest Land,-2.4619200134419126,,
+WA,1.  Forest land remaining forest land,-4.560263594566061,,
+WA,2.  Land converted to forest land,-0.8415808952947655,,
+WA,B. Cropland,-1.93137241243236,,
+WA,1.  Cropland remaining cropland,-13.57824517888623,,
+WA,2.  Land converted to cropland,-0.8523658559045385,,
+WA,C. Grassland,-0.39040402976954963,,
+WA,1.  Grassland remaining grassland,-0.3157204200674972,,
+WA,2.  Land converted to grassland,-0.44795361835940173,,
+WA,D. Wetland,-0.08148687270549969,,
+WA,1.  Wetland remaining wetland,0.03342424010553057,,
+WA,2.  Land converted to wetland,-0.24989687557410495,,
+WA,E. Settlements,-0.5305562074456979,,
+WA,1.  Settlements remaining settlements,-0.09056557354580615,,
+WA,2.  Land converted to settlements,-0.5374681397026261,,
+WA,G. Harvested Wood Products,0.48995068333351527,,
+WA,Memo items:,,NA,Not applicable
+WA,Forest converted to other land uses,,NA,Not applicable
+WA,Direct emissions from forest clearing,,NA,Not applicable
+WA,Emissions from post-clearing land uses,,NA,Not applicable
+WA,5.  Waste,0.2680192732406002,,
+WA,A.  Solid waste disposal,0.3664773220801174,,
+WA,B.  Biological treatment of solid waste,1.1746185502203028,,
+WA,C.  Incineration and open burning of waste,0.48250930078583737,,
+WA,D.  Waste water treatment and discharge,-0.20738088336523533,,
+WA,E.  Other,,NA,Not applicable
+Tas,Total (net emissions),-1.2954826200993632,,
+Tas,1. Energy,-0.042424249657562654,,
+Tas,A. Fuel combustion (sectoral approach),-0.051208344552725146,,
+Tas,1.  Energy industries,-0.5796553372390678,,
+Tas,2.  Manufacturing industries and construction,,NA,Not applicable
+Tas,3.  Transport,-0.07964920509796851,,
+Tas,4.  Other sectors,0.37042440605499627,,
+Tas,5.  Other,,NA,Not applicable
+Tas,B. Fugitive emissions from fuels,1.1955319672086855,,
+Tas,1.  Solid fuels,,NA,Not applicable
+Tas,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+Tas,C. CO₂ transport and storage,,NA,Not applicable
+Tas,2.  Industrial Processes,-0.05077516379586156,,
+Tas,A.  Mineral industry,0.012167272847918633,,
+Tas,B.  Chemical industry,0.5345128046317762,,
+Tas,C.  Metal industry,,NA,Not applicable
+Tas,D.  Non-energy products from fuels and solvent use,-0.7825,,
+Tas,E.  Electronic industry,,NA,Not applicable
+Tas,F.  Product uses as ODS substitutes,1.637711878418659,,
+Tas,G.  Other product manufacture and use,-0.5817406449981041,,
+Tas,H.  Other,,NA,Not applicable
+Tas,3.  Agriculture,0.10965210300475217,,
+Tas,A.  Enteric fermentation,0.10275648389501449,,
+Tas,B.  Manure management,0.456760065475382,,
+Tas,C.  Rice cultivation,,NA,Not applicable
+Tas,D.  Agricultural soils,0.09447845980895635,,
+Tas,E.  Prescribed burning of savannas,,NA,Not applicable
+Tas,F.  Field burning of agricultural residues,-0.07008556853588165,,
+Tas,G. Liming,0.034404438746223905,,
+Tas,H. Urea application,-0.23174490477602114,,
+Tas,I.  Other carbon-containing fertilizers,,NA,Not applicable
+Tas,J.  Other,,NA,Not applicable
+Tas,"4. Land Use, Land-Use Change and Forestry",-2.7263203769317093,,
+Tas,A. Forest Land,-5.134036243908648,,
+Tas,1.  Forest land remaining forest land,-4.128689494722199,,
+Tas,2.  Land converted to forest land,-4.257680975030548,,
+Tas,B. Cropland,-0.4662355338489468,,
+Tas,1.  Cropland remaining cropland,-0.4528373641024635,,
+Tas,2.  Land converted to cropland,-0.5279141039735515,,
+Tas,C. Grassland,-0.6170503084744033,,
+Tas,1.  Grassland remaining grassland,-4.172763946771481,,
+Tas,2.  Land converted to grassland,-0.5399874686823761,,
+Tas,D. Wetland,0.13053600716866628,,
+Tas,1.  Wetland remaining wetland,0.3435808960402661,,
+Tas,2.  Land converted to wetland,-1,,
+Tas,E. Settlements,-0.4865465190278938,,
+Tas,1.  Settlements remaining settlements,-1.5856787167391189,,
+Tas,2.  Land converted to settlements,-0.4685231910270638,,
+Tas,G. Harvested Wood Products,0.19039008770718222,,
+Tas,Memo items:,,NA,Not applicable
+Tas,Forest converted to other land uses,,NA,Not applicable
+Tas,Direct emissions from forest clearing,,NA,Not applicable
+Tas,Emissions from post-clearing land uses,,NA,Not applicable
+Tas,5.  Waste,-0.10285176433541937,,
+Tas,A.  Solid waste disposal,-0.1741800423969845,,
+Tas,B.  Biological treatment of solid waste,0.8901236897116133,,
+Tas,C.  Incineration and open burning of waste,,NA,Not applicable
+Tas,D.  Waste water treatment and discharge,0.02994719364991502,,
+Tas,E.  Other,,NA,Not applicable
+NT,Total (net emissions),1.419915923365591,,
+NT,1. Energy,1.5398663642232417,,
+NT,A. Fuel combustion (sectoral approach),,NA,Not applicable
+NT,1.  Energy industries,2.726690752395854,,
+NT,2.  Manufacturing industries and construction,,NA,Not applicable
+NT,3.  Transport,0.8865406314145593,,
+NT,4.  Other sectors,-0.23773171128086795,,
+NT,5.  Other,,NA,Not applicable
+NT,B. Fugitive emissions from fuels,,NA,Not applicable
+NT,1.  Solid fuels,,NA,Not applicable
+NT,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+NT,C. CO₂ transport and storage,,NA,Not applicable
+NT,2.  Industrial Processes,0.07640365020684886,,
+NT,A.  Mineral industry,-0.9911368103411828,,
+NT,B.  Chemical industry,,NA,Not applicable
+NT,C.  Metal industry,,NA,Not applicable
+NT,D.  Non-energy products from fuels and solvent use,-0.345,,
+NT,E.  Electronic industry,,NA,Not applicable
+NT,F.  Product uses as ODS substitutes,1.8973445191848421,,
+NT,G.  Other product manufacture and use,-0.5405709548007779,,
+NT,H.  Other,,NA,Not applicable
+NT,3.  Agriculture,-0.04179275137842396,,
+NT,A.  Enteric fermentation,-0.04306701688723352,,
+NT,B.  Manure management,-0.11311514103111661,,
+NT,C.  Rice cultivation,,NA,Not applicable
+NT,D.  Agricultural soils,0.013296323837920876,,
+NT,E.  Prescribed burning of savannas,,NA,Not applicable
+NT,F.  Field burning of agricultural residues,-1,,
+NT,G. Liming,1.462048679657696,,
+NT,H. Urea application,-0.42978877097288676,,
+NT,I.  Other carbon-containing fertilizers,,NA,Not applicable
+NT,J.  Other,,NA,Not applicable
+NT,"4. Land Use, Land-Use Change and Forestry",2.482420800222604,,
+NT,A. Forest Land,1.4233448711808452,,
+NT,1.  Forest land remaining forest land,0.7019063375573751,,
+NT,2.  Land converted to forest land,0.02213679483591317,,
+NT,B. Cropland,-0.5179415677321831,,
+NT,1.  Cropland remaining cropland,-3.2775109938482663,,
+NT,2.  Land converted to cropland,-0.2549944838698298,,
+NT,C. Grassland,2.1277040940295913,,
+NT,1.  Grassland remaining grassland,2.5688024101921894,,
+NT,2.  Land converted to grassland,-0.55477794681501,,
+NT,D. Wetland,0.7944047330614386,,
+NT,1.  Wetland remaining wetland,1.9325020177311667,,
+NT,2.  Land converted to wetland,0.21209420844482516,,
+NT,E. Settlements,-0.8026285199583326,,
+NT,1.  Settlements remaining settlements,1.2523793825099112,,
+NT,2.  Land converted to settlements,-0.8129755307112543,,
+NT,G. Harvested Wood Products,0.6936692869212134,,
+NT,Memo items:,,NA,Not applicable
+NT,Forest converted to other land uses,,NA,Not applicable
+NT,Direct emissions from forest clearing,,NA,Not applicable
+NT,Emissions from post-clearing land uses,,NA,Not applicable
+NT,5.  Waste,0.6444852372679999,,
+NT,A.  Solid waste disposal,,NA,Not applicable
+NT,B.  Biological treatment of solid waste,,NA,Not applicable
+NT,C.  Incineration and open burning of waste,,NA,Not applicable
+NT,D.  Waste water treatment and discharge,,NA,Not applicable
+NT,E.  Other,,NA,Not applicable
+ACT,Total (net emissions),-0.09093471476426221,,
+ACT,1. Energy,0.24275836060997993,,
+ACT,A. Fuel combustion (sectoral approach),,NA,Not applicable
+ACT,1.  Energy industries,,NA,Not applicable
+ACT,2.  Manufacturing industries and construction,,NA,Not applicable
+ACT,3.  Transport,0.23020132604575896,,
+ACT,4.  Other sectors,-0.06682097118443132,,
+ACT,5.  Other,,NA,Not applicable
+ACT,B. Fugitive emissions from fuels,,NA,Not applicable
+ACT,1.  Solid fuels,,NA,Not applicable
+ACT,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+ACT,C. CO₂ transport and storage,,NA,Not applicable
+ACT,2.  Industrial Processes,2.049951719036759,,
+ACT,A.  Mineral industry,,NA,Not applicable
+ACT,B.  Chemical industry,1.1312196641043353,,
+ACT,C.  Metal industry,,NA,Not applicable
+ACT,D.  Non-energy products from fuels and solvent use,,NA,Not applicable
+ACT,E.  Electronic industry,,NA,Not applicable
+ACT,F.  Product uses as ODS substitutes,2.2926861821464293,,
+ACT,G.  Other product manufacture and use,-0.4778820196260905,,
+ACT,H.  Other,-0.8329715958537618,,
+ACT,3.  Agriculture,-0.683555215019065,,
+ACT,A.  Enteric fermentation,-0.6700025696889345,,
+ACT,B.  Manure management,-0.7743231023847362,,
+ACT,C.  Rice cultivation,,NA,Not applicable
+ACT,D.  Agricultural soils,-0.7595354280043978,,
+ACT,E.  Prescribed burning of savannas,,NA,Not applicable
+ACT,F.  Field burning of agricultural residues,-1,,
+ACT,G. Liming,-1,,
+ACT,H. Urea application,,NA,Not applicable
+ACT,I.  Other carbon-containing fertilizers,,NA,Not applicable
+ACT,J.  Other,,NA,Not applicable
+ACT,"4. Land Use, Land-Use Change and Forestry",-1.2861920467593981,,
+ACT,A. Forest Land,-2.077908097231316,,
+ACT,1.  Forest land remaining forest land,-1.1141223132383882,,
+ACT,2.  Land converted to forest land,-8.424009835286705,,
+ACT,B. Cropland,1.216358878535701,,
+ACT,1.  Cropland remaining cropland,1.203411451889852,,
+ACT,2.  Land converted to cropland,-0.6041591206968552,,
+ACT,C. Grassland,-0.8749431620178499,,
+ACT,1.  Grassland remaining grassland,0.4929212269782139,,
+ACT,2.  Land converted to grassland,-0.9844456627559766,,
+ACT,D. Wetland,1.4362424785230459,,
+ACT,1.  Wetland remaining wetland,0.7705103988504186,,
+ACT,2.  Land converted to wetland,195.26498374485766,,
+ACT,E. Settlements,-0.6290445739951375,,
+ACT,1.  Settlements remaining settlements,-3.5710620589357713,,
+ACT,2.  Land converted to settlements,-0.5291874071239066,,
+ACT,G. Harvested Wood Products,-24.2699651309104,,
+ACT,Memo items:,,NA,Not applicable
+ACT,Forest converted to other land uses,,NA,Not applicable
+ACT,Direct emissions from forest clearing,,NA,Not applicable
+ACT,Emissions from post-clearing land uses,,NA,Not applicable
+ACT,5.  Waste,-0.8417354616507108,,
+ACT,A.  Solid waste disposal,,NA,Not applicable
+ACT,B.  Biological treatment of solid waste,,NA,Not applicable
+ACT,C.  Incineration and open burning of waste,,NA,Not applicable
+ACT,D.  Waste water treatment and discharge,,NA,Not applicable
+ACT,E.  Other,,NA,Not applicable
+External Territories,Total (net emissions),2.0437420732496143,,
+External Territories,1. Energy,2.732843929035498,,
+External Territories,A. Fuel combustion (sectoral approach),2.732843929035498,,
+External Territories,1.  Energy industries,4.033396982123185,,
+External Territories,2.  Manufacturing industries and construction,,NA,Not applicable
+External Territories,3.  Transport,-1,,
+External Territories,4.  Other sectors,,NA,Not applicable
+External Territories,5.  Other,,NA,Not applicable
+External Territories,B. Fugitive emissions from fuels,,NA,Not applicable
+External Territories,1.  Solid fuels,,NA,Not applicable
+External Territories,2.  Oil and natural gas and other emissions from energy production,,NA,Not applicable
+External Territories,C. CO₂ transport and storage,,NA,Not applicable
+External Territories,2.  Industrial Processes,1.638015043656537,,
+External Territories,A.  Mineral industry,,NA,Not applicable
+External Territories,B.  Chemical industry,,NA,Not applicable
+External Territories,C.  Metal industry,,NA,Not applicable
+External Territories,D.  Non-energy products from fuels and solvent use,,NA,Not applicable
+External Territories,E.  Electronic industry,,NA,Not applicable
+External Territories,F.  Product uses as ODS substitutes,1.8020538599562799,,
+External Territories,G.  Other product manufacture and use,-0.5556811000720416,,
+External Territories,H.  Other,,NA,Not applicable
+External Territories,3.  Agriculture,,NA,Not applicable
+External Territories,A.  Enteric fermentation,,NA,Not applicable
+External Territories,B.  Manure management,,NA,Not applicable
+External Territories,C.  Rice cultivation,,NA,Not applicable
+External Territories,D.  Agricultural soils,,NA,Not applicable
+External Territories,E.  Prescribed burning of savannas,,NA,Not applicable
+External Territories,F.  Field burning of agricultural residues,,NA,Not applicable
+External Territories,G. Liming,,NA,Not applicable
+External Territories,H. Urea application,,NA,Not applicable
+External Territories,I.  Other carbon-containing fertilizers,,NA,Not applicable
+External Territories,J.  Other,,NA,Not applicable
+External Territories,"4. Land Use, Land-Use Change and Forestry",0.5016772378706191,,
+External Territories,A. Forest Land,,NA,Not applicable
+External Territories,1.  Forest land remaining forest land,,NA,Not applicable
+External Territories,2.  Land converted to forest land,,NA,Not applicable
+External Territories,B. Cropland,,NA,Not applicable
+External Territories,1.  Cropland remaining cropland,,NA,Not applicable
+External Territories,2.  Land converted to cropland,,NA,Not applicable
+External Territories,C. Grassland,,NA,Not applicable
+External Territories,1.  Grassland remaining grassland,,NA,Not applicable
+External Territories,2.  Land converted to grassland,,NA,Not applicable
+External Territories,D. Wetland,,NA,Not applicable
+External Territories,1.  Wetland remaining wetland,,NA,Not applicable
+External Territories,2.  Land converted to wetland,,NA,Not applicable
+External Territories,E. Settlements,,NA,Not applicable
+External Territories,1.  Settlements remaining settlements,,NA,Not applicable
+External Territories,2.  Land converted to settlements,,NA,Not applicable
+External Territories,G. Harvested Wood Products,0.5016772378706191,,
+External Territories,Memo items:,,NA,Not applicable
+External Territories,Forest converted to other land uses,,NA,Not applicable
+External Territories,Direct emissions from forest clearing,,NA,Not applicable
+External Territories,Emissions from post-clearing land uses,,NA,Not applicable
+External Territories,5.  Waste,0.1026344846344566,,
+External Territories,A.  Solid waste disposal,0.21311763010283574,,
+External Territories,B.  Biological treatment of solid waste,1.7086913491565652,,
+External Territories,C.  Incineration and open burning of waste,,NA,Not applicable
+External Territories,D.  Waste water treatment and discharge,-0.14713036069563762,,
+External Territories,E.  Other,,NA,Not applicable
