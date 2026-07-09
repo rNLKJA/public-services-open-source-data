@@ -1,0 +1,13 @@
+*  All Intent Registration data since 2007  
+  
+*  Tables are divided into Total, Male and Female (Male & Female have specific age ranges)
+  
+*  Grand Total Intent Registrations = Female Total + Male Total + Registrations that have no Gender.  (noted in the metadata of the associated XLSX files published on Data.gov.au)	
+  
+*  % of ABS Estimated Population = Gender Total/ABS Estimated Gender Population.  Please note:  Excludes estimated population for 0-15 year old residents.  
+  
+*  State % of Total Intent Registrations =  Grand Total Intent Registrations for State/Grand Total Intent Registrations.  
+  
+*  Negative Variance occurs due to: intent registration being strengthened to consent, registration end-dated due to death or by request, registrant moved to another state.  
+  
+*  The tables include registrants who DO NOT wish to donate. This figure is identified in the metadata of the associated XLSX files published on Data.gov.au		
