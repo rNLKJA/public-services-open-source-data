@@ -1,0 +1,262 @@
+sheet,metric,category,financial_year,value
+ICT expenditure,Total ICT expenditure (Ongoing Service Delivery spend + ICT Project spend),($ million),2009-10,557.01
+ICT expenditure,Total ICT expenditure (Ongoing Service Delivery spend + ICT Project spend),($ million),2011-12,575.5
+ICT expenditure,Total ICT expenditure (Ongoing Service Delivery spend + ICT Project spend),($ million),2013-14,626.6
+ICT expenditure,ICT expenditure as a proportion of total expenditure,Proportion,2009-10,0.0322
+ICT expenditure,ICT expenditure as a proportion of total expenditure,Proportion,2011-12,0.0323
+ICT expenditure,ICT expenditure as a proportion of total expenditure,Proportion,2013-14,0.0358
+ICT expenditure,Ongoing Service Delivery spend vs ICT Project spend,Ongoing Service Delivery,2009-10,0.763
+ICT expenditure,Ongoing Service Delivery spend vs ICT Project spend,Ongoing Service Delivery,2011-12,0.794
+ICT expenditure,Ongoing Service Delivery spend vs ICT Project spend,Ongoing Service Delivery,2013-14,0.768
+ICT expenditure,Ongoing Service Delivery spend vs ICT Project spend,ICT Project,2009-10,0.237
+ICT expenditure,Ongoing Service Delivery spend vs ICT Project spend,ICT Project,2011-12,0.206
+ICT expenditure,Ongoing Service Delivery spend vs ICT Project spend,ICT Project,2013-14,0.232
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Hardware,2009-10,0.1189
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Hardware,2011-12,0.0869
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Hardware,2013-14,0.0792
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Software,2009-10,0.1098
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Software,2011-12,0.0872
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Software,2013-14,0.1032
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Carriage,2009-10,0.1153
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Carriage,2011-12,0.1022
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Carriage,2013-14,0.0888
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Services provided by External Service Provider,2009-10,0.2074
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Services provided by External Service Provider,2011-12,0.2629
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Services provided by External Service Provider,2013-14,0.2859
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Services provided by Another Agency,2009-10,0.1365
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Services provided by Another Agency,2011-12,0.1453
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Services provided by Another Agency,2013-14,0.1456
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Labour - Employees,2009-10,0.2484
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Labour - Employees,2011-12,0.2348
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Labour - Employees,2013-14,0.2491
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Labour - Contractors,2009-10,0.0455
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Labour - Contractors,2011-12,0.0515
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Labour - Contractors,2013-14,0.0272
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Other,2009-10,0.0182
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Other,2011-12,0.0292
+ICT expenditure,ICT Element spend as a percentage of Ongoing Service Delivery spend,Other,2013-14,0.021
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Applications Development,2009-10,0.0699
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Applications Development,2011-12,0.0402
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Applications Development,2013-14,0.0421
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Applications Maintenance and Support,2009-10,0.1115
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Applications Maintenance and Support,2011-12,0.1413
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Applications Maintenance and Support,2013-14,0.1305
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Managed Applications,2009-10,0.0239
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Managed Applications,2011-12,0.0166
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Managed Applications,2013-14,0.0294
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Web Services,2009-10,0.0069
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Web Services,2011-12,0.0102
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Web Services,2013-14,0.0125
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Mainframe,2009-10,0.0317
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Mainframe,2011-12,0.0275
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Mainframe,2013-14,0.0263
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Server,2009-10,0.1144
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Server,2011-12,0.1098
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Server,2013-14,0.1093
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,End User Computing,2009-10,0.1892
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,End User Computing,2011-12,0.2122
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,End User Computing,2013-14,0.2396
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Storage,2009-10,0.0078
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Storage,2011-12,0.0086
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Storage,2013-14,0.0072
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Data Network,2009-10,0.0802
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Data Network,2011-12,0.0734
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Data Network,2013-14,0.0794
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Voice Network,2009-10,0.0444
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Voice Network,2011-12,0.0475
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Voice Network,2013-14,0.0341
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Facilities,2009-10,0.0083
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Facilities,2011-12,0.0076
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Facilities,2013-14,0.0063
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Mobile Services,2009-10,0.0106
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Mobile Services,2011-12,0.01
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Mobile Services,2013-14,0.0068
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Voice and Data Carriage,2009-10,0.1293
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Voice and Data Carriage,2011-12,0.118
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Voice and Data Carriage,2013-14,0.1033
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Government Radio Network,2009-10,0.0405
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Government Radio Network,2011-12,0.0437
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Government Radio Network,2013-14,0.0398
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Service Management,2009-10,0.0539
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Service Management,2011-12,0.0487
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,Service Management,2013-14,0.0421
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,ICT Management,2009-10,0.0775
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,ICT Management,2011-12,0.0847
+ICT expenditure,ICT Service Category spend as a percentage of Ongoing Service Delivery spend,ICT Management,2013-14,0.0913
+ICT personnel,Total ICT FTE,Total,2009-10,1992.28
+ICT personnel,Total ICT FTE,Total,2011-12,1866.55
+ICT personnel,Total ICT FTE,Total,2013-14,1976.61
+ICT personnel,External and internal ICT FTE staff as a proportion of all ICT FTE staff,Internal ICT FTE staff,2009-10,0.8454
+ICT personnel,External and internal ICT FTE staff as a proportion of all ICT FTE staff,Internal ICT FTE staff,2011-12,0.8265
+ICT personnel,External and internal ICT FTE staff as a proportion of all ICT FTE staff,Internal ICT FTE staff,2013-14,0.8699
+ICT personnel,External and internal ICT FTE staff as a proportion of all ICT FTE staff,External ICT FTE staff,2009-10,0.1546
+ICT personnel,External and internal ICT FTE staff as a proportion of all ICT FTE staff,External ICT FTE staff,2011-12,0.1735
+ICT personnel,External and internal ICT FTE staff as a proportion of all ICT FTE staff,External ICT FTE staff,2013-14,0.1301
+ICT personnel,ICT FTE as proportion of total FTE,%,2009-10,0.0229
+ICT personnel,ICT FTE as proportion of total FTE,%,2011-12,0.0231
+ICT personnel,ICT FTE as proportion of total FTE,%,2013-14,0.0242
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO1,2009-10,0.003715605543281784
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO1,2011-12,0.0023521847456264905
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO1,2013-14,0.0022264276967605477
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO2,2009-10,0.030478007632054632
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO2,2011-12,0.02265920111447478
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO2,2013-14,0.013409166810035116
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO3,2009-10,0.12879092187186184
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO3,2011-12,0.13874139362927643
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,ASO3,2013-14,0.1401
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO4, PO1, TGO2, OPS4",2009-10,0.12507531632858004
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO4, PO1, TGO2, OPS4",2011-12,0.127827042087497
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO4, PO1, TGO2, OPS4",2013-14,0.14092275307904828
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO5,PO2, TGO3, TGO4",2009-10,0.16755372564772042
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO5,PO2, TGO3, TGO4",2011-12,0.18849090470704857
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO5,PO2, TGO3, TGO4",2013-14,0.21385344033679776
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO6, PO3, TGO5",2009-10,0.11879895561357702
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO6, PO3, TGO5",2011-12,0.14004340021968015
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO6, PO3, TGO5",2013-14,0.15650774695637212
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO7, PO4, MAS2",2009-10,0.0783289817232376
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO7, PO4, MAS2",2011-12,0.08751841830310501
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO7, PO4, MAS2",2013-14,0.09623227712952749
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO8,PO5",2009-10,0.04694717814822254
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO8,PO5",2011-12,0.05287861333619097
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,"ASO8,PO5",2013-14,0.06207179217309463
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Exec,2009-10,0.014661578630247038
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Exec,2011-12,0.014788223002116433
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Exec,2013-14,0.012650157367957656
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,MAS3,2009-10,0.025406708174332198
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,MAS3,2011-12,0.030053312615532998
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,MAS3,2013-14,0.026150405311042065
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Trainee,2009-10,0.002008435428800964
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Trainee,2011-12,0.0010716103624722052
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Trainee,2013-14,0.002024025178873225
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Other,2009-10,0.12813818035750152
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Other,2011-12,0.06193907895089346
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Other,2013-14,0.0585
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Contractor,2009-10,0.13009640490058247
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Contractor,2011-12,0.1316366169260857
+ICT personnel,Proportion of internal ICT FTE at each SA Public Sector pay-grade,Contractor,2013-14,0.0753139769058727
+ICT personnel,Proportion of ICT FTE in each service Category,Applications Development,2009-10,0.14104237798754768
+ICT personnel,Proportion of ICT FTE in each service Category,Applications Development,2011-12,0.13898904395810457
+ICT personnel,Proportion of ICT FTE in each service Category,Applications Development,2013-14,0.1337478669914072
+ICT personnel,Proportion of ICT FTE in each service Category,Applications Maintenance and Support,2009-10,0.16675035147620004
+ICT personnel,Proportion of ICT FTE in each service Category,Applications Maintenance and Support,2011-12,0.1619940531997536
+ICT personnel,Proportion of ICT FTE in each service Category,Applications Maintenance and Support,2013-14,0.16616959760191605
+ICT personnel,Proportion of ICT FTE in each service Category,Managed Applications,2009-10,0.004719823257682265
+ICT personnel,Proportion of ICT FTE in each service Category,Managed Applications,2011-12,0.00551820203048405
+ICT personnel,Proportion of ICT FTE in each service Category,Managed Applications,2013-14,0.0047394564815611846
+ICT personnel,Proportion of ICT FTE in each service Category,Web Services,2009-10,0.014109258887326772
+ICT personnel,Proportion of ICT FTE in each service Category,Web Services,2011-12,0.014593769253435486
+ICT personnel,Proportion of ICT FTE in each service Category,Web Services,2013-14,0.019469241636327732
+ICT personnel,Proportion of ICT FTE in each service Category,Mainframe,2009-10,0.007180156657963446
+ICT personnel,Proportion of ICT FTE in each service Category,Mainframe,2011-12,0.0056039216736760355
+ICT personnel,Proportion of ICT FTE in each service Category,Mainframe,2013-14,0.005924320601951481
+ICT personnel,Proportion of ICT FTE in each service Category,Server,2009-10,0.07265515163687486
+ICT personnel,Proportion of ICT FTE in each service Category,Server,2011-12,0.07064370094559484
+ICT personnel,Proportion of ICT FTE in each service Category,Server,2013-14,0.0712589434455241
+ICT personnel,Proportion of ICT FTE in each service Category,End User Computing,2009-10,0.20330387628037755
+ICT personnel,Proportion of ICT FTE in each service Category,End User Computing,2011-12,0.19778736171010694
+ICT personnel,Proportion of ICT FTE in each service Category,End User Computing,2013-14,0.18345139778521552
+ICT personnel,Proportion of ICT FTE in each service Category,Storage,2009-10,0.0028620204860413737
+ICT personnel,Proportion of ICT FTE in each service Category,Storage,2011-12,0.001607243309849723
+ICT personnel,Proportion of ICT FTE in each service Category,Storage,2013-14,0.0036710533644571143
+ICT personnel,Proportion of ICT FTE in each service Category,Data Network,2009-10,0.03760795340429805
+ICT personnel,Proportion of ICT FTE in each service Category,Data Network,2011-12,0.030441188288553758
+ICT personnel,Proportion of ICT FTE in each service Category,Data Network,2013-14,0.0281430546202105
+ICT personnel,Proportion of ICT FTE in each service Category,Voice Network,2009-10,0.012050612572805784
+ICT personnel,Proportion of ICT FTE in each service Category,Voice Network,2011-12,0.0058235782593554965
+ICT personnel,Proportion of ICT FTE in each service Category,Voice Network,2013-14,0.008177587839445848
+ICT personnel,Proportion of ICT FTE in each service Category,Facilities,2009-10,0.004619401486242217
+ICT personnel,Proportion of ICT FTE in each service Category,Facilities,2011-12,0.0037984516889448456
+ICT personnel,Proportion of ICT FTE in each service Category,Facilities,2013-14,0.0025317609410049065
+ICT personnel,Proportion of ICT FTE in each service Category,Mobile Services,2009-10,0.004870455914842337
+ICT personnel,Proportion of ICT FTE in each service Category,Mobile Services,2011-12,0.003118052021108463
+ICT personnel,Proportion of ICT FTE in each service Category,Mobile Services,2013-14,0.004278675990298291
+ICT personnel,Proportion of ICT FTE in each service Category,Voice and Data Carriage,2009-10,0.0006025306286402891
+ICT personnel,Proportion of ICT FTE in each service Category,Voice and Data Carriage,2011-12,0.004023465752323807
+ICT personnel,Proportion of ICT FTE in each service Category,Voice and Data Carriage,2013-14,0.0038989118491475562
+ICT personnel,Proportion of ICT FTE in each service Category,Government Radio Network,2009-10,0.009339224743924483
+ICT personnel,Proportion of ICT FTE in each service Category,Government Radio Network,2011-12,0.01208111221237042
+ICT personnel,Proportion of ICT FTE in each service Category,Government Radio Network,2013-14,0.013438587074854043
+ICT personnel,Proportion of ICT FTE in each service Category,Service Management,2009-10,0.15997188190399678
+ICT personnel,Proportion of ICT FTE in each service Category,Service Management,2011-12,0.15335244167046158
+ICT personnel,Proportion of ICT FTE in each service Category,Service Management,2013-14,0.15993640216516194
+ICT personnel,Proportion of ICT FTE in each service Category,ICT Management,2009-10,0.15831492267523598
+ICT personnel,Proportion of ICT FTE in each service Category,ICT Management,2011-12,0.19062441402587668
+ICT personnel,Proportion of ICT FTE in each service Category,ICT Management,2013-14,0.19116314161151646
+ICT workforce demographics,ICT Staff Gender Distribution,Male,2009-10,0.7
+ICT workforce demographics,ICT Staff Gender Distribution,Male,2011-12,0.72
+ICT workforce demographics,ICT Staff Gender Distribution,Male,2013-14,0.75
+ICT workforce demographics,ICT Staff Gender Distribution,Female,2009-10,0.3
+ICT workforce demographics,ICT Staff Gender Distribution,Female,2011-12,0.28
+ICT workforce demographics,ICT Staff Gender Distribution,Female,2013-14,0.25
+ICT workforce demographics,ICT Staff Gender Distribution,Executive Male,2009-10,0.83
+ICT workforce demographics,ICT Staff Gender Distribution,Executive Male,2011-12,0.82
+ICT workforce demographics,ICT Staff Gender Distribution,Executive Male,2013-14,0.87
+ICT workforce demographics,ICT Staff Gender Distribution,Executive Female,2009-10,0.17
+ICT workforce demographics,ICT Staff Gender Distribution,Executive Female,2011-12,0.18
+ICT workforce demographics,ICT Staff Gender Distribution,Executive Female,2013-14,0.13
+ICT workforce demographics,ICT Workforce Age Profile,24 or less,2009-10,0.036
+ICT workforce demographics,ICT Workforce Age Profile,24 or less,2011-12,0.055
+ICT workforce demographics,ICT Workforce Age Profile,24 or less,2013-14,3.9
+ICT workforce demographics,ICT Workforce Age Profile,25-34,2009-10,0.27
+ICT workforce demographics,ICT Workforce Age Profile,25-34,2011-12,0.224
+ICT workforce demographics,ICT Workforce Age Profile,25-34,2013-14,21.6
+ICT workforce demographics,ICT Workforce Age Profile,35-44,2009-10,0.255
+ICT workforce demographics,ICT Workforce Age Profile,35-44,2011-12,0.283
+ICT workforce demographics,ICT Workforce Age Profile,35-44,2013-14,33.3
+ICT workforce demographics,ICT Workforce Age Profile,45-54,2009-10,0.282
+ICT workforce demographics,ICT Workforce Age Profile,45-54,2011-12,0.254
+ICT workforce demographics,ICT Workforce Age Profile,45-54,2013-14,24.2
+ICT workforce demographics,ICT Workforce Age Profile,55+,2009-10,0.157
+ICT workforce demographics,ICT Workforce Age Profile,55+,2011-12,0.184
+ICT workforce demographics,ICT Workforce Age Profile,55+,2013-14,17
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Administration/Management,2009-10,0.969
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Administration/Management,2011-12,0.971
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Administration/Management,2013-14,0.968
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Technical Grade,2009-10,0.008
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Technical Grade,2011-12,0.008
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Technical Grade,2013-14,0.011
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Professional Officer,2009-10,0.004
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Professional Officer,2011-12,0.004
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Professional Officer,2013-14,0.006
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Executive,2009-10,0.019
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Executive,2011-12,0.017
+ICT workforce demographics,ICT Workforce Classification Types - Levels at which ICT staff are employed,Executive,2013-14,0.015
+ICT infrastructure,Personal Computer type as a percentage,Desktops,2009-10,0.766698143514958
+ICT infrastructure,Personal Computer type as a percentage,Desktops,2011-12,0.7629
+ICT infrastructure,Personal Computer type as a percentage,Desktops,2013-14,0.7169
+ICT infrastructure,Personal Computer type as a percentage,Laptops,2009-10,0.2139776676628927
+ICT infrastructure,Personal Computer type as a percentage,Laptops,2011-12,0.2159
+ICT infrastructure,Personal Computer type as a percentage,Laptops,2013-14,0.2076
+ICT infrastructure,Personal Computer type as a percentage,Thin Clients,2009-10,0.013969879576717517
+ICT infrastructure,Personal Computer type as a percentage,Thin Clients,2011-12,0.0093
+ICT infrastructure,Personal Computer type as a percentage,Thin Clients,2013-14,0.006
+ICT infrastructure,Personal Computer type as a percentage,Tablets,2009-10,0.0053543092454318006
+ICT infrastructure,Personal Computer type as a percentage,Tablets,2011-12,0.0119
+ICT infrastructure,Personal Computer type as a percentage,Tablets,2013-14,0.0695
+ICT infrastructure,Mobile Device type as a percentage,Mobile phones,2009-10,0.8962256427050925
+ICT infrastructure,Mobile Device type as a percentage,Mobile phones,2011-12,0.8751
+ICT infrastructure,Mobile Device type as a percentage,Mobile phones,2013-14,0.6947
+ICT infrastructure,Mobile Device type as a percentage,Smartphones,2009-10,0.08797281807761585
+ICT infrastructure,Mobile Device type as a percentage,Smartphones,2011-12,0.1122
+ICT infrastructure,Mobile Device type as a percentage,Smartphones,2013-14,0.2869
+ICT infrastructure,Mobile Device type as a percentage,Satellite Phones,2009-10,0.015801539217291632
+ICT infrastructure,Mobile Device type as a percentage,Satellite Phones,2011-12,0.0127
+ICT infrastructure,Mobile Device type as a percentage,Satellite Phones,2013-14,0.0184
+ICT infrastructure,Logical Servers to Physical Servers Ratio (rate of virtualisation),Including schools,2009-10,0.77
+ICT infrastructure,Logical Servers to Physical Servers Ratio (rate of virtualisation),Including schools,2011-12,1.32
+ICT infrastructure,Logical Servers to Physical Servers Ratio (rate of virtualisation),Including schools,2013-14,1.52
+ICT infrastructure,Logical Servers to Physical Servers Ratio (rate of virtualisation),Excluding schools,2009-10,1.33
+ICT infrastructure,Logical Servers to Physical Servers Ratio (rate of virtualisation),Excluding schools,2011-12,1.62
+ICT infrastructure,Logical Servers to Physical Servers Ratio (rate of virtualisation),Excluding schools,2013-14,2.08
+ICT infrastructure,Application type as a percentage,Custom Application (COTS),2009-10,N/A
+ICT infrastructure,Application type as a percentage,Custom Application (COTS),2011-12,0.487
+ICT infrastructure,Application type as a percentage,Custom Application (COTS),2013-14,0.482
+ICT infrastructure,Application type as a percentage,Package Application (COTS),2009-10,N/A
+ICT infrastructure,Application type as a percentage,Package Application (COTS),2011-12,0.354
+ICT infrastructure,Application type as a percentage,Package Application (COTS),2013-14,0.335
+ICT infrastructure,Application type as a percentage,Externally Managed Application (SaaS),2009-10,N/A
+ICT infrastructure,Application type as a percentage,Externally Managed Application (SaaS),2011-12,0.098
+ICT infrastructure,Application type as a percentage,Externally Managed Application (SaaS),2013-14,0.117
+ICT infrastructure,Application type as a percentage,Government Managed Application,2009-10,N/A
+ICT infrastructure,Application type as a percentage,Government Managed Application,2011-12,0.061
+ICT infrastructure,Application type as a percentage,Government Managed Application,2013-14,0.066
