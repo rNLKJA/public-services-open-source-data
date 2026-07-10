@@ -1,0 +1,33 @@
+Metric,Cybercrime type,Value ($),Value range and payment-method breakdown
+Median amount directly lost,Online abuse and harassment,230,"Range: $3 - $22,000
+
+Money: $100
+Cryptocurrency: $77
+Giftcards: $56"
+Median amount directly lost,Malware,215,"Range: $5 - $16,000
+
+Money: $100
+Cryptocurrency: $60
+Giftcards: $56"
+Median amount directly lost,Identity crime,300,"Range: $1 - $220,000
+
+Money: $250
+Cryptocurrency: $100
+Giftcards: $100"
+Median amount directly lost,Fraud and scams,250,"Range: $1 - $220,000
+
+Money: $180
+Cryptocurrency: $100
+Giftcards: $70"
+Median amount spent on consequences,Online abuse and harassment,250,"Range: $5 - $1,000,000"
+Median amount spent on consequences,Malware,190,"Range: $3 - $8,650"
+Median amount spent on consequences,Identity crime,200,"Range: $1 - $100,000"
+Median amount spent on consequences,Fraud and scams,150,"Range: $3 - $30,000"
+Median amount recovered,Online abuse and harassment,100,"Range: $1 - $3,000"
+Median amount recovered,Malware,100,"Range: $5 - $3,000"
+Median amount recovered,Identity crime,250,"Range: $1 - $23,500"
+Median amount recovered,Fraud and scams,129,"Range: $1 - $50,000"
+Median amount lost after recoveries,Online abuse and harassment,300,"Range: $0 - $1,000,000"
+Median amount lost after recoveries,Malware,200,"Range: $0 - $19,000"
+Median amount lost after recoveries,Identity crime,300,"Range: $0 - $220,500"
+Median amount lost after recoveries,Fraud and scams,180,"Range: $0 - $220,000"
