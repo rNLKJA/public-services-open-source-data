@@ -1,0 +1,17 @@
+file,table,rows
+training-delivered-by-year.csv,"Table 1: Training delivered, 2019-20 to 2023-24",10
+complaints-received-and-finalised-by-year.csv,Historic Complaints-lodged workbook (2009-10 to 2018-19) + Table 6/17 (2019-20 to 2023-24); 2 source-corrupted lodged-count cells flagged not corrected - see README,11
+complaint-grounds-by-year.csv,Historic Complaints-grounds workbook (2009-10 to 2018-19) + Table 8 (2019-20 to 2023-24),182
+complaint-areas-by-year.csv,Historic Complaints-areas workbook (2009-10 to 2018-19) + Table 9 (2019-20 to 2023-24),77
+complaint-grounds-by-area-2023-24.csv,"Table 10: Accepted complaint grounds by area, 2023-24 only (cross-tab reshaped to long, zero cells dropped)",23
+complaints-by-area-detail-by-year.csv,"Tables 11-15 merged: accepted complaints by ground, within each area, 2019-20 to 2023-24",455
+complaint-finalisation-outcomes-by-year.csv,"Table 18: Outcomes of accepted complaints finalised, 2019-20 to 2023-24 ('*' = not available before 2022-23 reporting change, omitted)",65
+conciliation-outcomes-by-year.csv,"Table 19: Outcomes from conciliations, 2019-20 to 2023-24 (more than one outcome possible per agreement)",80
+financial-compensation-by-year.csv,"Table 20: Financial compensation agreements from conciliations, 2019-20 to 2023-24",10
+enquiries-received-by-year.csv,"Table 2: Enquiries received, 2019-20 to 2023-24",10
+enquiries-channel-by-year.csv,"Table 3: How enquiries were received, 2019-20 to 2023-24",35
+enquiry-grounds-by-year.csv,"Table 4: Grounds of enquiry (across all areas), 2019-20 to 2023-24",86
+enquiry-areas-by-year.csv,"Table 5: Areas of enquiry (across all grounds), 2019-20 to 2023-24 (source-side export corruption in 3 Goods-and-Services cells, flagged not corrected - see README)",35
+enquiry-outcomes-by-year.csv,"Table 16: Outcomes of enquiries, 2019-20 to 2023-24",50
+complainant-gender-identity-2023-24.csv,"Table 21: Gender identity of enquirers and complainants, 2023-24 only",6
+complainant-age-distribution-by-year.csv,"Table 22: Age distribution of complainants (accepted complaints), 2019-20 to 2023-24",50

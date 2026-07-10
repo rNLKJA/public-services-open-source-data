@@ -1,0 +1,12 @@
+financial_year,complaints_lodged,complaints_closed,pct_change_lodged_from_prev_year,avg_months_to_finalise,median_months_to_finalise,data_quality_flag
+5 year average (2009-14),263,*,*,,,
+2014-15,228,*,-0.13,,,
+2015-16,184,101,-0.15,,,
+2016-17,239,176,0.28,,,
+2017-18,213,62,-0.115,,,
+2018-19,179,35,-0.17,,,
+2019-20,181,160,1%,2.6,2.3,
+2020-21,23000%,258,27%,2.5,2,source_value_corrupted
+2021-22,224,218,-3%,2.3,1.7,
+2022-23,16300%,182,-27%,2.8,1,source_value_corrupted
+2023-24,148,127,-9%,2,1.2,

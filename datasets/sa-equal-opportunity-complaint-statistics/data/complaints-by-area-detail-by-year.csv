@@ -1,0 +1,456 @@
+financial_year,area,ground,count
+2019-20,Employment,Sexual Harassment,41
+2020-21,Employment,Sexual Harassment,20
+2021-22,Employment,Sexual Harassment,20
+2022-23,Employment,Sexual Harassment,27
+2023-24,Employment,Sexual Harassment,16
+2019-20,Employment,Sex,18
+2020-21,Employment,Sex,15
+2021-22,Employment,Sex,6
+2022-23,Employment,Sex,7
+2023-24,Employment,Sex,9
+2019-20,Employment,Victimisation,26
+2020-21,Employment,Victimisation,14
+2021-22,Employment,Victimisation,14
+2022-23,Employment,Victimisation,3
+2023-24,Employment,Victimisation,8
+2019-20,Employment,Disability,26
+2020-21,Employment,Disability,21
+2021-22,Employment,Disability,12
+2022-23,Employment,Disability,24
+2023-24,Employment,Disability,7
+2019-20,Employment,Race,14
+2020-21,Employment,Race,9
+2021-22,Employment,Race,8
+2022-23,Employment,Race,5
+2023-24,Employment,Race,4
+2019-20,Employment,Age,12
+2020-21,Employment,Age,10
+2021-22,Employment,Age,6
+2022-23,Employment,Age,7
+2023-24,Employment,Age,2
+2019-20,Employment,Gender Identity,4
+2020-21,Employment,Gender Identity,0
+2021-22,Employment,Gender Identity,1
+2022-23,Employment,Gender Identity,3
+2023-24,Employment,Gender Identity,1
+2019-20,Employment,Caring Responsibilities,2
+2020-21,Employment,Caring Responsibilities,4
+2021-22,Employment,Caring Responsibilities,2
+2022-23,Employment,Caring Responsibilities,2
+2023-24,Employment,Caring Responsibilities,1
+2019-20,Employment,Pregnancy,3
+2020-21,Employment,Pregnancy,4
+2021-22,Employment,Pregnancy,0
+2022-23,Employment,Pregnancy,0
+2023-24,Employment,Pregnancy,1
+2019-20,Employment,Sexual Orientation,5
+2020-21,Employment,Sexual Orientation,1
+2021-22,Employment,Sexual Orientation,3
+2022-23,Employment,Sexual Orientation,2
+2023-24,Employment,Sexual Orientation,0
+2019-20,Employment,Whistleblower,5
+2020-21,Employment,Whistleblower,0
+2021-22,Employment,Whistleblower,3
+2022-23,Employment,Whistleblower,2
+2023-24,Employment,Whistleblower,0
+2019-20,Employment,Association with a Child,1
+2020-21,Employment,Association with a Child,0
+2021-22,Employment,Association with a Child,0
+2022-23,Employment,Association with a Child,1
+2023-24,Employment,Association with a Child,0
+2019-20,Employment,Identity of Spouse or Partner,5
+2020-21,Employment,Identity of Spouse or Partner,0
+2021-22,Employment,Identity of Spouse or Partner,2
+2022-23,Employment,Identity of Spouse or Partner,0
+2023-24,Employment,Identity of Spouse or Partner,0
+2019-20,Employment,Aiding Unlawful Act,0
+2020-21,Employment,Aiding Unlawful Act,0
+2021-22,Employment,Aiding Unlawful Act,1
+2022-23,Employment,Aiding Unlawful Act,0
+2023-24,Employment,Aiding Unlawful Act,0
+2019-20,Employment,Religious appearance or dress,0
+2020-21,Employment,Religious appearance or dress,0
+2021-22,Employment,Religious appearance or dress,1
+2022-23,Employment,Religious appearance or dress,0
+2023-24,Employment,Religious appearance or dress,0
+2019-20,Employment,Marital Status,1
+2020-21,Employment,Marital Status,0
+2021-22,Employment,Marital Status,0
+2022-23,Employment,Marital Status,0
+2023-24,Employment,Marital Status,0
+2019-20,Employment,Intersex Status,0
+2020-21,Employment,Intersex Status,0
+2021-22,Employment,Intersex Status,0
+2022-23,Employment,Intersex Status,0
+2023-24,Employment,Intersex Status,0
+2023-24,Employment,Domestic Abuse,0
+2019-20,Employment,Other,0
+2020-21,Employment,Other,13
+2021-22,Employment,Other,0
+2022-23,Employment,Other,0
+2023-24,Employment,Other,0
+2019-20,Goods and services,Disability,9
+2020-21,Goods and services,Disability,16
+2021-22,Goods and services,Disability,18
+2022-23,Goods and services,Disability,9
+2023-24,Goods and services,Disability,7
+2019-20,Goods and services,Sex,7
+2020-21,Goods and services,Sex,3
+2021-22,Goods and services,Sex,1
+2022-23,Goods and services,Sex,5
+2023-24,Goods and services,Sex,2
+2019-20,Goods and services,Association with a Child,0
+2020-21,Goods and services,Association with a Child,2
+2021-22,Goods and services,Association with a Child,1
+2022-23,Goods and services,Association with a Child,0
+2023-24,Goods and services,Association with a Child,2
+2019-20,Goods and services,Race,6
+2020-21,Goods and services,Race,4
+2021-22,Goods and services,Race,4
+2022-23,Goods and services,Race,1
+2023-24,Goods and services,Race,1
+2019-20,Goods and services,Victimisation,0
+2020-21,Goods and services,Victimisation,3
+2021-22,Goods and services,Victimisation,2
+2022-23,Goods and services,Victimisation,0
+2023-24,Goods and services,Victimisation,1
+2019-20,Goods and services,Gender Identity,2
+2020-21,Goods and services,Gender Identity,1
+2021-22,Goods and services,Gender Identity,1
+2022-23,Goods and services,Gender Identity,0
+2023-24,Goods and services,Gender Identity,1
+2019-20,Goods and services,Caring Responsibilities,0
+2020-21,Goods and services,Caring Responsibilities,1
+2021-22,Goods and services,Caring Responsibilities,1
+2022-23,Goods and services,Caring Responsibilities,0
+2023-24,Goods and services,Caring Responsibilities,1
+2019-20,Goods and services,Marital Status,0
+2020-21,Goods and services,Marital Status,0
+2021-22,Goods and services,Marital Status,0
+2022-23,Goods and services,Marital Status,0
+2023-24,Goods and services,Marital Status,1
+2019-20,Goods and services,Sexual Orientation,1
+2020-21,Goods and services,Sexual Orientation,2
+2021-22,Goods and services,Sexual Orientation,0
+2022-23,Goods and services,Sexual Orientation,2
+2023-24,Goods and services,Sexual Orientation,0
+2019-20,Goods and services,Identity of Spouse or Partner,1
+2020-21,Goods and services,Identity of Spouse or Partner,0
+2021-22,Goods and services,Identity of Spouse or Partner,0
+2022-23,Goods and services,Identity of Spouse or Partner,2
+2023-24,Goods and services,Identity of Spouse or Partner,0
+2019-20,Goods and services,Age,1
+2020-21,Goods and services,Age,3
+2021-22,Goods and services,Age,1
+2022-23,Goods and services,Age,1
+2023-24,Goods and services,Age,0
+2019-20,Goods and services,Sexual Harassment,2
+2020-21,Goods and services,Sexual Harassment,0
+2021-22,Goods and services,Sexual Harassment,2
+2022-23,Goods and services,Sexual Harassment,0
+2023-24,Goods and services,Sexual Harassment,0
+2019-20,Goods and services,Intersex Status,0
+2020-21,Goods and services,Intersex Status,2
+2021-22,Goods and services,Intersex Status,0
+2022-23,Goods and services,Intersex Status,0
+2023-24,Goods and services,Intersex Status,0
+2019-20,Goods and services,Whistleblower,0
+2020-21,Goods and services,Whistleblower,0
+2021-22,Goods and services,Whistleblower,0
+2022-23,Goods and services,Whistleblower,0
+2023-24,Goods and services,Whistleblower,0
+2019-20,Goods and services,Pregnancy,0
+2020-21,Goods and services,Pregnancy,0
+2021-22,Goods and services,Pregnancy,0
+2022-23,Goods and services,Pregnancy,0
+2023-24,Goods and services,Pregnancy,0
+2019-20,Goods and services,Religious appearance or dress,0
+2020-21,Goods and services,Religious appearance or dress,0
+2021-22,Goods and services,Religious appearance or dress,0
+2022-23,Goods and services,Religious appearance or dress,0
+2023-24,Goods and services,Religious appearance or dress,0
+2019-20,Goods and services,Aiding Unlawful Act,0
+2020-21,Goods and services,Aiding Unlawful Act,0
+2021-22,Goods and services,Aiding Unlawful Act,0
+2022-23,Goods and services,Aiding Unlawful Act,0
+2023-24,Goods and services,Aiding Unlawful Act,0
+2023-24,Goods and services,Domestic abuse,0
+2019-20,Goods and services,Other,0
+2020-21,Goods and services,Other,8
+2021-22,Goods and services,Other,0
+2022-23,Goods and services,Other,0
+2023-24,Goods and services,Other,0
+2019-20,"Education, training and qualifications",Sexual Harassment,3
+2020-21,"Education, training and qualifications",Sexual Harassment,2
+2021-22,"Education, training and qualifications",Sexual Harassment,0
+2022-23,"Education, training and qualifications",Sexual Harassment,0
+2023-24,"Education, training and qualifications",Sexual Harassment,2
+2019-20,"Education, training and qualifications",Disability,11
+2020-21,"Education, training and qualifications",Disability,6
+2021-22,"Education, training and qualifications",Disability,8
+2022-23,"Education, training and qualifications",Disability,3
+2023-24,"Education, training and qualifications",Disability,1
+2019-20,"Education, training and qualifications",Sex,1
+2020-21,"Education, training and qualifications",Sex,1
+2021-22,"Education, training and qualifications",Sex,1
+2022-23,"Education, training and qualifications",Sex,1
+2023-24,"Education, training and qualifications",Sex,1
+2019-20,"Education, training and qualifications",Age,3
+2020-21,"Education, training and qualifications",Age,0
+2021-22,"Education, training and qualifications",Age,0
+2022-23,"Education, training and qualifications",Age,0
+2023-24,"Education, training and qualifications",Age,1
+2019-20,"Education, training and qualifications",Victimisation,6
+2020-21,"Education, training and qualifications",Victimisation,3
+2021-22,"Education, training and qualifications",Victimisation,4
+2022-23,"Education, training and qualifications",Victimisation,1
+2023-24,"Education, training and qualifications",Victimisation,0
+2019-20,"Education, training and qualifications",Caring Responsibilities,1
+2020-21,"Education, training and qualifications",Caring Responsibilities,2
+2021-22,"Education, training and qualifications",Caring Responsibilities,3
+2022-23,"Education, training and qualifications",Caring Responsibilities,1
+2023-24,"Education, training and qualifications",Caring Responsibilities,0
+2019-20,"Education, training and qualifications",Race,4
+2020-21,"Education, training and qualifications",Race,1
+2021-22,"Education, training and qualifications",Race,2
+2022-23,"Education, training and qualifications",Race,1
+2023-24,"Education, training and qualifications",Race,0
+2019-20,"Education, training and qualifications",Gender Identity,5
+2020-21,"Education, training and qualifications",Gender Identity,0
+2021-22,"Education, training and qualifications",Gender Identity,1
+2022-23,"Education, training and qualifications",Gender Identity,1
+2023-24,"Education, training and qualifications",Gender Identity,0
+2019-20,"Education, training and qualifications",Identity of Spouse or Partner,2
+2020-21,"Education, training and qualifications",Identity of Spouse or Partner,0
+2021-22,"Education, training and qualifications",Identity of Spouse or Partner,0
+2022-23,"Education, training and qualifications",Identity of Spouse or Partner,1
+2023-24,"Education, training and qualifications",Identity of Spouse or Partner,0
+2019-20,"Education, training and qualifications",Marital Status,0
+2020-21,"Education, training and qualifications",Marital Status,0
+2021-22,"Education, training and qualifications",Marital Status,0
+2022-23,"Education, training and qualifications",Marital Status,1
+2023-24,"Education, training and qualifications",Marital Status,0
+2019-20,"Education, training and qualifications",Whistleblower,0
+2020-21,"Education, training and qualifications",Whistleblower,0
+2021-22,"Education, training and qualifications",Whistleblower,0
+2022-23,"Education, training and qualifications",Whistleblower,0
+2023-24,"Education, training and qualifications",Whistleblower,0
+2019-20,"Education, training and qualifications",Aiding Unlawful Act,0
+2020-21,"Education, training and qualifications",Aiding Unlawful Act,0
+2021-22,"Education, training and qualifications",Aiding Unlawful Act,0
+2022-23,"Education, training and qualifications",Aiding Unlawful Act,0
+2023-24,"Education, training and qualifications",Aiding Unlawful Act,0
+2019-20,"Education, training and qualifications",Association with a Child,0
+2020-21,"Education, training and qualifications",Association with a Child,0
+2021-22,"Education, training and qualifications",Association with a Child,0
+2022-23,"Education, training and qualifications",Association with a Child,0
+2023-24,"Education, training and qualifications",Association with a Child,0
+2019-20,"Education, training and qualifications",Intersex Status,0
+2020-21,"Education, training and qualifications",Intersex Status,0
+2021-22,"Education, training and qualifications",Intersex Status,0
+2022-23,"Education, training and qualifications",Intersex Status,0
+2023-24,"Education, training and qualifications",Intersex Status,0
+2019-20,"Education, training and qualifications",Pregnancy,0
+2020-21,"Education, training and qualifications",Pregnancy,0
+2021-22,"Education, training and qualifications",Pregnancy,0
+2022-23,"Education, training and qualifications",Pregnancy,0
+2023-24,"Education, training and qualifications",Pregnancy,0
+2019-20,"Education, training and qualifications",Religious appearance or dress,0
+2020-21,"Education, training and qualifications",Religious appearance or dress,0
+2021-22,"Education, training and qualifications",Religious appearance or dress,0
+2022-23,"Education, training and qualifications",Religious appearance or dress,0
+2023-24,"Education, training and qualifications",Religious appearance or dress,0
+2019-20,"Education, training and qualifications",Sexual Orientation,0
+2020-21,"Education, training and qualifications",Sexual Orientation,0
+2021-22,"Education, training and qualifications",Sexual Orientation,0
+2022-23,"Education, training and qualifications",Sexual Orientation,0
+2023-24,"Education, training and qualifications",Sexual Orientation,0
+2023-24,"Education, training and qualifications",Domestic Abuse,0
+2019-20,"Education, training and qualifications",Other,0
+2020-21,"Education, training and qualifications",Other,5
+2021-22,"Education, training and qualifications",Other,0
+2022-23,"Education, training and qualifications",Other,0
+2023-24,"Education, training and qualifications",Other,0
+2019-20,Clubs and associations,Sexual Harassment,0
+2020-21,Clubs and associations,Sexual Harassment,0
+2021-22,Clubs and associations,Sexual Harassment,0
+2022-23,Clubs and associations,Sexual Harassment,0
+2023-24,Clubs and associations,Sexual Harassment,1
+2019-20,Clubs and associations,Sexual Orientation,0
+2020-21,Clubs and associations,Sexual Orientation,0
+2021-22,Clubs and associations,Sexual Orientation,0
+2022-23,Clubs and associations,Sexual Orientation,0
+2023-24,Clubs and associations,Sexual Orientation,1
+2019-20,Clubs and associations,Disability,2
+2020-21,Clubs and associations,Disability,2
+2021-22,Clubs and associations,Disability,4
+2022-23,Clubs and associations,Disability,1
+2023-24,Clubs and associations,Disability,0
+2019-20,Clubs and associations,Gender Identity,0
+2020-21,Clubs and associations,Gender Identity,0
+2021-22,Clubs and associations,Gender Identity,0
+2022-23,Clubs and associations,Gender Identity,1
+2023-24,Clubs and associations,Gender Identity,0
+2019-20,Clubs and associations,Victimisation,1
+2020-21,Clubs and associations,Victimisation,2
+2021-22,Clubs and associations,Victimisation,0
+2022-23,Clubs and associations,Victimisation,0
+2023-24,Clubs and associations,Victimisation,0
+2019-20,Clubs and associations,Race,0
+2020-21,Clubs and associations,Race,1
+2021-22,Clubs and associations,Race,0
+2022-23,Clubs and associations,Race,0
+2023-24,Clubs and associations,Race,0
+2019-20,Clubs and associations,Age,0
+2020-21,Clubs and associations,Age,0
+2021-22,Clubs and associations,Age,0
+2022-23,Clubs and associations,Age,0
+2023-24,Clubs and associations,Age,0
+2019-20,Clubs and associations,Caring Responsibilities,0
+2020-21,Clubs and associations,Caring Responsibilities,0
+2021-22,Clubs and associations,Caring Responsibilities,0
+2022-23,Clubs and associations,Caring Responsibilities,0
+2023-24,Clubs and associations,Caring Responsibilities,0
+2019-20,Clubs and associations,Sex,0
+2020-21,Clubs and associations,Sex,0
+2021-22,Clubs and associations,Sex,0
+2022-23,Clubs and associations,Sex,0
+2023-24,Clubs and associations,Sex,0
+2019-20,Clubs and associations,Whistleblower,0
+2020-21,Clubs and associations,Whistleblower,0
+2021-22,Clubs and associations,Whistleblower,0
+2022-23,Clubs and associations,Whistleblower,0
+2023-24,Clubs and associations,Whistleblower,0
+2019-20,Clubs and associations,Aiding Unlawful Act,0
+2020-21,Clubs and associations,Aiding Unlawful Act,0
+2021-22,Clubs and associations,Aiding Unlawful Act,0
+2022-23,Clubs and associations,Aiding Unlawful Act,0
+2023-24,Clubs and associations,Aiding Unlawful Act,0
+2019-20,Clubs and associations,Association with a Child,0
+2020-21,Clubs and associations,Association with a Child,0
+2021-22,Clubs and associations,Association with a Child,0
+2022-23,Clubs and associations,Association with a Child,0
+2023-24,Clubs and associations,Association with a Child,0
+2019-20,Clubs and associations,Identity of Spouse or Partner,0
+2020-21,Clubs and associations,Identity of Spouse or Partner,0
+2021-22,Clubs and associations,Identity of Spouse or Partner,0
+2022-23,Clubs and associations,Identity of Spouse or Partner,0
+2023-24,Clubs and associations,Identity of Spouse or Partner,0
+2019-20,Clubs and associations,Intersex Status,0
+2020-21,Clubs and associations,Intersex Status,0
+2021-22,Clubs and associations,Intersex Status,0
+2022-23,Clubs and associations,Intersex Status,0
+2023-24,Clubs and associations,Intersex Status,0
+2019-20,Clubs and associations,Marital Status,0
+2020-21,Clubs and associations,Marital Status,0
+2021-22,Clubs and associations,Marital Status,0
+2022-23,Clubs and associations,Marital Status,0
+2023-24,Clubs and associations,Marital Status,0
+2019-20,Clubs and associations,Pregnancy,0
+2020-21,Clubs and associations,Pregnancy,0
+2021-22,Clubs and associations,Pregnancy,0
+2022-23,Clubs and associations,Pregnancy,0
+2023-24,Clubs and associations,Pregnancy,0
+2019-20,Clubs and associations,Religious appearance or dress,0
+2020-21,Clubs and associations,Religious appearance or dress,0
+2021-22,Clubs and associations,Religious appearance or dress,0
+2022-23,Clubs and associations,Religious appearance or dress,0
+2023-24,Clubs and associations,Religious appearance or dress,0
+2023-24,Clubs and associations,Domestic Abuse,0
+2019-20,Clubs and associations,Other,0
+2020-21,Clubs and associations,Other,1
+2021-22,Clubs and associations,Other,0
+2022-23,Clubs and associations,Other,0
+2023-24,Clubs and associations,Other,0
+2019-20,"Housing, land and accommodation",Disability,2
+2020-21,"Housing, land and accommodation",Disability,1
+2021-22,"Housing, land and accommodation",Disability,0
+2022-23,"Housing, land and accommodation",Disability,2
+2023-24,"Housing, land and accommodation",Disability,0
+2019-20,"Housing, land and accommodation",Age,0
+2020-21,"Housing, land and accommodation",Age,0
+2021-22,"Housing, land and accommodation",Age,0
+2022-23,"Housing, land and accommodation",Age,1
+2023-24,"Housing, land and accommodation",Age,0
+2019-20,"Housing, land and accommodation",Race,0
+2020-21,"Housing, land and accommodation",Race,0
+2021-22,"Housing, land and accommodation",Race,0
+2022-23,"Housing, land and accommodation",Race,1
+2023-24,"Housing, land and accommodation",Race,0
+2019-20,"Housing, land and accommodation",Association with a Child,0
+2020-21,"Housing, land and accommodation",Association with a Child,1
+2021-22,"Housing, land and accommodation",Association with a Child,0
+2022-23,"Housing, land and accommodation",Association with a Child,0
+2023-24,"Housing, land and accommodation",Association with a Child,0
+2019-20,"Housing, land and accommodation",Sex,0
+2020-21,"Housing, land and accommodation",Sex,1
+2021-22,"Housing, land and accommodation",Sex,0
+2022-23,"Housing, land and accommodation",Sex,0
+2023-24,"Housing, land and accommodation",Sex,0
+2019-20,"Housing, land and accommodation",Sexual Harassment,0
+2020-21,"Housing, land and accommodation",Sexual Harassment,0
+2021-22,"Housing, land and accommodation",Sexual Harassment,0
+2022-23,"Housing, land and accommodation",Sexual Harassment,0
+2023-24,"Housing, land and accommodation",Sexual Harassment,0
+2019-20,"Housing, land and accommodation",Victimisation,0
+2020-21,"Housing, land and accommodation",Victimisation,0
+2021-22,"Housing, land and accommodation",Victimisation,0
+2022-23,"Housing, land and accommodation",Victimisation,0
+2023-24,"Housing, land and accommodation",Victimisation,0
+2019-20,"Housing, land and accommodation",Caring Responsibilities,0
+2020-21,"Housing, land and accommodation",Caring Responsibilities,0
+2021-22,"Housing, land and accommodation",Caring Responsibilities,0
+2022-23,"Housing, land and accommodation",Caring Responsibilities,0
+2023-24,"Housing, land and accommodation",Caring Responsibilities,0
+2019-20,"Housing, land and accommodation",Gender Identity,0
+2020-21,"Housing, land and accommodation",Gender Identity,0
+2021-22,"Housing, land and accommodation",Gender Identity,0
+2022-23,"Housing, land and accommodation",Gender Identity,0
+2023-24,"Housing, land and accommodation",Gender Identity,0
+2019-20,"Housing, land and accommodation",Pregnancy,0
+2020-21,"Housing, land and accommodation",Pregnancy,0
+2021-22,"Housing, land and accommodation",Pregnancy,0
+2022-23,"Housing, land and accommodation",Pregnancy,0
+2023-24,"Housing, land and accommodation",Pregnancy,0
+2019-20,"Housing, land and accommodation",Whistleblower,0
+2020-21,"Housing, land and accommodation",Whistleblower,0
+2021-22,"Housing, land and accommodation",Whistleblower,0
+2022-23,"Housing, land and accommodation",Whistleblower,0
+2023-24,"Housing, land and accommodation",Whistleblower,0
+2019-20,"Housing, land and accommodation",Aiding Unlawful Act,0
+2020-21,"Housing, land and accommodation",Aiding Unlawful Act,0
+2021-22,"Housing, land and accommodation",Aiding Unlawful Act,0
+2022-23,"Housing, land and accommodation",Aiding Unlawful Act,0
+2023-24,"Housing, land and accommodation",Aiding Unlawful Act,0
+2019-20,"Housing, land and accommodation",Identity of Spouse or Partner,0
+2020-21,"Housing, land and accommodation",Identity of Spouse or Partner,0
+2021-22,"Housing, land and accommodation",Identity of Spouse or Partner,0
+2022-23,"Housing, land and accommodation",Identity of Spouse or Partner,0
+2023-24,"Housing, land and accommodation",Identity of Spouse or Partner,0
+2019-20,"Housing, land and accommodation",Intersex Status,0
+2020-21,"Housing, land and accommodation",Intersex Status,0
+2021-22,"Housing, land and accommodation",Intersex Status,0
+2022-23,"Housing, land and accommodation",Intersex Status,0
+2023-24,"Housing, land and accommodation",Intersex Status,0
+2019-20,"Housing, land and accommodation",Marital Status,0
+2020-21,"Housing, land and accommodation",Marital Status,0
+2021-22,"Housing, land and accommodation",Marital Status,0
+2022-23,"Housing, land and accommodation",Marital Status,0
+2023-24,"Housing, land and accommodation",Marital Status,0
+2019-20,"Housing, land and accommodation",Religious appearance or dress,0
+2020-21,"Housing, land and accommodation",Religious appearance or dress,0
+2021-22,"Housing, land and accommodation",Religious appearance or dress,0
+2022-23,"Housing, land and accommodation",Religious appearance or dress,0
+2023-24,"Housing, land and accommodation",Religious appearance or dress,0
+2019-20,"Housing, land and accommodation",Sexual Orientation,0
+2020-21,"Housing, land and accommodation",Sexual Orientation,0
+2021-22,"Housing, land and accommodation",Sexual Orientation,0
+2022-23,"Housing, land and accommodation",Sexual Orientation,0
+2023-24,"Housing, land and accommodation",Sexual Orientation,0
+2023-24,"Housing, land and accommodation",Domestic Abuse,0
+2019-20,"Housing, land and accommodation",Other,0
+2020-21,"Housing, land and accommodation",Other,0
+2021-22,"Housing, land and accommodation",Other,0
+2022-23,"Housing, land and accommodation",Other,0
+2023-24,"Housing, land and accommodation",Other,0

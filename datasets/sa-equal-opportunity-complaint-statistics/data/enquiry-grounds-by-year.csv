@@ -1,0 +1,87 @@
+financial_year,ground_or_category,count,pct_of_total
+2019-20,Disability,176,27%
+2020-21,Disability,154,21%
+2021-22,Disability,230,34%
+2022-23,Disability,138,23%
+2023-24,Disability,143,25%
+2019-20,Race,61,10%
+2020-21,Race,74,10%
+2021-22,Race,42,6%
+2022-23,Race,53,9%
+2023-24,Race,44,8%
+2019-20,Sex,31,5%
+2020-21,Sex,39,5%
+2021-22,Sex,15,2%
+2022-23,Sex,31,5%
+2023-24,Sex,21,4%
+2019-20,Age,20,3%
+2020-21,Age,43,6%
+2021-22,Age,32,5%
+2022-23,Age,26,4%
+2023-24,Age,18,3%
+2019-20,Caring Responsibilities,16,2%
+2020-21,Caring Responsibilities,14,2%
+2021-22,Caring Responsibilities,14,2%
+2022-23,Caring Responsibilities,12,2%
+2023-24,Caring Responsibilities,17,3%
+2019-20,Sexual Harassment,49,8%
+2020-21,Sexual Harassment,41,6%
+2021-22,Sexual Harassment,22,3%
+2022-23,Sexual Harassment,13,2%
+2023-24,Sexual Harassment,12,2%
+2019-20,Pregnancy,15,2%
+2020-21,Pregnancy,15,2%
+2021-22,Pregnancy,12,2%
+2022-23,Pregnancy,12,2%
+2023-24,Pregnancy,11,2%
+2019-20,Gender Identity,2,0%
+2020-21,Gender Identity,14,2%
+2021-22,Gender Identity,6,1%
+2022-23,Gender Identity,8,1%
+2023-24,Gender Identity,5,1%
+2019-20,Victimisation,13,2%
+2020-21,Victimisation,21,3%
+2021-22,Victimisation,5,1%
+2022-23,Victimisation,12,2%
+2023-24,Victimisation,4,1%
+2023-24,Domestic Abuse,3,1%
+2019-20,Sexual Orientation,5,1%
+2020-21,Sexual Orientation,16,2%
+2021-22,Sexual Orientation,4,1%
+2022-23,Sexual Orientation,2,0%
+2023-24,Sexual Orientation,2,0%
+2019-20,Religious Appearance or Dress,9,1%
+2020-21,Religious Appearance or Dress,5,1%
+2021-22,Religious Appearance or Dress,2,0%
+2022-23,Religious Appearance or Dress,0,0%
+2023-24,Religious Appearance or Dress,2,0%
+2019-20,Marital Status,1,0%
+2020-21,Marital Status,2,0%
+2021-22,Marital Status,2,0%
+2022-23,Marital Status,4,1%
+2023-24,Marital Status,1,0%
+2019-20,Association with a Child,2,0%
+2020-21,Association with a Child,4,1%
+2021-22,Association with a Child,1,0%
+2022-23,Association with a Child,2,0%
+2023-24,Association with a Child,1,0%
+2019-20,Identity of Spouse or Partner,1,0%
+2020-21,Identity of Spouse or Partner,0,0%
+2021-22,Identity of Spouse or Partner,0,0%
+2022-23,Identity of Spouse or Partner,0,0%
+2023-24,Identity of Spouse or Partner,1,0%
+2019-20,Intersex Status,3,0%
+2020-21,Intersex Status,2,0%
+2021-22,Intersex Status,0,0%
+2022-23,Intersex Status,0,0%
+2023-24,Intersex Status,0,0%
+2019-20,Enquiries with no grounds under Equal Opportunity Act 1984,150,23%
+2020-21,Enquiries with no grounds under Equal Opportunity Act 1984,189,26%
+2021-22,Enquiries with no grounds under Equal Opportunity Act 1984,219,33%
+2022-23,Enquiries with no grounds under Equal Opportunity Act 1984,199,33%
+2023-24,Enquiries with no grounds under Equal Opportunity Act 1984,174,30%
+2019-20,General EOSA enquiries,87,14%
+2020-21,General EOSA enquiries,87,12%
+2021-22,General EOSA enquiries,64,10%
+2022-23,General EOSA enquiries,86,14%
+2023-24,General EOSA enquiries,120,21%

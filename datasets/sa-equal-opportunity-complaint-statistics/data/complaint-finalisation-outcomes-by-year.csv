@@ -1,0 +1,66 @@
+financial_year,outcome_category,outcome_subcategory,count
+2019-20,Resolved by conciliation,,57
+2020-21,Resolved by conciliation,,48
+2021-22,Resolved by conciliation,,24
+2022-23,Resolved by conciliation,,25
+2023-24,Resolved by conciliation,,11
+2019-20,Resolved by conciliation,Expedited conciliation,*
+2020-21,Resolved by conciliation,Expedited conciliation,*
+2021-22,Resolved by conciliation,Expedited conciliation,*
+2022-23,Resolved by conciliation,Expedited conciliation,14
+2023-24,Resolved by conciliation,Expedited conciliation,7
+2019-20,Resolved by conciliation,Conciliation by conference,*
+2020-21,Resolved by conciliation,Conciliation by conference,*
+2021-22,Resolved by conciliation,Conciliation by conference,*
+2022-23,Resolved by conciliation,Conciliation by conference,11
+2023-24,Resolved by conciliation,Conciliation by conference,4
+2019-20,Declined by Commissioner,,*
+2020-21,Declined by Commissioner,,*
+2021-22,Declined by Commissioner,,*
+2022-23,Declined by Commissioner,,22
+2023-24,Declined by Commissioner,,14
+2019-20,Declined by Commissioner,No conciliation attempted,*
+2020-21,Declined by Commissioner,No conciliation attempted,*
+2021-22,Declined by Commissioner,No conciliation attempted,*
+2022-23,Declined by Commissioner,No conciliation attempted,20
+2023-24,Declined by Commissioner,No conciliation attempted,10
+2019-20,Declined by Commissioner,After attempting conciliation,*
+2020-21,Declined by Commissioner,After attempting conciliation,*
+2021-22,Declined by Commissioner,After attempting conciliation,*
+2022-23,Declined by Commissioner,After attempting conciliation,2
+2023-24,Declined by Commissioner,After attempting conciliation,4
+2019-20,Withdrawn by complainant,,*
+2020-21,Withdrawn by complainant,,*
+2021-22,Withdrawn by complainant,,*
+2022-23,Withdrawn by complainant,,7
+2023-24,Withdrawn by complainant,,8
+2019-20,Withdrawn by complainant,No conciliation attempted,*
+2020-21,Withdrawn by complainant,No conciliation attempted,*
+2021-22,Withdrawn by complainant,No conciliation attempted,*
+2022-23,Withdrawn by complainant,No conciliation attempted,5
+2023-24,Withdrawn by complainant,No conciliation attempted,8
+2019-20,Withdrawn by complainant,After attempting conciliation,*
+2020-21,Withdrawn by complainant,After attempting conciliation,*
+2021-22,Withdrawn by complainant,After attempting conciliation,*
+2022-23,Withdrawn by complainant,After attempting conciliation,2
+2023-24,Withdrawn by complainant,After attempting conciliation,0
+2019-20,Referred to tribunal by Commissioner,,26
+2020-21,Referred to tribunal by Commissioner,,31
+2021-22,Referred to tribunal by Commissioner,,34
+2022-23,Referred to tribunal by Commissioner,,17
+2023-24,Referred to tribunal by Commissioner,,4
+2019-20,Referred to tribunal by Commissioner,No conciliation attempted,*
+2020-21,Referred to tribunal by Commissioner,No conciliation attempted,*
+2021-22,Referred to tribunal by Commissioner,No conciliation attempted,*
+2022-23,Referred to tribunal by Commissioner,No conciliation attempted,4
+2023-24,Referred to tribunal by Commissioner,No conciliation attempted,2
+2019-20,Referred to tribunal by Commissioner,After attempting conciliation,*
+2020-21,Referred to tribunal by Commissioner,After attempting conciliation,*
+2021-22,Referred to tribunal by Commissioner,After attempting conciliation,*
+2022-23,Referred to tribunal by Commissioner,After attempting conciliation,13
+2023-24,Referred to tribunal by Commissioner,After attempting conciliation,2
+2019-20,Total no. accepted complaints finalised,,114
+2020-21,Total no. accepted complaints finalised,,126
+2021-22,Total no. accepted complaints finalised,,80
+2022-23,Total no. accepted complaints finalised,,71
+2023-24,Total no. accepted complaints finalised,,37
