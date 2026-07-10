@@ -1,0 +1,37 @@
+fraud_type,state,reported_to_authority_000,experienced_total_000,all_persons_000,reporting_rate_pct,victimisation_rate_pct
+Card fraud,New South Wales,687,698.4,6895.4,98.4,10.1
+Card fraud,Victoria,584,603.4,5675.2,96.8,10.6
+Card fraud,Queensland,453,471.3,4443.8,96.1,10.6
+Card fraud,South Australia,118.7,121.9,1531.4,97.4,8
+Card fraud,Western Australia,285.6,287.8,2358.6,99.2,12.2
+Card fraud,Tasmania,40.5,40.9,469.7,99,8.7
+Card fraud,Northern Territory,17.5,17.6,159.6,99.4,11
+Card fraud,Australian Capital Territory,44.6,44.6,381,100,11.7
+Card fraud,Australia,2225.2,2280.3,21926.7,97.6,10.4
+Scams,New South Wales,124.9,183.3,6895.4,68.1,2.7
+Scams,Victoria,100.3,144,5675.2,69.7,2.5
+Scams,Queensland,97.5,137.9,4443.8,70.7,3.1
+Scams,South Australia,26.8,39.1,1531.4,68.5,2.6
+Scams,Western Australia,54.6,68.4,2358.6,79.8,2.9
+Scams,Tasmania,8.4,12,469.7,70,2.6
+Scams,Northern Territory,2.7,4.2,159.6,64.3,2.6
+Scams,Australian Capital Territory,8.3,9.3,381,89.2,2.4
+Scams,Australia,424.4,596.6,21926.7,71.1,2.7
+Identity theft,New South Wales,65.2,72.1,6895.4,90.4,1
+Identity theft,Victoria,49.5,56.3,5675.2,87.9,1
+Identity theft,Queensland,32.2,39.8,4443.8,80.9,0.9
+Identity theft,South Australia,11.8,13.4,1531.4,88.1,0.9
+Identity theft,Western Australia,12.5,16,2358.6,78.1,0.7
+Identity theft,Tasmania,2.4,3.3,469.7,72.7,0.7
+Identity theft,Northern Territory,1.2,1.8,159.6,66.7,1.1
+Identity theft,Australian Capital Territory,2.3,5,381,46,1.3
+Identity theft,Australia,179.1,220.4,21926.7,81.3,1
+Online impersonation,New South Wales,na,146,6895.4,na,2.1
+Online impersonation,Victoria,na,118.8,5675.2,na,2.1
+Online impersonation,Queensland,na,123.5,4443.8,na,2.8
+Online impersonation,South Australia,na,40.1,1531.4,na,2.6
+Online impersonation,Western Australia,na,60.2,2358.6,na,2.6
+Online impersonation,Tasmania,na,6.5,469.7,na,1.4
+Online impersonation,Northern Territory,na,3.9,159.6,na,2.4
+Online impersonation,Australian Capital Territory,na,9.5,381,na,2.5
+Online impersonation,Australia,na,500,21926.7,na,2.3
