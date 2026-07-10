@@ -1,0 +1,125 @@
+financial_year,indicator,category_type,category,unit,value
+2007-08,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,206
+2007-08,Days waited at the 90th percentile,hospital_group,South Australia,days,206
+2007-08,Median waiting time,hospital_group,Metro Hospitals,days,41
+2007-08,Median waiting time,hospital_group,South Australia,days,41
+2007-08,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,224
+2007-08,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,267
+2007-08,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,439
+2007-08,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,15487
+2007-08,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,41505
+2007-08,Same-day elective surgery procedures,hospital_group,Total,procedures,56992
+2008-09,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,206
+2008-09,Days waited at the 90th percentile,hospital_group,South Australia,days,206
+2008-09,Median waiting time,hospital_group,Metro Hospitals,days,36
+2008-09,Median waiting time,hospital_group,South Australia,days,36
+2008-09,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,4
+2008-09,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,23
+2008-09,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,5
+2008-09,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,16029
+2008-09,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,44444
+2008-09,Same-day elective surgery procedures,hospital_group,Total,procedures,60473
+2009-10,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,188
+2009-10,Days waited at the 90th percentile,hospital_group,South Australia,days,188
+2009-10,Median waiting time,hospital_group,Metro Hospitals,days,36
+2009-10,Median waiting time,hospital_group,South Australia,days,36
+2009-10,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,13
+2009-10,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,26
+2009-10,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,8
+2009-10,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,15873
+2009-10,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,44557
+2009-10,Same-day elective surgery procedures,hospital_group,Total,procedures,60430
+2010-11,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,207
+2010-11,Days waited at the 90th percentile,hospital_group,South Australia,days,207
+2010-11,Median waiting time,hospital_group,Metro Hospitals,days,38
+2010-11,Median waiting time,hospital_group,South Australia,days,38
+2010-11,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,1
+2010-11,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,4
+2010-11,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,0
+2010-11,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,16071
+2010-11,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,46433
+2010-11,Same-day elective surgery procedures,hospital_group,Total,procedures,62504
+2011-12,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,182
+2011-12,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,195
+2011-12,Days waited at the 90th percentile,hospital_group,South Australia,days,191
+2011-12,Median waiting time,hospital_group,Country Hospitals,days,30
+2011-12,Median waiting time,hospital_group,Metro Hospitals,days,36
+2011-12,Median waiting time,hospital_group,South Australia,days,34
+2011-12,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,0
+2011-12,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,1
+2011-12,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,0
+2011-12,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,17394
+2011-12,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,47805
+2011-12,Same-day elective surgery procedures,hospital_group,Total,procedures,65199
+2012-13,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,181
+2012-13,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,182
+2012-13,Days waited at the 90th percentile,hospital_group,South Australia,days,182
+2012-13,Median waiting time,hospital_group,Country Hospitals,days,27
+2012-13,Median waiting time,hospital_group,Metro Hospitals,days,36
+2012-13,Median waiting time,hospital_group,South Australia,days,34
+2012-13,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,0
+2012-13,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,0
+2012-13,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,0
+2012-13,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,17226
+2012-13,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,46925
+2012-13,Same-day elective surgery procedures,hospital_group,Total,procedures,64151
+2013-14,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,195
+2013-14,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,169
+2013-14,Days waited at the 90th percentile,hospital_group,South Australia,days,179
+2013-14,Median waiting time,hospital_group,Country Hospitals,days,25
+2013-14,Median waiting time,hospital_group,Metro Hospitals,days,39
+2013-14,Median waiting time,hospital_group,South Australia,days,35
+2013-14,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,0
+2013-14,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,5
+2013-14,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,5
+2013-14,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,17216
+2013-14,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,45853
+2013-14,Same-day elective surgery procedures,hospital_group,Total,procedures,63069
+2014-15,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,216
+2014-15,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,209
+2014-15,Days waited at the 90th percentile,hospital_group,South Australia,days,210
+2014-15,Median waiting time,hospital_group,Country Hospitals,days,27
+2014-15,Median waiting time,hospital_group,Metro Hospitals,days,42
+2014-15,Median waiting time,hospital_group,South Australia,days,37
+2014-15,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,0
+2014-15,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,0
+2014-15,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,0
+2014-15,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,17322
+2014-15,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,45107
+2014-15,Same-day elective surgery procedures,hospital_group,Total,procedures,62429
+2015-16,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,211
+2015-16,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,245
+2015-16,Days waited at the 90th percentile,hospital_group,South Australia,days,233
+2015-16,Median waiting time,hospital_group,Country Hospitals,days,27
+2015-16,Median waiting time,hospital_group,Metro Hospitals,days,45
+2015-16,Median waiting time,hospital_group,South Australia,days,40
+2015-16,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,0
+2015-16,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,0
+2015-16,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,0
+2015-16,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,16619
+2015-16,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,43117
+2015-16,Same-day elective surgery procedures,hospital_group,Total,procedures,59736
+2016-17,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,192
+2016-17,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,261
+2016-17,Days waited at the 90th percentile,hospital_group,South Australia,days,237
+2016-17,Median waiting time,hospital_group,Country Hospitals,days,27
+2016-17,Median waiting time,hospital_group,Metro Hospitals,days,44
+2016-17,Median waiting time,hospital_group,South Australia,days,39
+2016-17,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,8
+2016-17,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,71
+2016-17,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,36
+2016-17,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,15949
+2016-17,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,42707
+2016-17,Same-day elective surgery procedures,hospital_group,Total,procedures,58656
+2017-18,Days waited at the 90th percentile,hospital_group,Country Hospitals,days,188
+2017-18,Days waited at the 90th percentile,hospital_group,Metro Hospitals,days,294
+2017-18,Days waited at the 90th percentile,hospital_group,South Australia,days,261
+2017-18,Median waiting time,hospital_group,Country Hospitals,days,27
+2017-18,Median waiting time,hospital_group,Metro Hospitals,days,48
+2017-18,Median waiting time,hospital_group,South Australia,days,42
+2017-18,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 1 (within 30 days),patients,52
+2017-18,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 2 (within 90 days),patients,591
+2017-18,"Patients overdue for elective surgery (metropolitan hospitals, as at 30 June)",overdue_category,Category 3 (within 365 days),patients,507
+2017-18,Same-day elective surgery procedures,hospital_group,Country Hospitals,procedures,16000
+2017-18,Same-day elective surgery procedures,hospital_group,Metro Hospitals,procedures,40424
+2017-18,Same-day elective surgery procedures,hospital_group,Total,procedures,56424
