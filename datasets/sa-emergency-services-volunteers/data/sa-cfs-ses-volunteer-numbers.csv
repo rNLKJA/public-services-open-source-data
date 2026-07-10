@@ -1,0 +1,293 @@
+service,region_code,region_name,volunteer_category,as_at_date,volunteer_count
+CFS,1,Region 1,Cadets,2012-06-01,281
+CFS,1,Region 1,Fire Fighters,2012-06-01,2346
+CFS,1,Region 1,Operational Support,2012-06-01,722
+CFS,1,Region 1,Total,2012-06-01,3349
+CFS,2,Region 2,Cadets,2012-06-01,278
+CFS,2,Region 2,Fire Fighters,2012-06-01,2047
+CFS,2,Region 2,Operational Support,2012-06-01,409
+CFS,2,Region 2,Total,2012-06-01,2734
+CFS,3,Region 3,Cadets,2012-06-01,85
+CFS,3,Region 3,Fire Fighters,2012-06-01,1148
+CFS,3,Region 3,Operational Support,2012-06-01,205
+CFS,3,Region 3,Total,2012-06-01,1438
+CFS,4,Region 4,Cadets,2012-06-01,189
+CFS,4,Region 4,Fire Fighters,2012-06-01,1367
+CFS,4,Region 4,Operational Support,2012-06-01,299
+CFS,4,Region 4,Total,2012-06-01,1855
+CFS,5,Region 5,Cadets,2012-06-01,64
+CFS,5,Region 5,Fire Fighters,2012-06-01,1778
+CFS,5,Region 5,Operational Support,2012-06-01,324
+CFS,5,Region 5,Total,2012-06-01,2166
+CFS,6,Region 6,Cadets,2012-06-01,55
+CFS,6,Region 6,Fire Fighters,2012-06-01,1344
+CFS,6,Region 6,Operational Support,2012-06-01,313
+CFS,6,Region 6,Total,2012-06-01,1712
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2012-06-01,0
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2012-06-01,324
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2012-06-01,174
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2012-06-01,498
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Cadets,2012-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Fire Fighters,2012-06-01,24
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Operational Support,2012-06-01,2
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Total,2012-06-01,26
+CFS,Total,Statewide total,Cadets,2012-06-01,952
+CFS,Total,Statewide total,Fire Fighters,2012-06-01,10378
+CFS,Total,Statewide total,Operational Support,2012-06-01,2448
+CFS,Total,Statewide total,Total,2012-06-01,13778
+CFS,1,Region 1,Cadets,2013-06-01,233
+CFS,1,Region 1,Fire Fighters,2013-06-01,2330
+CFS,1,Region 1,Operational Support,2013-06-01,730
+CFS,1,Region 1,Total,2013-06-01,3293
+CFS,2,Region 2,Cadets,2013-06-01,274
+CFS,2,Region 2,Fire Fighters,2013-06-01,2080
+CFS,2,Region 2,Operational Support,2013-06-01,409
+CFS,2,Region 2,Total,2013-06-01,2763
+CFS,3,Region 3,Cadets,2013-06-01,68
+CFS,3,Region 3,Fire Fighters,2013-06-01,1164
+CFS,3,Region 3,Operational Support,2013-06-01,203
+CFS,3,Region 3,Total,2013-06-01,1435
+CFS,4,Region 4,Cadets,2013-06-01,183
+CFS,4,Region 4,Fire Fighters,2013-06-01,1372
+CFS,4,Region 4,Operational Support,2013-06-01,267
+CFS,4,Region 4,Total,2013-06-01,1822
+CFS,5,Region 5,Cadets,2013-06-01,49
+CFS,5,Region 5,Fire Fighters,2013-06-01,1817
+CFS,5,Region 5,Operational Support,2013-06-01,308
+CFS,5,Region 5,Total,2013-06-01,2174
+CFS,6,Region 6,Cadets,2013-06-01,46
+CFS,6,Region 6,Fire Fighters,2013-06-01,1343
+CFS,6,Region 6,Operational Support,2013-06-01,293
+CFS,6,Region 6,Total,2013-06-01,1682
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2013-06-01,0
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2013-06-01,342
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2013-06-01,147
+CFS,DENR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2013-06-01,489
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2013-06-01,0
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2013-06-01,342
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2013-06-01,147
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2013-06-01,489
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Cadets,2013-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Fire Fighters,2013-06-01,20
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Operational Support,2013-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Total,2013-06-01,20
+CFS,Total,Statewide total,Cadets,2013-06-01,853
+CFS,Total,Statewide total,Fire Fighters,2013-06-01,10468
+CFS,Total,Statewide total,Operational Support,2013-06-01,2357
+CFS,Total,Statewide total,Total,2013-06-01,13678
+CFS,1,Region 1,Cadets,2014-06-01,209
+CFS,1,Region 1,Fire Fighters,2014-06-01,2394
+CFS,1,Region 1,Operational Support,2014-06-01,698
+CFS,1,Region 1,Total,2014-06-01,3301
+CFS,2,Region 2,Cadets,2014-06-01,248
+CFS,2,Region 2,Fire Fighters,2014-06-01,2133
+CFS,2,Region 2,Operational Support,2014-06-01,403
+CFS,2,Region 2,Total,2014-06-01,2784
+CFS,3,Region 3,Cadets,2014-06-01,77
+CFS,3,Region 3,Fire Fighters,2014-06-01,1167
+CFS,3,Region 3,Operational Support,2014-06-01,184
+CFS,3,Region 3,Total,2014-06-01,1428
+CFS,4,Region 4,Cadets,2014-06-01,158
+CFS,4,Region 4,Fire Fighters,2014-06-01,1482
+CFS,4,Region 4,Operational Support,2014-06-01,251
+CFS,4,Region 4,Total,2014-06-01,1891
+CFS,5,Region 5,Cadets,2014-06-01,48
+CFS,5,Region 5,Fire Fighters,2014-06-01,1809
+CFS,5,Region 5,Operational Support,2014-06-01,308
+CFS,5,Region 5,Total,2014-06-01,2165
+CFS,6,Region 6,Cadets,2014-06-01,34
+CFS,6,Region 6,Fire Fighters,2014-06-01,1361
+CFS,6,Region 6,Operational Support,2014-06-01,291
+CFS,6,Region 6,Total,2014-06-01,1686
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2014-06-01,0
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2014-06-01,344
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2014-06-01,122
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2014-06-01,466
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Cadets,2014-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Fire Fighters,2014-06-01,13
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Operational Support,2014-06-01,3
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Total,2014-06-01,16
+CFS,Total,Statewide total,Cadets,2014-06-01,774
+CFS,Total,Statewide total,Fire Fighters,2014-06-01,10703
+CFS,Total,Statewide total,Operational Support,2014-06-01,2260
+CFS,Total,Statewide total,Total,2014-06-01,13737
+CFS,1,Region 1,Cadets,2015-06-01,231
+CFS,1,Region 1,Fire Fighters,2015-06-01,2447
+CFS,1,Region 1,Operational Support,2015-06-01,697
+CFS,1,Region 1,Total,2015-06-01,3375
+CFS,2,Region 2,Cadets,2015-06-01,261
+CFS,2,Region 2,Fire Fighters,2015-06-01,2206
+CFS,2,Region 2,Operational Support,2015-06-01,414
+CFS,2,Region 2,Total,2015-06-01,2881
+CFS,3,Region 3,Cadets,2015-06-01,74
+CFS,3,Region 3,Fire Fighters,2015-06-01,1175
+CFS,3,Region 3,Operational Support,2015-06-01,185
+CFS,3,Region 3,Total,2015-06-01,1434
+CFS,4,Region 4,Cadets,2015-06-01,167
+CFS,4,Region 4,Fire Fighters,2015-06-01,1574
+CFS,4,Region 4,Operational Support,2015-06-01,256
+CFS,4,Region 4,Total,2015-06-01,1997
+CFS,5,Region 5,Cadets,2015-06-01,49
+CFS,5,Region 5,Fire Fighters,2015-06-01,1713
+CFS,5,Region 5,Operational Support,2015-06-01,313
+CFS,5,Region 5,Total,2015-06-01,2075
+CFS,6,Region 6,Cadets,2015-06-01,48
+CFS,6,Region 6,Fire Fighters,2015-06-01,1374
+CFS,6,Region 6,Operational Support,2015-06-01,299
+CFS,6,Region 6,Total,2015-06-01,1721
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2015-06-01,0
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2015-06-01,343
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2015-06-01,160
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2015-06-01,503
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Cadets,2015-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Fire Fighters,2015-06-01,16
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Operational Support,2015-06-01,2
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Total,2015-06-01,18
+CFS,Total,Statewide total,Cadets,2015-06-01,830
+CFS,Total,Statewide total,Fire Fighters,2015-06-01,10848
+CFS,Total,Statewide total,Operational Support,2015-06-01,2326
+CFS,Total,Statewide total,Total,2015-06-01,14004
+CFS,1,Region 1,Cadets,2016-06-01,236
+CFS,1,Region 1,Fire Fighters,2016-06-01,2403
+CFS,1,Region 1,Operational Support,2016-06-01,738
+CFS,1,Region 1,Total,2016-06-01,3377
+CFS,2,Region 2,Cadets,2016-06-01,234
+CFS,2,Region 2,Fire Fighters,2016-06-01,2217
+CFS,2,Region 2,Operational Support,2016-06-01,431
+CFS,2,Region 2,Total,2016-06-01,2882
+CFS,3,Region 3,Cadets,2016-06-01,66
+CFS,3,Region 3,Fire Fighters,2016-06-01,1155
+CFS,3,Region 3,Operational Support,2016-06-01,191
+CFS,3,Region 3,Total,2016-06-01,1412
+CFS,4,Region 4,Cadets,2016-06-01,152
+CFS,4,Region 4,Fire Fighters,2016-06-01,1575
+CFS,4,Region 4,Operational Support,2016-06-01,261
+CFS,4,Region 4,Total,2016-06-01,1988
+CFS,5,Region 5,Cadets,2016-06-01,45
+CFS,5,Region 5,Fire Fighters,2016-06-01,1695
+CFS,5,Region 5,Operational Support,2016-06-01,288
+CFS,5,Region 5,Total,2016-06-01,2028
+CFS,6,Region 6,Cadets,2016-06-01,49
+CFS,6,Region 6,Fire Fighters,2016-06-01,1370
+CFS,6,Region 6,Operational Support,2016-06-01,296
+CFS,6,Region 6,Total,2016-06-01,1715
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2016-06-01,0
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2016-06-01,361
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2016-06-01,142
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2016-06-01,503
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Cadets,2016-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Fire Fighters,2016-06-01,21
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Operational Support,2016-06-01,2
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Total,2016-06-01,23
+CFS,Total,Statewide total,Cadets,2016-06-01,782
+CFS,Total,Statewide total,Fire Fighters,2016-06-01,10797
+CFS,Total,Statewide total,Operational Support,2016-06-01,2349
+CFS,Total,Statewide total,Total,2016-06-01,13928
+CFS,1,Region 1,Cadets,2017-06-01,211
+CFS,1,Region 1,Fire Fighters,2017-06-01,2318
+CFS,1,Region 1,Operational Support,2017-06-01,759
+CFS,1,Region 1,Total,2017-06-01,3288
+CFS,2,Region 2,Cadets,2017-06-01,240
+CFS,2,Region 2,Fire Fighters,2017-06-01,2137
+CFS,2,Region 2,Operational Support,2017-06-01,410
+CFS,2,Region 2,Total,2017-06-01,2787
+CFS,3,Region 3,Cadets,2017-06-01,51
+CFS,3,Region 3,Fire Fighters,2017-06-01,1146
+CFS,3,Region 3,Operational Support,2017-06-01,192
+CFS,3,Region 3,Total,2017-06-01,1389
+CFS,4,Region 4,Cadets,2017-06-01,133
+CFS,4,Region 4,Fire Fighters,2017-06-01,1526
+CFS,4,Region 4,Operational Support,2017-06-01,282
+CFS,4,Region 4,Total,2017-06-01,1941
+CFS,5,Region 5,Cadets,2017-06-01,37
+CFS,5,Region 5,Fire Fighters,2017-06-01,1635
+CFS,5,Region 5,Operational Support,2017-06-01,274
+CFS,5,Region 5,Total,2017-06-01,1946
+CFS,6,Region 6,Cadets,2017-06-01,41
+CFS,6,Region 6,Fire Fighters,2017-06-01,1339
+CFS,6,Region 6,Operational Support,2017-06-01,276
+CFS,6,Region 6,Total,2017-06-01,1656
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Cadets,2017-06-01,0
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Fire Fighters,2017-06-01,357
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Operational Support,2017-06-01,167
+CFS,DEWNR,"Department of Environment, Water and Natural Resources (National Parks and Wildlife Service volunteer fire fighters)",Total,2017-06-01,524
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Cadets,2017-06-01,0
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Fire Fighters,2017-06-01,18
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Operational Support,2017-06-01,1
+CFS,S/OPS,State/Specialist Operations (headquarters-based specialist volunteer units),Total,2017-06-01,19
+CFS,Total,Statewide total,Cadets,2017-06-01,713
+CFS,Total,Statewide total,Fire Fighters,2017-06-01,10476
+CFS,Total,Statewide total,Operational Support,2017-06-01,2361
+CFS,Total,Statewide total,Total,2017-06-01,13550
+SES,North,Northern Division,Cadets,2012-06-01,31
+SES,North,Northern Division,General Ops,2012-06-01,443
+SES,North,Northern Division,Support Ops,2012-06-01,183
+SES,North,Northern Division,Total,2012-06-01,657
+SES,South,Southern Division,Cadets,2012-06-01,22
+SES,South,Southern Division,General Ops,2012-06-01,679
+SES,South,Southern Division,Support Ops,2012-06-01,316
+SES,South,Southern Division,Total,2012-06-01,1017
+SES,Total,Statewide total,Cadets,2012-06-01,53
+SES,Total,Statewide total,General Ops,2012-06-01,1122
+SES,Total,Statewide total,Support Ops,2012-06-01,499
+SES,Total,Statewide total,Total,2012-06-01,1674
+SES,North,Northern Division,Cadets,2013-06-01,22
+SES,North,Northern Division,General Ops,2013-06-01,425
+SES,North,Northern Division,Support Ops,2013-06-01,214
+SES,North,Northern Division,Total,2013-06-01,661
+SES,South,Southern Division,Cadets,2013-06-01,35
+SES,South,Southern Division,General Ops,2013-06-01,643
+SES,South,Southern Division,Support Ops,2013-06-01,341
+SES,South,Southern Division,Total,2013-06-01,1019
+SES,Total,Statewide total,Cadets,2013-06-01,57
+SES,Total,Statewide total,General Ops,2013-06-01,1068
+SES,Total,Statewide total,Support Ops,2013-06-01,555
+SES,Total,Statewide total,Total,2013-06-01,1680
+SES,North,Northern Division,Cadets,2014-06-01,21
+SES,North,Northern Division,General Ops,2014-06-01,424
+SES,North,Northern Division,Support Ops,2014-06-01,188
+SES,North,Northern Division,Total,2014-06-01,633
+SES,South,Southern Division,Cadets,2014-06-01,39
+SES,South,Southern Division,General Ops,2014-06-01,649
+SES,South,Southern Division,Support Ops,2014-06-01,389
+SES,South,Southern Division,Total,2014-06-01,1077
+SES,Total,Statewide total,Cadets,2014-06-01,60
+SES,Total,Statewide total,General Ops,2014-06-01,1073
+SES,Total,Statewide total,Support Ops,2014-06-01,577
+SES,Total,Statewide total,Total,2014-06-01,1710
+SES,North,Northern Division,Cadets,2015-06-01,22
+SES,North,Northern Division,General Ops,2015-06-01,395
+SES,North,Northern Division,Support Ops,2015-06-01,201
+SES,North,Northern Division,Total,2015-06-01,618
+SES,South,Southern Division,Cadets,2015-06-01,35
+SES,South,Southern Division,General Ops,2015-06-01,678
+SES,South,Southern Division,Support Ops,2015-06-01,337
+SES,South,Southern Division,Total,2015-06-01,1050
+SES,Total,Statewide total,Cadets,2015-06-01,57
+SES,Total,Statewide total,General Ops,2015-06-01,1073
+SES,Total,Statewide total,Support Ops,2015-06-01,538
+SES,Total,Statewide total,Total,2015-06-01,1668
+SES,North,Northern Division,Cadets,2016-06-01,17
+SES,North,Northern Division,General Ops,2016-06-01,402
+SES,North,Northern Division,Support Ops,2016-06-01,213
+SES,North,Northern Division,Total,2016-06-01,632
+SES,South,Southern Division,Cadets,2016-06-01,39
+SES,South,Southern Division,General Ops,2016-06-01,635
+SES,South,Southern Division,Support Ops,2016-06-01,281
+SES,South,Southern Division,Total,2016-06-01,955
+SES,Total,Statewide total,Cadets,2016-06-01,56
+SES,Total,Statewide total,General Ops,2016-06-01,1037
+SES,Total,Statewide total,Support Ops,2016-06-01,494
+SES,Total,Statewide total,Total,2016-06-01,1587
+SES,North,Northern Division,Cadets,2017-06-01,30
+SES,North,Northern Division,General Ops,2017-06-01,393
+SES,North,Northern Division,Support Ops,2017-06-01,242
+SES,North,Northern Division,Total,2017-06-01,665
+SES,South,Southern Division,Cadets,2017-06-01,21
+SES,South,Southern Division,General Ops,2017-06-01,576
+SES,South,Southern Division,Support Ops,2017-06-01,239
+SES,South,Southern Division,Total,2017-06-01,836
+SES,Total,Statewide total,Cadets,2017-06-01,51
+SES,Total,Statewide total,General Ops,2017-06-01,969
+SES,Total,Statewide total,Support Ops,2017-06-01,481
+SES,Total,Statewide total,Total,2017-06-01,1501
