@@ -1,0 +1,37 @@
+month,breach_source,count
+July,All sources,117
+July,Currently unknown,4
+July,Human error,35
+July,Malicious or criminal attack,68
+July,Other,7
+July,System fault,3
+August,All sources,99
+August,Currently unknown,1
+August,Human error,28
+August,Malicious or criminal attack,62
+August,Other,3
+August,System fault,5
+September,All sources,116
+September,Currently unknown,3
+September,Human error,39
+September,Malicious or criminal attack,63
+September,Other,1
+September,System fault,10
+October,All sources,122
+October,Currently unknown,3
+October,Human error,31
+October,Malicious or criminal attack,77
+October,Other,6
+October,System fault,5
+November,All sources,99
+November,Currently unknown,1
+November,Human error,29
+November,Malicious or criminal attack,63
+November,Other,2
+November,System fault,4
+December,All sources,117
+December,Human error,32
+December,Malicious or criminal attack,72
+December,Other,5
+December,System fault,8
+All months (Jul-Dec 2025),All sources,670

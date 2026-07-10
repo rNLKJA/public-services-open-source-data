@@ -1,0 +1,21 @@
+scope,range,count
+World-wide,1,161
+World-wide,2 - 10,98
+World-wide,11 - 100,152
+World-wide,"101 - 1,000",135
+World-wide,"1,001 - 5,000",55
+World-wide,"5,001 - 10,000",18
+World-wide,"10,001 - 25,000",11
+World-wide,"25,001 - 50,000",7
+World-wide,"50,001 - 100,000",7
+World-wide,"100,001 - 250,000",2
+World-wide,"250,000 - 500,000",0
+World-wide,"500,001 - 1,000,000",2
+World-wide,"1,000,001 - 10,000,000",3
+World-wide,"10,000,001 or more",1
+World-wide,Unknown,18
+World-wide,Grand Total,670
+Large-scale breaches affecting Australians,"100,001 - 250,000",1
+Large-scale breaches affecting Australians,"250,001 - 500,000",0
+Large-scale breaches affecting Australians,"500,001 - 1,000,000",1
+Large-scale breaches affecting Australians,"1,000,001 - 10,000,000",1

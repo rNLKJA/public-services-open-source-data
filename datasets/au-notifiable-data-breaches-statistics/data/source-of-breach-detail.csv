@@ -1,0 +1,20 @@
+source_group,specific_source,count
+Human error,All specific sources,194
+Human error,Failure to use BCC when sending email,10
+Human error,Insecure disposal,2
+Human error,Loss of paperwork / data storage device,12
+Human error,PI sent to wrong recipient (email),66
+Human error,PI sent to wrong recipient (mail),12
+Human error,PI sent to wrong recipient (other),8
+Human error,Unauthorised disclosure (failure to redact),12
+Human error,Unauthorised disclosure (unintended release or publication),59
+Human error,Unauthorised disclosure (verbal),13
+Malicious or criminal attack,All specific sources,405
+Malicious or criminal attack,Cyber incident,253
+Malicious or criminal attack,Rogue employee / insider threat,34
+Malicious or criminal attack,Social engineering / impersonation,88
+Malicious or criminal attack,Theft of paperwork or data storage device,30
+System fault,All specific sources,35
+System fault,Unintended access,8
+System fault,Unintended release or publication,27
+System fault,Unintended release or publication,27

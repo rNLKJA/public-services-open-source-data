@@ -1,0 +1,30 @@
+sector,breach_source,count
+Health service providers,All sources,128
+Health service providers,Currently unknown,2
+Health service providers,Human error,51
+Health service providers,Malicious or criminal attack,64
+Health service providers,Other,6
+Health service providers,System fault,5
+Finance (incl. superannuation),All sources,83
+Finance (incl. superannuation),Currently unknown,2
+Finance (incl. superannuation),Human error,24
+Finance (incl. superannuation),Malicious or criminal attack,52
+Finance (incl. superannuation),Other,1
+Finance (incl. superannuation),System fault,4
+Business/Professional Associations,All sources,72
+Business/Professional Associations,Human error,3
+Business/Professional Associations,Malicious or criminal attack,64
+Business/Professional Associations,Other,2
+Business/Professional Associations,System fault,3
+Australian Government,All sources,51
+Australian Government,Currently unknown,1
+Australian Government,Human error,16
+Australian Government,Malicious or criminal attack,25
+Australian Government,Other,1
+Australian Government,System fault,8
+"Personal services (incl employment, child care, vets)",All sources,47
+"Personal services (incl employment, child care, vets)",Currently unknown,2
+"Personal services (incl employment, child care, vets)",Human error,22
+"Personal services (incl employment, child care, vets)",Malicious or criminal attack,19
+"Personal services (incl employment, child care, vets)",Other,3
+"Personal services (incl employment, child care, vets)",System fault,1

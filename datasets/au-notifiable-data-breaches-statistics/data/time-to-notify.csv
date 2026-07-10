@@ -1,0 +1,33 @@
+grouped_by,group,time_to_notify_days,count
+sector,Australian Government,≤10,1
+sector,Australian Government,11-20,3
+sector,Australian Government,21-30,3
+sector,Australian Government,>30,43
+sector,Business/Professional Associations,≤10,13
+sector,Business/Professional Associations,11-20,9
+sector,Business/Professional Associations,21-30,9
+sector,Business/Professional Associations,>30,37
+sector,Finance (incl. superannuation),≤10,12
+sector,Finance (incl. superannuation),11-20,10
+sector,Finance (incl. superannuation),21-30,15
+sector,Finance (incl. superannuation),>30,43
+sector,Health service providers,≤10,43
+sector,Health service providers,11-20,22
+sector,Health service providers,21-30,18
+sector,Health service providers,>30,41
+sector,"Personal services (incl employment, child care, vets)",≤10,21
+sector,"Personal services (incl employment, child care, vets)",11-20,4
+sector,"Personal services (incl employment, child care, vets)",21-30,3
+sector,"Personal services (incl employment, child care, vets)",>30,15
+source,Human error,≤10,71
+source,Human error,11-20,29
+source,Human error,21-30,22
+source,Human error,>30,70
+source,Malicious or criminal attack,≤10,58
+source,Malicious or criminal attack,11-20,62
+source,Malicious or criminal attack,21-30,49
+source,Malicious or criminal attack,>30,213
+source,System fault,≤10,7
+source,System fault,11-20,5
+source,System fault,21-30,5
+source,System fault,>30,18
