@@ -1,0 +1,30 @@
+table,title,sub_sector,rows,file
+1,"Clients, Selected characteristics, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),57,table-1.csv
+2,"Clients who received legal advice services, Selected characteristics, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),54,table-2.csv
+3,"Clients who received non-legal support services, Selected characteristics, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),45,table-3.csv
+4,"Clients who received legal task services, Selected characteristics, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),54,table-4.csv
+5,"Clients who received duty lawyer services, Selected characteristics, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),54,table-5.csv
+6,"Clients who received representation services, Selected characteristics, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),54,table-6.csv
+7,"Services, Service type, Australia, 2022-23 to 2024-25",Australia (all sub-sectors combined),33,table-7.csv
+8,"Clients, Selected characteristics, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,96,table-8.csv
+9,"Clients who received legal advice services, Selected characteristics, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,93,table-9.csv
+10,"Clients who received non-legal support services, Selected characteristics, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,51,table-10.csv
+11,"Clients who received legal task services, Selected characteristics, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,93,table-11.csv
+12,"Clients who received duty lawyer services, Selected characteristics, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,93,table-12.csv
+13,"Clients who received representation services, Selected characteristics, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,93,table-13.csv
+14,"Services, Law type by service type, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,132,table-14.csv
+15,"Services, Problem type by selected service type, Legal Aid Commissions, 2022-23 to 2024-25",Legal Aid Commissions,885,table-15.csv
+16,"Clients, Selected characteristics, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,51,table-16.csv
+17,"Clients who received legal advice services, Selected characteristics, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,51,table-17.csv
+18,"Clients who received non-legal support services, Selected characteristics, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,51,table-18.csv
+19,"Clients who received legal task services, Selected characteristics, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,51,table-19.csv
+20,"Clients who received duty lawyer services, Selected characteristics, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,51,table-20.csv
+21,"Clients who received representation services, Selected characteristics, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,51,table-21.csv
+22,"Services, Law type by service type, Aboriginal and Torres Strait Islander Legal Services, 2022-23 to 2024-25",Aboriginal and Torres Strait Islander Legal Services,132,table-22.csv
+23,"Clients, Selected characteristics, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,57,table-23.csv
+24,"Clients who received legal advice services, Selected characteristics, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,54,table-24.csv
+25,"Clients who received non-legal support services, Selected characteristics, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,45,table-25.csv
+26,"Clients who received legal task services, Selected characteristics, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,54,table-26.csv
+27,"Clients who received duty lawyer services, Selected characteristics, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,54,table-27.csv
+28,"Clients who received representation services, Selected characteristics, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,54,table-28.csv
+29,"Services, Service type, Community Legal Centres, 2022-23 to 2024-25",Community Legal Centres,33,table-29.csv
