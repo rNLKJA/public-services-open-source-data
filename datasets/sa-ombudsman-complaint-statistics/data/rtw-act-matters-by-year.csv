@@ -1,0 +1,33 @@
+metric,year,body_type,value
+Matters received,2021-22,Claims Agent,21
+Matters received,2021-22,Self-Insurer,5
+Matters received,2021-22,ReturnToWorkSA,35
+Matters received,2021-22,Total,61
+Matters received,2022-23,Claims Agent,46
+Matters received,2022-23,Self-Insurer,14
+Matters received,2022-23,ReturnToWorkSA,48
+Matters received,2022-23,Total,108
+Matters received,2023-24,Claims Agent,32
+Matters received,2023-24,Self-Insurer,41
+Matters received,2023-24,ReturnToWorkSA,14
+Matters received,2023-24,Total,87
+Matters received,2024-25,Claims Agent,42
+Matters received,2024-25,Self-Insurer,12
+Matters received,2024-25,ReturnToWorkSA,37
+Matters received,2024-25,Total,91
+Matters completed,2021-22,Claims Agent,23
+Matters completed,2021-22,Self-Insurer,3
+Matters completed,2021-22,ReturnToWorkSA,36
+Matters completed,2021-22,Total,62
+Matters completed,2022-23,Claims Agent,46
+Matters completed,2022-23,Self-Insurer,14
+Matters completed,2022-23,ReturnToWorkSA,48
+Matters completed,2022-23,Total,108
+Matters completed,2023-24,Claims Agent,31
+Matters completed,2023-24,Self-Insurer,40
+Matters completed,2023-24,ReturnToWorkSA,16
+Matters completed,2023-24,Total,87
+Matters completed,2024-25,Claims Agent,42
+Matters completed,2024-25,Self-Insurer,12
+Matters completed,2024-25,ReturnToWorkSA,36
+Matters completed,2024-25,Total,90

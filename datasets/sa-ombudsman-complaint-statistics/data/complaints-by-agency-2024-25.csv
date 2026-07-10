@@ -1,0 +1,163 @@
+agency_type,agency,received,received_pct,completed,completed_pct,population_30_jun_2022,received_per_10000_pop,completed_per_10000_pop
+Government Department,SA Water Corporation,29,,29,,,,
+Government Department,SA Police,286,,280,,,,
+Government Department,SA Housing Trust,716,,717,,,,
+Government Department,"Office for Recreation, Sport and Racing",2,,2,,,,
+Government Department,Office for Early Childhood Development,1,,1,,,,
+Government Department,Environment Protection Authority,8,,7,,,,
+Government Department,Department of Treasury and Finance,109,,110,,,,
+Government Department,Department of the Premier and Cabinet,8,,7,,,,
+Government Department,Department of State Development,2,,2,,,,
+Government Department,Department of Primary Industries and Regions SA,21,,21,,,,
+Government Department,Department of Human Services,54,,65,,,,
+Government Department,Department for Trade and Investment,1,,1,,,,
+Government Department,Department for Infrastructure and Transport,161,,154,,,,
+Government Department,"Department for Industry, Innovation and Science",2,,1,,,,
+Government Department,Department for Housing and Urban Development,5,,3,,,,
+Government Department,Department for Health and Wellbeing,78,,80,,,,
+Government Department,Department for Health and Aged Care,1,,1,,,,
+Government Department,Department for Environment and Water,18,,18,,,,
+Government Department,Department for Energy and Mining,7,,7,,,,
+Government Department,Department for Education,181,,177,,,,
+Government Department,Department for Correctional Services,762,,756,,,,
+Government Department,Department for Child Protection,276,,281,,,,
+Government Department,Attorney-General's Department,23,,20,,,,
+Local Government,Adelaide Hills Council,28,2.39%,30,2.56%,42368,6.61,7.08
+Local Government,Adelaide Plains Council,24,2.05%,18,1.54%,11302,21.24,15.93
+Local Government,Alexandrina Council,33,2.82%,36,3.07%,30887,10.68,11.66
+Local Government,Barunga West Council,4,0.34%,2,0.17%,2672,14.97,7.49
+Local Government,Berri Barmera Council,9,0.77%,6,0.51%,10747,8.37,5.58
+Local Government,Campbelltown City Council,21,1.79%,22,1.88%,57988,3.62,3.79
+Local Government,City of Adelaide,174,14.87%,173,14.76%,29118,59.76,59.41
+Local Government,City of Burnside,33,2.82%,30,2.56%,47810,6.9,6.27
+Local Government,City of Charles Sturt,54,4.62%,56,4.78%,129196,4.18,4.33
+Local Government,City of Holdfast Bay,32,2.74%,33,2.82%,39308,8.14,8.4
+Local Government,City of Marion,29,2.48%,29,2.47%,99821,2.91,2.91
+Local Government,City of Mitcham,31,2.65%,33,2.82%,70484,4.4,4.68
+Local Government,City of Mount Gambier,8,0.68%,7,0.60%,27888,2.87,2.51
+Local Government,"City of Norwood, Payneham & St Peters",12,1.03%,14,1.19%,40062,3,3.49
+Local Government,City of Onkaparinga,70,5.98%,68,5.80%,182821,3.83,3.72
+Local Government,City of Playford,33,2.82%,34,2.90%,111135,2.97,3.06
+Local Government,City of Port Adelaide Enfield,51,4.36%,50,4.27%,141042,3.62,3.55
+Local Government,City of Port Lincoln,6,0.51%,8,0.68%,15037,3.99,5.32
+Local Government,City of Prospect,15,1.28%,13,1.11%,23309,6.44,5.58
+Local Government,City of Salisbury,26,2.22%,24,2.05%,150272,1.73,1.6
+Local Government,City of Tea Tree Gully,50,4.27%,54,4.61%,104437,4.79,5.17
+Local Government,City of Unley,26,2.22%,26,2.22%,40327,6.45,6.45
+Local Government,City of Victor Harbor,21,1.79%,23,1.96%,17124,12.26,13.43
+Local Government,City of West Torrens,51,4.36%,56,4.78%,65738,7.76,8.52
+Local Government,Clare and Gilbert Valleys Council,3,0.26%,4,0.34%,9417,3.19,4.25
+Local Government,Coorong District Council,2,0.17%,2,0.17%,5614,3.56,3.56
+Local Government,Copper Coast Council,8,0.68%,9,0.77%,16299,4.91,5.52
+Local Government,Corporation of the City of Whyalla,11,0.94%,11,0.94%,21864,5.03,5.03
+Local Government,Corporation of the Town of Walkerville,6,0.51%,6,0.51%,8562,7.01,7.01
+Local Government,District Council of Ceduna,4,0.34%,4,0.34%,3744,10.68,10.68
+Local Government,District Council of Cleve,9,0.77%,10,0.85%,1757,51.22,56.92
+Local Government,District Council of Coober Pedy,9,0.77%,8,0.68%,1526,58.98,52.42
+Local Government,District Council of Karoonda East Murray,9,0.77%,4,0.34%,1026,87.72,38.99
+Local Government,District Council of Kimba,0,0.00%,1,0.09%,1064,0,9.4
+Local Government,District Council of Loxton Waikerie,13,1.11%,15,1.28%,11949,10.88,12.55
+Local Government,District Council of Mount Remarkable,11,0.94%,11,0.94%,2873,38.29,38.29
+Local Government,District Council of Orroroo/Carrieton,1,0.09%,1,0.09%,890,11.24,11.24
+Local Government,District Council of Peterborough,7,0.60%,6,0.51%,1682,41.62,35.67
+Local Government,District Council of Renmark Paringa,10,0.85%,10,0.85%,10173,9.83,9.83
+Local Government,District Council of Robe,7,0.60%,7,0.60%,1611,43.45,43.45
+Local Government,District Council of Streaky Bay,10,0.85%,8,0.68%,2278,43.9,35.12
+Local Government,District Council of Tumby Bay,5,0.43%,5,0.43%,2948,16.96,16.96
+Local Government,District Council of Yankalilla,7,0.60%,7,0.60%,6186,11.32,11.32
+Local Government,Kangaroo Island Council,13,1.11%,12,1.02%,5167,25.16,23.22
+Local Government,Kingston District Council,1,0.09%,1,0.09%,2406,4.16,4.16
+Local Government,Light Regional Council,11,0.94%,10,0.85%,17028,6.46,5.87
+Local Government,Mid Murray Council,18,1.54%,20,1.71%,9593,18.76,20.85
+Local Government,Mount Barker District Council,40,3.42%,30,2.56%,43619,9.17,6.88
+Local Government,Northern Areas Council,5,0.43%,6,0.51%,4667,10.71,12.86
+Local Government,Port Augusta City Council,15,1.28%,15,1.28%,14453,10.38,10.38
+Local Government,Port Pirie Regional Council,9,0.77%,9,0.77%,17637,5.1,5.1
+Local Government,Regional Council of Goyder,9,0.77%,10,0.85%,4135,21.77,24.18
+Local Government,Roxby Council,2,0.17%,2,0.17%,4089,4.89,4.89
+Local Government,Rural City of Murray Bridge,17,1.45%,18,1.54%,23257,7.31,7.74
+Local Government,Southern Mallee District Council,3,0.26%,3,0.26%,2012,14.91,14.91
+Local Government,Tatiara District Council,4,0.34%,4,0.34%,7071,5.66,5.66
+Local Government,The Barossa Council,11,0.94%,10,0.85%,26590,4.14,3.76
+Local Government,The Flinders Ranges Council,1,0.09%,1,0.09%,1671,5.98,5.98
+Local Government,Town of Gawler,13,1.11%,13,1.11%,27182,4.78,4.78
+Local Government,Wakefield Regional Council,0,0.00%,1,0.09%,6985,0,1.43
+Local Government,Wattle Range Council,4,0.34%,6,0.51%,12319,3.25,4.87
+Local Government,Yorke Peninsula Council,21,1.79%,27,2.30%,12150,17.28,22.22
+Other Authority,Aboriginal Lands Trust,1,0.12%,1,0.12%,,,
+Other Authority,Adelaide Cemeteries Authority,1,0.12%,1,0.12%,,,
+Other Authority,Adelaide Venue Management Corporation,4,0.48%,4,0.48%,,,
+Other Authority,Anangu Pitjantjatjara Yankunytjatjara Executive Board,1,0.12%,0,0.00%,,,
+Other Authority,Anglicare Housing SA Ltd,7,0.85%,7,0.84%,,,
+Other Authority,Barossa Hills Fleurieu Local Health Network,7,0.85%,6,0.72%,,,
+Other Authority,Behavioural Standards Panel,1,0.12%,0,0.00%,,,
+Other Authority,Believe Housing,9,1.09%,9,1.08%,,,
+Other Authority,Central Adelaide Local Health Network,67,8.12%,65,7.83%,,,
+Other Authority,Commissioner for Consumer Affairs,68,8.24%,67,8.07%,,,
+Other Authority,Commissioner for Equal Opportunity,0,0.00%,1,0.12%,,,
+Other Authority,Commissioner for Victims' Rights,1,0.12%,1,0.12%,,,
+Other Authority,Community Housing Ltd,12,1.45%,12,1.45%,,,
+Other Authority,Cornerstone Housing,1,0.12%,1,0.12%,,,
+Other Authority,Coroner,3,0.36%,3,0.36%,,,
+Other Authority,Country Health SA Local Health Network Inc,0,0.00%,1,0.12%,,,
+Other Authority,Courts Administration Authority,22,2.67%,24,2.89%,,,
+Other Authority,Director of Public Prosecutions,1,0.12%,1,0.12%,,,
+Other Authority,Dog & Cat Management Board,2,0.24%,2,0.24%,,,
+Other Authority,Drug & Alcohol Services SA,2,0.24%,2,0.24%,,,
+Other Authority,Eastern Health Authority,2,0.24%,1,0.12%,,,
+Other Authority,Education Standards Board,6,0.73%,5,0.60%,,,
+Other Authority,Electoral Commission of South Australia,1,0.12%,1,0.12%,,,
+Other Authority,Eyre and Far North Local Health Network,3,0.36%,2,0.24%,,,
+Other Authority,Fleurieu Regional Assessment Panel,0,0.00%,2,0.24%,,,
+Other Authority,Flinders and Upper North Local Health Network,10,1.21%,11,1.33%,,,
+Other Authority,Flinders University,18,2.18%,20,2.41%,,,
+Other Authority,Health & Community Services Complaints Commissioner,48,5.82%,50,6.02%,,,
+Other Authority,HomeStart,3,0.36%,3,0.36%,,,
+Other Authority,Housing Choices SA,5,0.61%,5,0.60%,,,
+Other Authority,Housing Safety Authority (HSA),6,0.73%,6,0.72%,,,
+Other Authority,Junction Australia Ltd,7,0.85%,7,0.84%,,,
+Other Authority,Land Services SA,4,0.48%,5,0.60%,,,
+Other Authority,Legal Profession Conduct Commissioner,7,0.85%,7,0.84%,,,
+Other Authority,Legal Services Commission,15,1.82%,15,1.81%,,,
+Other Authority,Lifetime Support Authority,2,0.24%,2,0.24%,,,
+Other Authority,Limestone Coast Local Health Network,3,0.36%,3,0.36%,,,
+Other Authority,Local Government Association Mutual Liability Scheme,2,0.24%,1,0.12%,,,
+Other Authority,Local Government Association of South Australia,3,0.36%,3,0.36%,,,
+Other Authority,Murraylands and Riverland Landscape Board,1,0.12%,1,0.12%,,,
+Other Authority,Native Vegetation Council,1,0.12%,1,0.12%,,,
+Other Authority,Northern Adelaide Local Health Network,33,4.00%,26,3.13%,,,
+Other Authority,Northern Adelaide Waste Management Authority,1,0.12%,1,0.12%,,,
+Other Authority,Office of the Technical Regulator,1,0.12%,2,0.24%,,,
+Other Authority,Outback Communities Authority,2,0.24%,3,0.36%,,,
+Other Authority,Public Advocate,36,4.36%,36,4.34%,,,
+Other Authority,Public Trustee,104,12.61%,106,12.77%,,,
+Other Authority,ReturnToWorkSA,38,4.61%,39,4.70%,,,
+Other Authority,RSPCA Inspectorate,8,0.97%,8,0.96%,,,
+Other Authority,SA Ambulance Service,12,1.45%,15,1.81%,,,
+Other Authority,SA Country Fire Service,4,0.48%,3,0.36%,,,
+Other Authority,SA Film Corporation,1,0.12%,0,0.00%,,,
+Other Authority,SA Government Financing Authority,3,0.36%,2,0.24%,,,
+Other Authority,SA Metropolitan Fire Service,3,0.36%,3,0.36%,,,
+Other Authority,SACE Board of SA,2,0.24%,2,0.24%,,,
+Other Authority,Salvation Army Housing SA,2,0.24%,2,0.24%,,,
+Other Authority,Sheriff,1,0.12%,1,0.12%,,,
+Other Authority,South Australian Civil and Administrative Tribunal,34,4.12%,34,4.10%,,,
+Other Authority,South Australian Dental Service,10,1.21%,10,1.20%,,,
+Other Authority,South Australian Employment Tribunal,2,0.24%,2,0.24%,,,
+Other Authority,South Australian Fire and Emergency Services Commission,2,0.24%,2,0.24%,,,
+Other Authority,South Australian Small Business Commissioner,1,0.12%,1,0.12%,,,
+Other Authority,South Australian Tourism Commission,2,0.24%,2,0.24%,,,
+Other Authority,Southern Adelaide Local Health Network,26,3.15%,23,2.77%,,,
+Other Authority,State Commission Assessment Panel,2,0.24%,1,0.12%,,,
+Other Authority,State Emergency Service,1,0.12%,1,0.12%,,,
+Other Authority,State Planning Commission,2,0.24%,2,0.24%,,,
+Other Authority,Super SA Board,20,2.42%,21,2.53%,,,
+Other Authority,TAFE SA,31,3.76%,29,3.49%,,,
+Other Authority,Teachers Registration Board,1,0.12%,1,0.12%,,,
+Other Authority,Uniting Housing - Uniting SA,2,0.24%,2,0.24%,,,
+Other Authority,Unity Housing Co Ltd,2,0.24%,2,0.24%,,,
+Other Authority,University of Adelaide,31,3.76%,35,4.22%,,,
+Other Authority,University of South Australia,24,2.91%,23,2.77%,,,
+Other Authority,Urban Renewal Authority,3,0.36%,2,0.24%,,,
+Other Authority,Women's and Children's Health Network,18,2.18%,26,3.13%,,,
+Other Authority,Yorke and Northern Local Health Network,3,0.36%,3,0.36%,,,

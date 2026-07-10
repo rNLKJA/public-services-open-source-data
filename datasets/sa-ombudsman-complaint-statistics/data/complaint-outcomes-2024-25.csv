@@ -1,0 +1,73 @@
+agency_type,outcome,total,percent
+Government Department,Complainant Cannot be Contacted,75,2.74%
+Government Department,Conciliated 17(3),5,0.18%
+Government Department,Declined s12H \ Other Good Reason (s12H (1)(c),31,1.13%
+Government Department,Declined s12H \ Other Good Reason (s12H (1)(c) \ Discretion \ not in public interest to investigate,71,2.59%
+Government Department,Declined s12H \ Other Good Reason (s12H (1)(c) \ No error,558,20.36%
+Government Department,Declined s12H \ Other Good Reason (s12H (1)(c) \ Referred Back to Agency,1344,49.05%
+Government Department,Declined s12H \ Other Good Reason (s12H (1)(c) \ Suggested administrative improvement,8,0.29%
+Government Department,Declined s12H \ Previously Dealt With (s12H (1)(c),12,0.44%
+Government Department,Declined s12H \ Referred to Other Authority (s12H(1)(b),91,3.32%
+Government Department,Declined s12H \ Resolved with Agency Co-operation (s12H),172,6.28%
+Government Department,Discontinued (s13(2a),1,0.04%
+Government Department,FOI\Outside of Jurisdiction,1,0.04%
+Government Department,Out of Jurisdiction \12B \ Complainant not directly affected,17,0.62%
+Government Department,Out of Jurisdiction \ 13(3) \ Statutory or legal remedy,72,2.63%
+Government Department,Out of Jurisdiction \ Agency Not Within Jurisdiction,4,0.15%
+Government Department,Out of Jurisdiction \ Judicial officer conduct,1,0.04%
+Government Department,Out of Jurisdiction \No administrative act,40,1.46%
+Government Department,Out of Jurisdiction \ SAPOL officer conduct,126,4.60%
+Government Department,Out of Time (s12C),10,0.36%
+Government Department,Own initiative - discontinued,5,0.18%
+Government Department,Referral Withdrawn by OPI,6,0.22%
+Government Department,Return to Work \Out of Jurisdiction (RTW),1,0.04%
+Government Department,Return to Work \ Referred back to Compensating Authority (RTW),1,0.04%
+Government Department,Withdrawn by Complainant,88,3.21%
+Local Government,Complainant Cannot be Contacted,21,1.79%
+Local Government,Declined s12H \ Other Good Reason (s12H (1)(c),9,0.77%
+Local Government,Declined s12H \ Other Good Reason (s12H (1)(c) \ Discretion \ not in public interest to investigate,51,4.35%
+Local Government,Declined s12H \ Other Good Reason (s12H (1)(c) \ No error,403,34.39%
+Local Government,Declined s12H \ Other Good Reason (s12H (1)(c) \ Referred Back to Agency,422,36.01%
+Local Government,Declined s12H \ Other Good Reason (s12H (1)(c) \ Suggested administrative improvement,6,0.51%
+Local Government,Declined s12H \ Previously Dealt With (s12H (1)(c),5,0.43%
+Local Government,Declined s12H \ Referred to Other Authority (s12H(1)(b),15,1.28%
+Local Government,Declined s12H \ Resolved with Agency Co-operation (s12H),51,4.35%
+Local Government,Investigation Outcome \ Partly substantiated,1,0.09%
+Local Government,Investigation Outcome \ Substantiated,4,0.34%
+Local Government,Out of Jurisdiction \ 12B \ Complainant not directly affected,3,0.26%
+Local Government,Out of Jurisdiction \ 13(3) \ Statutory or legal remedy,122,10.41%
+Local Government,Out of Jurisdiction \ Agency Not Within Jurisdiction,1,0.09%
+Local Government,Out of Jurisdiction\No administrative act,10,0.85%
+Local Government,Out of Time (s12C),7,0.60%
+Local Government,Own initiative - discontinued,1,0.09%
+Local Government,Referral Withdrawn by OPI,4,0.34%
+Local Government,Withdrawn by Complainant,36,3.07%
+Other Authority,Complainant Cannot be Contacted,13,1.57%
+Other Authority,Declined s12H \ Other Good Reason (s12H (1)(c),10,1.20%
+Other Authority,Declined s12H \ Other Good Reason (s12H (1)(c) \ Discretion \ not in public interest to investigate,32,3.86%
+Other Authority,Declined s12H \ Other Good Reason (s12H (1)(c) \ No error,189,22.77%
+Other Authority,Declined s12H \ Other Good Reason (s12H (1)(c) \ Referred Back to Agency,299,36.02%
+Other Authority,Declined s12H \ Other Good Reason (s12H (1)(c) \ Referred to NSO,7,0.84%
+Other Authority,Declined s12H \ Other Good Reason (s12H (1)(c) \ Suggested administrative improvement,1,0.12%
+Other Authority,Declined s12H \ Previously Dealt With (s12H (1)(c),8,0.96%
+Other Authority,Declined s12H \ Referred to Other Authority (s12H(1)(b),86,10.36%
+Other Authority,Declined s12H \ Resolved with Agency Co-operation (s12H),31,3.73%
+Other Authority,Discontinued (s13(2a),1,0.12%
+Other Authority,FOI\Outside of Jurisdiction,1,0.12%
+Other Authority,Investigation Outcome \ Substantiated,2,0.24%
+Other Authority,Out of Jurisdiction \ 12B \ Complainant not directly affected,4,0.48%
+Other Authority,Out of Jurisdiction \ 13(3) \ Statutory or legal remedy,49,5.90%
+Other Authority,Out of Jurisdiction \ Agency Not Within Jurisdiction,7,0.84%
+Other Authority,Out of Jurisdiction \ Judicial officer conduct,4,0.48%
+Other Authority,Out of Jurisdiction \ No administrative act,16,1.93%
+Other Authority,Out of Time (s12C),7,0.84%
+Other Authority,Own initiative - discontinued,1,0.12%
+Other Authority,Referral Withdrawn by OPI,3,0.36%
+Other Authority,Return to Work \ Advice given (RTW),1,0.12%
+Other Authority,Return to Work \ Declined - Other Good Reason (s12H(1)(c) (RTW),14,1.69%
+Other Authority,Return to Work \ Declined - Referred to Other Agency (s12H(1)(b) (RTW),2,0.24%
+Other Authority,Return to Work \ Out of Jurisdiction (RTW),2,0.24%
+Other Authority,Return to Work \ Referred back to Compensating Authority (RTW),9,1.08%
+Other Authority,Return to Work \ Withdrawn by Complainant (RTW),4,0.48%
+Other Authority,Withdrawn by Complainant,27,3.25%
+Other Authority,FOI Act jurisdiction,,
