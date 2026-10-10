@@ -2,7 +2,36 @@
 
 A curated collection of 95+ open South Australian and Australian government datasets for public-service research, policy analysis and civic tools. Every dataset traces back to an official government source with licence, retrieval date and field definitions documented.
 
-🌐 **Live Demo:** https://sa-au-open-data.vercel.app
+🌐 **Live Demo:** https://sa-au-open-data.vercel.app  
+📽️ **Platform Tour:** https://sa-au-open-data.vercel.app/tour
+
+## 🎬 Showcase
+
+![Explore the Catalogue](docs/showcase/workflow-1-explore-catalogue.gif)
+
+### Key Features
+
+| Feature | Description |
+|---------|-------------|
+| ![Catalogue Browser](docs/showcase/03-catalogue.png) | **Catalogue Browser** - Browse 95+ datasets by domain, filter by licence and recency |
+| ![Analysis Gallery](docs/showcase/04-analyses.png) | **Analysis Gallery** - 6 hero visualizations with statistical rigour and uncertainty quantification |
+| ![Provenance Graph](docs/showcase/05-provenance.png) | **Provenance Graph** - Data lineage showing how datasets are joined and transformed |
+| ![Methods Documentation](docs/showcase/06-methods.png) | **Methods Documentation** - Complete methodology, assumptions, and decision records |
+| ![AI Audit Log](docs/showcase/07-ai-log.png) | **AI Audit Log** - Transparency for all AI features with exportable records |
+| ![Mobile Experience](docs/showcase/08-mobile-landing.png) | **Mobile Experience** - Fully responsive design for 375px+ screens |
+
+### Workflow Walkthrough
+
+**1. Explore the Catalogue**  
+Navigate to the catalogue, filter datasets by domain (crime, health, education, transport), view detailed metadata with full attribution, and download datasets with proper licensing information.
+
+**2. Quickstart Gallery**  
+Browse 6 hero visualizations showcasing the catalogue's breadth: crime map, CPI timeline, crash heatmap, school locations, ED waits, and population pyramid. Each includes methodology, uncertainty quantification with confidence intervals, and statistical rigour.
+
+**3. Join Datasets**  
+View cross-dataset case studies with provenance graphs showing data lineage. Each join includes complete methodology documentation, uncertainty quantification, and reproducible code for transparency.
+
+Visit the [**Platform Tour**](https://sa-au-open-data.vercel.app/tour) for video walkthroughs and more details.
 
 ## 📊 What's Inside
 

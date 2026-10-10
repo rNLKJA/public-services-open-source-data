@@ -30,16 +30,16 @@ export function SiteHeader() {
               Catalogue
             </Link>
             <Link
-              href="/quality"
-              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
-            >
-              Quality
-            </Link>
-            <Link
               href="/analyses"
               className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
             >
               Analyses
+            </Link>
+            <Link
+              href="/tour"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
+            >
+              Tour
             </Link>
             <Link
               href="/methods"
@@ -76,18 +76,18 @@ export function SiteHeader() {
               Catalogue
             </Link>
             <Link
-              href="/quality"
-              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Quality
-            </Link>
-            <Link
               href="/analyses"
               className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
               onClick={() => setIsMenuOpen(false)}
             >
               Analyses
+            </Link>
+            <Link
+              href="/tour"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Tour
             </Link>
             <Link
               href="/methods"

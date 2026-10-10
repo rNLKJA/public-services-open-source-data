@@ -13,7 +13,8 @@
     "typecheck": "next typegen && tsc --noEmit",
     "test": "vitest run",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "showcase": "playwright test showcase.spec.ts"
   },
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.2",
