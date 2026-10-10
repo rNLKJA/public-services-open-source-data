@@ -38,8 +38,7 @@ export function CatalogueTable({ datasets }: CatalogueTableProps) {
         dataset.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
         dataset.id.toLowerCase().includes(searchQuery.toLowerCase());
 
-      const matchesDomain =
-        selectedDomain === 'all' || dataset.domains.includes(selectedDomain);
+      const matchesDomain = selectedDomain === 'all' || dataset.domains.includes(selectedDomain);
 
       const matchesLicence =
         selectedLicence === 'all' || getLicenceBadge(dataset.licence).short === selectedLicence;
@@ -128,14 +127,15 @@ export function CatalogueTable({ datasets }: CatalogueTableProps) {
           <tbody className="bg-white dark:bg-slate-950 divide-y divide-slate-200 dark:divide-slate-800">
             {filteredDatasets.length === 0 ? (
               <tr>
-                <td colSpan={7} className="px-4 py-8 text-center text-slate-500 dark:text-slate-400">
+                <td
+                  colSpan={7}
+                  className="px-4 py-8 text-center text-slate-500 dark:text-slate-400"
+                >
                   No datasets found matching your filters
                 </td>
               </tr>
             ) : (
-              filteredDatasets.map((dataset) => (
-                <DatasetRow key={dataset.id} dataset={dataset} />
-              ))
+              filteredDatasets.map((dataset) => <DatasetRow key={dataset.id} dataset={dataset} />)
             )}
           </tbody>
         </table>
@@ -174,7 +174,9 @@ function DatasetRow({ dataset }: { dataset: Dataset }) {
         </div>
       </td>
       <td className="px-4 py-4">
-        <span className={`inline-block px-2 py-1 text-xs font-medium rounded ${licenceBadge.color}`}>
+        <span
+          className={`inline-block px-2 py-1 text-xs font-medium rounded ${licenceBadge.color}`}
+        >
           {licenceBadge.short}
         </span>
       </td>

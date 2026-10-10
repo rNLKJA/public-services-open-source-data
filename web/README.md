@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SA & AU Open Data Atlas — Web Application
 
-## Getting Started
+A modern, searchable catalogue browser for South Australian and Australian government open datasets. This Next.js application provides an accessible interface to explore 95+ curated open data resources across domains like transport, health, environment, and social services.
 
-First, run the development server:
+## Features
+
+- **Searchable Catalogue**: Browse and filter 95+ datasets by domain, licence, format, and keywords
+- **Hero Datasets**: Featured high-impact datasets on the landing page
+- **Responsive Design**: Mobile-first interface with dark mode support
+- **Civic Design Language**: Federal blue and SA red colour palette with tabular typography
+- **Accessibility**: WCAG-compliant with keyboard navigation and screen reader support
+
+## Local Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+# Install dependencies
+pnpm install
+
+# Run development server
 pnpm dev
-# or
-bun dev
+
+# Open http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Build & Test
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Lint code
+pnpm lint
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Type check
+pnpm typecheck
 
-## Learn More
+# Run tests
+pnpm test
 
-To learn more about Next.js, take a look at the following resources:
+# Format code
+pnpm format
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Production build
+pnpm build
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Start production server
+pnpm start
+```
 
-## Deploy on Vercel
+## Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Framework**: Next.js 16 (App Router, React Server Components)
+- **Styling**: Tailwind CSS v4 with custom design tokens
+- **UI Components**: shadcn/ui (Radix primitives)
+- **Typography**: Inter (body) + JetBrains Mono (code)
+- **Theme**: next-themes with system preference detection
+- **Icons**: lucide-react
+- **Testing**: Vitest
+- **Package Manager**: pnpm 10.33.1
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Data Generation
+
+The catalogue and hero dataset metadata are generated from the original 95+ datasets in the `original/` directory via Python scripts in `scripts/`. See the root README for details on data provenance and regeneration.
+
+## Project Context
+
+This is a personal data curation project showcasing South Australian and Australian government open data resources. The catalogue aggregates datasets from data.sa.gov.au, data.gov.au, and other civic data portals. For more information, see the [About page](http://localhost:3000/about) or the root README.

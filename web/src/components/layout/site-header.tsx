@@ -39,7 +39,7 @@ export function SiteHeader() {
           </nav>
 
           <button
-            className="md:hidden p-2 text-slate-600 dark:text-slate-400"
+            className="md:hidden p-2 text-slate-600 dark:text-slate-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-federal-blue focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-slate-950 rounded-md"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             aria-label="Toggle menu"
           >
