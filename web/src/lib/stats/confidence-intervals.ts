@@ -144,7 +144,7 @@ export function meanInterval(
 function getZScore(confidence: number): number {
   // Common confidence levels
   const zScores: Record<number, number> = {
-    0.90: 1.645,
+    0.9: 1.645,
     0.95: 1.96,
     0.99: 2.576,
     0.999: 3.291,
@@ -172,9 +172,20 @@ function getTScore(confidence: number, df: number): number {
 
   // Critical values for 95% confidence, selected degrees of freedom
   const t95: Record<number, number> = {
-    1: 12.706, 2: 4.303, 3: 3.182, 4: 2.776, 5: 2.571,
-    6: 2.447, 7: 2.365, 8: 2.306, 9: 2.262, 10: 2.228,
-    15: 2.131, 20: 2.086, 25: 2.060, 30: 2.042,
+    1: 12.706,
+    2: 4.303,
+    3: 3.182,
+    4: 2.776,
+    5: 2.571,
+    6: 2.447,
+    7: 2.365,
+    8: 2.306,
+    9: 2.262,
+    10: 2.228,
+    15: 2.131,
+    20: 2.086,
+    25: 2.06,
+    30: 2.042,
   };
 
   if (confidence === 0.95) {
@@ -182,7 +193,9 @@ function getTScore(confidence: number, df: number): number {
       return t95[df];
     }
     // Linear interpolation for intermediate values
-    const keys = Object.keys(t95).map(Number).sort((a, b) => a - b);
+    const keys = Object.keys(t95)
+      .map(Number)
+      .sort((a, b) => a - b);
     for (let i = 0; i < keys.length - 1; i++) {
       if (df > keys[i] && df < keys[i + 1]) {
         const t1 = t95[keys[i]];
@@ -218,10 +231,7 @@ function seededRandom(seed: number): () => number {
  * @param group2 - Second group observations
  * @returns Cohen's d and interpretation
  */
-export function cohensD(
-  group1: number[],
-  group2: number[]
-): { d: number; interpretation: string } {
+export function cohensD(group1: number[], group2: number[]): { d: number; interpretation: string } {
   const mean1 = group1.reduce((sum, x) => sum + x, 0) / group1.length;
   const mean2 = group2.reduce((sum, x) => sum + x, 0) / group2.length;
 

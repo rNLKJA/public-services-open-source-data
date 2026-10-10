@@ -35,7 +35,7 @@ test.describe('Desktop verification (1440x900)', () => {
 
       await page.screenshot({
         path: `/tmp/screenshot-desktop-${route.name}.png`,
-        fullPage: true
+        fullPage: true,
       });
 
       console.log(`Route: ${route.path}`);
@@ -76,7 +76,7 @@ test.describe('Mobile verification (390x844)', () => {
 
       await page.screenshot({
         path: `/tmp/screenshot-mobile-${route.name}.png`,
-        fullPage: true
+        fullPage: true,
       });
 
       console.log(`Route: ${route.path} (mobile)`);
@@ -95,7 +95,7 @@ test.describe('Interaction tests', () => {
     await page.goto(BASE_URL, { waitUntil: 'networkidle' });
 
     const catalogueLink = page.locator('a[href="/catalogue"]');
-    if (await catalogueLink.count() > 0) {
+    if ((await catalogueLink.count()) > 0) {
       await catalogueLink.first().click();
       await page.waitForURL(/.*catalogue.*/);
       expect(page.url()).toContain('catalogue');
@@ -105,14 +105,16 @@ test.describe('Interaction tests', () => {
   test('AI features without key show graceful prompt', async ({ page }) => {
     await page.goto(`${BASE_URL}/analyses`, { waitUntil: 'networkidle' });
 
-    const aiButton = page.locator('button:has-text("AI"), button:has-text("Generate"), button:has-text("Analyze")').first();
+    const aiButton = page
+      .locator('button:has-text("AI"), button:has-text("Generate"), button:has-text("Analyze")')
+      .first();
 
-    if (await aiButton.count() > 0) {
+    if ((await aiButton.count()) > 0) {
       await aiButton.click();
       await page.waitForTimeout(1000);
 
       const settingsDialog = page.locator('[role="dialog"], .dialog, [data-testid*="settings"]');
-      const hasDialog = await settingsDialog.count() > 0;
+      const hasDialog = (await settingsDialog.count()) > 0;
 
       console.log(`AI button clicked, dialog appeared: ${hasDialog}`);
     } else {

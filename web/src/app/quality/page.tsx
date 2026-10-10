@@ -1,5 +1,9 @@
 import { getCatalogueData } from '@/lib/catalogue';
-import { computeCatalogueQuality, assessCompleteness, assessTimeliness } from '@/lib/quality/metrics';
+import {
+  computeCatalogueQuality,
+  assessCompleteness,
+  assessTimeliness,
+} from '@/lib/quality/metrics';
 import { BarChart3, CheckCircle2, Clock, FileText } from 'lucide-react';
 import { formatCI, bootstrapInterval } from '@/lib/stats/confidence-intervals';
 
@@ -75,19 +79,20 @@ export default function QualityPage() {
           </h2>
           <div className="space-y-4 text-sm text-slate-600 dark:text-slate-400">
             <div>
-              <strong className="text-slate-900 dark:text-slate-100">Completeness:</strong> Proportion
-              of expected metadata fields present (name, domains, licence, temporal coverage, file
-              count, README path). Deductions applied for empty domains or missing licence text.
+              <strong className="text-slate-900 dark:text-slate-100">Completeness:</strong>{' '}
+              Proportion of expected metadata fields present (name, domains, licence, temporal
+              coverage, file count, README path). Deductions applied for empty domains or missing
+              licence text.
             </div>
             <div>
               <strong className="text-slate-900 dark:text-slate-100">Timeliness:</strong> Days since
-              last data update, inferred from temporal coverage. Datasets with data from current year
-              or previous year are considered &quot;current&quot;.
+              last data update, inferred from temporal coverage. Datasets with data from current
+              year or previous year are considered &quot;current&quot;.
             </div>
             <div>
-              <strong className="text-slate-900 dark:text-slate-100">Documentation:</strong> Presence
-              of README (field definitions), licence documentation (provenance), and assumed known
-              limitations. Score: 0.33 per component.
+              <strong className="text-slate-900 dark:text-slate-100">Documentation:</strong>{' '}
+              Presence of README (field definitions), licence documentation (provenance), and
+              assumed known limitations. Score: 0.33 per component.
             </div>
           </div>
         </section>
@@ -169,7 +174,9 @@ export default function QualityPage() {
             Sample size: n = {qualityMetrics.totalDatasets} datasets. Average completeness score:{' '}
             <span className="font-mono">
               {(() => {
-                const completenessScores = catalogueData.datasets.map(d => assessCompleteness(d).score);
+                const completenessScores = catalogueData.datasets.map(
+                  (d) => assessCompleteness(d).score
+                );
                 const ci = bootstrapInterval(completenessScores, mean, 0.95, 10000, 20240710);
                 return formatCI(ci.estimate, ci.lower, ci.upper, 2, true);
               })()}

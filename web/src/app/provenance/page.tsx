@@ -140,8 +140,7 @@ export default function ProvenancePage() {
               },
               {
                 label: 'Download & Reshape',
-                description:
-                  'Multiple CSV files downloaded, merged by year, SA subset extracted',
+                description: 'Multiple CSV files downloaded, merged by year, SA subset extracted',
                 date: '2024-07-12',
               },
               {
@@ -208,18 +207,16 @@ export default function ProvenancePage() {
             Attribution Requirements
           </h2>
           <div className="prose prose-slate dark:prose-invert max-w-none text-sm">
-            <p>
-              Every dataset README documents the required attribution. General patterns:
-            </p>
+            <p>Every dataset README documents the required attribution. General patterns:</p>
             <ul>
               <li>
                 <strong>ABS data (CC BY 4.0):</strong> &quot;Source: Australian Bureau of
-                Statistics&quot; for unmodified data; &quot;Based on Australian Bureau of
-                Statistics data&quot; for reshaped/derived data
+                Statistics&quot; for unmodified data; &quot;Based on Australian Bureau of Statistics
+                data&quot; for reshaped/derived data
               </li>
               <li>
-                <strong>AIHW data (CC BY 4.0):</strong> &quot;Source: Australian Institute of
-                Health and Welfare&quot; / &quot;Based on Australian Institute of Health and Welfare
+                <strong>AIHW data (CC BY 4.0):</strong> &quot;Source: Australian Institute of Health
+                and Welfare&quot; / &quot;Based on Australian Institute of Health and Welfare
                 material&quot;
               </li>
               <li>
@@ -232,9 +229,9 @@ export default function ProvenancePage() {
               </li>
             </ul>
             <p>
-              This catalogue&apos;s metadata and curation are released under CC0 1.0 Universal (public
-              domain). The datasets themselves retain their original licences—see individual README
-              files.
+              This catalogue&apos;s metadata and curation are released under CC0 1.0 Universal
+              (public domain). The datasets themselves retain their original licences—see individual
+              README files.
             </p>
           </div>
         </section>

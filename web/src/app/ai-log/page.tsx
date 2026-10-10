@@ -2,7 +2,12 @@
 
 import { useEffect, useState } from 'react';
 import { Download, Trash2, AlertCircle } from 'lucide-react';
-import { getAuditLog, clearAuditLog, updateHumanDecision, exportAuditLog } from '@/lib/ai/audit-log';
+import {
+  getAuditLog,
+  clearAuditLog,
+  updateHumanDecision,
+  exportAuditLog,
+} from '@/lib/ai/audit-log';
 import type { AIAuditLogEntry } from '@/lib/ai/types';
 
 export default function AILogPage() {
@@ -56,8 +61,19 @@ export default function AILogPage() {
   async function handleExportCSV() {
     try {
       const data = await getAuditLog();
-      const headers = ['timestamp', 'feature', 'provider', 'model', 'inputText', 'outputText', 'latencyMs', 'tokensInput', 'tokensOutput', 'humanDecision'];
-      const rows = data.map(entry => [
+      const headers = [
+        'timestamp',
+        'feature',
+        'provider',
+        'model',
+        'inputText',
+        'outputText',
+        'latencyMs',
+        'tokensInput',
+        'tokensOutput',
+        'humanDecision',
+      ];
+      const rows = data.map((entry) => [
         new Date(entry.timestamp).toISOString(),
         entry.feature,
         entry.provider,
@@ -69,7 +85,7 @@ export default function AILogPage() {
         entry.tokenUsage?.output.toString() || '',
         entry.humanDecision || '',
       ]);
-      const csv = [headers.join(','), ...rows.map(row => row.join(','))].join('\n');
+      const csv = [headers.join(','), ...rows.map((row) => row.join(','))].join('\n');
       const blob = new Blob([csv], { type: 'text/csv' });
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
@@ -167,7 +183,9 @@ export default function AILogPage() {
               >
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-4 text-sm">
                   <div>
-                    <span className="text-slate-500 dark:text-slate-400 font-medium">Timestamp:</span>
+                    <span className="text-slate-500 dark:text-slate-400 font-medium">
+                      Timestamp:
+                    </span>
                     <div className="text-slate-900 dark:text-slate-100 font-mono">
                       {new Date(entry.timestamp).toLocaleString()}
                     </div>
@@ -177,25 +195,33 @@ export default function AILogPage() {
                     <div className="text-slate-900 dark:text-slate-100">{entry.feature}</div>
                   </div>
                   <div>
-                    <span className="text-slate-500 dark:text-slate-400 font-medium">Provider:</span>
+                    <span className="text-slate-500 dark:text-slate-400 font-medium">
+                      Provider:
+                    </span>
                     <div className="text-slate-900 dark:text-slate-100">{entry.provider}</div>
                   </div>
                   <div>
                     <span className="text-slate-500 dark:text-slate-400 font-medium">Model:</span>
-                    <div className="text-slate-900 dark:text-slate-100 font-mono text-xs">{entry.model}</div>
+                    <div className="text-slate-900 dark:text-slate-100 font-mono text-xs">
+                      {entry.model}
+                    </div>
                   </div>
                 </div>
 
                 <div className="space-y-3">
                   <div>
-                    <span className="text-slate-500 dark:text-slate-400 font-medium text-sm">Input:</span>
+                    <span className="text-slate-500 dark:text-slate-400 font-medium text-sm">
+                      Input:
+                    </span>
                     <div className="mt-1 p-3 bg-slate-50 dark:bg-slate-800/50 rounded text-sm text-slate-900 dark:text-slate-100 whitespace-pre-wrap">
                       {entry.inputText}
                     </div>
                   </div>
 
                   <div>
-                    <span className="text-slate-500 dark:text-slate-400 font-medium text-sm">Output:</span>
+                    <span className="text-slate-500 dark:text-slate-400 font-medium text-sm">
+                      Output:
+                    </span>
                     <div className="mt-1 p-3 bg-slate-50 dark:bg-slate-800/50 rounded text-sm text-slate-900 dark:text-slate-100 whitespace-pre-wrap">
                       {entry.outputText}
                     </div>
@@ -205,14 +231,23 @@ export default function AILogPage() {
                 <div className="mt-4 flex items-center justify-between">
                   <div className="flex gap-4 text-xs text-slate-500 dark:text-slate-400">
                     {entry.latencyMs && <span>Latency: {entry.latencyMs}ms</span>}
-                    {entry.tokenUsage && <span>Tokens: {entry.tokenUsage.input + entry.tokenUsage.output}</span>}
+                    {entry.tokenUsage && (
+                      <span>Tokens: {entry.tokenUsage.input + entry.tokenUsage.output}</span>
+                    )}
                   </div>
 
                   <div className="flex items-center gap-2">
-                    <span className="text-xs text-slate-500 dark:text-slate-400">Human decision:</span>
+                    <span className="text-xs text-slate-500 dark:text-slate-400">
+                      Human decision:
+                    </span>
                     <select
                       value={entry.humanDecision || ''}
-                      onChange={(e) => handleUpdateDecision(entry.id, e.target.value as 'accepted' | 'edited' | 'rejected')}
+                      onChange={(e) =>
+                        handleUpdateDecision(
+                          entry.id,
+                          e.target.value as 'accepted' | 'edited' | 'rejected'
+                        )
+                      }
                       className="text-xs px-2 py-1 rounded border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-slate-100"
                     >
                       <option value="">Not recorded</option>
@@ -234,8 +269,8 @@ export default function AILogPage() {
                 Clear Audit Log?
               </h2>
               <p className="text-sm text-slate-600 dark:text-slate-400 mb-6">
-                This will permanently delete all {entries.length} audit log entries from your browser.
-                This action cannot be undone. Consider exporting first.
+                This will permanently delete all {entries.length} audit log entries from your
+                browser. This action cannot be undone. Consider exporting first.
               </p>
               <div className="flex gap-3 justify-end">
                 <button

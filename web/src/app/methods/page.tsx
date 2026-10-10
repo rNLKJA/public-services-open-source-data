@@ -34,8 +34,8 @@ export default function MethodsPage() {
                 DIT, CBS, EPA, PIRSA; mix of CC BY 4.0 and Crown Copyright with reuse permissions
               </li>
               <li>
-                <strong>Federal agencies</strong> — AIHW, Productivity Commission, Attorney-General&apos;s
-                Department, NIAA; predominantly CC BY 4.0
+                <strong>Federal agencies</strong> — AIHW, Productivity Commission,
+                Attorney-General&apos;s Department, NIAA; predominantly CC BY 4.0
               </li>
             </ul>
             <p>
@@ -44,10 +44,7 @@ export default function MethodsPage() {
               unofficial or unattributed data is included.
             </p>
             <p>
-              <Link
-                href="/provenance"
-                className="text-federal-blue hover:underline font-medium"
-              >
+              <Link href="/provenance" className="text-federal-blue hover:underline font-medium">
                 View detailed provenance graphs →
               </Link>
             </p>
@@ -65,10 +62,7 @@ export default function MethodsPage() {
           <div className="prose prose-slate dark:prose-invert max-w-none">
             <p>
               Datasets are manually curated (July 2024) using a four-criteria gate documented in{' '}
-              <Link
-                href="#decision-records"
-                className="text-federal-blue hover:underline"
-              >
+              <Link href="#decision-records" className="text-federal-blue hover:underline">
                 DR-001
               </Link>
               :
@@ -80,20 +74,14 @@ export default function MethodsPage() {
               </li>
               <li>
                 <strong>Aggregate or de-identified</strong> — no individual records; see{' '}
-                <Link
-                  href="#decision-records"
-                  className="text-federal-blue hover:underline"
-                >
+                <Link href="#decision-records" className="text-federal-blue hover:underline">
                   DR-003
                 </Link>
               </li>
               <li>
                 <strong>Open licence</strong> — CC BY, CC0, or Crown Copyright with explicit reuse
                 permissions; see{' '}
-                <Link
-                  href="#decision-records"
-                  className="text-federal-blue hover:underline"
-                >
+                <Link href="#decision-records" className="text-federal-blue hover:underline">
                   DR-002
                 </Link>
               </li>
@@ -104,8 +92,8 @@ export default function MethodsPage() {
             </ol>
             <p>
               This process curated 95 datasets from an initial scan of 120+ candidates. The 25
-              excluded datasets failed licence compatibility (8), metadata completeness (9), or
-              were microdata-only (8).
+              excluded datasets failed licence compatibility (8), metadata completeness (9), or were
+              microdata-only (8).
             </p>
           </div>
         </section>
@@ -119,9 +107,7 @@ export default function MethodsPage() {
             </h2>
           </div>
           <div className="prose prose-slate dark:prose-invert max-w-none">
-            <p>
-              The catalogue tracks three quality dimensions for each dataset:
-            </p>
+            <p>The catalogue tracks three quality dimensions for each dataset:</p>
             <ul>
               <li>
                 <strong>Completeness</strong> — proportion of expected metadata fields present
@@ -138,10 +124,7 @@ export default function MethodsPage() {
             </ul>
             <p>
               Aggregate metrics and per-dataset quality scores are available on the{' '}
-              <Link
-                href="/quality"
-                className="text-federal-blue hover:underline font-medium"
-              >
+              <Link href="/quality" className="text-federal-blue hover:underline font-medium">
                 Data Quality Dashboard
               </Link>
               .
@@ -158,9 +141,7 @@ export default function MethodsPage() {
             </h2>
           </div>
           <div className="prose prose-slate dark:prose-invert max-w-none">
-            <p>
-              All quantitative results shown on this site include uncertainty quantification:
-            </p>
+            <p>All quantitative results shown on this site include uncertainty quantification:</p>
             <ul>
               <li>
                 <strong>Proportions</strong> — Wilson score intervals (95% confidence), more
@@ -171,8 +152,8 @@ export default function MethodsPage() {
                 (10,000 resamples, seeded for reproducibility)
               </li>
               <li>
-                <strong>Comparative analyses</strong> — effect sizes (Cohen&apos;s d) reported alongside
-                p-values
+                <strong>Comparative analyses</strong> — effect sizes (Cohen&apos;s d) reported
+                alongside p-values
               </li>
             </ul>
             <p>
@@ -181,10 +162,7 @@ export default function MethodsPage() {
               from scipy (Python) and R.
             </p>
             <p>
-              <Link
-                href="/analyses"
-                className="text-federal-blue hover:underline font-medium"
-              >
+              <Link href="/analyses" className="text-federal-blue hover:underline font-medium">
                 View demo analyses with full uncertainty →
               </Link>
             </p>
@@ -230,27 +208,24 @@ export default function MethodsPage() {
               </p>
               <ul>
                 <li>
-                  Your API key is stored in your browser (sessionStorage by default, or
-                  localStorage if you opt in). It is <strong>never sent to our servers</strong>.
+                  Your API key is stored in your browser (sessionStorage by default, or localStorage
+                  if you opt in). It is <strong>never sent to our servers</strong>.
                 </li>
                 <li>
                   API calls go directly from your browser to Anthropic/OpenAI (Anthropic requires
                   the header <code>anthropic-dangerous-direct-browser-access: true</code>).
                 </li>
                 <li>
-                  Every AI output is visibly labelled &quot;AI-generated&quot; and logged to an audit trail
-                  (stored in your browser&apos;s IndexedDB, viewable at{' '}
-                  <Link
-                    href="/ai-log"
-                    className="text-federal-blue hover:underline"
-                  >
+                  Every AI output is visibly labelled &quot;AI-generated&quot; and logged to an
+                  audit trail (stored in your browser&apos;s IndexedDB, viewable at{' '}
+                  <Link href="/ai-log" className="text-federal-blue hover:underline">
                     /ai-log
                   </Link>
                   ).
                 </li>
                 <li>
-                  The audit log records: timestamp, feature, provider, model, input (your
-                  question), output (AI response), latency, token usage, and your decision
+                  The audit log records: timestamp, feature, provider, model, input (your question),
+                  output (AI response), latency, token usage, and your decision
                   (accepted/edited/rejected).
                 </li>
                 <li>
@@ -259,8 +234,8 @@ export default function MethodsPage() {
               </ul>
               <p>
                 <strong>Governance alignment:</strong> This approach is informed by the Australian
-                DTA&apos;s responsible AI policy (transparency, human oversight, audit trails) and EU AI
-                Act transparency principles. It is not a claim of formal compliance.
+                DTA&apos;s responsible AI policy (transparency, human oversight, audit trails) and
+                EU AI Act transparency principles. It is not a claim of formal compliance.
               </p>
             </div>
           </div>
@@ -289,8 +264,8 @@ export default function MethodsPage() {
               </li>
               <li>
                 <strong>Licence interpretation</strong> — licence compatibility decisions (DR-002)
-                reflect the maintainer&apos;s interpretation of open licence terms. Users should verify
-                licence compliance for their use case.
+                reflect the maintainer&apos;s interpretation of open licence terms. Users should
+                verify licence compliance for their use case.
               </li>
             </ul>
           </div>

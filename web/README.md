@@ -5,6 +5,7 @@ A modern, searchable catalogue browser for South Australian and Australian gover
 ## Features
 
 ### Core Catalogue
+
 - **Searchable Catalogue**: Browse and filter 95+ datasets by domain, licence, format, and keywords
 - **Hero Datasets**: Featured high-impact datasets on the landing page
 - **Responsive Design**: Mobile-first interface with dark mode support
@@ -14,20 +15,24 @@ A modern, searchable catalogue browser for South Australian and Australian gover
 ### Career-Aligned Enhancements
 
 #### Data Governance & Quality
+
 - **Data Quality Dashboard** (`/quality`): Completeness, timeliness, and documentation metrics with uncertainty quantification
 - **Provenance Graphs** (`/provenance`): Lineage visualisation for 5 key datasets showing source → retrieval → documentation → publication
 - **Decision Records**: Documented curation criteria, licence framework, and privacy policies (docs/decisions/)
 
 #### Statistical Rigour
+
 - **Statistical Library**: Wilson score intervals for proportions, bootstrap intervals for custom statistics, effect sizes (Cohen's d)
 - **Demo Analyses** (`/analyses`): 4 cross-dataset case studies showcasing confidence intervals, sample sizes, and effect sizes
 - **Unit Tests**: Full test coverage for statistical functions verified against reference values
 
 #### Methodology Transparency
+
 - **Methods Page** (`/methods`): Complete documentation of data provenance, curation method, quality assessment, statistical approach, and limitations
 - **AI Use Statement**: BYOK (Bring Your Own Key) AI features with full transparency, audit logging, and governance alignment
 
 #### AI Features (Optional, BYOK)
+
 - **Dataset Recommender**: AI-powered suggestions based on research questions (requires user's own API key)
 - **Audit Trail**: All AI interactions logged to IndexedDB with full transparency (viewable at `/ai-log`, exportable as JSON)
 - **Privacy-First**: API keys stored in browser only (sessionStorage/localStorage), never sent to our servers, calls go directly to Anthropic/OpenAI

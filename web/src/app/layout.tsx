@@ -38,7 +38,10 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
       className={`${inter.variable} ${jetbrainsMono.variable} antialiased`}
       suppressHydrationWarning
     >
-      <body className="min-h-screen flex flex-col bg-white dark:bg-slate-950" suppressHydrationWarning>
+      <body
+        className="min-h-screen flex flex-col bg-white dark:bg-slate-950"
+        suppressHydrationWarning
+      >
         <ThemeProvider
           attribute="class"
           defaultTheme="system"

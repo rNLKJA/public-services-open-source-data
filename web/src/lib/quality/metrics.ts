@@ -134,10 +134,7 @@ export function assessTimeliness(
 /**
  * Assess documentation quality
  */
-export function assessDocumentation(dataset: {
-  readme_path?: string;
-  licence?: string;
-}): {
+export function assessDocumentation(dataset: { readme_path?: string; licence?: string }): {
   hasFieldDefinitions: boolean;
   hasProvenance: boolean;
   hasLimitations: boolean;
@@ -205,7 +202,10 @@ export function computeCatalogueQuality(
 
   for (const dataset of datasets) {
     const completeness = assessCompleteness(dataset);
-    const timeliness = assessTimeliness(dataset as { temporal_coverage?: string; id: string }, currentYear);
+    const timeliness = assessTimeliness(
+      dataset as { temporal_coverage?: string; id: string },
+      currentYear
+    );
     const docs = assessDocumentation(dataset as { readme_path?: string; licence?: string });
 
     totalCompleteness += completeness.score;

@@ -9,7 +9,10 @@ export default function AnalysesPage() {
     n: 70, // SA LGAs
   };
 
-  const adelaideCI = wilsonInterval(crimeAnalysis.lga1.offences, crimeAnalysis.lga1.offences + 5000);
+  const adelaideCI = wilsonInterval(
+    crimeAnalysis.lga1.offences,
+    crimeAnalysis.lga1.offences + 5000
+  );
   const paeCI = wilsonInterval(crimeAnalysis.lga2.offences, crimeAnalysis.lga2.offences + 10000);
 
   // Demo analysis 2: Health service wait times (synthetic)
@@ -22,7 +25,7 @@ export default function AnalysesPage() {
   // Demo analysis 3: Effect size comparison
   const effectDemo = cohensD(
     [52, 54, 50, 53, 51, 55, 49, 52, 53, 54], // Group A: mean ~52.3
-    [48, 46, 49, 47, 48, 45, 50, 47, 48, 46]  // Group B: mean ~47.4
+    [48, 46, 49, 47, 48, 45, 50, 47, 48, 46] // Group B: mean ~47.4
   );
 
   return (
@@ -75,8 +78,8 @@ export default function AnalysesPage() {
                 and Port Adelaide Enfield?
               </p>
               <p>
-                <strong>Datasets:</strong> SA Police crime statistics (offence counts by LGA) +
-                ABS 3218.0 Regional Population (ERP by LGA)
+                <strong>Datasets:</strong> SA Police crime statistics (offence counts by LGA) + ABS
+                3218.0 Regional Population (ERP by LGA)
               </p>
               <p>
                 <strong>Method:</strong> Compute offence rate per 1,000 population. Wilson score
@@ -209,8 +212,8 @@ export default function AnalysesPage() {
             </h3>
             <div className="prose prose-slate dark:prose-invert max-w-none text-sm mb-6">
               <p>
-                <strong>Scenario:</strong> Hypothetical comparison of student test scores before
-                and after an education intervention
+                <strong>Scenario:</strong> Hypothetical comparison of student test scores before and
+                after an education intervention
               </p>
               <p>
                 <strong>Method:</strong> Independent samples t-test + Cohen&apos;s d effect size.
@@ -360,8 +363,8 @@ export default function AnalysesPage() {
             <li className="flex items-start gap-2">
               <span className="text-federal-blue mt-1">•</span>
               <span>
-                <strong className="text-slate-900 dark:text-slate-100">Sample sizes:</strong>{' '}
-                Stated for every estimate
+                <strong className="text-slate-900 dark:text-slate-100">Sample sizes:</strong> Stated
+                for every estimate
               </span>
             </li>
             <li className="flex items-start gap-2">
@@ -388,8 +391,8 @@ export default function AnalysesPage() {
             <li className="flex items-start gap-2">
               <span className="text-federal-blue mt-1">•</span>
               <span>
-                <strong className="text-slate-900 dark:text-slate-100">Reproducibility:</strong>{' '}
-                All statistical functions are unit-tested and open-source (see GitHub)
+                <strong className="text-slate-900 dark:text-slate-100">Reproducibility:</strong> All
+                statistical functions are unit-tested and open-source (see GitHub)
               </span>
             </li>
           </ul>
