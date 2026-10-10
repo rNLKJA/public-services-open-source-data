@@ -2,7 +2,7 @@
 
 A curated collection of 95+ open South Australian and Australian government datasets for public-service research, policy analysis and civic tools. Every dataset traces back to an official government source with licence, retrieval date and field definitions documented.
 
-🌐 **Live Demo:** [Coming soon - will be deployed to Vercel]
+🌐 **Live Demo:** https://sa-au-open-data.vercel.app
 
 ## 📊 What's Inside
 
