@@ -30,7 +30,9 @@ test.describe('Production Verification - Desktop', () => {
       });
 
       page.on('requestfailed', (request) => {
-        failedRequests.push(`${request.method()} ${request.url()} - ${request.failure()?.errorText}`);
+        failedRequests.push(
+          `${request.method()} ${request.url()} - ${request.failure()?.errorText}`
+        );
       });
 
       await page.goto(`${BASE_URL}${route}`, { waitUntil: 'networkidle' });
@@ -38,7 +40,7 @@ test.describe('Production Verification - Desktop', () => {
       // Take screenshot
       await page.screenshot({
         path: `/tmp/screenshots/desktop${route.replace(/\//g, '_') || '_home'}.png`,
-        fullPage: true
+        fullPage: true,
       });
 
       // Check for errors
@@ -70,7 +72,9 @@ test.describe('Production Verification - Mobile', () => {
       });
 
       page.on('requestfailed', (request) => {
-        failedRequests.push(`${request.method()} ${request.url()} - ${request.failure()?.errorText}`);
+        failedRequests.push(
+          `${request.method()} ${request.url()} - ${request.failure()?.errorText}`
+        );
       });
 
       await page.goto(`${BASE_URL}${route}`, { waitUntil: 'networkidle' });
@@ -78,7 +82,7 @@ test.describe('Production Verification - Mobile', () => {
       // Take screenshot
       await page.screenshot({
         path: `/tmp/screenshots/mobile${route.replace(/\//g, '_') || '_home'}.png`,
-        fullPage: true
+        fullPage: true,
       });
 
       // Check for errors
@@ -100,14 +104,21 @@ test.describe('Primary Interactions', () => {
     await page.goto(`${BASE_URL}/analyses`, { waitUntil: 'networkidle' });
 
     // Look for AI-related buttons or interactions
-    const aiButtons = await page.locator('button:has-text("AI"), button:has-text("Generate"), [data-ai]').count();
+    const aiButtons = await page
+      .locator('button:has-text("AI"), button:has-text("Generate"), [data-ai]')
+      .count();
 
     if (aiButtons > 0) {
       // Click first AI button
-      await page.locator('button:has-text("AI"), button:has-text("Generate"), [data-ai]').first().click();
+      await page
+        .locator('button:has-text("AI"), button:has-text("Generate"), [data-ai]')
+        .first()
+        .click();
 
       // Should see BYOK prompt
-      await expect(page.locator('text=/API key|settings|configure|bring.*key/i').first()).toBeVisible({ timeout: 5000 });
+      await expect(
+        page.locator('text=/API key|settings|configure|bring.*key/i').first()
+      ).toBeVisible({ timeout: 5000 });
     }
 
     await page.screenshot({ path: '/tmp/screenshots/ai-byok-check.png' });
@@ -118,7 +129,7 @@ test.describe('Primary Interactions', () => {
 
     // Click on About link if visible
     const aboutLink = page.locator('a[href="/about"], nav a:has-text("About")');
-    if (await aboutLink.count() > 0) {
+    if ((await aboutLink.count()) > 0) {
       await aboutLink.first().click();
       await page.waitForURL(`${BASE_URL}/about`);
       expect(page.url()).toBe(`${BASE_URL}/about`);
@@ -131,9 +142,11 @@ test.describe('Primary Interactions', () => {
     await page.goto(BASE_URL, { waitUntil: 'networkidle' });
 
     // Look for theme toggle button
-    const themeButton = page.locator('button[aria-label*="theme" i], button:has-text("Dark"), button:has-text("Light"), [data-theme-toggle]');
+    const themeButton = page.locator(
+      'button[aria-label*="theme" i], button:has-text("Dark"), button:has-text("Light"), [data-theme-toggle]'
+    );
 
-    if (await themeButton.count() > 0) {
+    if ((await themeButton.count()) > 0) {
       // Get initial class
       const htmlClasses = await page.locator('html').getAttribute('class');
 

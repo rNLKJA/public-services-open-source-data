@@ -213,8 +213,8 @@ export default function MethodsPage() {
                       OpenAI API key; the site has no AI budget
                     </li>
                     <li>
-                      <strong>Browser-only storage</strong> — keys stored in sessionStorage (default)
-                      or localStorage (opt-in), never sent to our servers or logged
+                      <strong>Browser-only storage</strong> — keys stored in sessionStorage
+                      (default) or localStorage (opt-in), never sent to our servers or logged
                     </li>
                     <li>
                       <strong>Direct provider calls</strong> — API requests go from browser to
@@ -234,14 +234,14 @@ export default function MethodsPage() {
                   <p>
                     <strong>Governance positioning:</strong> This implementation demonstrates
                     governance design principles in a portfolio context. It is not production-ready
-                    governance infrastructure and has not undergone external audit. Design informed by
-                    the Australian DTA&apos;s responsible AI policy (transparency, human oversight,
-                    audit trails) and EU AI Act transparency principles. Not a claim of formal
-                    compliance or certification.
+                    governance infrastructure and has not undergone external audit. Design informed
+                    by the Australian DTA&apos;s responsible AI policy (transparency, human
+                    oversight, audit trails) and EU AI Act transparency principles. Not a claim of
+                    formal compliance or certification.
                   </p>
                   <p className="text-amber-800 dark:text-amber-400 font-medium">
-                    Status: AI client library complete; UI components and evaluation harness pending.
-                    See{' '}
+                    Status: AI client library complete; UI components and evaluation harness
+                    pending. See{' '}
                     <a
                       href="https://github.com/rNLKJA/public-services-open-source-data/blob/main/docs/ROADMAP.md"
                       target="_blank"

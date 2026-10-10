@@ -199,7 +199,11 @@ test.describe('Showcase: Workflow Recordings', () => {
     await humanWait(page, 1500);
 
     // Step 2: Browse by domain
-    await addCaption(page, 2, 'Browse datasets by domain - filter by category to find relevant data');
+    await addCaption(
+      page,
+      2,
+      'Browse datasets by domain - filter by category to find relevant data'
+    );
     await humanWait(page, 1000);
 
     // Scroll to see more content
@@ -207,11 +211,17 @@ test.describe('Showcase: Workflow Recordings', () => {
     await humanWait(page, 1000);
 
     // Step 3: View dataset details
-    await addCaption(page, 3, 'Select a dataset to view metadata, attribution, and download options');
+    await addCaption(
+      page,
+      3,
+      'Select a dataset to view metadata, attribution, and download options'
+    );
     await humanWait(page, 1000);
 
-    const firstDataset = page.locator('article, [data-dataset], .dataset-card, a[href*="/catalogue/"]').first();
-    if (await firstDataset.count() > 0) {
+    const firstDataset = page
+      .locator('article, [data-dataset], .dataset-card, a[href*="/catalogue/"]')
+      .first();
+    if ((await firstDataset.count()) > 0) {
       await firstDataset.hover();
       await humanWait(page, 500);
     }
@@ -226,49 +236,56 @@ test.describe('Showcase: Workflow Recordings', () => {
     await context.tracing.start({ screenshots: true, snapshots: true });
 
     try {
-    await addCursorHighlight(page);
-    await page.goto(BASE_URL, { waitUntil: 'networkidle' });
-    await humanWait(page, 2000);
-
-    // Step 1: Navigate to analyses
-    await addCaption(page, 1, 'Visit the analysis gallery showcasing the catalogue breadth');
-    await humanWait(page);
-
-    const analysesLink = page.locator('a[href="/analyses"]').first();
-    await analysesLink.hover();
-    await humanWait(page, 800);
-    await analysesLink.click();
-    await page.waitForURL(`${BASE_URL}/analyses`);
-    await humanWait(page, 2000);
-
-    // Step 2: Scroll through visualizations
-    await addCaption(page, 2, 'Explore 6 hero visualizations: crime map, CPI timeline, crash heatmap, and more');
-    await humanWait(page);
-
-    await page.mouse.wheel(0, 400);
-    await humanWait(page, 1500);
-    await page.mouse.wheel(0, 400);
-    await humanWait(page, 1500);
-
-    // Step 3: Interact with a visualization
-    await addCaption(page, 3, 'Interactive visualizations with filtering and drill-down capabilities');
-    await humanWait(page);
-
-    const firstViz = page.locator('article, .analysis-card, [data-analysis]').first();
-    if (await firstViz.count() > 0) {
-      await firstViz.hover();
-      await humanWait(page, 800);
-      await firstViz.click();
+      await addCursorHighlight(page);
+      await page.goto(BASE_URL, { waitUntil: 'networkidle' });
       await humanWait(page, 2000);
-    }
 
-    // Step 4: View methodology
-    await addCaption(page, 4, 'Each analysis includes methodology, assumptions, and limitations');
-    await humanWait(page);
+      // Step 1: Navigate to analyses
+      await addCaption(page, 1, 'Visit the analysis gallery showcasing the catalogue breadth');
+      await humanWait(page);
 
-    await page.mouse.wheel(0, 400);
-    await humanWait(page, 2000);
+      const analysesLink = page.locator('a[href="/analyses"]').first();
+      await analysesLink.hover();
+      await humanWait(page, 800);
+      await analysesLink.click();
+      await page.waitForURL(`${BASE_URL}/analyses`);
+      await humanWait(page, 2000);
 
+      // Step 2: Scroll through visualizations
+      await addCaption(
+        page,
+        2,
+        'Explore 6 hero visualizations: crime map, CPI timeline, crash heatmap, and more'
+      );
+      await humanWait(page);
+
+      await page.mouse.wheel(0, 400);
+      await humanWait(page, 1500);
+      await page.mouse.wheel(0, 400);
+      await humanWait(page, 1500);
+
+      // Step 3: Interact with a visualization
+      await addCaption(
+        page,
+        3,
+        'Interactive visualizations with filtering and drill-down capabilities'
+      );
+      await humanWait(page);
+
+      const firstViz = page.locator('article, .analysis-card, [data-analysis]').first();
+      if ((await firstViz.count()) > 0) {
+        await firstViz.hover();
+        await humanWait(page, 800);
+        await firstViz.click();
+        await humanWait(page, 2000);
+      }
+
+      // Step 4: View methodology
+      await addCaption(page, 4, 'Each analysis includes methodology, assumptions, and limitations');
+      await humanWait(page);
+
+      await page.mouse.wheel(0, 400);
+      await humanWait(page, 2000);
     } finally {
       await context.tracing.stop();
       const videoPath = testInfo.outputPath('workflow-2-quickstart-gallery.webm');
@@ -281,47 +298,54 @@ test.describe('Showcase: Workflow Recordings', () => {
     await context.tracing.start({ screenshots: true, snapshots: true });
 
     try {
-    await addCursorHighlight(page);
-    await page.goto(BASE_URL, { waitUntil: 'networkidle' });
-    await humanWait(page, 2000);
-
-    // Step 1: Navigate to provenance
-    await addCaption(page, 1, 'Explore cross-dataset case studies and data lineage');
-    await humanWait(page);
-
-    const provenanceLink = page.locator('a[href="/provenance"]').first();
-    await provenanceLink.hover();
-    await humanWait(page, 800);
-    await provenanceLink.click();
-    await page.waitForURL(`${BASE_URL}/provenance`);
-    await humanWait(page, 2000);
-
-    // Step 2: View provenance graph
-    await addCaption(page, 2, 'Provenance graph shows how datasets are joined and transformed');
-    await humanWait(page, 2000);
-
-    await page.mouse.wheel(0, 300);
-    await humanWait(page);
-
-    // Step 3: Select case study
-    await addCaption(page, 3, 'View detailed case studies with methodology and statistical rigour');
-    await humanWait(page);
-
-    const caseStudy = page.locator('article, .case-study, [data-case-study]').first();
-    if (await caseStudy.count() > 0) {
-      await caseStudy.hover();
-      await humanWait(page, 800);
-      await caseStudy.click();
+      await addCursorHighlight(page);
+      await page.goto(BASE_URL, { waitUntil: 'networkidle' });
       await humanWait(page, 2000);
-    }
 
-    // Step 4: Review methodology
-    await addCaption(page, 4, 'Each join includes full methodology, uncertainty quantification, and reproducible code');
-    await humanWait(page);
+      // Step 1: Navigate to provenance
+      await addCaption(page, 1, 'Explore cross-dataset case studies and data lineage');
+      await humanWait(page);
 
-    await page.mouse.wheel(0, 400);
-    await humanWait(page, 2000);
+      const provenanceLink = page.locator('a[href="/provenance"]').first();
+      await provenanceLink.hover();
+      await humanWait(page, 800);
+      await provenanceLink.click();
+      await page.waitForURL(`${BASE_URL}/provenance`);
+      await humanWait(page, 2000);
 
+      // Step 2: View provenance graph
+      await addCaption(page, 2, 'Provenance graph shows how datasets are joined and transformed');
+      await humanWait(page, 2000);
+
+      await page.mouse.wheel(0, 300);
+      await humanWait(page);
+
+      // Step 3: Select case study
+      await addCaption(
+        page,
+        3,
+        'View detailed case studies with methodology and statistical rigour'
+      );
+      await humanWait(page);
+
+      const caseStudy = page.locator('article, .case-study, [data-case-study]').first();
+      if ((await caseStudy.count()) > 0) {
+        await caseStudy.hover();
+        await humanWait(page, 800);
+        await caseStudy.click();
+        await humanWait(page, 2000);
+      }
+
+      // Step 4: Review methodology
+      await addCaption(
+        page,
+        4,
+        'Each join includes full methodology, uncertainty quantification, and reproducible code'
+      );
+      await humanWait(page);
+
+      await page.mouse.wheel(0, 400);
+      await humanWait(page, 2000);
     } finally {
       await context.tracing.stop();
       const videoPath = testInfo.outputPath('workflow-3-join-datasets.webm');
