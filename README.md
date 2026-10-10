@@ -96,7 +96,7 @@ All datasets are aggregate or de-identified public releases from official source
 
 **Maintained by:** Sunchuangyu "Rin" Huang ([rNLKJA](https://github.com/rNLKJA))
 
-**Personal project** (July 2026)
+**Personal project** (July 2024)
 
 This is a data curation and documentation project. The contribution is provenance tracking, metadata quality and catalogue infrastructure — not original statistical analysis.
 
@@ -121,7 +121,7 @@ This catalogue supports transparency, evidence-based policy and civic participat
 ## 🔗 Links
 
 - **GitHub:** [rNLKJA/public-services-open-source-data](https://github.com/rNLKJA/public-services-open-source-data)
-- **Web App:** [Coming soon]
+- **Web App:** [https://sa-au-open-data.vercel.app](https://sa-au-open-data.vercel.app)
 
 ## 🤝 Contributing
 
