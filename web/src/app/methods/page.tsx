@@ -169,74 +169,91 @@ export default function MethodsPage() {
           </div>
         </section>
 
-        {/* AI Use Statement */}
+        {/* AI Features - Planned */}
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-slate-900 dark:text-slate-100 mb-4">
-            AI Use Statement
+            Planned AI Features
           </h2>
-          <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-6">
-            <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-3">
-              Optional AI Features (Bring Your Own Key)
-            </h3>
-            <div className="prose prose-slate dark:prose-invert max-w-none text-sm">
-              <p>
-                This site offers <strong>optional</strong> AI-enhanced features that require your
-                own API key (Anthropic or OpenAI). The site is fully functional without AI.
-              </p>
-              <p>
-                <strong>What AI does:</strong>
-              </p>
-              <ul>
-                <li>
-                  Dataset recommender — suggests relevant datasets based on your research question
-                </li>
-                <li>
-                  Text-to-catalogue-query — answers questions about dataset metadata (not the data
-                  itself)
-                </li>
-              </ul>
-              <p>
-                <strong>What AI never does:</strong>
-              </p>
-              <ul>
-                <li>Generate statistical results or quantitative claims</li>
-                <li>Make policy recommendations or interpret findings</li>
-                <li>Access or analyse the actual dataset files (only metadata)</li>
-              </ul>
-              <p>
-                <strong>Privacy & transparency:</strong>
-              </p>
-              <ul>
-                <li>
-                  Your API key is stored in your browser (sessionStorage by default, or localStorage
-                  if you opt in). It is <strong>never sent to our servers</strong>.
-                </li>
-                <li>
-                  API calls go directly from your browser to Anthropic/OpenAI (Anthropic requires
-                  the header <code>anthropic-dangerous-direct-browser-access: true</code>).
-                </li>
-                <li>
-                  Every AI output is visibly labelled &quot;AI-generated&quot; and logged to an
-                  audit trail (stored in your browser&apos;s IndexedDB, viewable at{' '}
-                  <Link href="/ai-log" className="text-federal-blue hover:underline">
-                    /ai-log
-                  </Link>
-                  ).
-                </li>
-                <li>
-                  The audit log records: timestamp, feature, provider, model, input (your question),
-                  output (AI response), latency, token usage, and your decision
-                  (accepted/edited/rejected).
-                </li>
-                <li>
-                  You can export the audit log as JSON for your records or clear it at any time.
-                </li>
-              </ul>
-              <p>
-                <strong>Governance alignment:</strong> This approach is informed by the Australian
-                DTA&apos;s responsible AI policy (transparency, human oversight, audit trails) and
-                EU AI Act transparency principles. It is not a claim of formal compliance.
-              </p>
+          <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 rounded-lg p-6">
+            <div className="flex items-start gap-3 mb-3">
+              <AlertCircle className="h-5 w-5 text-amber-600 dark:text-amber-500 mt-0.5" />
+              <div>
+                <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100 mb-2">
+                  Design Intent: Bring-Your-Own-Key AI (Not Yet Implemented)
+                </h3>
+                <div className="prose prose-slate dark:prose-invert max-w-none text-sm">
+                  <p>
+                    The following describes the <strong>planned architecture</strong> for optional
+                    AI features. The underlying AI client library exists, but the user interface and
+                    integration are not yet complete. The site is fully functional without these
+                    features.
+                  </p>
+                  <p>
+                    <strong>Planned features:</strong>
+                  </p>
+                  <ul>
+                    <li>
+                      Dataset recommender — suggest relevant datasets based on research questions
+                    </li>
+                    <li>
+                      Text-to-catalogue-query — answer questions about dataset metadata (not data
+                      itself)
+                    </li>
+                    <li>
+                      Evaluation harness — compare rule-based vs. AI recommendation accuracy with
+                      metrics and confidence intervals
+                    </li>
+                  </ul>
+                  <p>
+                    <strong>Design principles:</strong>
+                  </p>
+                  <ul>
+                    <li>
+                      <strong>Bring your own key</strong> — visitors provide their Anthropic or
+                      OpenAI API key; the site has no AI budget
+                    </li>
+                    <li>
+                      <strong>Browser-only storage</strong> — keys stored in sessionStorage (default)
+                      or localStorage (opt-in), never sent to our servers or logged
+                    </li>
+                    <li>
+                      <strong>Direct provider calls</strong> — API requests go from browser to
+                      Anthropic/OpenAI only
+                    </li>
+                    <li>
+                      <strong>Full transparency</strong> — every AI output labelled
+                      &quot;AI-generated&quot;; audit trail in IndexedDB with timestamp, feature,
+                      provider, model, input, output, tokens, latency, and human decision
+                      (accepted/edited/rejected)
+                    </li>
+                    <li>
+                      <strong>Human oversight</strong> — AI suggestions are advisory; users make all
+                      final decisions
+                    </li>
+                  </ul>
+                  <p>
+                    <strong>Governance positioning:</strong> This implementation demonstrates
+                    governance design principles in a portfolio context. It is not production-ready
+                    governance infrastructure and has not undergone external audit. Design informed by
+                    the Australian DTA&apos;s responsible AI policy (transparency, human oversight,
+                    audit trails) and EU AI Act transparency principles. Not a claim of formal
+                    compliance or certification.
+                  </p>
+                  <p className="text-amber-800 dark:text-amber-400 font-medium">
+                    Status: AI client library complete; UI components and evaluation harness pending.
+                    See{' '}
+                    <a
+                      href="https://github.com/rNLKJA/public-services-open-source-data/blob/main/docs/ROADMAP.md"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-federal-blue hover:underline"
+                    >
+                      ROADMAP.md
+                    </a>{' '}
+                    for implementation plan.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </section>
