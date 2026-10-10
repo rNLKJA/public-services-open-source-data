@@ -1,117 +1,132 @@
-# South Australia & Australia Public Services Open Data
+# SA & AU Open Data Atlas
 
-A curated, sourced collection of open government datasets for South Australia and Australia, for use in public-service research, policy analysis, transparency work and civic tools.
+A curated collection of 95+ open South Australian and Australian government datasets for public-service research, policy analysis and civic tools. Every dataset traces back to an official government source with licence, retrieval date and field definitions documented.
 
-Every dataset here traces back to an official government source, with its licence, retrieval date and field definitions documented alongside it. The aim is a dependable reference layer that public-service analysts, researchers and developers can build on without re-deriving provenance every time.
+🌐 **Live Demo:** [Coming soon - will be deployed to Vercel]
 
-## What's here
+## 📊 What's Inside
 
-- **`datasets/sa-school-locations/`** — South Australian government school and preschool sites (Department for Education), including formal school zone status.
-- **`datasets/au-suburbs-councils/`** — Suburb, locality and Local Government Area boundaries and profiles for Australia (ABS).
-- **`datasets/sa-expiation-notices/`** — SA Police expiation (infringement) notice offence data, covering both camera and manually issued notices.
-- **`datasets/sa-police-oversight-gap/`** — a documented finding on what SA police oversight/use-of-force reporting is, and isn't, publicly available.
-- **`datasets/sa-health-ed-performance/`** — SA Health public hospital Emergency Department performance: median wait times and 4-hour length-of-stay proportions.
-- **`datasets/sa-private-rental-report/`** — SA Housing Trust quarterly private market rent: median weekly rent and bond counts by suburb, postcode, region and LGA.
-- **`datasets/sa-courts-at-a-glance/`** — SA Courts Administration Authority statewide court-level workload and staffing statistics: lodgements, finalisations, clearance rates across all SA courts.
-- **`datasets/sa-education-workforce/`** — SA Department for Education workforce composition: headcount, FTE, classification, age/gender and Aboriginal/Torres Strait Islander employee breakdowns, 2014-2025.
-- **`datasets/sa-mfs-fire-service-incidents/`** — SA Metropolitan Fire Service incident log: date, responding brigade and incident type/classification for every MFS-attended incident, 2018-2023.
-- **`datasets/sa-adelaide-metro-gtfs/`** — Adelaide Metro's full GTFS public transport feed: every route, stop, trip and timetable across bus, train, tram and regional coach operators.
-- **`datasets/sa-land-division-applications/`** — statewide land division (subdivision) development application register: status, dates and cadastral references for every SA land division application since 1989.
-- **`datasets/sa-public-library-statistics/`** — South Australia's public library collections, usage/loans, visitation and program statistics for 2022-23, drawn from the national ALIA/NSLA statistical report.
-- **`datasets/sa-water-quality/`** — SA Water's monthly drinking-water quality performance by supply region and system: rolling 12-month average values and health-guideline compliance rates across 59 tested parameters, plus a suburb-to-system lookup.
-- **`datasets/sa-retirement-villages-register/`** — SA Health's statewide register of registered retirement villages: name, address, LGA and independent-living-unit/serviced-apartment counts for every registered village.
-- **`datasets/sa-apprenticeships-traineeships/`** — SA Skills Commission's Training Contract records: every apprenticeship/traineeship commencement, completion and in-training snapshot statewide, by vocation, qualification, postcode and gender.
-- **`datasets/sa-planning-zones/`** — SA Planning and Design Code zone boundaries: every statewide land-use zone (Established Neighbourhood, Employment, Rural Living, Conservation, etc.), zone code, and effective dates under the Planning, Development and Infrastructure Act 2016.
-- **`datasets/sa-road-crash-data/`** — Department for Infrastructure and Transport's statewide road crash register: crash location, conditions, severity, and every involved unit and casualty, 2020-2024 rolling extract.
-- **`datasets/sa-epa-air-quality-monitoring/`** — EPA's ambient air quality monitoring network across metropolitan Adelaide and regional industrial towns: hourly pollutant (PM10/PM2.5, O3, NOx, SO2, CO, Pb) and meteorology readings across 16 monitoring stations.
-- **`datasets/au-prisoners-in-australia/`** — ABS's national prisoner census by state/territory: prisoner counts, demographics, offence type, sentence length and legal status, with a dedicated South Australia breakdown, 30 June 2025.
-- **`datasets/sa-primary-industries-scorecard/`** — PIRSA's statewide primary production statistics: volume, price and value for 91 commodities across dairy, field crops, forestry, horticulture, livestock, seafood and wine, 2016-17 to 2020-21.
-- **`datasets/au-small-scale-renewable-installations/`** — Clean Energy Regulator's postcode-level rooftop solar, solar water heater, wind, hydro and battery installation counts and rated capacity, monthly since 2001 (batteries since mid-2025), nationally with a dedicated South Australia breakdown.
-- **`datasets/au-work-health-safety-jurisdictional-comparison/`** — Safe Work Australia's cross-jurisdiction WHS and workers' compensation scheme comparison: serious-claim rates, fatalities, inspections, notices, prosecutions, premiums, funding ratios and disputes by state/territory, with South Australia broken out in every table.
-- **`datasets/sa-heritage-places/`** — statewide register of every State Heritage Place, Local Heritage Place and Representative Building in South Australia: address, LGA, protection tier, listing criteria and point location for 24,479 heritage-listed places.
-- **`datasets/sa-mineral-tenements/`** — Department for Energy and Mining's live mineral tenure register: every current Exploration Licence, Mining Lease, Retention Lease, Mineral Claim, Miscellaneous Purposes Licence and Private Mine statewide, plus pending applications and released exploration areas.
-- **`datasets/au-federal-election-results/`** — Australian Electoral Commission's certified 2025 federal election results: enrolment, turnout, informal votes, two-party-preferred and elected member by House of Representatives division nationwide, with a dedicated South Australia breakdown (all 10 SA divisions) and candidate-level first-preference vote counts.
-- **`datasets/sa-tourism-visitor-statistics/`** — SA Tourism Commission's tourism visitor statistics: expenditure, international/domestic visitor and visitor-night counts, and direct tourism jobs, for South Australia and Regional South Australia, 2007-2017.
-- **`datasets/au-tourism-satellite-account/`** — Tourism Research Australia's State Tourism Satellite Account: tourism's contribution to gross value added, gross state product, output, consumption and filled jobs by state/territory and industry, 2016-17 to 2023-24, with a dedicated South Australia breakdown.
-- **`datasets/sa-native-vegetation-floristic-areas/`** — Department for Environment and Water's statewide native vegetation floristic-type lookup table: every distinct floristic/structural vegetation type recognised in South Australia's NVIS-aligned classification, with full species composition, structural formation and Major Vegetation Group/Sub-Group descriptions.
-- **`datasets/au-native-title-determinations/`** — National Native Title Tribunal's register of native title determinations and Indigenous Land Use Agreements nationwide, with a dedicated South Australia breakdown: case citations, dates, outcomes, agreement types and native title body corporate names for every Federal Court determination and registered ILUA.
-- **`datasets/au-cultural-venue-attendance/`** — ABS's Cultural and Creative Activities, 2021-22 survey: estimated attendance and attendance rates at libraries, art galleries, museums, cinemas and performing-arts events, by state/territory, with South Australia broken out in every measure.
-- **`datasets/au-child-protection-services/`** — Productivity Commission's Report on Government Services 2026, Chapter 16: national child protection notifications, investigations, substantiations, out-of-home care, carer households, expenditure and permanency-exit statistics across 44 data tables, with South Australia broken out in every table.
-- **`datasets/au-veteran-population-by-lga/`** — Department of Veterans' Affairs' Local Government Area profile: net DVA client, veteran/dependant, pension-type and Gold/White Card holder counts for every local government area nationwide, with a dedicated South Australia breakdown (69 SA LGAs).
-- **`datasets/au-migrant-settlement-statistics/`** — Department of Home Affairs' Settlement Database extract: Humanitarian, Family and Skilled migration stream settler counts nationwide by visa subclass, country of birth, ethnicity, religion, language, age, gender and Local Government Area, 2016-2025, with a dedicated South Australia breakdown down to LGA level.
-- **`datasets/sa-crime-statistics/`** — SA Police's statewide recorded-crime series: suburb/postcode-level offence counts by offence type, financial year 2010-11 to 2025-26 (Q1-Q3), plus a companion Family and Domestic Abuse-related offences breakdown by postcode and quarter.
-- **`datasets/sa-mental-health-services/`** — SA Health's acute mental health service performance indicators: average length of stay, 28-day readmission rate and 7-day post-discharge community follow-up rate, statewide by acute ward type, 2013-14 to 2017-18.
-- **`datasets/au-family-domestic-sexual-violence-statistics/`** — AIHW's national compendium of family, domestic and sexual violence statistics: victimisation, hospitalisation, homelessness-service usage, community attitudes, crisis-payment claims and helpline contacts across 10 source collections and 40 tables, with a South Australia breakdown wherever the underlying collection publishes one.
-- **`datasets/au-youth-justice-supervision-statistics/`** — AIHW's Youth Justice National Minimum Data Set: young people under youth justice supervision (community-based and detention) nationally by age, sex, Indigenous status, remoteness, order type, supervision history and length of stay, 290 tables, with a dedicated South Australia breakdown in 182 of them plus two SA-only trend tables.
-- **`datasets/au-criminal-courts-sentencing-outcomes/`** — ABS's Criminal Courts, Australia, 2024-25: defendants finalised and their sentencing outcomes (method of finalisation, principal sentence type, sentence length/fine value) by principal offence and court level, nationally with a dedicated South Australia data cube.
-- **`datasets/au-ambulance-services-performance/`** — Productivity Commission's Report on Government Services 2026, Chapter 11: national ambulance service revenue, workforce, incidents/responses, response times, call-answering times, patient experience and cardiac-arrest survival rate across 12 data tables, with South Australia broken out in every table.
-- **`datasets/au-threatened-species-ecological-communities/`** — DCCEEW's national EPBC Act threatened species and ecological communities lists: scientific/common name, threatened-status category and jurisdiction occurrence for every listed species and ecological community, with a dedicated South Australia breakdown (319 species, 18 ecological communities).
-- **`datasets/au-building-approvals/`** — ABS's Building Approvals, Australia, May 2026: monthly number of dwelling units and value of residential/non-residential building approved, nationally by state/territory and by Greater Capital City Statistical Area, with South Australia and Greater Adelaide broken out throughout.
-- **`datasets/sa-waste-levy-rates/`** — EPA South Australia's historical landfill waste levy schedule: metropolitan and country solid-waste rates ($/tonne) and the statewide liquid-waste rate ($/kilolitre), 1994 to 2023-24.
-- **`datasets/au-waste-resource-recovery/`** — DCCEEW's National Waste and Resource Recovery Database 2024: tonnes of waste generated, managed and disposed of by category, type, source stream, management method and ultimate fate, nationally by financial year (2006-07 to 2022-23), with a dedicated South Australia breakdown.
-- **`datasets/sa-notifiable-conditions-surveillance/`** — SA Health Communicable Disease Control Branch's weekly notifiable-conditions surveillance reports: statewide case counts for ~63 notifiable diseases/conditions, both a 5-year/YTD comparison (2021-2026) and a rolling last-8-weeks weekly count, refreshed weekly from the NIDS system.
-- **`datasets/au-ndis-participants-by-lga/`** — National Disability Insurance Agency's quarterly active-participant counts by Local Government Area nationwide, 18 quarters (December 2021 to March 2026), with a dedicated South Australia breakdown across all 70 SA LGAs.
-- **`datasets/sa-vehicle-registrations-and-licences/`** — Department for Infrastructure and Transport's statewide vehicle fleet and driver licence statistics: registered vehicle counts by owner postcode, make, body type, cylinders and manufacture year (2025 snapshot), and driver's licence holder counts by postcode, age and sex, quarterly from Q3 2017 to Q4 2025.
-- **`datasets/sa-state-government-finances/`** — ABS Government Finance Statistics' South Australia general government sector data: Operating Statement, Cash Flow Statement, Balance Sheet and Expenses by Purpose (COFOG), 2015-16 to 2024-25, with an all-states total comparison file.
-- **`datasets/sa-population-projections/`** — DPTI/DHUD's official 2016-Census-based South Australian population projections: total and age/sex breakdowns by Local Government Area and Statistical Area Level 2 to 2036, and by state/Population Projection Region to 2041.
-- **`datasets/au-regional-population-estimates/`** — ABS's actual (measured, not projected) Estimated Resident Population by Local Government Area nationwide, 2001-2025, with population change components (births, deaths, migration) and a dedicated South Australia breakdown including area and population density.
-- **`datasets/sa-climate-station-data/`** — SILO's (Queensland Government) daily rainfall and maximum/minimum temperature series, built from Bureau of Meteorology station observations, for 8 South Australian stations spanning the state's climate diversity (Adelaide, South East, Riverland, Spencer Gulf, Eyre Peninsula, far north, Barossa Valley), 2016-2025, with each value's observed/interpolated data-source flag decoded.
-- **`datasets/sa-foi-statistics/`** — State Records SA's Freedom of Information Act annual reporting statistics (applications received, determination outcomes, refusal reasons, processing times, fee waivers, extensions, by sector/agency/applicant type, largely 1991-2024/25), paired with Ombudsman SA's FOI external-review outcomes (2021-22 to 2024-25, plus a 2024-25 per-agency/council/minister breakdown).
-- **`datasets/au-fisheries-aquaculture-statistics/`** — ABARES' national wild-catch and aquaculture production statistics: value and quantity by commodity for every state/territory and Commonwealth-managed fishery, 1998-99 to 2024-25, with a dedicated South Australia production table sourced from PIRSA/SARDI's own data.
-- **`datasets/sa-local-government-elections/`** — Electoral Commission of South Australia's statewide 2022 council election results and statistics: elector rolls and representation, vacancies/candidates/contested status, informality and voter participation by election, and every candidate's details and elected status, for all 68 SA councils.
-- **`datasets/au-cost-of-living-cpi/`** — ABS Consumer Price Index (May 2026 release): Adelaide's monthly index numbers, annual and monthly percentage change from headline "All groups CPI" down through 11 major groups to individual expenditure-class items (bread, rents, electricity, automotive fuel, etc.), plus a headline comparison file across all 8 capital cities and the national average.
-- **`datasets/au-employer-gender-pay-gaps/`** — Workplace Gender Equality Agency's 2024-25 Employer Gender Pay Gaps data: named private-sector and Commonwealth public-sector employers' and corporate groups' average/median base-salary and total-remuneration gender pay gaps, quartile gender composition and average remuneration, nationwide (8,617 employers, 1,838 corporate groups; no state/location field in the source).
-- **`datasets/sa-local-government-finances/`** — ABS Government Finance Statistics' South Australia local government sector data: Operating Statement, Cash Flow Statement, Balance Sheet and Expenses by Purpose (COFOG) for all 68 SA councils combined, 2015-16 to 2024-25, with an all-states-local-sector total comparison file.
-- **`datasets/sa-screening-clearance-processing-timeframes/`** — DHS Screening Unit's statewide count of completed screening-clearance applications (all clearance types, including Working with Children Checks) by processing-timeframe band, financial years 2013-14 to 2017-18.
-- **`datasets/sa-container-deposit-scheme/`** — EPA South Australia's container deposit (10-cent refund) scheme statistics: statewide containers returned, return rate by material type, and compliance/inspection counts, financial years 2005-06 to 2019-20.
-- **`datasets/sa-dogs-and-cats-online-data/`** — Dog and Cat Management Board's DACO registration-system extracts: animal population and owner counts by council, gender and registration/microchip/desexed status, dog/cat incident statistics, and most popular breeds/names statewide, four annual editions 2021-22 to 2024-25.
-- **`datasets/sa-sacat-case-statistics/`** — South Australian Civil and Administrative Tribunal's annual case statistics: applications received and hearings conducted across Administrative and Disciplinary, Community (Guardianship/Mental Health), Housing and Internal Review lists, plus Alternative Dispute Resolution outcomes, statewide, financial years 2020-21 to 2022-23.
-- **`datasets/sa-social-housing/`** — SA Housing Authority's public housing and State Owned and Managed Indigenous Housing (SOMIH) stock: dwellings, households, new households housed and household members by Local Government Area, financial years 2019-20 to 2020-21.
-- **`datasets/au-specialist-homelessness-services/`** — AIHW's Specialist Homelessness Services Collection historical tables: national clients, support periods and per-population rates by sex, Indigenous status, remoteness and client characteristic (family/domestic violence, disability, mental health, ex-ADF, etc.), 2011-12 to 2024-25, with a dedicated South Australia breakdown in 14 of 15 tables.
-- **`datasets/sa-marine-park-zoning/`** — Department for Environment and Water's statewide Marine Park Network boundaries (19 parks, 31 polygons) and internal zoning (214 zones: Sanctuary, Habitat Protection, General Managed Use and Restricted Access) under the Marine Parks Act 2007.
-- **`datasets/sa-public-sector-executive-employment/`** — 37 SA Government agencies' individually-published "Executive employment in the agency" annual-report disclosures, merged into one table: executive/Senior Executive Service headcount by classification band and reporting period, 2011-12 to 2024-25 depending on the agency.
-- **`datasets/sa-boat-registrations-and-licences/`** — Department for Infrastructure and Transport's statewide recreational boating statistics: new/currently-registered vessel counts by hull type, make, material, engine specs, fee-length band, postcode and location used (FY2015-16 to FY2024-25), plus currently-valid boat licence counts by issue year and gender (1975-2025).
-- **`datasets/sa-concessions-cost-of-living-support/`** — Department of Human Services' Cost of Living Concession and Emergency Electricity Payments Scheme recipient/approved-application counts by household category, application reason, region and ATSI identification (FY2015-16 to FY2017-18), plus GlassesSA, Funeral Assistance SA and Personal Alert Systems Rebate Scheme usage statistics from the same FY2017-18 combined release.
-- **`datasets/au-coroners-court-statistics/`** — Productivity Commission's Report on Government Services 2026, Courts chapter: national Coroners' courts caseload, timeliness, expenditure and staffing statistics (lodgements, finalisations, clearance rate, backlog, inquest-attendance rate, judicial officers) across 17 data tables, 2015-16 to 2024-25, with South Australia broken out in every table.
-- **`datasets/au-births-deaths-marriages-registrations/`** — ABS's national births, deaths, marriages and divorces registration statistics: registered births and deaths by state/territory and sex (1971/1975-2024), and marriage/divorce indicators including age-specific and monthly-occurrence breakdowns by state (2020-2024), with South Australia broken out in every table.
-- **`datasets/au-consumer-credit-licensing/`** — ASIC's national Credit Licensee and Credit Representative registers: every currently approved/suspended consumer credit licence-holder and appointed representative (mortgage/finance brokers included), with authorised-activities text, external dispute resolution scheme membership and a dedicated South Australia breakdown, weekly-refreshed 2 July 2026 snapshot.
-- **`datasets/sa-icac-corruption-oversight-statistics/`** — SA Independent Commission Against Corruption (and its 2013-2021 ICAC/OPI predecessor)'s complaint, assessment, corruption-investigation and SA-Police-referral statistics, plus Police Complaints and Discipline Act intake and individual sanction outcomes for SA Police officers, 2013-14 to 2022-23.
-- **`datasets/au-alcohol-other-drug-treatment-services/`** — AIHW's Alcohol and Other Drug Treatment Services National Minimum Data Set: national client and closed-treatment-episode counts by client type, sex, age, Indigenous status, drug of concern, treatment type, referral source and more, with a dedicated South Australia breakdown (client series 2013-14 to 2024-25, episode series 2015-16 to 2024-25).
-- **`datasets/sa-driver-screening-tests/`** — SAPOL's statewide roadside driver screening (random breath test) volumes by static and mobile testing method, financial years 2012-13 to 2024-25.
-- **`datasets/au-disaster-recovery-payments-by-lga/`** — National Emergency Management Agency's location-based disaster assistance payment data: claim-processing counts and dollars granted/paid by Local Government Area, disaster event and payment type nationwide (45 declared events, 2019-2026), with a dedicated South Australia breakdown (2019 bushfires and 2022 River Murray floods, 16 SA LGAs).
-- **`datasets/au-industrial-disputes-working-days-lost/`** — ABS's Industrial Disputes, Australia quarterly series: number of disputes, employees involved and working days lost nationally by industry, cause (including Enterprise Bargaining related vs not) and duration, with a dedicated South Australia breakdown by state, March quarter 1985 to March quarter 2026.
-- **`datasets/sa-adelaide-metro-patronage/`** — Department for Infrastructure and Transport's banded Adelaide Metro onboard validations: passenger boardings by date, mode (bus/tram/train/bike cage/carpark-DRT), route, direction, stop and payment-medium type, Q4 2025 extract from a quarterly series running back to 2013.
-- **`datasets/sa-groundwater-prohibition-areas/`** — Environment Protection Authority's statewide Groundwater Prohibition Area boundaries: 19 areas where site contamination has triggered a formal prohibition/restriction on taking groundwater, with gazettal date, EPA reference number and prohibited-taking depth.
-- **`datasets/au-organ-donor-register-statistics/`** — Services Australia's Australian Organ Donor Register: monthly consent and intent registration counts by state and gender, 2007-2016, plus a current (31 May 2026) snapshot by state, age group and gender, nationwide with a dedicated South Australia breakdown throughout.
-- **`datasets/au-historical-disaster-events/`** — Attorney-General's Department's Australian Emergency Management Knowledge Hub disaster/major-incident catalogue: event type, dates, location, deaths/injuries/damage and government assistance figures for 673 events nationwide, 1753-2014, with a dedicated South Australia subset (74 events).
-- **`datasets/au-childhood-immunisation-coverage-rates/`** — AIHW's Immunisation rates for children in 2016-17: percentage of children fully immunised at ages 1, 2 and 5, nationally by reporting year, Primary Health Network, Statistical Area Level 3/4 and residential postcode, plus a dedicated Aboriginal and Torres Strait Islander children breakdown, with South Australia flagged throughout.
-- **`datasets/sa-ict-investment-and-workforce/`** — Office for Digital Government's whole-of-SA-public-sector ICT survey: statewide ICT expenditure, staffing (FTE), workforce demographics and infrastructure mix, three point-in-time rounds (2009-10, 2011-12, 2013-14).
-- **`datasets/au-plantation-forestry-statistics/`** — ABARES' national plantation area and log production statistics: hardwood/softwood plantation area (1938-39 to 2024-25) and log production volume/value by forest and log type (1996-97 to 2024-25), nationally by state/territory with a dedicated South Australia breakdown.
-- **`datasets/au-state-territory-greenhouse-gas-inventory/`** — DCCEEW's official State and Territory Greenhouse Gas Inventories 2024: annual greenhouse gas emissions/removals by IPCC sector category, financial years 1989-90 to 2023-24, nationally by state/territory with a dedicated South Australia breakdown.
-- **`datasets/sa-aged-care-services/`** — GEN Aged Care Data's statewide register of Commonwealth-subsidised aged care services in South Australia: 414 Residential, Home Care, Multi-Purpose Service, Transition Care, Innovative Pool, Short-Term Restorative Care and National Aboriginal and Torres Strait Islander Aged Care Program services, with location, provider, funded places and 2024-25 Australian Government funding, as at 30 June 2025.
-- **`datasets/au-legal-assistance-services/`** — ABS's national Legal Assistance, 2024-25 experimental statistics: clients and services completed by Legal Aid Commissions, Aboriginal and Torres Strait Islander Legal Services and Community Legal Centres, by client characteristic, service type, law type and problem type, 2022-23 to 2024-25, across 29 data tables (no state/territory breakdown exists in this series).
-- **`datasets/sa-metro-median-house-sales/`** — Department for Housing and Urban Development's quarterly median house sale price and sales volume by suburb across metropolitan Adelaide's 20 council areas, March quarter 2015 to March quarter 2026 (plus a recovered December quarter 2014).
-- **`datasets/sa-occupational-licences/`** — Consumer and Business Services' occupational licence register: building work contractors/supervisors, plumbers/gas fitters/electricians, security and investigation agents, land agents/sales representatives, conveyancers and second-hand vehicle dealers, 194,620 licence records (September 2018 snapshot) plus CBS's own FY2014-15 to FY2017-18 annual licence-count tables; individual licensee names and street-level addresses redacted.
-- **`datasets/sa-ombudsman-complaint-statistics/`** — Ombudsman SA's general complaint-handling statistics: Ombudsman Act and Return to Work Act jurisdiction complaints received, completed and their outcomes, by individual government department, local council and other authority, 2021-22 to 2024-25 (agency/outcome breakdowns 2024-25 only), 14 tidy tables.
-- **`datasets/sa-residential-tenancy-bonds/`** — Consumer and Business Services' Residential Tenancies Fund statistics: statewide bond numbers held (tenant-provided, Housing SA-provided, Housing SA guarantees), bonds lodged and refunded, incoming bond-related contact volumes and tenancy advice/expiation-notice counts, financial years 2015-16 to 2017-18.
-- **`datasets/sa-emergency-services-volunteers/`** — SAFECOM's CFS and SES volunteer headcounts by region/division and category (Fire Fighters/Operational Support/Cadets, General Ops/Support Ops/Cadets), annual snapshots financial years 2011-12 to 2016-17.
-- **`datasets/au-labour-force-statistics/`** — ABS's monthly Labour Force, Australia series: South Australia's employed/unemployed/labour force totals, unemployment rate, participation rate and employment-to-population ratio by sex across Trend, Seasonally Adjusted and Original series types, February 1978 to May 2026, plus a headline unemployment-rate comparison across all states/territories.
-- **`datasets/sa-equal-opportunity-complaint-statistics/`** — Equal Opportunity SA's Annual Report Data: enquiries and complaints of unlawful discrimination, sexual harassment and victimisation under the Equal Opportunity Act 1984 by discrimination ground, area (employment, goods and services, education, etc.) and outcome (conciliation, tribunal referral, financial compensation), FY2009-10 to FY2023-24 depending on the table.
-- **`datasets/sa-health-elective-surgery/`** — SA Health's Elective Surgery Data: median wait days, 90th-percentile wait days, overdue-patient counts by category and same-day-surgery procedure counts, statewide and by hospital group, financial years 2007-08 to 2017-18.
-- **`datasets/au-cybercrime-victimisation-survey/`** — Australian Institute of Criminology's Cybercrime in Australia 2025 survey: self-reported cybercrime victimisation prevalence, online safety behaviours, help-seeking, financial losses/recoveries and harms, by gender, age and small-to-medium business owner status, 2024-2025.
-- **`datasets/au-notifiable-data-breaches-statistics/`** — Office of the Australian Information Commissioner's Notifiable Data Breaches scheme statistics: national data breach notification counts by month, breach source/cause, affected sector, personal-information type, individuals-affected band, and time to identify/notify, July-December 2025.
-- **`datasets/au-personal-fraud-survey/`** — ABS Personal Fraud Survey: self-reported card fraud, scam, identity theft and online impersonation victimisation and reporting rates by state/territory (2014-15 to 2024-25 time series) and scam sub-type, with a dedicated South Australia breakdown.
-- **`analysis-ready/`** — worked examples that join two or more of the above datasets for a specific research question, with full methodology and caveats.
-- **`scripts/`** — small, dependency-free query helpers for the live government APIs referenced throughout.
+This repository contains:
 
-## Licence
+- **95+ Government Datasets** across 10 domains (health, justice, education, infrastructure, environment, social services, planning, economy, demographics, governance)
+- **Complete Documentation** for every dataset (source, licence, retrieval date, field definitions, coverage period, known issues)
+- **Provenance Tracking** with PROVENANCE.md files documenting data lineage
+- **Interactive Web Catalogue** built with Next.js for browsing and searching datasets
 
-All redistributed government data is Creative Commons Attribution 4.0 International (CC BY 4.0) unless a dataset's own README says otherwise. See [`LICENSE-DATA.md`](LICENSE-DATA.md) for the exact attribution required per source, and what's deliberately excluded.
+## 🗂 Repository Structure
 
-## Compliance
+```
+public-services-open-source-data/
+├── original/                  # The original dataset catalogue
+│   ├── datasets/             # 95+ curated datasets with documentation
+│   ├── analysis-ready/       # Pre-processed datasets for specific analyses
+│   └── CATALOGUE.md          # Overview of the catalogue
+├── scripts/                   # Data processing scripts
+│   ├── catalogue_builder.py  # Generates catalogue.json from dataset READMEs
+│   └── hero_datasets.py      # Generates featured datasets for web app
+└── web/                       # Next.js web application
+    ├── src/
+    │   ├── app/              # App Router pages (home, catalogue, about)
+    │   ├── components/       # React components
+    │   └── lib/              # Utility functions and data access
+    └── public/
+        └── data/             # Generated catalogue data
+```
 
-See [`COMPLIANCE.md`](COMPLIANCE.md) for the privacy, licensing and FAIR-principles reasoning behind how this repository is built and maintained.
+## 🚀 Local Development
 
-## Status
+### Prerequisites
 
-This is a living, iteratively built collection, started July 2026. Some datasets are fully mirrored; others are catalogued with a documented, reproducible fetch method where the source format (large shapefiles, zipped archives) makes mirroring impractical from this working environment. Each dataset's README states which applies, and known gaps are documented rather than papered over.
+- Node.js >= 20
+- pnpm 10.33.1
+- Python 3.12+ with uv (for scripts)
+
+### Running the Web App
+
+```bash
+cd web
+pnpm install
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Building for Production
+
+```bash
+cd web
+pnpm install --frozen-lockfile
+pnpm lint
+pnpm typecheck
+pnpm test
+pnpm build
+```
+
+## 📈 Data Artefacts
+
+The web application uses pre-generated JSON files built from the original dataset documentation:
+
+- `web/public/data/catalogue.json` - Full catalogue metadata (generated by `scripts/catalogue_builder.py`)
+- `web/public/data/hero-datasets.json` - Featured datasets for homepage (generated by `scripts/hero_datasets.py`)
+
+To regenerate these files:
+
+```bash
+uv run scripts/catalogue_builder.py
+uv run scripts/hero_datasets.py
+```
+
+## 🔍 Data Sources
+
+All datasets are aggregate or de-identified public releases from official sources:
+
+- Australian Bureau of Statistics (ABS)
+- SA Government agencies (CBS, DIT, DEW, SA Health, SA Police, EPA, PIRSA)
+- Productivity Commission
+- Australian Institute of Health and Welfare (AIHW)
+- Federal agencies and statutory bodies
+
+## 📜 Licences
+
+**Catalogue metadata:** CC0 1.0 Universal — the documentation, curation and metadata are dedicated to the public domain.
+
+**Datasets:** Each dataset retains its original government licence (predominantly CC BY 4.0 or Crown Copyright with reuse permissions). See individual dataset README files in `original/datasets/` for specific licence terms and attribution requirements.
+
+## 👤 Credits
+
+**Maintained by:** Sunchuangyu "Rin" Huang ([rNLKJA](https://github.com/rNLKJA))
+
+**Personal project** (July 2026)
+
+This is a data curation and documentation project. The contribution is provenance tracking, metadata quality and catalogue infrastructure — not original statistical analysis.
+
+## 🎯 Civic Purpose
+
+This catalogue supports transparency, evidence-based policy and civic participation. Open government data enables researchers, journalists, community organisations and citizens to understand public services, track outcomes and build tools that serve the public interest.
+
+## 🛠 Tech Stack
+
+**Original Catalogue:**
+- CSV, Excel, GeoJSON data files
+- Python for data processing
+- Markdown documentation
+
+**Web Application:**
+- Next.js 16 (App Router)
+- TypeScript, React 19
+- Tailwind CSS v4
+- Vitest for testing
+- Deployed on Vercel
+
+## 🔗 Links
+
+- **GitHub:** [rNLKJA/public-services-open-source-data](https://github.com/rNLKJA/public-services-open-source-data)
+- **Web App:** [Coming soon]
+
+## 🤝 Contributing
+
+To suggest a dataset or report an issue, please open an issue on the GitHub repository.
+
+---
+
+**Note:** This project documents open government data released under open licences. No proprietary, personal or sensitive data is included.

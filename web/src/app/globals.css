@@ -1,0 +1,70 @@
+@import 'tailwindcss';
+
+@theme inline {
+  /* Civic data infrastructure palette */
+  --color-sa-red: #cf1c28;
+  --color-federal-blue: #0052a5;
+  --color-slate-50: #f8fafc;
+  --color-slate-100: #f1f5f9;
+  --color-slate-200: #e2e8f0;
+  --color-slate-300: #cbd5e1;
+  --color-slate-400: #94a3b8;
+  --color-slate-500: #64748b;
+  --color-slate-600: #475569;
+  --color-slate-700: #334155;
+  --color-slate-800: #1e293b;
+  --color-slate-900: #0f172a;
+  --color-slate-950: #020617;
+
+  /* Font families */
+  --font-sans: var(--font-sans, system-ui, sans-serif);
+  --font-mono: var(--font-mono, 'JetBrains Mono', monospace);
+
+  /* Spacing scale */
+  --spacing-container: 1.5rem;
+  --spacing-section: 4rem;
+
+  /* Border radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
+
+@layer base {
+  :root {
+    --background: var(--color-slate-50);
+    --foreground: var(--color-slate-900);
+    --muted: var(--color-slate-100);
+    --muted-foreground: var(--color-slate-600);
+    --border: var(--color-slate-200);
+    --accent: var(--color-federal-blue);
+    --accent-foreground: white;
+  }
+
+  .dark {
+    --background: var(--color-slate-950);
+    --foreground: var(--color-slate-100);
+    --muted: var(--color-slate-900);
+    --muted-foreground: var(--color-slate-400);
+    --border: var(--color-slate-800);
+    --accent: var(--color-federal-blue);
+    --accent-foreground: white;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-feature-settings: 'tnum' 1; /* tabular figures */
+    color: var(--foreground);
+    background-color: var(--background);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 600;
+    color: var(--foreground);
+  }
+}
