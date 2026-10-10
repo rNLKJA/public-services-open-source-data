@@ -30,6 +30,24 @@ export function SiteHeader() {
               Catalogue
             </Link>
             <Link
+              href="/quality"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
+            >
+              Quality
+            </Link>
+            <Link
+              href="/analyses"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
+            >
+              Analyses
+            </Link>
+            <Link
+              href="/methods"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
+            >
+              Methods
+            </Link>
+            <Link
               href="/about"
               className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
             >
@@ -55,6 +73,27 @@ export function SiteHeader() {
               onClick={() => setIsMenuOpen(false)}
             >
               Catalogue
+            </Link>
+            <Link
+              href="/quality"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Quality
+            </Link>
+            <Link
+              href="/analyses"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Analyses
+            </Link>
+            <Link
+              href="/methods"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Methods
             </Link>
             <Link
               href="/about"
