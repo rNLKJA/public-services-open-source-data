@@ -1,0 +1,1013 @@
+{
+  "generated": "2026-10-10",
+  "dataset_count": 95,
+  "datasets": [
+    {
+      "id": "au-alcohol-other-drug-treatment-services",
+      "name": "Au Alcohol Other Drug Treatment Services",
+      "domains": ["health", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). AIHW's site-wide copyright page ([aihw.gov.au/copyright](https://www.aihw.gov.au/copyright)) states: *\"Material that can be copied or downloaded from this website has been released under a Creative Commons BY 4.0 (CC-BY 4.0) licence.\"* Required attribution for unmodified material: \"Source: Australian Institute of Health and Welfare\"; for derived/reshaped material (as here): \"Based on Australian Institute of Health and Welfare material\".",
+      "temporal_coverage": "2011-2026",
+      "file_count": 0,
+      "size_bytes": 10410,
+      "readme_path": "/original/datasets/au-alcohol-other-drug-treatment-services/README.md"
+    },
+    {
+      "id": "au-ambulance-services-performance",
+      "name": "Au Ambulance Services Performance",
+      "domains": ["education", "health", "infrastructure", "economy"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly from the Productivity Commission's own copyright page: *\"The copyright work is licensed under a Creative Commons Attribution 4.0 International licence, with the exception of the Commonwealth Coat of Arms, the Productivity Commission logo, and content supplied by third parties.\"* \u2014 [pc.gov.au/copyright](https://www.pc.gov.au/copyright/). None of the exceptions apply to this tabular data.",
+      "temporal_coverage": "2015-2026",
+      "file_count": 0,
+      "size_bytes": 14742,
+      "readme_path": "/original/datasets/au-ambulance-services-performance/README.md"
+    },
+    {
+      "id": "au-births-deaths-marriages-registrations",
+      "name": "Au Births Deaths Marriages Registrations",
+      "domains": ["environment", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) \u2014 confirmed directly from ABS's own copyright page (`abs.gov.au/website-privacy-copyright-and-disclaimer`) on this run: *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\"*, with named exceptions (Coat of Arms, ABS logo, trade marks, unit record/microdata, third-party content) none of which apply here.",
+      "temporal_coverage": "1971-2026",
+      "file_count": 0,
+      "size_bytes": 19985,
+      "readme_path": "/original/datasets/au-births-deaths-marriages-registrations/README.md"
+    },
+    {
+      "id": "au-building-approvals",
+      "name": "Au Building Approvals",
+      "domains": ["justice", "infrastructure", "environment", "planning", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted verbatim from the ABS site itself: *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence, with the exception of: the Commonwealth Coat of Arms; the ABS logo; material protected by a trade mark; unit record data (microdata); content supplied by third parties; sub-brands for ABS data products and projects (e.g. DataLab, SEAD); 'Our story, our future' artwork and brand; Census branding and artwork; Occupation Standard Classification for Australia (OSCA) branding and artwork.\"* \u2014 [ABS website privacy, copyright and disclaimer](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer). None of the exceptions apply to this tabular data.",
+      "temporal_coverage": "1970-2026",
+      "file_count": 0,
+      "size_bytes": 23403,
+      "readme_path": "/original/datasets/au-building-approvals/README.md"
+    },
+    {
+      "id": "au-child-protection-services",
+      "name": "Au Child Protection Services",
+      "domains": ["health", "justice", "environment", "social", "economy", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly from the Productivity Commission's own copyright page: *\"The Commonwealth owns the copyright in all material produced by this agency. The copyright work is licensed under a Creative Commons Attribution 4.0 International licence, with the exception of the Commonwealth Coat of Arms, the Productivity Commission logo, and content supplied by third parties.\"* \u2014 [pc.gov.au/copyright](https://www.pc.gov.au/copyright/). None of the exceptions apply to this tabular data.",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 15683,
+      "readme_path": "/original/datasets/au-child-protection-services/README.md"
+    },
+    {
+      "id": "au-childhood-immunisation-coverage-rates",
+      "name": "Au Childhood Immunisation Coverage Rates",
+      "domains": ["education", "health", "environment", "social", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). AIHW's site-wide copyright page ([aihw.gov.au/copyright](https://www.aihw.gov.au/copyright)) states: *\"Material that can be copied or downloaded from this website has been released under a Creative Commons BY 4.0 (CC-BY 4.0) licence.\"* Required attribution for unmodified material: \"Source: Australian Institute of Health and Welfare\"; for derived/reshaped material (as here): \"Based on Australian Institute of Health and Welfare material\".",
+      "temporal_coverage": "2011-2026",
+      "file_count": 0,
+      "size_bytes": 11072,
+      "readme_path": "/original/datasets/au-childhood-immunisation-coverage-rates/README.md"
+    },
+    {
+      "id": "au-consumer-credit-licensing",
+      "name": "Au Consumer Credit Licensing",
+      "domains": ["justice", "infrastructure", "environment"],
+      "licence": "** Creative Commons Attribution 3.0 Australia (CC BY 3.0 AU) \u2014 confirmed directly from each dataset's own JSON-LD metadata on its data.gov.au page: `\"schema:license\": \"http://creativecommons.org/licenses/by/3.0/au/\"` for both datasets.",
+      "temporal_coverage": "1995-2026",
+      "file_count": 0,
+      "size_bytes": 13183,
+      "readme_path": "/original/datasets/au-consumer-credit-licensing/README.md"
+    },
+    {
+      "id": "au-coroners-court-statistics",
+      "name": "Au Coroners Court Statistics",
+      "domains": ["justice", "environment", "economy", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly from the Productivity Commission's own copyright page: *\"The copyright work is licensed under a Creative Commons Attribution 4.0 International licence, with the exception of the Commonwealth Coat of Arms, the Productivity Commission logo, and content supplied by third parties.\"* \u2014 [pc.gov.au/copyright](https://www.pc.gov.au/copyright/). None of the exceptions apply to this tabular data.",
+      "temporal_coverage": "2008-2026",
+      "file_count": 0,
+      "size_bytes": 15399,
+      "readme_path": "/original/datasets/au-coroners-court-statistics/README.md"
+    },
+    {
+      "id": "au-cost-of-living-cpi",
+      "name": "Au Cost Of Living Cpi",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 confirmed directly from ABS's own [copyright page](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer), quoted verbatim below",
+      "temporal_coverage": "2017-2026",
+      "file_count": 0,
+      "size_bytes": 15600,
+      "readme_path": "/original/datasets/au-cost-of-living-cpi/README.md"
+    },
+    {
+      "id": "au-criminal-courts-sentencing-outcomes",
+      "name": "Au Criminal Courts Sentencing Outcomes",
+      "domains": ["justice", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted verbatim from the ABS site itself: *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence, with the exception of: the Commonwealth Coat of Arms; the ABS logo; material protected by a trade mark; unit record data (microdata); content supplied by third parties; sub-brands for ABS data products and projects (e.g. DataLab, SEAD); 'Our story, our future' artwork and brand; Census branding and artwork; Occupation Standard Classification for Australia (OSCA) branding and artwork.\"* \u2014 [ABS website privacy, copyright and disclaimer](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer). A stale (2016-metadata) mirror record on data.sa.gov.au (CKAN package `criminal-courts`, org `abs-sa-data`) independently corroborates `license_id: cc-by`.",
+      "temporal_coverage": "2010-2084",
+      "file_count": 0,
+      "size_bytes": 36078,
+      "readme_path": "/original/datasets/au-criminal-courts-sentencing-outcomes/README.md"
+    },
+    {
+      "id": "au-cultural-venue-attendance",
+      "name": "Au Cultural Venue Attendance",
+      "domains": ["education", "health", "justice", "environment", "economy", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 no separate per-release licence badge on this page; confirmed via the ABS's own site-wide copyright statement, fetched directly at [abs.gov.au/website-privacy-copyright-and-disclaimer](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer): *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\"*, with named exceptions (Commonwealth Coat of Arms, ABS logo, trade-marked material, unit record/microdata, third-party content, named sub-brands, specific artwork/branding programs) that don't apply to this tabular data \u2014 the same evidentiary basis already used for `datasets/au-prisoners-in-australia/` and other ABS releases in this repository.",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 12449,
+      "readme_path": "/original/datasets/au-cultural-venue-attendance/README.md"
+    },
+    {
+      "id": "au-cybercrime-victimisation-survey",
+      "name": "Au Cybercrime Victimisation Survey",
+      "domains": ["justice", "environment", "economy"],
+      "licence": "** Creative Commons Attribution licence. Confirmed directly on the AIC's own copyright page (`aic.gov.au/copyright`, fetched this run): *\"All the material on this website is provided under the latest Creation Commons Attribution licence, with the exception of: the Commonwealth Coat of Arms; content supplied by third parties, including photographs, logos, drawings and written descriptions of patents and designs; materials protected by a trademark; other materials such as publications available via this website which have their own copyright permissions.\"* Attribution: *\"Material obtained from this website is to be attributed to the Australian Institute of Criminology as \u00a9 Commonwealth of Australia unless otherwise stated.\"* This dashboard data file is the AIC's own survey output (not third-party or microdata content), so the site-wide licence applies. ISSN 2206-7930, ISBN 9781922878359, DOI [10.52922/sr78359](https://doi.org/10.52922/sr78359).",
+      "temporal_coverage": "2023-2026",
+      "file_count": 0,
+      "size_bytes": 11702,
+      "readme_path": "/original/datasets/au-cybercrime-victimisation-survey/README.md"
+    },
+    {
+      "id": "au-disaster-recovery-payments-by-lga",
+      "name": "Au Disaster Recovery Payments By Lga",
+      "domains": ["environment", "social"],
+      "licence": "** [Creative Commons Attribution 2.5 Australia](http://creativecommons.org/licenses/by/2.5/au/) (CC BY 2.5 AU) \u2014 confirmed directly via `data.gov.au`'s own CKAN `package_show` API: `license_id: cc-by-2.5`, `license_title: Creative Commons Attribution 2.5 Australia`, `license_url: http://creativecommons.org/licenses/by/2.5/au/`. Note: CKAN's own `isopen` flag on this package reads `false` \u2014 this appears to be a metadata-registry quirk (CKAN's built-in license list doesn't recognise the exact `cc-by-2.5` identifier string as machine-checkable \"open\") rather than a real restriction; the license title and URL are an unambiguous standard Creative Commons Attribution licence, same family as the CC BY 3.0/4.0 licences used elsewhere in this repository, just an older version/jurisdiction pairing.",
+      "temporal_coverage": "2015-2026",
+      "file_count": 0,
+      "size_bytes": 13619,
+      "readme_path": "/original/datasets/au-disaster-recovery-payments-by-lga/README.md"
+    },
+    {
+      "id": "au-employer-gender-pay-gaps",
+      "name": "Au Employer Gender Pay Gaps",
+      "domains": ["education", "health", "environment", "demographics", "governance"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly on `wgea.gov.au`'s own Copyright and disclaimer page (fetched this run, `wgea.gov.au/copyright-and-disclaimer`): *\"The Commonwealth owns the copyright in all material produced by this department. All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence, with the exception of: the Commonwealth Coat of Arms, the WGEA logo, and content supplied by third parties.\"* This spreadsheet and report are WGEA's own compiled analysis, not third-party content, so the site-wide CC BY 4.0 statement applies.",
+      "temporal_coverage": "2012-2026",
+      "file_count": 0,
+      "size_bytes": 16390,
+      "readme_path": "/original/datasets/au-employer-gender-pay-gaps/README.md"
+    },
+    {
+      "id": "au-family-domestic-sexual-violence-statistics",
+      "name": "Au Family Domestic Sexual Violence Statistics",
+      "domains": ["health", "justice", "environment", "social"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 the FDSV page carries no dataset-specific licence override, so AIHW's site-wide default applies. Confirmed directly on [aihw.gov.au/copyright](https://www.aihw.gov.au/copyright): *\"Material that can be copied or downloaded from this website has been released under a Creative Commons BY 4.0 (CC-BY 4.0) licence.\"* Independently re-verified this run: the licence URL resolves to the genuine `creativecommons.org/licenses/by/4.0` deed (not a redirect to a different licence), and a full scan of all 49 workbook sheets found no embedded dataset-specific licence notice that would override the site default.",
+      "temporal_coverage": "1988-2026",
+      "file_count": 0,
+      "size_bytes": 24213,
+      "readme_path": "/original/datasets/au-family-domestic-sexual-violence-statistics/README.md"
+    },
+    {
+      "id": "au-federal-election-results",
+      "name": "Au Federal Election Results",
+      "domains": [
+        "health",
+        "justice",
+        "environment",
+        "social",
+        "planning",
+        "economy",
+        "governance"
+      ],
+      "licence": "** Creative Commons Attribution \u2014 see \"Licence note\" below for a discrepancy between two AEC-controlled pages",
+      "temporal_coverage": "1918-2026",
+      "file_count": 0,
+      "size_bytes": 19702,
+      "readme_path": "/original/datasets/au-federal-election-results/README.md"
+    },
+    {
+      "id": "au-fisheries-aquaculture-statistics",
+      "name": "Au Fisheries Aquaculture Statistics",
+      "domains": ["health", "infrastructure", "environment", "economy", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted directly from the workbook's own `Index` sheet: *\"Creative Commons licence: All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence, save for content supplied by third parties, logos and the Commonwealth Coat of Arms.\"* Required attribution, also from the workbook: *\"Curtotti, R, Tuynman, H, Black, S and Dylewski M 2025, Australian fisheries and aquaculture statistics: Data to 2024\u221225, ABARES, Canberra, December, DOI: https://doi.org/10.25814/9vwb-nc60. CC BY 4.0.\"*",
+      "temporal_coverage": "1991-2026",
+      "file_count": 0,
+      "size_bytes": 20921,
+      "readme_path": "/original/datasets/au-fisheries-aquaculture-statistics/README.md"
+    },
+    {
+      "id": "au-historical-disaster-events",
+      "name": "Au Historical Disaster Events",
+      "domains": ["justice", "infrastructure", "environment", "demographics"],
+      "licence": "** [Creative Commons Attribution 3.0 Australia](http://creativecommons.org/licenses/by/3.0/au/) (CC BY 3.0 AU) \u2014 confirmed directly via `data.gov.au`'s own CKAN `package_show` API: `license_id: cc-by`, `license_title: Creative Commons Attribution 3.0 Australia`, `license_url: http://creativecommons.org/licenses/by/3.0/au/`.",
+      "temporal_coverage": "1939-2026",
+      "file_count": 0,
+      "size_bytes": 13629,
+      "readme_path": "/original/datasets/au-historical-disaster-events/README.md"
+    },
+    {
+      "id": "au-industrial-disputes-working-days-lost",
+      "name": "Au Industrial Disputes Working Days Lost",
+      "domains": [
+        "health",
+        "justice",
+        "infrastructure",
+        "environment",
+        "economy",
+        "demographics",
+        "governance"
+      ],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted verbatim from the ABS site itself: *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\"*, with named exceptions (Commonwealth Coat of Arms, ABS logo, trademarked material, microdata, third-party content, sub-brands, Indigenous branding, Census branding, OSCA branding) \u2014 [ABS website privacy, copyright and disclaimer](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer). None of the exceptions apply to this tabular data.",
+      "temporal_coverage": "1985-2026",
+      "file_count": 0,
+      "size_bytes": 18255,
+      "readme_path": "/original/datasets/au-industrial-disputes-working-days-lost/README.md"
+    },
+    {
+      "id": "au-labour-force-statistics",
+      "name": "Au Labour Force Statistics",
+      "domains": ["infrastructure", "environment", "economy", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 confirmed directly from ABS's own [copyright page](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer), quoted verbatim below",
+      "temporal_coverage": "1978-2026",
+      "file_count": 0,
+      "size_bytes": 17375,
+      "readme_path": "/original/datasets/au-labour-force-statistics/README.md"
+    },
+    {
+      "id": "au-legal-assistance-services",
+      "name": "Au Legal Assistance Services",
+      "domains": ["justice", "environment", "economy"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly on the ABS's own copyright page (`abs.gov.au/copyright`, fetched this run): *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence, with the exception of: the Commonwealth Coat of Arms, the ABS logo, material protected by a trade mark, unit record data (microdata), content supplied by third parties.\"* This is ABS's own experimental statistics publication, not third-party or microdata content, so the site-wide CC BY 4.0 statement applies.",
+      "temporal_coverage": "2013-2026",
+      "file_count": 0,
+      "size_bytes": 19863,
+      "readme_path": "/original/datasets/au-legal-assistance-services/README.md"
+    },
+    {
+      "id": "au-migrant-settlement-statistics",
+      "name": "Au Migrant Settlement Statistics",
+      "domains": ["justice", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 3.0 Australia (CC BY 3.0 AU). Confirmed directly via the CKAN API (`https://data.gov.au/data/api/3/action/package_show?id=settlement-reports`): `license_id: cc-by`, `license_title: Creative Commons Attribution 3.0 Australia`, `license_url: http://creativecommons.org/licenses/by/3.0/au/` \u2014 matched by the same licence module on the dataset's own landing page (no competing restrictive clause found on that page). The workbook's own \"Caveats\" sheet additionally states: *\"Please attribute Australian Government as the data source.\"*",
+      "temporal_coverage": "1991-2026",
+      "file_count": 0,
+      "size_bytes": 15540,
+      "readme_path": "/original/datasets/au-migrant-settlement-statistics/README.md"
+    },
+    {
+      "id": "au-native-title-determinations",
+      "name": "Au Native Title Determinations",
+      "domains": ["justice", "infrastructure", "environment", "planning", "governance"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0) \u2014 confirmed independently two ways: (1) the machine-readable DCAT metadata feed (`https://data-nntt.opendata.arcgis.com/api/feed/dcat-us/1.1.json`), where both layers' `\"license\"` field is literally `\"https://creativecommons.org/licenses/by/4.0\"`; (2) the ArcGIS item's own `licenseInfo` field (fetched directly via `https://www.arcgis.com/sharing/rest/content/items/2698667a86e54550b732174a71c3bc57?f=json`), which states verbatim: *\"The Commonwealth owns the copyright in all material produced by this organisation. All material presented on this page is provided under a Creative Commons Attribution 4.0 International licence, with the exception of: 1) the Commonwealth Coat of Arms 2) this organisation's logo 3) content supplied by third parties.\"* None of the three exceptions apply to the tabular determination/ILUA data mirrored here. Attribution per the item's own `accessInformation` field: *\"NNTT, \u00a9 Commonwealth of Australia\"*.",
+      "temporal_coverage": "1993-2026",
+      "file_count": 0,
+      "size_bytes": 26089,
+      "readme_path": "/original/datasets/au-native-title-determinations/README.md"
+    },
+    {
+      "id": "au-ndis-participants-by-lga",
+      "name": "Au Ndis Participants By Lga",
+      "domains": ["justice", "environment", "social", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly on the NDIS Data Research site's own [Copyright](https://dataresearch.ndis.gov.au/copyright) page (fetched this run): *\"The material on this website, with the exception of logos, trade marks, third party material and other content as specified is licensed under Creative Commons CC BY licence, version 4.0... you may download, display, print and reproduce the written material on this website, even commercially, provided you acknowledge the National Disability Insurance Agency as the owner of all intellectual property rights in the reproduced material by using '\u00a9 National Disability Insurance Scheme Agency 2013'.\"* This is a genuinely open, commercially-reusable licence on the *data research* site specifically \u2014 distinct from, and more open than, the main `ndis.gov.au` website's own copyright terms, which are CC BY-**NC** (non-commercial) 3.0. The two sites are legally separate copyright statements; this dataset is sourced from, and licensed under, the data research site's CC BY 4.0 terms.",
+      "temporal_coverage": "2011-2026",
+      "file_count": 0,
+      "size_bytes": 11160,
+      "readme_path": "/original/datasets/au-ndis-participants-by-lga/README.md"
+    },
+    {
+      "id": "au-notifiable-data-breaches-statistics",
+      "name": "Au Notifiable Data Breaches Statistics",
+      "domains": ["health", "justice", "infrastructure", "environment", "economy"],
+      "licence": "** Creative Commons Attribution 4.0 International. Confirmed two independent ways this run: (1) directly on OAIC's own copyright page (`oaic.gov.au/about-the-OAIC/copyright`, fetched 10 July 2026): *\"The Office of the Australian Information Commissioner supports and encourages the dissemination and exchange of information provided on this website. The Office of the Australian Information Commissioner has applied the Creative Commons Attribution 4.0 International Licence to content on this website... Use of all or part of any material on this website must include the following attribution: Office of the Australian Information Commissioner website \u2013 www.oaic.gov.au \u00a9 Commonwealth of Australia.\"*; (2) independently via the data.gov.au dataset's own CKAN API (`package_show`), which returns `license_id: cc-by-4.0`, `license_title: Creative Commons Attribution 4.0 International`. One inconsistency is disclosed rather than hidden: the OAIC copyright page's `<meta>`/JSON-LD tags say \"Creative Commons Attribution 4.0 **Australia**\" while the page's own visible body text says \"**International**\" \u2014 this looks like a stale, unrefreshed meta description on OAIC's own site, since the dataset-level CKAN licence (confirmed independently, International) is the one actually governing this specific download, and is what's cited here.",
+      "temporal_coverage": "1988-2026",
+      "file_count": 0,
+      "size_bytes": 15474,
+      "readme_path": "/original/datasets/au-notifiable-data-breaches-statistics/README.md"
+    },
+    {
+      "id": "au-organ-donor-register-statistics",
+      "name": "Au Organ Donor Register Statistics",
+      "domains": ["health", "justice", "environment", "social", "demographics"],
+      "licence": "** Two licences apply to the two source components, both CC BY:",
+      "temporal_coverage": "1968-2026",
+      "file_count": 0,
+      "size_bytes": 11605,
+      "readme_path": "/original/datasets/au-organ-donor-register-statistics/README.md"
+    },
+    {
+      "id": "au-personal-fraud-survey",
+      "name": "Au Personal Fraud Survey",
+      "domains": ["justice", "infrastructure", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International. Quoted verbatim from ABS's site-wide copyright/licence page (`abs.gov.au/website-privacy-copyright-and-disclaimer`, fetched 10 July 2026): *\"\u00a9 Commonwealth of Australia... All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\"*, with named exceptions (Commonwealth Coat of Arms, ABS logo, trademark-protected material, unit record microdata, third-party content, named sub-brands) that don't apply to this table workbook. Each downloaded workbook also carries its own \"\u00a9 Commonwealth of Australia\" footer.",
+      "temporal_coverage": "2009-2026",
+      "file_count": 0,
+      "size_bytes": 16243,
+      "readme_path": "/original/datasets/au-personal-fraud-survey/README.md"
+    },
+    {
+      "id": "au-plantation-forestry-statistics",
+      "name": "Au Plantation Forestry Statistics",
+      "domains": ["infrastructure", "environment", "economy"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted directly from the workbook's own `Index` sheet: *\"\u00a9 Commonwealth of Australia 2026. \u2026 Creative Commons licence: All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence, save for content supplied by third parties, logos and the Commonwealth Coat of Arms.\"* Required attribution, also from the workbook: *\"ABARES 2026, Australian forest and wood products statistics, Production and trade to 2024-25, ABARES series report, Canberra, June, https://doi.org/10.25814/k6kw-5p25.\"* Confirmed the same CC BY 4.0 term separately on DAFF's site-wide [copyright page](https://www.agriculture.gov.au/about/copyright).",
+      "temporal_coverage": "1938-2026",
+      "file_count": 0,
+      "size_bytes": 13764,
+      "readme_path": "/original/datasets/au-plantation-forestry-statistics/README.md"
+    },
+    {
+      "id": "au-prisoners-in-australia",
+      "name": "Au Prisoners In Australia",
+      "domains": ["education", "justice", "infrastructure", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted verbatim from the ABS site itself: *\"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence, with the exception of: the Commonwealth Coat of Arms; the ABS logo; material protected by a trade mark; unit record data (microdata); content supplied by third parties; sub-brands for ABS data products and projects (e.g. DataLab, SEAD); 'Our story, our future' artwork and brand; Census branding and artwork; Occupation Standard Classification for Australia (OSCA) branding and artwork.\"* \u2014 [ABS website privacy, copyright and disclaimer](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer)",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 22825,
+      "readme_path": "/original/datasets/au-prisoners-in-australia/README.md"
+    },
+    {
+      "id": "au-regional-population-estimates",
+      "name": "Au Regional Population Estimates",
+      "domains": ["environment", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly from ABS's own copyright page (`abs.gov.au/website-privacy-copyright-and-disclaimer`): \"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\", with named exceptions (Coat of Arms, ABS logo, trade marks, unit record/microdata, third-party content) none of which apply here.",
+      "temporal_coverage": "2001-2026",
+      "file_count": 0,
+      "size_bytes": 15834,
+      "readme_path": "/original/datasets/au-regional-population-estimates/README.md"
+    },
+    {
+      "id": "au-small-scale-renewable-installations",
+      "name": "Au Small Scale Renewable Installations",
+      "domains": ["infrastructure", "environment", "social", "planning", "economy"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted verbatim from the Clean Energy Regulator's own copyright page: *\"You can use most of the content on our website under the Creative Commons Attribution 4.0 international license unless it's marked otherwise. As long as you attribute it properly, you can: copy and share our content in any medium or format[;] adapt it for any purpose.\"* Excluded from the licence (none of which apply to this dataset): the Commonwealth Coat of Arms, the CER's corporate logo/word marks, a named commissioned artwork on the CER website, and content the CER identifies as supplied by third parties. \u2014 [Clean Energy Regulator copyright page](https://cer.gov.au/about-us/our-policies/copyright)",
+      "temporal_coverage": "2000-2026",
+      "file_count": 0,
+      "size_bytes": 20312,
+      "readme_path": "/original/datasets/au-small-scale-renewable-installations/README.md"
+    },
+    {
+      "id": "au-specialist-homelessness-services",
+      "name": "Au Specialist Homelessness Services",
+      "domains": ["health", "infrastructure", "environment", "social", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 the report carries no dataset-specific licence override, so AIHW's site-wide default applies. Confirmed directly on [aihw.gov.au/copyright](https://www.aihw.gov.au/copyright): *\"Material that can be copied or downloaded from this website has been released under a Creative Commons BY 4.0 (CC-BY 4.0) licence.\"* Required attribution for unmodified material: *\"Source: Australian Institute of Health and Welfare.\"* For modified/derived material (as here, since the source workbook was reshaped into tidy CSVs): *\"Based on Australian Institute of Health and Welfare material.\"*",
+      "temporal_coverage": "1988-2026",
+      "file_count": 0,
+      "size_bytes": 17321,
+      "readme_path": "/original/datasets/au-specialist-homelessness-services/README.md"
+    },
+    {
+      "id": "au-state-territory-greenhouse-gas-inventory",
+      "name": "Au State Territory Greenhouse Gas Inventory",
+      "domains": ["environment", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) \u2014 per DCCEEW's site-wide [Copyright notice](https://www.dcceew.gov.au/about/copyright) (\"Unless otherwise specified, you can use our material under a Creative Commons Attribution (CC-BY) 4.0 International licence\"), confirmed independently by the workbook's own `Copyright` sheet, which displays the CC BY icon/badge directly in the file.",
+      "temporal_coverage": "1989-2030",
+      "file_count": 0,
+      "size_bytes": 16339,
+      "readme_path": "/original/datasets/au-state-territory-greenhouse-gas-inventory/README.md"
+    },
+    {
+      "id": "au-suburbs-councils",
+      "name": "Au Suburbs Councils",
+      "domains": ["education", "health", "economy", "demographics"],
+      "licence": "** CC BY 4.0",
+      "temporal_coverage": "2021-2026",
+      "file_count": 0,
+      "size_bytes": 2659,
+      "readme_path": "/original/datasets/au-suburbs-councils/README.md"
+    },
+    {
+      "id": "au-threatened-species-ecological-communities",
+      "name": "Au Threatened Species Ecological Communities",
+      "domains": ["environment"],
+      "licence": "** [Creative Commons Attribution 3.0 Australia](http://creativecommons.org/licenses/by/3.0/au/) (CC BY 3.0 AU) \u2014 confirmed two independent ways: the CKAN `package_show` API response (`license_id: cc-by`, `license_title: Creative Commons Attribution 3.0 Australia`, `license_url: http://creativecommons.org/licenses/by/3.0/au/`) and a direct fetch of the live dataset page, which shows the same licence text and link in its own \"License\" sidebar module.",
+      "temporal_coverage": "1972-2026",
+      "file_count": 0,
+      "size_bytes": 13058,
+      "readme_path": "/original/datasets/au-threatened-species-ecological-communities/README.md"
+    },
+    {
+      "id": "au-tourism-satellite-account",
+      "name": "Au Tourism Satellite Account",
+      "domains": ["education", "health", "justice", "economy"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 no per-dataset CC badge on the STSA page itself, but confirmed via Austrade's site-wide disclaimer (which explicitly covers `tra.gov.au`), fetched directly at [austrade.gov.au/en/site-information/site-disclaimer](https://www.austrade.gov.au/en/site-information/site-disclaimer): *\"content on the Websites is licenced under a Creative Commons Attribution\u20144.0 International licence\"*, with named exceptions (Coat of Arms, Austrade logo, third-party material, trademarks, images/photographs) that don't apply to this tabular data. This is a weaker evidentiary basis than a per-dataset CKAN licence badge, but it is still an explicit, affirmative open-licence grant \u2014 not merely a bare copyright notice with no reuse right, which is the bar that has excluded other sources elsewhere in this repository (ACARA My School, ReturnToWorkSA, ECSA electoral data).",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 18384,
+      "readme_path": "/original/datasets/au-tourism-satellite-account/README.md"
+    },
+    {
+      "id": "au-veteran-population-by-lga",
+      "name": "Au Veteran Population By Lga",
+      "domains": [
+        "health",
+        "justice",
+        "infrastructure",
+        "environment",
+        "social",
+        "economy",
+        "demographics"
+      ],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed directly on the dataset's own data.gov.au catalogue entry: `Licence: Creative Commons Attribution 4.0 International`, `license_id: cc-by-4.0`, `license_url: http://creativecommons.org/licenses/by/4.0` (via the CKAN API, `package_search` for this exact dataset name). This is distinct from \u2014 and takes precedence over \u2014 dva.gov.au's site-wide copyright footer (*\"Copyright \u00a9 Commonwealth of Australia 2022. You may download, display, print and reproduce this material in unaltered form only... for your personal, non-commercial... use\"*), which governs general website content (news, guidance pages). The dataset-level CC BY 4.0 declaration is DVA's own explicit open-data licence for this specific statistical release, submitted by DVA to the national catalogue \u2014 the same two-tier arrangement (restrictive general site copyright vs. an open licence on the specific catalogued dataset) already relied on for other datasets in this repository, e.g. `au-work-health-safety-jurisdictional-comparison` and `au-tourism-satellite-account`.",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 13069,
+      "readme_path": "/original/datasets/au-veteran-population-by-lga/README.md"
+    },
+    {
+      "id": "au-waste-resource-recovery",
+      "name": "Au Waste Resource Recovery",
+      "domains": ["environment", "social", "demographics", "governance"],
+      "licence": "** [Creative Commons Attribution 2.5 Australia](http://creativecommons.org/licenses/by/2.5/au/) (CC BY 2.5 AU) \u2014 per the CKAN `package_show` API response (`license_id: cc-by-2.5`, `license_title: Creative Commons Attribution 2.5 Australia`, `license_url: http://creativecommons.org/licenses/by/2.5/au/`). Note: the dataset's own landing page on data.gov.au (a Drupal-based redesign, distinct from the CKAN theme used elsewhere on the site) shows only data.gov.au's site-wide footer notice (\"this work is licensed under the CC BY 4.0 license\") rather than a dataset-specific badge; the CKAN API's per-dataset field is treated as authoritative here, consistent with how this repository has handled similar site-wide-vs-per-dataset licence discrepancies elsewhere (e.g. `au-veteran-population-by-lga`, `au-federal-election-results`).",
+      "temporal_coverage": "2006-2026",
+      "file_count": 0,
+      "size_bytes": 10147,
+      "readme_path": "/original/datasets/au-waste-resource-recovery/README.md"
+    },
+    {
+      "id": "au-work-health-safety-jurisdictional-comparison",
+      "name": "Au Work Health Safety Jurisdictional Comparison",
+      "domains": ["education", "health", "justice", "environment", "social"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed two ways: (1) the dataset's own page states directly \u2014 *\"Publicly available data? Public data can be freely used under a Creative Commons Attribution 4.0 International License. Yes \u2013 see Resources\"*; (2) Safe Work Australia's site-wide copyright page states \u2014 *\"All material on our website is under a Creative Commons Attribution 4.0 International Licence (CC BY 4.0), except for: the Safe Work Australia logo, other logos produced by Safe Work Australia, any images and photographs, any videos and audio recordings, content supplied by third parties, any content protected by a trademark, publications on our website that have their own copyright permissions, such as the model Codes of Practice.\"* Neither exception applies to this tabular data. \u2014 [safeworkaustralia.gov.au/copyright](https://www.safeworkaustralia.gov.au/copyright)",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 15111,
+      "readme_path": "/original/datasets/au-work-health-safety-jurisdictional-comparison/README.md"
+    },
+    {
+      "id": "au-youth-justice-supervision-statistics",
+      "name": "Au Youth Justice Supervision Statistics",
+      "domains": ["education", "health", "justice", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 the report carries no dataset-specific licence override, so AIHW's site-wide default applies. Confirmed directly on [aihw.gov.au/copyright](https://www.aihw.gov.au/copyright), independently re-verified this run in a separate pass: *\"Material that can be copied or downloaded from this website has been released under a Creative Commons BY 4.0 (CC-BY 4.0) licence.\"* Required attribution for unmodified material: *\"Source: Australian Institute of Health and Welfare.\"* For modified/derived material (as here, since the source workbooks were reshaped into tidy CSVs): *\"Based on Australian Institute of Health and Welfare material.\"*",
+      "temporal_coverage": "1988-2026",
+      "file_count": 0,
+      "size_bytes": 21824,
+      "readme_path": "/original/datasets/au-youth-justice-supervision-statistics/README.md"
+    },
+    {
+      "id": "sa-adelaide-metro-gtfs",
+      "name": "Sa Adelaide Metro Gtfs",
+      "domains": ["education", "infrastructure", "environment", "planning"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`). The dataset's own resource description additionally requests the specific attribution text: *\"Adelaide Metro - Department of Planning Transport and Infrastructure, South Australia.\"*",
+      "temporal_coverage": "2026-2026",
+      "file_count": 0,
+      "size_bytes": 6303,
+      "readme_path": "/original/datasets/sa-adelaide-metro-gtfs/README.md"
+    },
+    {
+      "id": "sa-adelaide-metro-patronage",
+      "name": "Sa Adelaide Metro Patronage",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed both via the CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`) and via the dataset's own landing page footer, which states site content is \"licensed under a Creative Commons Attribution 4.0 License.\"",
+      "temporal_coverage": "2013-2026",
+      "file_count": 0,
+      "size_bytes": 7531,
+      "readme_path": "/original/datasets/sa-adelaide-metro-patronage/README.md"
+    },
+    {
+      "id": "sa-aged-care-services",
+      "name": "Sa Aged Care Services",
+      "domains": ["health", "justice", "environment", "social", "planning"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the data.gov.au CKAN API record (`license_id: cc-by-4.0`)",
+      "temporal_coverage": "1997-2026",
+      "file_count": 0,
+      "size_bytes": 7209,
+      "readme_path": "/original/datasets/sa-aged-care-services/README.md"
+    },
+    {
+      "id": "sa-apprenticeships-traineeships",
+      "name": "Sa Apprenticeships Traineeships",
+      "domains": ["education", "environment", "social", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "1988-2026",
+      "file_count": 0,
+      "size_bytes": 6939,
+      "readme_path": "/original/datasets/sa-apprenticeships-traineeships/README.md"
+    },
+    {
+      "id": "sa-boat-registrations-and-licences",
+      "name": "Sa Boat Registrations And Licences",
+      "domains": ["infrastructure", "environment", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) for both packages \u2014 confirmed directly via the live CKAN API (`package_show`) for each: `license_id: \"cc-by\"`, `license_title: \"Creative Commons Attribution\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `isopen: true`.",
+      "temporal_coverage": "1975-2030",
+      "file_count": 0,
+      "size_bytes": 17294,
+      "readme_path": "/original/datasets/sa-boat-registrations-and-licences/README.md"
+    },
+    {
+      "id": "sa-climate-station-data",
+      "name": "Sa Climate Station Data",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 quoted verbatim from SILO's own \"About\" page (`longpaddock.qld.gov.au/silo/about/`): *\"SILO products are provided free of charge to the public for use under the Creative Commons Attribution 4.0 license.\"* The underlying station observations originate with the Bureau of Meteorology; SILO is the party redistributing them under this stated licence.",
+      "temporal_coverage": "1996-2026",
+      "file_count": 0,
+      "size_bytes": 12194,
+      "readme_path": "/original/datasets/sa-climate-station-data/README.md"
+    },
+    {
+      "id": "sa-concessions-cost-of-living-support",
+      "name": "Sa Concessions Cost Of Living Support",
+      "domains": ["health", "environment", "social", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) for both packages \u2014 confirmed directly via the live CKAN API (`package_show`) for each: `license_id: \"cc-by\"`, `license_title: \"Creative Commons Attribution\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `isopen: true`.",
+      "temporal_coverage": "2014-2026",
+      "file_count": 0,
+      "size_bytes": 21607,
+      "readme_path": "/original/datasets/sa-concessions-cost-of-living-support/README.md"
+    },
+    {
+      "id": "sa-container-deposit-scheme",
+      "name": "Sa Container Deposit Scheme",
+      "domains": ["education", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the CKAN `package_show` API (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`) and the live dataset page's own licence badge/footer, both showing the identical CC BY 4.0 link. Note: data.gov.au's federated harvest mirror of this same package shows a stale `license_title: Creative Commons Attribution 3.0 Australia` \u2014 the authoritative source (`data.sa.gov.au` itself) is CC BY 4.0, and that is what is recorded here.",
+      "temporal_coverage": "1977-2026",
+      "file_count": 0,
+      "size_bytes": 10093,
+      "readme_path": "/original/datasets/sa-container-deposit-scheme/README.md"
+    },
+    {
+      "id": "sa-courts-at-a-glance",
+      "name": "Sa Courts At A Glance",
+      "domains": ["education", "justice", "environment", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2016-2026",
+      "file_count": 0,
+      "size_bytes": 3982,
+      "readme_path": "/original/datasets/sa-courts-at-a-glance/README.md"
+    },
+    {
+      "id": "sa-crime-statistics",
+      "name": "Sa Crime Statistics",
+      "domains": ["justice", "infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's live CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`).",
+      "temporal_coverage": "2010-2026",
+      "file_count": 0,
+      "size_bytes": 14988,
+      "readme_path": "/original/datasets/sa-crime-statistics/README.md"
+    },
+    {
+      "id": "sa-dogs-and-cats-online-data",
+      "name": "Sa Dogs And Cats Online Data",
+      "domains": ["infrastructure", "environment", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the CKAN `package_show` API for all four editions (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`).",
+      "temporal_coverage": "1995-2026",
+      "file_count": 0,
+      "size_bytes": 19686,
+      "readme_path": "/original/datasets/sa-dogs-and-cats-online-data/README.md"
+    },
+    {
+      "id": "sa-driver-screening-tests",
+      "name": "Sa Driver Screening Tests",
+      "domains": ["justice", "infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the CKAN `package_show` API (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`).",
+      "temporal_coverage": "1961-2026",
+      "file_count": 0,
+      "size_bytes": 6425,
+      "readme_path": "/original/datasets/sa-driver-screening-tests/README.md"
+    },
+    {
+      "id": "sa-education-workforce",
+      "name": "Sa Education Workforce",
+      "domains": [
+        "education",
+        "infrastructure",
+        "environment",
+        "planning",
+        "economy",
+        "governance"
+      ],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2014-2026",
+      "file_count": 0,
+      "size_bytes": 6081,
+      "readme_path": "/original/datasets/sa-education-workforce/README.md"
+    },
+    {
+      "id": "sa-emergency-services-volunteers",
+      "name": "Sa Emergency Services Volunteers",
+      "domains": ["education", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) for both \u2014 confirmed via each dataset's CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2012-2026",
+      "file_count": 0,
+      "size_bytes": 7227,
+      "readme_path": "/original/datasets/sa-emergency-services-volunteers/README.md"
+    },
+    {
+      "id": "sa-epa-air-quality-monitoring",
+      "name": "Sa Epa Air Quality Monitoring",
+      "domains": ["infrastructure", "environment", "planning"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via each package's live CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`), and independently confirmed by fetching the live public dataset page for one station package, which renders the CC BY badge and licence text. No bundled licence-file discrepancy found (unlike `sa-land-division-applications`/`sa-planning-zones`).",
+      "temporal_coverage": "2013-2026",
+      "file_count": 0,
+      "size_bytes": 8655,
+      "readme_path": "/original/datasets/sa-epa-air-quality-monitoring/README.md"
+    },
+    {
+      "id": "sa-equal-opportunity-complaint-statistics",
+      "name": "Sa Equal Opportunity Complaint Statistics",
+      "domains": ["education", "environment", "social", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) for all four source datasets \u2014 confirmed directly via each dataset's own CKAN `package_show` record: `license_id: \"cc-by\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `jurisdiction: \"Government of South Australia\"`.",
+      "temporal_coverage": "1984-2026",
+      "file_count": 0,
+      "size_bytes": 11154,
+      "readme_path": "/original/datasets/sa-equal-opportunity-complaint-statistics/README.md"
+    },
+    {
+      "id": "sa-expiation-notices",
+      "name": "Sa Expiation Notices",
+      "domains": ["education", "justice", "infrastructure"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0)",
+      "temporal_coverage": "2012-2026",
+      "file_count": 0,
+      "size_bytes": 6766,
+      "readme_path": "/original/datasets/sa-expiation-notices/README.md"
+    },
+    {
+      "id": "sa-foi-statistics",
+      "name": "Sa Foi Statistics",
+      "domains": ["education", "justice", "environment", "governance"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via each dataset's own CKAN `package_show` record: `license_id: \"cc-by\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `jurisdiction: \"Government of South Australia\"` for all 20 source packages.",
+      "temporal_coverage": "1991-2026",
+      "file_count": 0,
+      "size_bytes": 12314,
+      "readme_path": "/original/datasets/sa-foi-statistics/README.md"
+    },
+    {
+      "id": "sa-groundwater-prohibition-areas",
+      "name": "Sa Groundwater Prohibition Areas",
+      "domains": ["health", "infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 CKAN's `license_id: cc-by` / `license_url: http://creativecommons.org/licenses/by/4.0`, independently confirmed by the Location SA metadata report's own \"AusGOAL Licensing Classification: CC BY (Attribution)\" field",
+      "temporal_coverage": "1993-2026",
+      "file_count": 0,
+      "size_bytes": 8926,
+      "readme_path": "/original/datasets/sa-groundwater-prohibition-areas/README.md"
+    },
+    {
+      "id": "sa-health-ed-performance",
+      "name": "Sa Health Ed Performance",
+      "domains": ["health", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via each dataset page's `DCTERMS.License` metadata and licence footer",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 3431,
+      "readme_path": "/original/datasets/sa-health-ed-performance/README.md"
+    },
+    {
+      "id": "sa-health-elective-surgery",
+      "name": "Sa Health Elective Surgery",
+      "domains": ["health", "environment"],
+      "licence": "** Creative Commons Attribution (CC BY). Confirmed directly via the dataset's CKAN API record (`package_show?id=sa-health-elective-surgery-data`): `license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`.",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 11398,
+      "readme_path": "/original/datasets/sa-health-elective-surgery/README.md"
+    },
+    {
+      "id": "sa-heritage-places",
+      "name": "Sa Heritage Places",
+      "domains": ["education", "justice", "infrastructure", "environment", "planning"],
+      "licence": "** [Creative Commons Attribution 3.0 Australia](http://creativecommons.org/licenses/by/3.0/au/) (CC BY 3.0 AU) \u2014 see \"Licence note\" below",
+      "temporal_coverage": "1993-2026",
+      "file_count": 0,
+      "size_bytes": 13908,
+      "readme_path": "/original/datasets/sa-heritage-places/README.md"
+    },
+    {
+      "id": "sa-icac-corruption-oversight-statistics",
+      "name": "Sa Icac Corruption Oversight Statistics",
+      "domains": ["justice", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via each CKAN package record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2013-2026",
+      "file_count": 0,
+      "size_bytes": 10159,
+      "readme_path": "/original/datasets/sa-icac-corruption-oversight-statistics/README.md"
+    },
+    {
+      "id": "sa-ict-investment-and-workforce",
+      "name": "Sa Ict Investment And Workforce",
+      "domains": ["infrastructure", "environment", "economy", "governance"],
+      "licence": "** [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0) (CC BY) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`)",
+      "temporal_coverage": "2009-2026",
+      "file_count": 0,
+      "size_bytes": 7362,
+      "readme_path": "/original/datasets/sa-ict-investment-and-workforce/README.md"
+    },
+    {
+      "id": "sa-land-division-applications",
+      "name": "Sa Land Division Applications",
+      "domains": ["education", "justice", "infrastructure", "environment", "planning"],
+      "licence": "** [Creative Commons Attribution 3.0 Australia](http://creativecommons.org/licenses/by/3.0/au/) (CC BY 3.0 AU) \u2014 see \"Licence note\" below",
+      "temporal_coverage": "1982-2026",
+      "file_count": 0,
+      "size_bytes": 8143,
+      "readme_path": "/original/datasets/sa-land-division-applications/README.md"
+    },
+    {
+      "id": "sa-local-government-elections",
+      "name": "Sa Local Government Elections",
+      "domains": ["justice", "environment", "demographics", "governance"],
+      "licence": "** Creative Commons Australia Attribution 3.0 (CC BY 3.0 AU) \u2014 ECSA's site-wide [copyright page](https://www.ecsa.sa.gov.au/copyright), quoted verbatim below",
+      "temporal_coverage": "2010-2027",
+      "file_count": 0,
+      "size_bytes": 23113,
+      "readme_path": "/original/datasets/sa-local-government-elections/README.md"
+    },
+    {
+      "id": "sa-local-government-finances",
+      "name": "Sa Local Government Finances",
+      "domains": [
+        "education",
+        "health",
+        "justice",
+        "infrastructure",
+        "environment",
+        "social",
+        "demographics",
+        "governance"
+      ],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly from ABS's own copyright page (`abs.gov.au/website-privacy-copyright-and-disclaimer`), re-checked this run: \"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\", with named exceptions (Coat of Arms, ABS logo, trade marks, unit record/microdata, third-party content) none of which apply here.",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 12878,
+      "readme_path": "/original/datasets/sa-local-government-finances/README.md"
+    },
+    {
+      "id": "sa-marine-park-zoning",
+      "name": "Sa Marine Park Zoning",
+      "domains": ["infrastructure", "environment", "planning", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 CKAN's `license_id: cc-by` field, independently confirmed by a `CC_BY.txt` file bundled inside both archives themselves (see \"Licence note\" below)",
+      "temporal_coverage": "1972-2026",
+      "file_count": 0,
+      "size_bytes": 13767,
+      "readme_path": "/original/datasets/sa-marine-park-zoning/README.md"
+    },
+    {
+      "id": "sa-mental-health-services",
+      "name": "Sa Mental Health Services",
+      "domains": ["health", "infrastructure", "environment", "economy"],
+      "licence": "** Creative Commons Attribution (CC BY). Confirmed directly via the dataset's CKAN API record (`package_show?id=mental-health-data`): `license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`.",
+      "temporal_coverage": "2013-2026",
+      "file_count": 0,
+      "size_bytes": 10643,
+      "readme_path": "/original/datasets/sa-mental-health-services/README.md"
+    },
+    {
+      "id": "sa-metro-median-house-sales",
+      "name": "Sa Metro Median House Sales",
+      "domains": ["infrastructure", "environment", "social"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) \u2014 confirmed both via the dataset's CKAN API record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`) and directly on the live dataset page, which states: *\"This Government of South Australia website is licensed under a Creative Commons Attribution 4.0 License.\"*",
+      "temporal_coverage": "2014-2026",
+      "file_count": 0,
+      "size_bytes": 16090,
+      "readme_path": "/original/datasets/sa-metro-median-house-sales/README.md"
+    },
+    {
+      "id": "sa-mfs-fire-service-incidents",
+      "name": "Sa Mfs Fire Service Incidents",
+      "domains": ["education", "health", "infrastructure"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2009-2026",
+      "file_count": 0,
+      "size_bytes": 5681,
+      "readme_path": "/original/datasets/sa-mfs-fire-service-incidents/README.md"
+    },
+    {
+      "id": "sa-mineral-tenements",
+      "name": "Sa Mineral Tenements",
+      "domains": ["justice", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the CKAN package record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "1971-2026",
+      "file_count": 0,
+      "size_bytes": 12843,
+      "readme_path": "/original/datasets/sa-mineral-tenements/README.md"
+    },
+    {
+      "id": "sa-native-vegetation-floristic-areas",
+      "name": "Sa Native Vegetation Floristic Areas",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the CKAN package record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`, `isopen: true`), and independently confirmed by the mirrored `CC_BY.txt` bundled inside the CSV resource zip, which states verbatim: *\"Information contained in this file is licensed under a Creative Commons By Attribution 4.0 Australia Licence\"*",
+      "temporal_coverage": "2000-2026",
+      "file_count": 0,
+      "size_bytes": 16262,
+      "readme_path": "/original/datasets/sa-native-vegetation-floristic-areas/README.md"
+    },
+    {
+      "id": "sa-notifiable-conditions-surveillance",
+      "name": "Sa Notifiable Conditions Surveillance",
+      "domains": ["health", "environment", "demographics"],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0). Confirmed verbatim on SA Health's site-wide [Copyright page](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/website+information/copyright): *\"This website is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)... you are free [to] share and adapt the material in any medium or format for any purpose, even commercially, provided: you give appropriate credit, provide a link to the license, and indicate if changes were made.\"* No non-commercial or no-redistribution carve-out was found. **Caveat, disclosed rather than glossed over:** unlike this repository's other SA Health datasets (`sa-health-ed-performance`, `sa-mental-health-services`), which are catalogued on `data.sa.gov.au` with a per-dataset CKAN `license_id: cc-by` field, these two PDFs are published only directly on `sahealth.sa.gov.au` \u2014 there is no CKAN listing for them. A `data.sa.gov.au` search for \"notifiable\" found no match for this weekly report; the closest related item was an unrelated one-off \"2020-21 Food Notifiable Contaminants Data\" dataset (itself CC BY, from the same SA Health notifiable-conditions program), which supports treating this data family as open, but the licence here rests on the site-wide copyright statement rather than a dataset-specific licence field.",
+      "temporal_coverage": "2018-2026",
+      "file_count": 0,
+      "size_bytes": 15918,
+      "readme_path": "/original/datasets/sa-notifiable-conditions-surveillance/README.md"
+    },
+    {
+      "id": "sa-occupational-licences",
+      "name": "Sa Occupational Licences",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0) (CC BY, `license_id: cc-by`) \u2014 confirmed directly via the CKAN API for both packages",
+      "temporal_coverage": "1994-2026",
+      "file_count": 0,
+      "size_bytes": 13465,
+      "readme_path": "/original/datasets/sa-occupational-licences/README.md"
+    },
+    {
+      "id": "sa-ombudsman-complaint-statistics",
+      "name": "Sa Ombudsman Complaint Statistics",
+      "domains": ["justice", "environment", "demographics", "governance"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the dataset's own CKAN `package_show` record: `license_id: \"cc-by\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `jurisdiction: \"Government of South Australia\"`.",
+      "temporal_coverage": "2020-2026",
+      "file_count": 0,
+      "size_bytes": 10181,
+      "readme_path": "/original/datasets/sa-ombudsman-complaint-statistics/README.md"
+    },
+    {
+      "id": "sa-planning-zones",
+      "name": "Sa Planning Zones",
+      "domains": ["education", "justice", "infrastructure", "environment", "planning", "economy"],
+      "licence": "** [Creative Commons Attribution 3.0 Australia](http://creativecommons.org/licenses/by/3.0/au/) (CC BY 3.0 AU) \u2014 see \"Licence note\" below",
+      "temporal_coverage": "2016-2026",
+      "file_count": 0,
+      "size_bytes": 8410,
+      "readme_path": "/original/datasets/sa-planning-zones/README.md"
+    },
+    {
+      "id": "sa-police-oversight-gap",
+      "name": "Sa Police Oversight Gap",
+      "domains": ["justice", "economy"],
+      "licence": "Unknown",
+      "temporal_coverage": "2016-2026",
+      "file_count": 0,
+      "size_bytes": 2589,
+      "readme_path": "/original/datasets/sa-police-oversight-gap/README.md"
+    },
+    {
+      "id": "sa-population-projections",
+      "name": "Sa Population Projections",
+      "domains": ["infrastructure", "environment", "social", "planning", "economy", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the live CKAN API (`package_show`): `license_id: \"cc-by\"`, `license_title: \"Creative Commons Attribution\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `isopen: true`.",
+      "temporal_coverage": "2016-2041",
+      "file_count": 0,
+      "size_bytes": 15982,
+      "readme_path": "/original/datasets/sa-population-projections/README.md"
+    },
+    {
+      "id": "sa-primary-industries-scorecard",
+      "name": "Sa Primary Industries Scorecard",
+      "domains": ["education", "justice", "environment", "social", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed three ways: the CKAN package record's `license_id: cc-by` / `license_url: http://creativecommons.org/licenses/by/4.0`; the live dataset page's rendered licence module; and, inside the workbook itself, the source's own stated licensing note: *\"This work is licensed under a Creative Commons Attribution 4.0 licence. You are free to use these data so long as you cite the source document as above.\"*",
+      "temporal_coverage": "2011-2026",
+      "file_count": 0,
+      "size_bytes": 13183,
+      "readme_path": "/original/datasets/sa-primary-industries-scorecard/README.md"
+    },
+    {
+      "id": "sa-private-rental-report",
+      "name": "Sa Private Rental Report",
+      "domains": ["health", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2008-2026",
+      "file_count": 0,
+      "size_bytes": 3497,
+      "readme_path": "/original/datasets/sa-private-rental-report/README.md"
+    },
+    {
+      "id": "sa-public-library-statistics",
+      "name": "Sa Public Library Statistics",
+      "domains": ["environment", "social", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly from the report's own cover page: *\"This work is licensed under a Creative Commons Attribution 4.0 International License\"*, with the CC BY icon. (A secondary web summary of this same report elsewhere had described the licence as CC BY-NC-SA; that turned out to be inaccurate \u2014 the PDF's own cover page is unambiguous and is treated as authoritative here.)",
+      "temporal_coverage": "1971-2026",
+      "file_count": 0,
+      "size_bytes": 7871,
+      "readme_path": "/original/datasets/sa-public-library-statistics/README.md"
+    },
+    {
+      "id": "sa-public-sector-executive-employment",
+      "name": "Sa Public Sector Executive Employment",
+      "domains": [
+        "education",
+        "health",
+        "justice",
+        "infrastructure",
+        "environment",
+        "economy",
+        "demographics",
+        "governance"
+      ],
+      "licence": "** Creative Commons Attribution 4.0 International (CC BY 4.0) for all 37 included agencies \u2014 confirmed directly via the live CKAN API's `license_id: cc-by` field for every package (see `data/agency-index.csv`, `licence` column). Attribution: \"Contains data from [agency name], \u00a9 Government of South Australia, licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0).\"",
+      "temporal_coverage": "2011-2026",
+      "file_count": 0,
+      "size_bytes": 9835,
+      "readme_path": "/original/datasets/sa-public-sector-executive-employment/README.md"
+    },
+    {
+      "id": "sa-residential-tenancy-bonds",
+      "name": "Sa Residential Tenancy Bonds",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the CKAN `package_show` API (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`).",
+      "temporal_coverage": "1995-2026",
+      "file_count": 0,
+      "size_bytes": 8934,
+      "readme_path": "/original/datasets/sa-residential-tenancy-bonds/README.md"
+    },
+    {
+      "id": "sa-retirement-villages-register",
+      "name": "Sa Retirement Villages Register",
+      "domains": ["education", "health", "environment", "social", "planning"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly from the CKAN package record's `license_id: cc-by` / `license_url: http://creativecommons.org/licenses/by/4.0`.",
+      "temporal_coverage": "1997-2026",
+      "file_count": 0,
+      "size_bytes": 6913,
+      "readme_path": "/original/datasets/sa-retirement-villages-register/README.md"
+    },
+    {
+      "id": "sa-road-crash-data",
+      "name": "Sa Road Crash Data",
+      "domains": ["health", "justice", "infrastructure", "environment", "planning"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's live CKAN API record (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`) and independently confirmed on the live public dataset page, which renders \"Creative Commons Attribution 4.0 License\". Unlike two other datasets in this repository (`sa-land-division-applications`, `sa-planning-zones`), there is no bundled licence file in the archive itself to contradict this \u2014 all sources agree on CC BY 4.0.",
+      "temporal_coverage": "1998-2026",
+      "file_count": 0,
+      "size_bytes": 7241,
+      "readme_path": "/original/datasets/sa-road-crash-data/README.md"
+    },
+    {
+      "id": "sa-sacat-case-statistics",
+      "name": "Sa Sacat Case Statistics",
+      "domains": ["health", "justice", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the CKAN `package_show` API for all three editions (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`).",
+      "temporal_coverage": "2016-2026",
+      "file_count": 0,
+      "size_bytes": 17082,
+      "readme_path": "/original/datasets/sa-sacat-case-statistics/README.md"
+    },
+    {
+      "id": "sa-school-locations",
+      "name": "Sa School Locations",
+      "domains": ["education", "environment"],
+      "licence": "** CC BY 4.0 (dataset); CC BY 3.0 AU (metadata report)",
+      "temporal_coverage": "2026",
+      "file_count": 0,
+      "size_bytes": 3941,
+      "readme_path": "/original/datasets/sa-school-locations/README.md"
+    },
+    {
+      "id": "sa-screening-clearance-processing-timeframes",
+      "name": "Sa Screening Clearance Processing Timeframes",
+      "domains": ["environment", "social", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly from the CKAN package record's `license_id: cc-by` / `license_url: http://creativecommons.org/licenses/by/4.0`.",
+      "temporal_coverage": "2013-2026",
+      "file_count": 0,
+      "size_bytes": 9302,
+      "readme_path": "/original/datasets/sa-screening-clearance-processing-timeframes/README.md"
+    },
+    {
+      "id": "sa-social-housing",
+      "name": "Sa Social Housing",
+      "domains": ["social", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly via the live CKAN `package_show` API for all four packages (`license_id: cc-by`, `license_title: Creative Commons Attribution`, `license_url: http://creativecommons.org/licenses/by/4.0`).",
+      "temporal_coverage": "2019-2026",
+      "file_count": 0,
+      "size_bytes": 12776,
+      "readme_path": "/original/datasets/sa-social-housing/README.md"
+    },
+    {
+      "id": "sa-state-government-finances",
+      "name": "Sa State Government Finances",
+      "domains": [
+        "education",
+        "health",
+        "justice",
+        "infrastructure",
+        "environment",
+        "social",
+        "governance"
+      ],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed directly from ABS's own copyright page (`abs.gov.au/website-privacy-copyright-and-disclaimer`): \"All material presented on this website is provided under a Creative Commons Attribution 4.0 International licence\", with named exceptions (Coat of Arms, ABS logo, trade marks, unit record/microdata, third-party content) none of which apply here.",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 11447,
+      "readme_path": "/original/datasets/sa-state-government-finances/README.md"
+    },
+    {
+      "id": "sa-tourism-visitor-statistics",
+      "name": "Sa Tourism Visitor Statistics",
+      "domains": ["justice", "infrastructure", "economy"],
+      "licence": "** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed on the CKAN dataset page (`license_id: cc-by`, `license_title: \"Creative Commons Attribution\"`, `isopen: true`) and independently on the broader `tourism.sa.gov.au` site copyright page: *\"the content of this website is licensed under the Creative Commons Australia Attribution 4.0 Licence.\"*",
+      "temporal_coverage": "2007-2026",
+      "file_count": 0,
+      "size_bytes": 16086,
+      "readme_path": "/original/datasets/sa-tourism-visitor-statistics/README.md"
+    },
+    {
+      "id": "sa-vehicle-registrations-and-licences",
+      "name": "Sa Vehicle Registrations And Licences",
+      "domains": ["infrastructure", "environment", "social", "demographics"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) for both packages \u2014 confirmed directly via the live CKAN API (`package_show`) for each: `license_id: \"cc-by\"`, `license_title: \"Creative Commons Attribution\"`, `license_url: \"http://creativecommons.org/licenses/by/4.0\"`, `isopen: true`.",
+      "temporal_coverage": "2012-2026",
+      "file_count": 0,
+      "size_bytes": 17516,
+      "readme_path": "/original/datasets/sa-vehicle-registrations-and-licences/README.md"
+    },
+    {
+      "id": "sa-waste-levy-rates",
+      "name": "Sa Waste Levy Rates",
+      "domains": ["infrastructure", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed two independent ways: the CKAN `package_show` API response (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`) and the live dataset page's own `DCTERMS.License` meta tag plus its \"License\" sidebar module, both showing the identical link and \"Creative Commons Attribution\" badge.",
+      "temporal_coverage": "1994-2026",
+      "file_count": 0,
+      "size_bytes": 9300,
+      "readme_path": "/original/datasets/sa-waste-levy-rates/README.md"
+    },
+    {
+      "id": "sa-water-quality",
+      "name": "Sa Water Quality",
+      "domains": ["health", "environment"],
+      "licence": "** [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) (CC BY 4.0) \u2014 confirmed via the dataset's CKAN API record (`license_id: cc-by`, `license_url: http://creativecommons.org/licenses/by/4.0`)",
+      "temporal_coverage": "2011-2026",
+      "file_count": 0,
+      "size_bytes": 4817,
+      "readme_path": "/original/datasets/sa-water-quality/README.md"
+    }
+  ]
+}
