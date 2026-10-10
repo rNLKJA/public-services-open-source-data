@@ -6,7 +6,7 @@ export default function NotFound() {
     <div className="min-h-[60vh] flex items-center justify-center bg-white dark:bg-slate-950">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-md mx-auto text-center">
-          <div className="inline-flex items-center justify-center p-4 rounded-full bg-sa-red/10 dark:bg-sa-red/20 text-sa-red mb-6">
+          <div className="inline-flex items-center justify-center p-4 rounded-full bg-federal-blue/10 dark:bg-federal-blue/20 text-federal-blue mb-6">
             <AlertCircle className="h-12 w-12" />
           </div>
           <h1 className="text-4xl font-semibold text-slate-900 dark:text-slate-100 mb-3">
