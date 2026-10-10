@@ -25,13 +25,31 @@ export function SiteHeader() {
           <nav className="hidden md:flex items-center gap-6">
             <Link
               href="/catalogue"
-              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
             >
               Catalogue
             </Link>
             <Link
+              href="/analyses"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
+            >
+              Analyses
+            </Link>
+            <Link
+              href="/tour"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
+            >
+              Tour
+            </Link>
+            <Link
+              href="/methods"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
+            >
+              Methods
+            </Link>
+            <Link
               href="/about"
-              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
+              className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-federal-blue rounded-sm"
             >
               About
             </Link>
@@ -42,6 +60,7 @@ export function SiteHeader() {
             className="md:hidden p-2 text-slate-600 dark:text-slate-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-federal-blue focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-slate-950 rounded-md"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             aria-label="Toggle menu"
+            aria-expanded={isMenuOpen}
           >
             {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </button>
@@ -55,6 +74,27 @@ export function SiteHeader() {
               onClick={() => setIsMenuOpen(false)}
             >
               Catalogue
+            </Link>
+            <Link
+              href="/analyses"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Analyses
+            </Link>
+            <Link
+              href="/tour"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Tour
+            </Link>
+            <Link
+              href="/methods"
+              className="block px-4 py-2 text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-900 rounded-md"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Methods
             </Link>
             <Link
               href="/about"

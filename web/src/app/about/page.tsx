@@ -26,7 +26,7 @@ export default function AboutPage() {
               with licence, retrieval date and field definitions documented.
             </p>
             <p className="text-slate-600 dark:text-slate-400 leading-relaxed">
-              This is a <strong>personal data curation project</strong> started in July 2026. The
+              This is a <strong>personal data curation project</strong> started in July 2024. The
               contribution here is documentation, provenance tracking and metadata quality — not
               original statistical analysis or research findings.
             </p>

@@ -59,7 +59,7 @@ export function SiteFooter() {
         <div className="mt-8 pt-8 border-t border-slate-200 dark:border-slate-800">
           <p className="text-xs text-slate-600 dark:text-slate-400 text-center">
             Catalogue metadata: CC0 1.0. Datasets retain their original government licences (CC BY
-            4.0 or Crown Copyright). Built 2026.
+            4.0 or Crown Copyright). Built 2024.
           </p>
         </div>
       </div>
