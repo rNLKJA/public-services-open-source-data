@@ -1,18 +1,16 @@
-'use client';
-
 import { getCatalogueData } from '@/lib/catalogue';
 import { computeCatalogueQuality, assessCompleteness, assessTimeliness } from '@/lib/quality/metrics';
 import { BarChart3, CheckCircle2, Clock, FileText } from 'lucide-react';
-import { formatCI } from '@/lib/stats/confidence-intervals';
-import { useState, useEffect } from 'react';
+import { formatCI, bootstrapInterval } from '@/lib/stats/confidence-intervals';
+
+function mean(values: number[]): number {
+  return values.reduce((sum, val) => sum + val, 0) / values.length;
+}
 
 export default function QualityPage() {
   const catalogueData = getCatalogueData();
-  const [currentYear, setCurrentYear] = useState(2024); // Default fallback
-
-  useEffect(() => {
-    setCurrentYear(new Date().getFullYear());
-  }, []);
+  // Use 2026 as the reference year for timeliness calculations (current at build time)
+  const currentYear = 2026;
 
   const qualityMetrics = computeCatalogueQuality(catalogueData.datasets, currentYear);
 
@@ -170,15 +168,13 @@ export default function QualityPage() {
           <p className="text-sm text-slate-600 dark:text-slate-400">
             Sample size: n = {qualityMetrics.totalDatasets} datasets. Average completeness score:{' '}
             <span className="font-mono">
-              {formatCI(
-                qualityMetrics.avgCompletenessScore,
-                qualityMetrics.avgCompletenessScore - 0.05, // Placeholder CI
-                qualityMetrics.avgCompletenessScore + 0.05,
-                2,
-                true
-              )}
+              {(() => {
+                const completenessScores = catalogueData.datasets.map(d => assessCompleteness(d).score);
+                const ci = bootstrapInterval(completenessScores, mean, 0.95, 10000, 20240710);
+                return formatCI(ci.estimate, ci.lower, ci.upper, 2, true);
+              })()}
             </span>{' '}
-            (95% CI approximate, bootstrap interval would require repeated sampling).
+            (95% CI via bootstrap with 10,000 resamples, seed 20240710).
           </p>
         </section>
       </div>

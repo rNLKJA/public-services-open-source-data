@@ -318,12 +318,14 @@ export default function MethodsPage() {
               <li>
                 <strong>Contribution workflow</strong> — accept dataset proposals via GitHub issues
                 with a structured template (see{' '}
-                <Link
-                  href="/contribute"
+                <a
+                  href="https://github.com/rNLKJA/public-services-open-source-data/blob/main/docs/CONTRIBUTING.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-federal-blue hover:underline"
                 >
                   contribution guide
-                </Link>
+                </a>
                 )
               </li>
               <li>
